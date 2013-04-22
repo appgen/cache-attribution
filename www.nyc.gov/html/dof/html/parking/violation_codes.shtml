@@ -1,0 +1,571 @@
+
+
+
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+	<head>
+		<meta http-equiv="content-type" content="text/html;charset=UTF-8">
+		<meta name="tp-name" content="homepage_2col">
+
+		
+		<meta name="keywords" content="parking, ticket, violation, code, fine, rule, regulation, law">
+		
+		
+
+		
+				<title>Finance - Parking Tickets - Violation Codes, Fines, Rules & Regulations</title>
+			
+		
+				
+			
+		<link href="../../includes/css/rollout.css" rel="stylesheet">
+	</head>
+
+<body  background="../../includes/site_images/misc/bg.gif"
+  bgcolor="#ffffff" leftmargin="0" marginheight="0" marginwidth="0" topmargin="0">
+
+	<!-- BEGIN_PRINT_PAGE -->
+		<table width="999" border="0" cellspacing="0" cellpadding="0" height="100%">
+	<!-- END_PRINT_PAGE -->	
+			<tr><td colspan="2" align="left" valign="top" width="999">
+					<!-- START of nycgov_header.inc -->
+<table width="999" border="0" cellspacing="0" cellpadding="0" height="51">
+	<tr>
+		<td><img src="../../includes/site_images/nyc_gov/nycgov_banner_wide.gif" alt="" width="999" height="51" border="0" usemap="#TopNav"></td>
+	</tr>
+</table>
+<map name="TopNav">
+  <area shape="rect" coords="787,6,825,19" href="/search" alt="Search">
+  <area shape="rect" coords="840,6,915,19" href="/portal/register.jsp" alt="Email Updates">
+  <area shape="rect" coords="929,6,988,19" href="/contact" alt="Contact Us">
+  <area shape="rect" coords="563,31,625,46" href="/residents" alt="Residents">
+  <area shape="rect" coords="641,31,698,46" href="/business" alt="Business">
+  <area shape="rect" coords="711,31,761,46" href="/visitors" alt="Visitors">
+  <area shape="rect" coords="776,31,855,46" href="/government" alt="Government">
+  <area shape="rect" coords="868,31,988,46" href="/mayor" alt="Office of the Mayor">
+  <area shape="rect" coords="3,3,48,46" href="/home.html" alt="NYC.gov always open">
+</map>
+<!-- END of nycgov_header.inc -->
+					
+							<script type="text/javascript">var switchTo5x=false;</script>
+<script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script>
+<script type="text/javascript">stLight.options({publisher: "cb0d0aed-220c-494b-9375-43249663a529"});</script>
+
+<script type="text/javascript" src="../../includes/scripts/misc.js"></script>
+<script language="JavaScript" src="../../includes/scripts/change_text.js"></script>
+<script language="JavaScript" src="../../includes/scripts/translate.js"></script>
+<script type="text/javascript">
+//<![CDATA[
+
+	var PageConfig = {};
+	PageConfig.dcsid = "dcs0etsx900000043hi5lof01_6t2i";
+	PageConfig.onsitere = /^(www\.)?(nyc\.gov|(ci\.)?nyc\.ny\.us){1}(\/)(html)?(\/)?(dof|nycwaterboard){1}.*/i;
+	
+	var PageArray = {};
+	PageArray.PageLoad = [];
+	PageArray.PageLoad[0] = 'DCSext.o_agcy';
+	PageArray.PageLoad[1] = 'DOF';
+
+	//]]>>
+</script>
+<table cellpadding="0" cellspacing="0" border="0" width="999" class="banner_table">
+  <tr>
+    <td class="banner_bg"><table cellspacing="0" cellpadding="0" border="0" width="100%">
+        <Tr>
+          <Td class="logo"><a href="../../html/home/home.shtml"><img src="../../includes/site_images/branding/logo.png" border="0" alt="NYC Finance | David M. Frankel Commissioner" width="245" height="46"></a></Td>
+          <td class="search_social"><table cellspacing="0" cellpadding="0" border="0">
+              <tr>
+                <td class="search"><form action="http://search1.nyc.gov/search?" method="GET" name="gs" style="margin: 0px;">
+                    <input value="xml_no_dtd" name="output" type="hidden">
+                    <input value="default_collection" name="site" type="hidden">
+                    <input value="agency_frontend" name="proxystylesheet" type="hidden">
+                    <input value="agency_frontend" name="client" type="hidden">
+                    <input value="www.nyc.gov/html/dof" name="sitesearch" type="hidden">
+                    <Table cellspacing="0" cellpadding="0" border="0">
+                      <tr>
+                        <Td><input name="q" id="search_nycgov" type="text" class="searchfield" style="width:172px;"></Td>
+                        <td class="search_button"><input name="go" type="image" id="go" src="../../includes/site_images/branding/go_0.png" wdth="36" height="21" border="0" onMouseOver="swapImage('go','go_1.png')" onMouseOut="restoreImage('go')"></td>
+                      </tr>
+                    </Table>
+                  </form></td>
+              </tr>
+            </table></td>
+        </Tr>
+      </table></td>
+  </tr>
+  <tr>
+    <td class="tools_bg"><table cellspacing="0" cellpadding="0" border="0">
+        <tr>
+          <td class="tools_pay" onMouseOver="this.id='over';" onMouseOut="this.id='';" onClick="document.location.href='#';"><a href="../../html/jump/payments.shtml">Pay Online Now</a></td>
+          <td class="tools"><span onMouseOver="this.id='over';" onMouseOut="this.id='';" onClick="this.location.href='#';"><a href="../../html/contact/email_updates.shtml">Get Email Updates</a></span></td>
+          <td class="tools"><span onMouseOver="this.id='over';" onMouseOut="this.id='';" onClick="this.locaion.href='/cgi-bin/misc/pfprinter.cgi?action=print&sitename=Finance';"><a href="/cgi-bin/misc/pfprinter.cgi?action=print&sitename=Finance">Printer Friendly</a></span></td>
+          <td class="tools" id="translate_button"><span onMouseOver="this.id='over';" onMouseOut="this.id='';" onClick="javascript:showTranslate();"><a href="javascript:showTranslate();">Translate This Page</a></span></td>
+          <td class="tools"><table cellpadding="0" cellspacing="0" border="0">
+              <tr>
+                <td class="text_size">Text Size:</td>
+                <td class="text_sizes"><a class="text_size_small" id="small" href="javascript:switchStyle('1');">A</a> <a class="text_size_med" id="med" href="javascript:switchStyle('2');">A</a> <a class="text_size_large" id="large" href="javascript:switchStyle('3');">A</a></td>
+              </tr>
+            </table></td>
+        </tr>
+      </table></td>
+  </tr>
+</table>
+<script language="Javascript">
+if(GetCookie(fontSizeCookie) == "2"){
+	document.getElementById('med').className="text_size_med_active";	
+}else if(GetCookie(fontSizeCookie) == "3"){
+	document.getElementById('large').className="text_size_large_active";	
+}else{
+	document.getElementById('small').className="text_size_small_active";	
+}
+</script>
+<iframe scrolling='no' frameborder='0' class='shim' name='shim' id='shim'></iframe>
+<div id="translate_popup" class="popup">
+  <table cellspacing="0" cellpadding="0" border="0" width="323">
+    <tr>
+      <td class="popup_table"><table cellspacing="0" cellpadding="0" border="0" width="284">
+          <tr>
+            <Td colspan="2"><img src="../../includes/site_images/misc/translate_popup.gif" width="284" height="39" alt="Translate this Page" border="0"></Td>
+          </tr>
+          <tr>
+            <td class="popup_label" width="123">Select a Language</td>
+            <td class="popup_field" width="147"><select name="tl" id="tl" style="width:147px">
+                <option value="">- Select -</option>
+                <option value="af">Afrikaans</option>
+                <option value="sq">Albanian</option>
+                <option value="ar">Arabic</option>
+                <option value="be">Belarusian</option>
+                <option value="bg">Bulgarian</option>
+                <option value="ca">Catalan</option>
+                <option value="zh">Chinese</option>
+                <option value="zh-CN">Chinese (Simplified)</option>
+                <option value="zh-TW">Chinese (Traditional)</option>
+                <option value="hr">Croatian</option>
+                <option value="cs">Czech</option>
+                <option value="da">Danish</option>
+                <option value="nl">Dutch</option>
+                <option value="en">English</option>
+                <option value="et">Estonian</option>
+                <option value="tl">Filipino</option>
+                <option value="fi">Finnish</option>
+                <option value="fr">French</option>
+                <option value="gl">Galician</option>
+                <option value="de">German</option>
+                <option value="el">Greek</option>
+                <option value="ht">Haitian Creole</option>
+                <option value="iw">Hebrew</option>
+                <option value="hi">Hindi</option>
+                <option value="hu">Hungarian</option>
+                <option value="is">Icelandic</option>
+                <option value="id">Indonesian</option>
+                <option value="ga">Irish</option>
+                <option value="it">Italian</option>
+                <option value="pa">Japanese</option>
+                <option value="ko">Korean</option>
+                <option value="lv">Latvian</option>
+                <option value="lt">Lithuanian</option>
+                <option value="mk">Macedonian</option>
+                <option value="ms">Malay</option>
+                <option value="mt">Maltese</option>
+                <option value="no">Norwegian</option>
+                <option value="fa">Persian</option>
+                <option value="pl">Polish</option>
+                <option value="pt">Portuguese</option>
+                <option value="pt-PT">Portuguese (Portugal)</option>
+                <option value="ro">Romanian</option>
+                <option value="ru">Russian</option>
+                <option value="sr">Serbian</option>
+                <option value="sk">Slovak</option>
+                <option value="sl">Slovenian</option>
+                <option value="es">Spanish</option>
+                <option value="sw">Swahili</option>
+                <option value="sv">Swedish</option>
+                <option value="tl">Tagalog</option>
+                <option value="th">Thai</option>
+                <option value="tr">Turkish</option>
+                <option value="uk">Ukrainian</option>
+                <option value="vi">Vietnamese</option>
+                <option value="cy">Welsh</option>
+                <option value="yi">Yiddish</option>
+              </select>
+            </td>
+          </tr>
+          <tr>
+            <td class="buttons" colspan="2"><input type="button" class="yellow_button" style="width:85px;" value="Translate" onClick="setLanguage(document.getElementById('tl').options[document.getElementById('tl').selectedIndex].value)" />
+              <input type="button" class="yellow_button" style="width:56px;" value="Cancel" onClick="hideTranslate()" /></td>
+          </tr>
+        </table></td>
+  </table>
+</div>
+<div style="position: absolute; width: 206px; height: 20px; z-index: 1; left: 773px; top: 96px" id="layer1">
+<span class='st_sharethis'></span>
+<span class='st_facebook'></span>
+<span class='st_googleplus'></span>
+<span class='st_twitter'></span>
+<span class='st_email'></span>
+</div>
+<div style="display:none; position:absolute; top:0px; left:0px;">
+  <div id="google_translate_element"></div>
+  <script>
+function googleTranslateElementInit() {
+  new google.translate.TranslateElement({
+    pageLanguage: 'en',
+    layout: google.translate.TranslateElement.InlineLayout.SIMPLE
+  }, 'google_translate_element');
+}
+</script>
+  <script src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+</div>
+
+						
+			</td></tr>
+
+		
+		<!-- BEGIN_PRINT_PAGE -->
+		<tr>
+		<!-- END_PRINT_PAGE -->
+		<td align="left" valign="top" width="220" height="100%">
+					
+							
+							 
+								  <Table cellspacing="0" cellpadding="0" border="0" width="220">
+  <tr>
+    <td class="leftnav"><table cellspacing="0" cellpadding="0" border="0" id="outer">
+        <tr>
+          <td><script language="Javascript" src="../../includes/scripts/nav_nodes.js"></script>
+            <script language="Javascript" src="../../includes/scripts/nav_code.js"></script>
+            <noscript>
+            <a href="../../html/home/home.shtml" class="nav_section">Home</a><br>
+            <a href="../../html/about/about.shtml" class="nav_section">About Finance</a><br>
+            <span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/about/commissioner.shtml" class="nav_subsection">Commissioner</a><br>
+            <span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/about/divisions.shtml" class="nav_subsection">Divisions</a><br>
+            <span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/about/eeo_policy.shtml" class="nav_subsection">Finance's Commitment to Diversity</a><br>
+            <span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/about/mous.shtml" class="nav_subsection">Interagency MOUs</a><br>
+            <span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/about/language.shtml" class="nav_subsection">Language Assistance Services</a><br>
+            <span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/about/news_updates.shtml" class="nav_subsection">News & Updates</a><br>
+            <span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/about/calendar.shtml" class="nav_subsection">Tax Calendar</a><br>
+            <span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/about/banking.shtml" class="nav_subsection">Banking Commission</a><br>
+            <a href="../../html/property/property.shtml" class="nav_section">Property</a><br>
+            <span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/property/bills.shtml" class="nav_subsection">Bills and Payments</a><br>
+            <span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/property/exemptions.shtml" class="nav_subsection">Exemptions and Abatements</a><br>
+            <span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/property/data.shtml" class="nav_subsection">Property Data and Lot Information</a><br>
+            <span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/property/assessment.shtml" class="nav_subsection">Property Assessment</a><br>
+            <a href="../../html/business/business.shtml" class="nav_section">Business</a><br>
+            <span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/business/bills.shtml" class="nav_subsection">Bills & Payments</a><br>
+            <span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/business/tax.shtml" class="nav_subsection">Business Tax Information</a><br>
+            <span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/business/vendors.shtml" class="nav_subsection">Vendors</a><br>
+            <a href="../../html/parking/parking.shtml" class="nav_section">Parking Tickets</a><br>
+            <span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/parking/drivers.shtml" class="nav_subsection">Privately Owned Vehicles</a><br>
+            <span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/parking/commercial.shtml" class="nav_subsection">Commercial Vehicles</a><br>
+            <span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/parking/diplomat.shtml" class="nav_subsection">Diplomats/Consular</a><br>
+            <a href="../../html/sheriff/sheriff.shtml" class="nav_section">Sheriff</a><br>
+            <span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/sheriff/process.shtml" class="nav_subsection">Serving Process</a><br>
+            <span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/sheriff/fraud.shtml" class="nav_subsection">Tax Evasion & Fraud</a><br>
+            <span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/sheriff/arrests.shtml" class="nav_subsection">Arrest Warrants</a><br>
+            <span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/sheriff/cigarette.shtml" class="nav_subsection">Cigarette Tax Enforcement</a><br>
+            <span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/sheriff/collection.shtml" class="nav_subsection">Collecting Judgments & Orders of Seizure</a><br>
+            <span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/sheriff/evictions.shtml" class="nav_subsection">Evictions</a><br>
+            <span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/sheriff/auctions.shtml" class="nav_subsection">Sheriff Auctions</a><br>
+            <a href="../../html/bail/bail.shtml" class="nav_section">Cash Bail / Court & Trust</a><br>
+            <span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/bail/abandoned.shtml" class="nav_subsection">Abandoned Bail</a><br>
+            <span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/bail/assign.shtml" class="nav_subsection">Transfer Bail to Another Person</a><br>
+            <span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/bail/address.shtml" class="nav_subsection">Change of Address</a><br>
+            <span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/bail/forfeited.shtml" class="nav_subsection">Forfeited Bail</a><br>
+            <span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/bail/lost.shtml" class="nav_subsection">Cash Bail Receipt Services</a><br>
+            <span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/bail/refunds.shtml" class="nav_subsection">Cash Bail Refunds</a><br>
+            <span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/bail/court.shtml" class="nav_subsection">Court & Trust Funds</a><br>
+
+            <a href="../../html/jobs/jobs.shtml" class="nav_section">Job Opportunities</a><br>
+            <a href="../../html/forms_reports/forms.shtml" class="nav_section">Forms & Reports</a><br>
+            <span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/forms_reports/property.shtml" class="nav_subsection">Property</a><br>
+            <span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/forms_reports/business.shtml" class="nav_subsection">Business</a><br>
+            <span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/forms_reports/parking.shtml" class="nav_subsection">Parking Tickets</a><br>
+            <span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/forms_reports/sheriff.shtml" class="nav_subsection">Sheriff</a><br>
+            <span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/forms_reports/bail_court.shtml" class="nav_subsection">Cash Bail / Court & Trust</a><br>
+            <span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/forms_reports/forms.shtml#personal" class="nav_subsection">Personal Income Tax</a><br>
+            <a href="../../html/contact/contact.shtml" class="nav_section">Contact Finance</a><br>
+            </noscript></td>
+        </tr>
+      </table></td>
+  </tr>
+  <tr>
+    <td class="subnav"><table cellspacing="0" cellpadding="0" border="0" id="outer">
+        <tr>
+          <td class="subnav_item"><table cellspacing="0" cellpadding="0" border="0" width="100%">
+              <tr>
+                <td height="20" class="subnav_title"><label for="like">I would like to</label></td>
+              </tr>
+              <tr>
+                <td class="subnav_select"><div class="select-container">
+                    <select class="subnav_field" id="like" name="I would like to" onChange="gotoUrl2(this.options[this.selectedIndex].value);">
+                      <option value="">Choose one</option>
+                      <option value="../../html/jump/nycproperty.shtml">Download my tax bill</option>
+		      <option value="../../html/jump/bbl_lookup.shtml">Find my BBL</option>
+		      <option value="../../html/jump/prop_lookup.html">View my property benefits</option>
+                      <option value="../../html/property/acris.shtml">View property records</option>                      
+		      <option value="../../html/property/exemptions.shtml">Apply for property benefits</option>
+		      <option value="../../html/property/property_tax_reduc_drie_sc_te.shtml">Apply for SCRIE</option>
+                      <option value="../../html/property/property_info_rpie.shtml">File my RPIE statement</option>
+		      <option value="../../html/property/property_bill_taxlien.shtml">Learn about the Lien Sale</option>
+		      <option value="../../html/forms_reports/business_forms.shtml">Find a business tax form</option>
+                      <option value="../../html/parking/parking_payments.shtml">Pay a parking ticket</option>
+                      <option value="../../html/parking/dispute_ticket.shtml">Dispute a parking ticket</option>
+                      <option value="../../html/parking/booting.shtml">Remove a boot from my car</option>
+                      <option value="../../html/bail/refunds.shtml">Get a bail refund</option>
+                    </select>
+                  </div></td>
+              </tr>
+                  <td class="subnav_text"><center><label for="towed">(a new window will open)</label></center></td>
+            </table></td>
+        </tr>
+        <tr>
+          <td class="subnav_item"><table cellspacing="0" cellpadding="0" border="0" width="100%">
+              <tr>
+                <td class="subnav_title"><label for="am">I am a</label></td>
+              </tr>
+              <tr>
+                <td class="subnav_select"><div class="select-container">
+                    <select class="subnav_field" id="am" name="I am a" onChange="gotoUrl(this.options[this.selectedIndex].value);">
+                      <option value="">Choose one</option>
+                      <option value="../../html/property/exemptions_seniors.shtml">Senior Citizen</option>
+		      <option value="../../html/property/exemptions_disabled.shtml">Disabled Person</option>
+                      <option value="../../html/property/property.shtml">Property Owner</option>
+                      <option value="../../html/parking/commercial.shtml">Commercial vehicle owner</option>
+                      <option value="../../html/business/bus_tax_efile_services.shtml">Tax software vendor</option>
+                      <option value="../../html/business/vendors.shtml">Vendor</option>
+                      <option value="../../html/bail/refunds.shtml">Surety in a Cash Bail matter</option>
+                    </select>
+                  </div></td>
+              </tr>
+            </table></td>
+        </tr>
+        <tr>
+          <td class="subnav_item" id="bottom"><form style="margin:0;">
+              <table cellspacing="0" cellpadding="0" border="0" width="100%">
+                <tr>
+                  <td class="subnav_title">
+<img border="0" src="../../images/misc/towtruck.jpg"></td>
+<td class="subnav_title" align="center" valign="top">Find a Towed Vehicle</td>
+                <td class="subnav_buttons"><input type="button" value="Go" class="subnav_button" onClick="document.location.href='../../html/jump/find_towed_vehicle.html'"></td>
+                </tr>
+              </table>
+            </form></td>
+        </tr>
+      </table></td>
+  </tr>
+  <tr>
+    <td class="subnav_spacing"><table cellspacing="0" cellpadding="0" border="0" id="outer">
+        <tr>
+          <td class="subnav_link" onMouseOver="this.id='over';" onMouseOut="this.id='';" onClick="document.location.href='#';"><a href="../../html/about/calendar.shtml">Finance Calendar</a></td>
+        </tr>
+      </table></td>
+  </tr>
+  <tr>
+    <td class="subnav_spacing"><table cellspacing="0" cellpadding="0" border="0" id="outer">
+        <tr>
+          <td class="subnav_link" onMouseOver="this.id='over';" onMouseOut="this.id='';" onClick="document.location.href='#';"><a href="../../html/about/sitemap.shtml">Sitemap</a></td>
+        </tr>
+      </table></td>
+  </tr>
+  <tr>
+    <td class="subnav_spacing"><table cellspacing="0" cellpadding="0" border="0" id="outer">
+        <tr>
+          <td class="subnav_link" onMouseOver="this.id='over';" onMouseOut="this.id='';" onClick="document.location.href='#';"><a target="_blank" href="https://webmail.nyc.gov">Employee Login</a></td>
+        </tr>
+      </table></td>
+  </tr>
+  <tr>
+    <td class="subnav"><table cellspacing="0" cellpadding="0" border="0" id="outer">
+        <tr>
+          <td class="subnav_title" id="red">Translations Available</td>
+        </tr>
+        <tr>
+          <td class="subnav_languages">&nbsp; <a href="../../html/pub/pub_chinese.shtml">&#21487;&#29992;&#32763;&#35695;</a><br>&nbsp; <a href="../../html/pub/pub_russian.shtml">&#1055;&#1077;&#1088;&#1077;&#1074;&#1086;&#1076;&#1099; &#1044;&#1086;&#1089;&#1090;&#1091;&#1087;&#1085;&#1099;&#1077;</a><br>&nbsp; <a href="../../html/pub/pub_spanish.shtml">Traducciones Disponibles</a><br></td>
+        </tr>
+      </table></td>
+  </tr>
+  
+</Table>
+								 
+						
+				</td>
+				<!-- START of CENTER column -->
+				<!-- BEGIN_PRINT_PAGE -->
+				<td id="main_content" align="left" valign="top" width="779">
+				<!-- START of PRIMARY FEATURE SECTION -->
+				<table width="779" border="0" cellspacing="0" cellpadding="0">
+				  
+					  
+						<tr><td colspan="3" align="left" valign="top" bgcolor="" width="779">
+							
+								<img src="../../includes/site_images/misc/spacer.gif" alt="" width="25" height="30" border="0"/><span class="area_header">Violation Codes, Fines, Rules & Regulations<br/></span>
+								
+							</td></tr>
+						
+					
+						<tr><td align="left" bgcolor="" valign="top" width="25"><img src="../../includes/site_images/misc/spacer.gif" alt="" width="25" height="30" border="0">
+						</td><td align="left" bgcolor="" valign="top" width="649"><img src="../../includes/site_images/misc/spacer.gif" alt="" width="649" height="15" border="0"><br>
+					  
+							
+						
+					  
+							
+							
+									
+											<span class="bodytext"></span>
+											
+										
+									
+											<span class="bodytext"><table cellspacing="0" cellpadding="0" width="100%" border="0"><tbody><tr><td class="page_content"><p style="MARGIN-top: 0px" style="MARGIN-top: 0px" style="MARGIN-top: 0px" style="MARGIN-top: 0px"></p><center><iframe width="640" height="360" src="http://www.youtube.com/embed/JhJQo1bbeYA?rel=0" autoplay="1" frameborder="0" allowfullscreen></iframe>
+</center><hr /><br />
+The&#160;table below&#160;defines the parking violation codes in New York City and lists the fines. Each fine amount includes a $15 New York State Criminal Justice surcharge. 
+
+<p><a class="park_link" href="#rules">Rules &amp; Regulations</a><br /></p><p><span class="bodytextbold"><br /><strong>Violation Codes</strong></span><br /><a class="park_link" href="#04">[04-20]</a>&#160;<a class="park_link" href="#21">[21-30]</a>&#160;<a class="park_link" href="#31">[31-40]</a>&#160;<a class="park_link" href="#42">[42-50]</a>&#160;<a class="park_link" href="#51">[51-60]</a>&#160;<a class="park_link" href="#61">[61-70]</a>&#160;<a class="park_link" href="#71">[71-80]</a>&#160;<a class="park_link" href="#81">[81-99]</a></p><p></p><table cellspacing="0" cellpadding="0" width="95%" align="center" border="1"><tbody><tr><td class="bodytextbold"><strong>CODE</strong></td><td class="bodytextbold"><strong>DEFINITION</strong></td><td class="bodytextbold" align="center"><strong>Manhattan&#160; 96th St. &amp; below</strong></td><td class="bodytextbold" align="center"><strong>All Other Areas</strong></td></tr><tr><td align="center" width="29">04</td><td width="100%"><a class="bookmark" id="04" title="04" name="04"></a>Vehicles parked illegally south of Houston Street in Manhattan&#160;in metered spaces reserved for buses from 7am - 7pm daily.&#160;Vehicles with bus plate types&#160;parked longer than the&#160;3 hour&#160;maximum and/or not displaying a DOT-issued bus permit.</td><td align="center" width="60">$115</td><td align="center" width="60">&#160;</td></tr><tr><td class="bodytextbold" align="center" width="29">&#160;05&#160;</td><td width="100%">Failure to make a right turn from a bus lane.</td><td align="center" width="60">$115</td><td align="center" width="60">$115</td></tr><tr><td class="bodytextbold" align="center" width="29">&#160;06&#160;</td><td width="100%">Parking a tractor-trailer on a residential street between 9PM and 5AM.</td><td align="center" colspan="2"><p>1st Offense - $265<br />
+2nd Offense - $515</p></td></tr><tr><td class="bodytextbold" align="center" width="29"><p align="center">07</p></td><td width="100%">Vehicles photographed going through a&#160;red light at an intersection</td><td align="center" width="60">$50&#160;&#160;</td><td align="center" width="60">$50&#160;&#160;</td></tr><tr><td class="bodytextbold" align="center" width="29">08</td><td><p>Vehicle idling&#160;in a restricted area.</p></td><td align="center" width="60">$115&#160;</td><td align="center" width="60">$115</td></tr><tr><td class="bodytextbold" align="center" width="29"><a class="bookmark" id="09" title="09" name="09"></a>09</td><td width="100%">Blocking an Intersection: Obstructing traffic at an intersection also known as "Blocking the Box".</td><td align="center" width="60">$115</td><td align="center" width="60">$115</td></tr><tr><td class="bodytextbold" align="center" width="29"><a class="bookmark" id="10" title="10" name="10"></a>10</td><td width="100%">Stopping, standing or parking where a sign, street marking, or traffic control device&#160;does not allow&#160;stopping.</td><td align="center" width="60">$115</td><td align="center" width="60">$115</td></tr><tr><td class="bodytextbold" align="center" width="29">11</td><td width="100%">Hotel Loading/Unloading: Standing or parking where standing&#160;is not allowed by sign, street marking or; traffic control device.</td><td align="center" width="60">$115</td><td align="center" width="60">$115</td></tr><tr><td class="bodytextbold" align="center" width="29">12</td><td width="100%">Snow Emergency: Standing or parking where standing&#160;is not allowed by sign, street marking or; traffic control device.</td><td align="center" width="60">$95</td><td align="center" width="60">$95</td></tr><tr><td class="bodytextbold" align="center" width="29">13</td><td width="100%">Taxi Stand: Standing or parking where standing is not allowed by sign, street marking or; traffic control device.</td><td align="center" width="60">$115</td><td align="center" width="60">$115</td></tr><tr><td class="bodytextbold" align="center" width="29">14</td><td width="100%">General No Standing: Standing or parking where standing is not allowed by sign, street marking or; traffic control device.</td><td align="center" width="60">$115</td><td align="center" width="60">$115</td></tr><tr><td class="bodytextbold" align="center" width="29">16</td><td width="100%">Truck Loading/Unloading: Standing or parking where standing is not allowed by sign, street marking or; traffic control device.</td><td align="center" width="60">$95</td><td align="center" width="60">$95</td></tr><tr><td class="bodytextbold" align="center" width="29">17</td><td width="100%">Authorized Vehicles Only: Standing or parking where standing is not allowed by sign, street marking or; traffic control device.</td><td align="center" width="60">$95</td><td align="center" width="60">$95</td></tr><tr><td class="bodytextbold" align="center" width="29">18</td><td width="100%">Bus Lane: Standing or parking where standing is not allowed by sign, street marking or; traffic control device.</td><td align="center" width="60">$115</td><td align="center" width="60">$115</td></tr><tr><td class="bodytextbold" align="center" width="29">19</td><td width="100%">Bus Stop: Standing or parking where standing is not allowed by sign, street marking or; traffic control device.</td><td align="center" width="60">$115</td><td align="center" width="60">$115</td></tr><tr><td class="bodytextbold" align="center" width="29">20</td><td width="100%">General No Parking: No parking where parking is not allowed by sign, street marking or traffic control device.</td><td align="center" width="60">$65</td><td align="center" width="60">$60</td></tr><tr><td class="bodytextbold" align="center" width="29"><a class="bookmark" id="21" title="21" name="21"></a>21</td><td width="100%">Street Cleaning: No parking where parking is not allowed by sign, street marking or traffic control device.</td><td align="center" width="60">$65</td><td align="center" width="60">$45</td></tr><tr><td class="bodytextbold" align="center" width="29">22</td><td width="100%">Hotel Loading/Unloading: No parking where parking is not allowed by sign, street marking or traffic control device.</td><td align="center" width="60">$60</td><td align="center" width="60">$60</td></tr><tr><td class="bodytextbold" align="center" width="29">23</td><td width="100%">Taxi Stand: No parking where parking is not allowed by sign, street marking or traffic control device.</td><td align="center" width="60">$65</td><td align="center" width="60">$60</td></tr><tr><td class="bodytextbold" align="center" width="29">24</td><td valign="top" width="100%">Authorized Vehicles Only: No parking where parking is not allowed by sign, street marking or traffic control device.</td><td valign="top" align="center" width="60">$65</td><td valign="top" align="center" width="60">$60</td></tr><tr><td class="bodytextbold" align="center" width="29">25</td><td width="100%">Standing at a commuter van stop, other than temporarily for the purpose of quickly picking up or dropping off passengers.</td><td align="center" width="60">$115</td><td align="center" width="60">$115</td></tr><tr><td class="bodytextbold" align="center" width="29">26</td><td width="100%">Standing at a for-hire vehicle stop, other than temporarily for the purpose of quickly picking up or dropping off passengers.</td><td align="center" width="60">$115</td><td align="center" width="60">$115</td></tr><tr><td class="bodytextbold" align="center" width="29">27</td><td width="100%">No parking in a handicapped zone (off-street only) where parking is not allowed by&#160;sign, street marking or traffic control device (Note: Includes a $30 New York State Criminal Justice surcharge.)</td><td align="center" width="60">$180</td><td align="center" width="60">$180</td></tr><tr><td class="bodytextbold" align="center" width="29">28</td><td width="220">Overtime standing (diplomat)</td><td align="center" width="60">$95</td><td align="center" width="60">$95</td></tr><tr><td class="bodytextbold" align="center" width="29"><a class="bookmark" id="31" title="31" name="31"></a>31</td><td width="100%">Standing of a non-commercial vehicle in a commercial metered zone.</td><td align="center" width="60">$115</td><td align="center" width="60">$115</td></tr><tr><td class="bodytextbold" align="center" width="29">32</td><td width="100%">Parking at a broken or missing meter for longer than the maximum time permitted.</td><td align="center" width="60">$65</td><td align="center" width="60">$35</td></tr><tr><td class="bodytextbold" align="center" width="29">33</td><td width="100%">"Feeding Meter" -- parking in a metered space for a consecutive period of time longer than allowed, whether or not an additional coin or coins are deposited or another method of payment is&#160;used.</td><td align="center" width="60">$65</td><td align="center" width="60">$35</td></tr><tr><td class="bodytextbold" align="center" width="29">34</td><td width="100%">Expired Meter -- parking in a metered space where the meter works and the time has ended.&#160;Drivers get a 5-minute grace period past the expired time on&#160;Alternate Side Parking signs and any other parking spaces with specific times listed (i.e.. 8:30am - 9:30am). During the 5-minute grace period, parking tickets cannot be issued.</td><td align="center" width="60">$65</td><td align="center" width="60">$35</td></tr><tr><td class="bodytextbold" align="center" width="29">35</td><td width="100%">Parking in a meter space for the purpose of displaying, selling, storing, or offering&#160;goods for sale.</td><td align="center" width="60">$65</td><td align="center" width="60">$35</td></tr><tr><td class="bodytextbold" align="center" width="29">37-38</td><td width="100%">Muni Meter -- 
+
+<div align="left"><table style="HEIGHT: 80px" cellpadding="0" width="349"><tbody><tr><td>(37)</td><td>Parking in excess of the allowed time</td></tr><tr><td>(38)</td><td>Failing to&#160;show a receipt or tag in the windshield</td></tr></tbody></table></div><div align="left">Drivers get a 5-minute grace period past the expired time on Muni-Meter receipts.</div></td><td align="center" width="60">$65</td><td align="center" width="60">$35</td></tr><tr><td class="bodytextbold" align="center" width="29">39</td><td width="100%">Parking for longer than the maximum time permitted by sign, street marking or traffic control device.</td><td align="center" width="60">$65</td><td align="center" width="60">$60</td></tr><tr><td class="bodytextbold" align="center" width="29">40</td><td width="100%">Stopping, standing or parking&#160;closer than&#160;15 feet of a fire hydrant. Between sunrise and sunset, a passenger vehicle may stand alongside a fire hydrant as long as&#160;a driver&#160;remains behind the wheel and is ready to move the vehicle if required to do so.</td><td align="center" width="60">$115</td><td align="center" width="60">$115</td></tr><tr><td class="bodytextbold" align="center" width="29"><a class="bookmark" id="42" title="42" name="42"></a>42</td><td width="100%">Parking in a Muni Metered space in a commercial metered zone in which that Muni Meter is&#160;working and indicates&#160;the time has ended.</td><td align="center" width="60">$65</td><td align="center" width="60">$35</td></tr><tr><td class="bodytextbold" align="center" width="29">43</td><td width="100%">Parking in a&#160;commercial metered zone in which the meter is&#160;working and indicates that the time has ended. (Note: the difference is that 42 is Muni Meter and 43 is Meter)</td><td align="center" width="60">$65</td><td align="center" width="60">$35</td></tr><tr><td class="bodytextbold" align="center" width="29">44</td><td width="100%">Parking&#160;in a commercial metered zone for longer than the maximum time allowed.</td><td align="center" width="60">$65</td><td align="center" width="60">$35</td></tr><tr><td class="bodytextbold" align="center" width="29">45</td><td width="100%">Stopping, standing or parking in a traffic lane; or if a vehicle extends more than 8 feet from the nearest curb,&#160;blocking traffic.&#160; &#160;</td><td align="center" width="60">$115</td><td align="center" width="60">$115</td></tr><tr><td class="bodytextbold" align="center" width="29">46</td><td width="100%"><p>Standing or parking on the roadway side of a vehicle stopped, standing or parked at the curb; in other words&#160;also known as "double parking". However,&#160;a person may stand a Commercial Vehicle alongside a vehicle parked at the curb at such locations and during such hours that stopping, standing and parking is allowed when quickly making pickups, deliveries or service calls. This is allowed if there is no parking space or marked loading zone on either side of the street within 100 feet. "Double parking" any type of vehicle is not allowed in Midtown Manhattan (the area from 14th Street to 60th Street, between First Avenue and Eighth Avenue inclusive). Midtown double parking is not allowed between 7:00am&#160; &#8211; 7:00pm daily except Sundays. (See Code 47.)</p></td><td align="center" width="60">$115</td><td align="center" width="60">$115</td></tr><tr><td class="bodytextbold" align="center" width="29">47</td><td width="100%">Stopping, standing or parking a vehicle in Midtown Manhattan (the area from 14th Street to 60th Street, between First Avenue and Eighth Avenue) other than parallel or close to the curb.</td><td align="center" width="60">$115</td><td align="center" width="60">$115</td></tr><tr><td class="bodytextbold" align="center" width="29">48</td><td width="100%">Stopping, standing or parking within a&#160;marked bicycle lane.</td><td align="center" width="60">$115</td><td align="center" width="60">$115</td></tr><tr><td class="bodytextbold" align="center" width="29">49</td><td width="100%">Stopping, standing or parking alongside or opposite any street&#160;construction or obstruction and thereby&#160;blocking traffic.</td><td align="center" width="60">$95</td><td align="center" width="60">$95</td></tr><tr><td class="bodytextbold" align="center" width="29">50</td><td width="100%">Stopping, standing or parking in a crosswalk. Note: Crosswalks are not always identified by painted street markings.</td><td align="center" width="60">$115</td><td align="center" width="60">$115</td></tr><tr><td class="bodytextbold" align="center" width="29"><a class="bookmark" id="51" title="51" name="51"></a>51</td><td width="100%">Stopping, standing or parking on a sidewalk.&#160;</td><td align="center" width="60">$115</td><td align="center" width="60">$115</td></tr><tr><td class="bodytextbold" align="center" width="29">52</td><td width="100%">Stopping, standing or parking within an intersection. &#160;</td><td align="center" width="60">$115</td><td align="center" width="60">$115</td></tr><tr><td class="bodytextbold" align="center" width="29">53</td><td width="100%">Standing or parking in a safety zone, between a safety zone and the&#160;nearest curb, or within 30 feet of points on the curb immediately opposite the ends of a safety zone.</td><td align="center" width="60">$115</td><td align="center" width="60">$115</td></tr><tr><td class="bodytextbold" align="center" width="29">55</td><td width="100%">Stopping, standing or parking within a highway tunnel or&#160;on a&#160;raised or controlled access roadway.</td><td align="center" width="60">$115</td><td align="center" width="60">$115</td></tr><tr><td class="bodytextbold" align="center" width="29">56</td><td width="100%">Stopping, standing or parking alongside a barrier or divided highway unless permitted by sign.&#160; &#160;</td><td align="center" width="60">$115</td><td align="center" width="60">$115</td></tr><tr><td class="bodytextbold" align="center" width="29">57</td><td width="100%">Parking a vehicle within the area designated as The Blue Zone, Monday through Friday 7:00am -7:00pm. The Blue Zone is bounded by the northern property line of Frankfort Street, the northern property line of Dover Street, the eastern property line of South Street, the western property line of State Street, the center line of Broadway and the center line of Park Row.</td><td align="center" width="60">$65</td><td align="center" width="60">$65</td></tr><tr><td class="bodytextbold" align="center" width="29">58</td><td width="100%">Parking a vehicle on a marginal street or waterfront i.e. any street, road, place, area or way&#160;that connects&#160;or&#160;runs along waterfront property. Parking on a marginal street or waterfront is permitted if authorized by posted sign.</td><td align="center" width="60">$65</td><td align="center" width="60">$45</td></tr><tr><td class="bodytextbold" align="center" width="29">59</td><td width="100%">Standing or parking at an angle to the curb, except where&#160;allowed by rule or sign. Where angle parking is not authorized by a sign, a Commercial Vehicle may stand or park at an angle only for loading or unloading and if it leaves&#160;enough space for traffic flow.</td><td align="center" width="60">$115</td><td align="center" width="60">$115</td></tr><tr><td class="bodytextbold" align="center" width="29">60</td><td width="100%">Standing or parking at an angle to the curb, except where authorized by rule or sign. &#160;</td><td align="center" width="60">$65</td><td align="center" width="60">$45</td></tr><tr><td class="bodytextbold" align="center" width="29"><a class="bookmark" id="61" title="61" name="61"></a>61</td><td width="100%">Except where angle parking is allowed, stopping, standing or parking other than parallel to curb or edge of roadway. Or, parking opposite the direction of&#160;traffic. &#160; &#160;</td><td align="center" width="60">$65</td><td align="center" width="60">$45</td></tr><tr><td class="bodytextbold" align="center" width="29">62</td><td width="100%">Standing or parking a vehicle beyond markings on the curb or the pavement&#160; of a street which&#160;marks a parking space, except when a vehicle is too large to fit in that "marked" parking space.&#160;Where a vehicle is too large, it shall be parked with its front bumper at the front of the space and the rear bumper extending as little as possible into the&#160;next space.</td><td align="center" width="60">$65</td><td align="center" width="60">$45</td></tr><tr><td class="bodytextbold" align="center" width="29">63</td><td width="100%">Standing or parking a vehicle in any park between one-half hour after sunset and one-half hour before sunrise, except at places&#160;allowed for the parking of vehicles.</td><td align="center" width="60">$95</td><td align="center" width="60">$95</td></tr><tr><td class="bodytextbold" align="center" width="29">64</td><td width="100%">No standing except consul / diplomat plates with&#160;Dept. of State decals only.</td><td align="center" width="60">$95</td><td align="center" width="60">$95</td></tr><tr><td class="bodytextbold" align="center" width="29">65</td><td width="100%">Overtime standing consul / diplomat vehicles 30-minute limit D decals only.</td><td align="center" width="60">$95</td><td align="center" width="60">$95</td></tr><tr><td class="bodytextbold" align="center" width="29">66</td><td width="100%">Parking a trailer or semi-trailer which is not attached to a motor vehicle&#160;used for&#160;towing it, unless loading or unloading at an off-street platform.</td><td align="center" width="60">$65</td><td align="center" width="60">$45</td></tr><tr><td class="bodytextbold" align="center" width="29">67</td><td width="220">Parking in front of a pedestrian ramp</td><td align="center" width="60">$165</td><td align="center" width="60">$165</td></tr><tr><td class="bodytextbold" align="center" width="29">68</td><td width="100%">Not parking&#160;as&#160;marked on&#160;a posted sign</td><td align="center" width="60">$65</td><td align="center" width="60">$65</td></tr><tr><td class="bodytextbold" align="center" width="29">69</td><td width="100%">Failing to&#160;show a&#160;muni-meter receipt, commercial meter zone.</td><td align="center" width="60">$65</td><td align="center" width="60">$65</td></tr><tr><td class="bodytextbold" align="center" width="29">70</td><td width="100%">Standing or parking a vehicle without&#160;showing a current registration sticker.</td><td align="center" width="60">$65</td><td align="center" width="60">$65</td></tr><tr><td class="bodytextbold" align="center" width="29"><a class="bookmark" id="71" title="71" name="71"></a>71</td><td width="100%">Standing or parking a vehicle without&#160;showing a current inspection sticker.</td><td align="center" width="60">$65</td><td align="center" width="60">$65</td></tr><tr><td class="bodytextbold" align="center" width="29">72</td><td width="100%">Standing or parking a vehicle with&#160;NY Plates and&#160;showing a damaged or&#160;fake inspection certificate.</td><td align="center" width="60">$65</td><td align="center" width="60">$65</td></tr><tr><td class="bodytextbold" align="center" width="29">73</td><td width="100%">Standing or parking a vehicle&#160;showing an expired, damaged, void, fake,&#160;or incorrect registration sticker.</td><td align="center" width="60">$65</td><td align="center" width="60">$65</td></tr><tr><td class="bodytextbold" align="center" width="29">74</td><td width="100%"><p>Standing or parking a vehicle without properly showing its current plates on the outside of the vehicle attached tightly not more than 48, or less than 12, inches from the ground, clean, not covered by glass or plastic, with nothing preventing it from being read clearly.</p></td><td align="center" width="60">$65</td><td align="center" width="60">$65</td></tr><tr><td class="bodytextbold" align="center" width="29">75</td><td width="100%">Standing or parking a vehicle in which the License Plate number and/or the actual description of the vehicle does not match the information&#160;on&#160;the registration sticker.</td><td align="center" width="60">$65</td><td align="center" width="60">$65</td></tr><tr><td class="bodytextbold" align="center" width="29">77</td><td width="100%">Parking a bus, unless&#160;allowed by signs. A charter bus may park where parking is&#160;permitted at its point of origin or destination. A school bus may park in front of and within the building lines of a school. &#160;</td><td align="center" width="60">$65</td><td align="center" width="60">$45</td></tr><tr><td class="bodytextbold" align="center" width="29">78</td><td width="100%">Parking a Commercial Vehicle on a residential street between 9PM and 5AM unless&#160;doing business within 3 blocks. Parking is allowed during this time if&#160;the vehicle is owned or operated by a gas or oil supplier or maintenance company or by any public utility.</td><td align="center" width="60">$65</td><td align="center" width="60">$65</td></tr><tr><td class="bodytextbold" align="center" width="29">79</td><td width="100%">For a bus without passengers, waiting at a curb or other street location i.e., a layover;&#160;with passengers, waiting at a curb or other street location for more than five minutes, except in locations&#160;allowed by sign or by the Commissioner in writing.</td><td align="center" width="60">$115</td><td align="center" width="60">$115</td></tr><tr><td class="bodytextbold" align="center" width="29">80</td><td width="100%">Standing or parking a vehicle&#160;without head lamps, rear lamps, reflectors or other required equipment.</td><td align="center" width="60">$60</td><td align="center" width="60">$45</td></tr><tr><td class="bodytextbold" align="center" width="29"><a class="bookmark" id="81" title="81" name="81"></a>81</td><td width="220">No standing except diplomat</td><td align="center" width="60">$95</td><td align="center" width="60">$95</td></tr><tr><td class="bodytextbold" align="center" width="29">82</td><td width="100%">Standing or parking a Commercial Vehicle unless&#160;all seats, except the front seats,&#160;and rear seat equipment removed. The name and address of the owner must be&#160;on the registration certificate plainly marked on both sides of the vehicle in letters and numerals not less than 3 inches in height. (Vehicles with Commercial Plates are considered to be Commercial Vehicles and must be altered accordingly.</td><td align="center" width="60">$115</td><td align="center" width="60">$115</td></tr><tr><td class="bodytextbold" align="center" width="29">83</td><td width="100%">Standing or parking a vehicle which is not properly registered.&#160;</td><td align="center" width="60">$65</td><td align="center" width="60">$65</td></tr><tr><td class="bodytextbold" align="center" width="29">84</td><td width="100%">Parking a Commercial Vehicle on any city street with its platform lift in the lowered position while no one is with the vehicle.</td><td align="center" width="60">$65</td><td align="center" width="60">$45</td></tr><tr><td class="bodytextbold" align="center" width="29">85</td><td width="100%">Parking a Commercial Vehicle&#160;more than&#160;3 hours, where parking is&#160;allowed.</td><td align="center" width="60">$65</td><td align="center" width="60">$65</td></tr><tr><td class="bodytextbold" align="center" width="29">86</td><td width="100%">Standing or parking a vehicle&#160;to&#160;make pickups, deliveries or service calls for more than 3 hours, unless&#160;allowed by posted signs, between 7AM and 7PM, except Sundays, in Manhattan from 14th to 60th Streets and First to Eighth Avenues.</td><td align="center" width="60">$115</td><td align="center" width="60">$115</td></tr><tr><td class="bodytextbold" align="center" width="29">89</td><td width="100%">Standing or parking a vehicle in the Garment District (in Manhattan, from 35th Street to 41st Street, between the Avenues of America and Eighth Avenue) between the hours of 7:00am&#160; &#8211; 7:00pm. However, a Commercial Vehicle which is a truck or a van can park temporarily (up to a maximum of 3 hours) while making a pickup, delivery or service call.</td><td align="center" width="60">$115</td><td align="center" width="60">$115</td></tr><tr><td class="bodytextbold" align="center" width="29"><a class="bookmark" id="91" title="91" name="91"></a>91</td><td width="100%">Parking in order&#160;to&#160;sell a vehicle by a person who regularly&#160;sells vehicles.</td><td align="center" width="60">$65</td><td align="center" width="60">$45</td></tr><tr><td class="bodytextbold" align="center" width="29">92</td><td width="100%">Parking in order to&#160;wash, grease, or repair a vehicle by a person who regularly&#160;repairs&#160;vehicles. &#160;</td><td align="center" width="60">$65</td><td align="center" width="60">$45</td></tr><tr><td class="bodytextbold" align="center" width="29">93</td><td width="100%">Stopping, standing or parking on&#160;paved roadway to&#160;change a flat tire, unless permitted by posted sign.</td><td align="center" width="60">$65</td><td align="center" width="60">$65</td></tr><tr><td class="bodytextbold" align="center" width="29">94</td><td width="100%">Vehicle Release Agreement code associated with NYPD's Violation Tow Program.</td><td align="center" width="60">$100<br />
+(Regular Tow, plus violation fine)</td><td align="center" width="60">$200 (Heavy Tow, plus violation fine)</td></tr><tr><td class="bodytextbold" align="center" width="29">96</td><td width="100%">Standing or parking within 50 feet of the nearest rail of a railroad crossing.</td><td align="center" width="60">$95</td><td align="center" width="60">$95</td></tr><tr><td class="bodytextbold" align="center" width="29">97</td><td width="100%">Parking in a vacant lot. A vehicle may be parked on a vacant lot having a municipally authorized driveway upon written permission of the owner.</td><td align="center" width="60">$65</td><td align="center" width="60">$45</td></tr><tr><td class="bodytextbold" align="center" width="29">98</td><td width="100%">Standing or parking in front of a public or private driveway. The owner or renter of a lot accessed by a private driveway may park a passenger vehicle registered to him / her at that address in front of the driveway provided the lot does not contain more than 2 dwelling units and that&#160;parking does not violate any other rule or restriction.</td><td align="center" width="60">$95</td><td align="center" width="60">$95</td></tr><tr><td class="bodytextbold" align="center" width="29">99</td><td width="100%">All other parking, standing or stopping violations.</td><td align="center" width="60">vary</td><td align="center" width="60">vary</td></tr></tbody></table><p><br /><a class="bookmark" id="links" title="links" name="links"></a><span class="headline"><a class="bookmark" id="rules" title="rules" name="rules"></a></span></p><hr /><br /><strong>Rules and Regulations</strong><br />
+Parking Violations Rules and Regulations are contained in the provisions of Chapter 39 of Title 19 of the Official Compilation of Rules of the City of New York. Chapter 39 was adopted by the Commissioner of Finance to prescribe the internal procedures and organization of the Parking Violations Bureau, the amount and manner of payment of penalties, and other purposes of Article 2-B of the Vehicle and Traffic Law.<br /><u><a href="../../downloads/pdf/04pdf/parking_rules39.pdf" target="_blank">Download Rules</a><br /><br /></u><p>City traffic and parking rules and regulations, including Alternate Side of the Street parking, fall under the jurisdiction of the New York City Department of Transportation.</p><ul class="content_links"><li><a class="park_link" href="http://www.nyc.gov/html/dot/html/motorist/traffic_rules.shtml" target="_blank">City Traffic and Parking Rules</a></li><li><a class="park_link" href="http://www.nyc.gov/html/dot/home.html" target="_blank">NYC Department of Transportation</a></li><li><a class="park_link" href="http://www.nyc.gov/html/dot/html/motorist/scrintro.html" target="_blank">Alternate Side Regulations</a></li></ul></td></tr></tbody></table></span>
+										
+								
+						
+
+					
+
+					 
+					   
+						
+					 
+					 
+					
+					</td><td align="left" bgcolor="" valign="top" width="105"><img src="../../includes/site_images/misc/spacer.gif" alt="" width="105" height="30" border="0"></td></tr>
+
+					
+
+					  
+				   
+				</table>
+				<!-- END of PRIMARY FEATURE SECTION -->
+
+				<!-- START of SECONDARY FEATURE SECTION -->
+
+				<table width="779" border="0" cellspacing="0" cellpadding="0">
+				  
+					  
+						<tr><td colspan="4" align="left" valign="top" bgcolor="" width="779">
+							
+							</td></tr>
+						
+					
+
+					  </table>
+
+				<!-- END of SECONDARY FEATURE SECTION -->
+
+				<!-- START of TERTIARY FEATURE SECTION -->
+				<table width="779" border="0" cellspacing="0" cellpadding="0">
+				  
+					  
+						<tr><td colspan="3" align="left" valign="top" bgcolor="" width="779">
+							
+							</td></tr>
+						
+					
+					  
+				   
+				</table>
+				<!-- END of TERTIARY FEATURE SECTION -->
+				<!-- END_PRINT_PAGE -->
+				
+
+			
+
+					
+	<!-- BEGIN_PRINT_PAGE -->				
+					<span class="footer_text"><br></span></td>
+				<!-- END of CENTER column -->
+			</tr>
+	<!-- END_PRINT_PAGE -->
+			<tr height="25">
+				<td colspan="2" align="left" valign="top" width="999" height="25"> 
+
+					<table width="999" border="0" cellspacing="0" cellpadding="0">
+	<tr><td><img src="../../includes/site_images/misc/bottom_branding.gif" border="0"></td></tr>
+</table>
+
+
+
+
+<!-- START of nycgov_footer.inc-->
+<style type="text/css">
+<!--
+.footer_links {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	color: #F9D053;
+	text-align:right;
+}
+.footer_copyright {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	color: #C4C4B2;
+}
+.footer_bg {
+	background-color:#494B4C;
+	padding:6px 25px 6px 13px;
+}
+-->
+</style>
+<TABLE cellSpacing="0" cellPadding="0" width="999" border="0">
+  <TR>
+    <td class="footer_bg"><Table cellspacing="0" cellpadding="0" border="0" width="961">
+        <tr>
+          <td width="50%" class="footer_copyright">Copyright 2013 The City of New York</td>
+          <td width="50%" class="footer_links"><A class=footer_links href="/contact">Contact Us</A> | <A class=footer_links href="/faqs">FAQs</A> | <A class=footer_links href="/privacy">Privacy Statement</A> | <A class=footer_links href="http://www.nyc.gov/html/misc/html/tou.html">Terms of Use</A> | <A class=footer_links href="/sitemap">Site Map</A></td>
+        </tr>
+      </Table></td>
+  </TR>
+</TABLE>
+<!-- Privacy Policy updated on 03/08/2011 -->
+<!--  nycgov Webtrends code, added on 02/16/2011 -->
+<script src="/html/misc/scripts/nycwebtrends.js" type="text/javascript"></script>
+<script type="text/javascript">
+//<![CDATA[
+var _nyctag=new WebTrends();
+_nyctag.dcsInit();
+_nyctag.dcsGetId();
+//]]>>
+</script>
+<script type="text/javascript">
+//<![CDATA[
+_nyctag.dcsCollect();
+//]]>>
+</script>
+
+<!-- PROD noscript section -->
+<noscript>
+<div><img alt="DCSIMG" id="DCSIMG" width="1" height="1" src="http://a858-sdc.nyc.gov/dcs0etsx900000043hi5lof01_6t2i/njs.gif?dcsuri=/nojavascript&WT.js=No&WT.tv=8.6.2"/></div>
+</noscript>
+<!--  END OF nycgov Webtrends code, added on 02/16/2011 -->
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-9518673-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+<!-- END of nycgov_footer.inc-->
+
+				</td>
+			</tr>
+<!-- BEGIN_PRINT_PAGE -->			
+		</table>
+	<!-- END_PRINT_PAGE -->
+	</body>
+</html>
+

@@ -1,0 +1,555 @@
+<html><!-- #BeginTemplate "/Templates/level2_general_page_2004.dwt" --><!-- DW6 -->
+<head>
+<meta name="keywords" content="FDNY, Fire Department, City of New York, Emergency Medical Service, NYFD, F.D.N.Y., firefighter, emt, emergency medical technician, paramedic, ambulance, apparatus, engine, pumpler, ladder, tower ladder, hook and ladder, tiller, safety, fire safety, public safety, health safety, candle safety, commissioner von essen, fire history, ems history, smoke detectors, bravest, best">
+<meta name="description" content="The Official Fire Department City of New York (FDNY) Web Site. The FDNY is the largest combined Fire and EMS provider in the world serving and area of more than 310 square miles and over 7 million people.">
+<!-- #BeginEditable "doctitle" --> 
+<TITLE>FDNY - Important Phone Numbers</TITLE>
+<!-- #EndEditable --> 
+<!-- #BeginEditable "openspot" -->
+<!--open area -->
+<!-- #EndEditable -->
+<script language="JavaScript">
+<!--
+
+
+function MM_findObj(n, d) { //v3.0
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document); return x;
+}
+  function MM_jumpMenu(targ,selObj,restore){ //v3.0
+  eval(targ+".location='"+selObj.options[selObj.selectedIndex].value+"'");
+  if (restore) selObj.selectedIndex=0;
+}
+
+function MM_jumpMenuGo(selName,targ,restore){ //v3.0
+  var selObj = MM_findObj(selName); if (selObj) MM_jumpMenu(targ,selObj,restore);
+}
+
+
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_preloadImages() { //v3.0
+
+ var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+   var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+   if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+//-->
+
+</script>
+<script language="JavaScript">
+<!--
+function MM_reloadPage(init) {  //reloads the window if Nav4 resized
+  if (init==true) with (navigator) {if ((appName=="Netscape")&&(parseInt(appVersion)==4)) {
+    document.MM_pgW=innerWidth; document.MM_pgH=innerHeight; onresize=MM_reloadPage; }}
+  else if (innerWidth!=document.MM_pgW || innerHeight!=document.MM_pgH) location.reload();
+}
+MM_reloadPage(true);
+// -->
+</script>
+<link href="/html/fdny/css/new_fdny_redesign.css" rel="stylesheet" type="text/css">
+</head>
+<!-- Header Code -->
+<script type="text/javascript">
+//<![CDATA[
+
+	var PageConfig = {};
+	PageConfig.dcsid = "dcsrv5wj8100008mal7c8plvy_5k9p";
+	PageConfig.onsitere = /^(www\.)?(nyc\.gov|(ci\.)?nyc\.ny\.us){1}(\/)(html)?(\/)?fdny.*/i;
+	
+	var PageArray = {};
+	PageArray.PageLoad = [];
+	PageArray.PageLoad[0] = 'DCSext.o_agcy';
+	PageArray.PageLoad[1] = 'FDNY';
+
+	//]]>>
+</script>
+<body background="/html/fdny/images/global/bg.gif" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
+<!-- beginning of page table container -->
+<table width="769" border="0" cellspacing="0" cellpadding="0">
+			<tr>
+				<td colspan="2" align="left" valign="top" width="769">
+					<!-- beginning of NYC.gov graphic table container -->
+					<table width="769" border="0" cellspacing="0" cellpadding="0" height="51">
+						<tr>
+							<td><img src="/html/fdny/images/global/nycgov_agency_banner_new.gif" alt="" width="769" height="51" border="0" usemap="#TopNav"></td>
+						</tr>
+					</table>
+					<!-- end of NYC.gov graphic table container -->
+					<!-- beginning of FDNY graphic table container -->
+					<table width="769" border="0" cellspacing="0" cellpadding="0">
+						<tr>
+							<td align="left" valign="top" width="769"><a href="http://www.nyc.gov/fdny"><img src="/html/fdny/images/global/header_2009.jpg" alt="New York City Fire Department" width="769" height="60" border="0"></a></td>
+					  </tr>
+					</table>
+					<!-- end of FDNY graphic table container -->
+				</td>
+			</tr>
+			<tr>
+			 <td width="180" align="left" valign="top" class="searchbox">
+			 <form method="GET" action="http://search1.nyc.gov/search" name="gs">
+			 <input value="xml_no_dtd" name="output" type="hidden">
+			 <input value="default_collection" name="site" type="hidden">
+			 <input value="agency_frontend" name="proxystylesheet" type="hidden">
+			 <input value="agency_frontend" name="client" type="hidden">
+			 <input value="www.nyc.gov/html/fdny" name="sitesearch" type="hidden"> 
+			 <!-- beginning of search box table container -->
+			 	<table width="180" border="0" cellpadding="0" cellspacing="0" bgcolor="8299B3">
+					<tr>
+						<td height="29" align="center" valign="middle" bgcolor="8299B3">
+						<table width="175" border="0" cellspacing="0" cellpadding="0">
+					<tr>
+  					<td align="center" valign="middle"><input type=text name=q size=13  value="" style="width:100; height:21">
+  				</td>
+ 		 				<td width="50" align="left" valign="bottom"><input name="search" type="image" id="search" src="/html/fdny/images/global/search_icon.gif">
+					</td>
+ 				</tr>
+  		</table>
+				</td>
+				</tr>
+			<tr>
+				<td height="5" align="right" valign="middle"><img src="/html/fdny/images/global/search_box_rt_curve.gif" alt="/" width="5" height="5"></td>
+			</tr>
+		</table>
+		<!-- end of search box table container -->
+		<!-- beginning of nav table container -->
+		<table width="170" border="0" cellspacing="0" cellpadding="0">
+		  <tr>
+		    <td width="10" height="15"><p class="homeleftnav">&nbsp;</p></td>
+		    <td width="160" height="15"><p class="homeleftnav">&nbsp;</p></td>
+	      </tr>
+		  <tr>
+		    <td height="15"><p class="homeleftnav">&nbsp;</p></td>
+		    <td height="15"><p class="homeleftnav"> <a target="_blank" onClick="this.href = '/j2ee/emailafriend/EAFEntry?' + Date.parse(new Date()); return true;" href="/j2ee/emailafriend/EAFEntry"> <img align="middle" src="/html/misc/gif/icons/eaf.gif" border="0" alt="E-mail a friend"></a> &nbsp;&nbsp;<a target="_blank" class="homeleftnav" onClick="this.href='/j2ee/emailafriend/EAFEntry?' + Date.parse(new Date()); return true;"
+               href="/j2ee/emailafriend/EAFEntry?">E-mail a friend </a></p></td>
+	      </tr>
+		  <tr height="15">
+		    <td colspan="2"><p class="homeleftnav"><img src="/html/fdny/images/global/social_media_sidebar_gfx-2012-09-05.gif" alt="Our Social Media network" width="178" height="26" border="0" usemap="#Map2"></p></td>
+	      </tr>
+		  <tr height="15">
+		    <td>&nbsp;</td>
+		    <td>&nbsp;</td>
+	      </tr>
+		  <tr height="15">
+		    <td width="10"><p>&nbsp;</p></td>
+		    <td><p><strong>About FDNY</strong></p></td>
+	      </tr>
+		  <tr height="15">
+		    <td width="10"><p>&nbsp;</p></td>
+		    <td><p><a href="/html/fdny/html/home2.shtml">FDNY Home</a></p></td>
+	      </tr>
+		  <tr height="15">
+		    <td width="10"><p>&nbsp;</p></td>
+		    <td><p><a href="/html/fdny/html/general/mission.shtml">FDNY Mission Statement</a></p></td>
+	      </tr>
+		  <tr height="15">
+		    <td width="10"><p>&nbsp;</p></td>
+		    <td><p><a href="/html/fdny/html/units/index.shtml">Bureaus and Units</a></p></td>
+	      </tr>
+		  <tr height="15">
+		    <td width="10"><p>&nbsp;</p></td>
+		    <td><p><a href="/html/fdny/html/general/resources.shtml">General Resources</a></p></td>
+	      </tr>
+		  <tr height="15">
+		    <td width="10"><p>&nbsp;</p></td>
+		    <td><p><a href="/html/fdny/html/general/phonenum.shtml">Important Numbers</a></p></td>
+	      </tr>
+		  <tr height="15">
+		    <td width="10"><p>&nbsp;</p></td>
+		    <td><p><a href="http://www.fdnyfoundation.org" target="_blank">FDNY Foundation</a></p></td>
+	      </tr>
+         <tr height="15">
+           <td width="10"><p>&nbsp;</p></td>
+           <td><p><a href="/html/fdny/html/intragov/mou/index.shtml">Interagency MOUs</a></p></td>
+         </tr>
+		  <tr height="15">
+		    <td width="10"><p>&nbsp;</p></td>
+		    <td>&nbsp;</td>
+	      </tr>
+		  <tr height="5" style="border-top:1px solid #666666;">
+		    <td></td>
+		    <td></td>
+	      </tr>
+		  <tr height="15">
+		    <td><p class="homeleftnav"><img src="/html/fdny/images/global/spacer_10_10.gif" height="10" alt="spacer"></p></td>
+		    <td><p><strong>Residents &amp;  Businesses</strong></p></td>
+	      </tr>
+		  <tr height="15">
+		    <td><p>&nbsp;</p></td>
+		    <td><p><a href="/html/fdny/html/cda/index.shtml">C.D.A.</a></p></td>
+	      </tr>
+		  <tr height="15">
+		    <td rowspan="2"><p class="homeleftnav">&nbsp;</p></td>
+		    <td><p><a href="/html/fdny/html/c_of_f/coff.shtml">Certificate of Fitness</a></p></td>
+	      </tr>
+		  <tr height="15">
+		    <td><p><a href="/html/fdny/html/contracting/index.shtml">Contracting Opportunities</a></p></td>
+	      </tr>
+		  <tr height="15">
+		    <td><p>&nbsp;</p></td>
+		    <td><p><a href="/html/fdny/html/firecode/index.shtml">Fire Code</a> / <a href="/html/fdny/html/rules/rules_overview.shtml">FDNY Rules</a></p></td>
+	      </tr>
+		  <tr height="15">
+		    <td><p>&nbsp;</p></td>
+		    <td><p><a href="/html/fdny/html/units/fire_prevention/index.shtml">Fire Prevention </a></p></td>
+	      </tr>
+		  <tr height="15">
+		    <td><p>&nbsp;</p></td>
+		    <td><p><a href="/html/fdny/html/stats/citywide.shtml">Fire Statistics</a></p></td>
+	      </tr>
+         <tr height="15">
+          <td><p>&nbsp;</p></td>
+           <td><p><a href="/html/fdny/html/after_fire/fire_records.shtml">Fire Records</a></p></td>
+         </tr>
+         <tr height="15">
+          <td rowspan="2"><p>&nbsp;</p></td>
+           <td><p><a href="/html/fdny/html/events/2013/030813a.shtml">Hurricane Sandy Fee Waivers</a></p></td>
+         </tr>
+		  <tr height="15">
+		    <td>&nbsp;</td>
+	      </tr>
+		  <tr height="5" style="border-top:1px solid #666666;">
+		    <td></td>
+		    <td></td>
+	      </tr>
+		  <tr height="15">
+		    <td><p>&nbsp;</p></td>
+		    <td><p><strong>Safety &amp; Education</strong></p></td>
+	      </tr>
+		  <tr height="15">
+		    <td><p>&nbsp;</p></td>
+		    <td><p><a href="/html/fdny/html/safety/index.shtml">Fire Safety Program</a></p></td>
+	      </tr>
+		  <tr height="15">
+		    <td><p>&nbsp;</p></td>
+		    <td><p><a href="/html/fdny/html/safety/fire_safety_downloads.shtml">Fire Safety Brochures</a></p></td>
+	      </tr>
+		  <tr height="15">
+		    <td><p class="homeleftnav">&nbsp;</p></td>
+		    <td><p><a href="/html/fdny/html/cpr/index.shtml">Learn CPR</a></p></td>
+	      </tr>
+		  <tr height="15">
+		    <td rowspan="2"><p>&nbsp;</p></td>
+		    <td><p><a href="/html/fdny/html/after_fire/index.shtml">What to do After a Fire</a></p></td>
+	      </tr>
+		  <tr height="15">
+		    <td>&nbsp;</td>
+	      </tr>
+		  <tr height="5" style="border-top:1px solid #666666;">
+		    <td></td>
+		    <td></td>
+	      </tr>
+		  <tr height="15">
+		    <td><p class="homeleftnav">&nbsp;</p></td>
+		    <td><p><strong>Media &amp; Press Resources</strong></p></td>
+	      </tr>
+		  <tr height="15">
+		    <td><p class="homeleftnav">&nbsp;</p></td>
+		    <td><p><a href="/html/fdny/media/video/fdny-series/index.shtml">FDNY Close-Up</a></p></td>
+	      </tr>
+		  <tr height="15">
+		    <td><p>&nbsp;</p></td>
+		    <td><p><a href="/html/fdny/html/units/photo/index.shtml">Photo Galleries</a></p></td>
+	      </tr>
+		  <tr height="15">
+		    <td><p>&nbsp;</p></td>
+		    <td><p><a href="/html/fdny/html/pr/index.shtml">Press Releases</a></p></td>
+	      </tr>
+		  <tr height="15">
+		    <td rowspan="4"><p>&nbsp;</p></td>
+		    <td><p><a href="/html/fdny/html/publications/index.shtml">Publications</a></p></td>
+	      </tr>
+		  <tr height="15">
+		    <td><p><a href="/html/fdny/pdf/publications/annual_reports/2012_annual_report.pdf">2012 Annual Report</a></p></td>
+	      </tr>
+		  <tr height="15">
+		    <td>&nbsp;</td>
+	      </tr>
+		  <tr height="5" style="border-top:1px solid #666666;">
+		    <td></td>
+		    <td></td>
+	      </tr>
+		  <tr height="15">
+		    <td><p class="homeleftnav">&nbsp;</p></td>
+		    <td><p><strong>Memorials &amp; Honor</strong></p></td>
+	      </tr>
+		  <tr height="15">
+		    <td><p class="homeleftnav">&nbsp;</p></td>
+		    <td><p><a href="/html/fdny/html/events/index.shtml">Events &amp; Ceremonies</a></p></td>
+	      </tr>
+		  <tr height="15">
+		    <td><p class="homeleftnav">&nbsp;</p></td>
+		    <td><p><a href="/html/fdny/html/history/index.shtml">History &amp; Heritage</a></p></td>
+	      </tr>
+		  <tr height="15">
+		    <td><p class="homeleftnav">&nbsp;</p></td>
+		    <td><p><a href="/html/fdny/html/lodd/index.shtml">In the Line of Duty</a></p></td>
+	      </tr>
+		  <tr height="15">
+		    <td>&nbsp;</td>
+		    <td><p><a href="/html/fdny/html/memorial/index.shtml">9/11 Memorial Pages</a></p></td>
+	      </tr>
+		  <tr height="15">
+		    <td><p class="homeleftnav">&nbsp;</p></td>
+		    <td><p><a href="/html/fdny/media/tribute/tribute.html">9/11 Tribute</a></p></td>
+	      </tr>
+		  <tr height="15">
+		    <td>&nbsp;</td>
+		    <td>&nbsp;</td>
+	      </tr>
+		  <tr height="5" style="border-top:1px solid #666666;">
+		    <td></td>
+		    <td></td>
+	      </tr>
+		  <tr height="15">
+		    <td><p class="homeleftnav">&nbsp;</p></td>
+		    <td><p><strong>Employment</strong></p></td>
+	      </tr>
+		  <tr height="15">
+		    <td><p class="homeleftnav">&nbsp;</p></td>
+		    <td><p><a href="/html/fdny/html/community/employment_index.shtml">Current Opportunities</a></p></td>
+	      </tr>
+		  <tr height="15">
+		    <td><p class="homeleftnav">&nbsp;</p></td>
+		    <td><p>&nbsp;</p></td>
+	      </tr>
+		  <tr height="15">
+		    <td><p class="homeleftnav">&nbsp;</p></td>
+		    <td><p><strong>Additional Resources</strong></p></td>
+	      </tr>
+		  <tr height="15">
+		    <td><p class="homeleftnav">&nbsp;</p></td>
+		    <td><p><a href="/html/fdny/html/general/vital_statistics.shtml">Vital Statistics</a></p></td>
+	      </tr>
+		  <tr height="15">
+		    <td><p class="homeleftnav">&nbsp;</p></td>
+		    <td><p><a href="/html/fdny/pdf/customer_service/lap_fdny.pdf">Language Access Plan</a></p></td>
+	      </tr>
+		  <tr height="15">
+		    <td><p class="homeleftnav">&nbsp;</p></td>
+		    <td><p><a href="/html/fdny/html/smartcpr/index.shtml">Smart CPR Trial</a></p></td>
+	      </tr>
+		  <tr height="15">
+		    <td>&nbsp;</td>
+		    <td>&nbsp;</td>
+	      </tr>
+		  <tr height="15">
+		    <td rowspan="4">&nbsp;</td>
+		    <td><p><strong>Customer Satisfaction</strong></p></td>
+	      </tr>
+		  <tr height="15">
+		    <td><p><a href="/html/fdny/html/general/surveys/fireops_satisfaction/english.shtml">Fire Operations Survey</a></p></td>
+	      </tr>
+		  <tr height="15">
+		    <td><p><a href="/html/fdny/html/general/surveys/bfp_satisfaction/english.shtml">Fire Prevention Survey</a></p></td>
+	      </tr>
+		  <tr height="15">
+		    <td><p><a href="/html/fdny/html/general/surveys/ems_satisfaction/english.shtml">EMS Satisfaction Survey</a></p></td>
+	      </tr>
+		  <tr height="5" style="border-top:1px solid #666666;">
+		    <td></td>
+		    <td></td>
+	      </tr>
+		  <tr height="15">
+		    <td colspan="2"><!-- <img src="/html/fdny/images/global/social_networking/group_graphic.jpg" width="180" height="35" border="0" usemap="#Map">--></td>
+	      </tr>
+		  <tr height="15">
+		    <td></td>
+		    <td></td>
+	      </tr>
+		  <tr height="15">
+		    <td height="15">&nbsp;</td>
+		    <td align="center"><p><br>
+            <div style="background-image:url(/html/fdny/images/home_specific/icons/95x64_icon_91104.jpg); width:95px; height:64px; border:1px solid #999;">&nbsp;</div><br>
+		      <span class="homeleftnav">9/11 Memorial<br>
+		        <a href="/html/fdny/html/memorial/index.shtml">Pages</a> | <a href="/html/fdny/media/tribute/tribute.html">Tribute</a></span></p></td>
+	      </tr>
+		  <tr height="15">
+		    <td>&nbsp;</td>
+		    <td>&nbsp;</td>
+	      </tr>
+		  <tr height="15">
+		    <td colspan="2">&nbsp;</td>
+	      </tr>
+		  </table>
+			 </form>
+    <!-- end of nav table container -->
+	</td>
+	<!-- end of left column -->
+				<td align="left" valign="top" width="589">
+					<table width="589" border="0" cellspacing="0" cellpadding="0">
+						<tr>
+							<td colspan="3" height="15" align="left" valign="top"></td>
+						</tr>
+						<tr>
+							<td width="15" align="left" valign="top"></td>
+							<td valign="top" align="left">
+							<!-- beginning of center table cell -->
+							<!-- beginning of feature photo table -->
+                            
+                           <map name="Map"><area shape="rect" coords="3,3,25,30" href="http://www.facebook.com/FDNYhome?ref=ts" alt="Find Us on Facebook">
+<area shape="rect" coords="32,3,61,30" href="http://twitter.com/FDNYnews" alt="Twitter">
+</map>
+
+            <map name="Map2"><area shape="rect" coords="76,3,103,28" href="http://www.flickr.com/fdnyhome" target="_blank" alt="Follow Us on flickr">
+              <area shape="rect" coords="103,3,127,27" href="https://foursquare.com/user/25693060" target="_blank" alt="Follow Us on Foursquare">
+<area shape="rect" coords="2,3,28,28" href="http://www.facebook.com/FDNYhome?ref=ts" target="_blank" alt="Like Us on Facebook">
+              <area shape="rect" coords="28,3,49,27" href="http://twitter.com/fdny" target="_blank" alt="Follow Us on Twitter">
+              <area shape="rect" coords="51,3,75,27" href="http://www.youtube.com/user/yourFDNY?feature=mhum" target="_blank" alt="Follow Us on YouTube">
+              <area shape="rect" coords="127,3,153,28" href="http://pinterest.com/fdnyhome/" target="_blank" alt="Follow Us on Pinterest">
+              <area shape="rect" coords="155,4,177,23" href="http://www.fdny.tumblr.com" target="_blank" alt="Tumblr">
+            </map>
+				<table width="100%" border="0" cellspacing="0" cellpadding="0">
+						<tr>
+							<td align="left" valign="top">
+							<!-- true beginning of content -->
+							<!-- #BeginEditable "content" -->
+							<h1>Important Department Phone Numbers</h1>
+                            <p><strong>In an emergency dial 911<br>
+                            </strong>For general Citywide Information, dial 311</p>
+                            <table width="100%" border="0">
+                              <tr>
+                                <td width="70%" bgcolor="#EFEFEF"><p><strong>Fire Department General Number </strong></p></td>
+                                <td bgcolor="#EFEFEF"><p><strong>718-999-2000</strong></p></td>
+                              </tr>
+                              <tr>
+                                <td><p>Fire Department Recruitment</p></td>
+                                <td><p>718-999-FDNY</p></td>
+                              </tr>
+                              <tr>
+                                <td bgcolor="#EFEFEF"><p>Community Affairs</p></td>
+                                <td bgcolor="#EFEFEF"><p>718-999-1438</p></td>
+                              </tr>
+                              <tr>
+                                <td><p>EMS Command</p></td>
+                                <td><p>718-999-2770/1753</p></td>
+                              </tr>
+                              <tr>
+                                <td><p>Human Resources Information Center</p></td>
+                                <td><p>718-999-2164</p></td>
+                              </tr>
+                              <tr>
+                                <td bgcolor="#EFEFEF"><p>Summer Intern Program</p></td>
+                                <td bgcolor="#EFEFEF"><p>718-999-2181</p></td>
+                              </tr>
+                              <tr>
+                                <td><p>Fire Cadet General Info</p></td>
+                                <td><p>718-999-1468</p></td>
+                              </tr>
+                              <tr>
+                                <td bgcolor="#EFEFEF"><p>Office of the Counsel</p></td>
+                                <td bgcolor="#EFEFEF"><p>718-999-2040</p></td>
+                              </tr>
+                              <tr>
+                                <td><p>Records Access Officer / FOIL requests</p></td>
+                                <td><p>718-999-0293</p></td>
+                              </tr>
+                              <tr>
+                                <td bgcolor="#EFEFEF"><p>Legal Enforcement Unit - Inquiries relating to Criminal Court/ ECB </p></td>
+                                <td bgcolor="#EFEFEF"><p>718-999-1378</p></td>
+                              </tr>
+                              <tr>
+                                <td><p>Court Desk and Litigation Support Unit</p></td>
+                                <td><p>718-999-2146/1684 </p></td>
+                              </tr>
+                              <tr>
+                                <td bgcolor="#EFEFEF"><p>Press Office/Office of Public Information</p></td>
+                                <td bgcolor="#EFEFEF"><p>718-999-2056</p></td>
+                              </tr>
+                              <tr>
+                                <td><p>Certificate of Fitness</p></td>
+                                <td><p>718-999-1986</p></td>
+                              </tr>
+                              <tr>
+                                <td bgcolor="#EFEFEF"><p>Violations Records</p></td>
+                                <td bgcolor="#EFEFEF"><p>718-999-2442</p></td>
+                              </tr>
+                              <tr>
+                                <td><p>Fire Records</p></td>
+                                <td><p>718-999-2681</p></td>
+                              </tr>
+                              <tr>
+                                <td bgcolor="#EFEFEF"><p>Other Searches</p></td>
+                                <td bgcolor="#EFEFEF"><p>718-999-2425</p></td>
+                              </tr>
+                            </table>
+                            <p></p>
+                            <u></u> <!-- #EndEditable -->             </td>
+					</tr>
+				 </table>
+			</td>
+			<td width="15" align="left" valign="top"></td>
+		</tr>
+		<tr>
+			<td height="15" colspan="3" align="left" valign="top"></td>
+		</tr>
+	</table>
+</td>
+	<!-- end of center column -->
+			</tr>
+			<tr height="25">
+				<td colspan="2" align="left" valign="top" width="769" height="25">
+					<!-- begin footer component -->
+					<table width="769" border="0" cellspacing="0" cellpadding="0" bgcolor="#494B4C">
+        <tr>
+          <td width="13"><img src="/portal/images/spacers/spacer.gif" alt="spacer" width="13" height="24"></td>
+          
+        <td width="287"><span class="footer_copyright">Copyright 2011 The City 
+          of New York</span></td>
+          <td width="444" align="right" class="footer_links">
+					<p class="footer_links">
+		      <a href="/contact">Contact Us</a> | 
+					<a href="/faqs">FAQs</a> | 
+					<a href="/privacy">Privacy Statement</a> | 
+					<a href="/sitemap">Site Map</a>
+				 </p>
+				 </td>
+          <td width="25" align="right"><img src="/portal/images/spacers/spacer.gif" alt="spacer" width="25" height="24"></td>
+        </tr>
+</table>
+          <!-- end footer component -->
+				</td>
+			</tr>
+</table>
+<map name="TopNav">
+  <area shape="rect" coords="331,29,398,47" href="/residents" alt="Residents" title="Services">
+  <area shape="rect" coords="407,29,470,47" href="/business" alt="Business" title="News &amp; Features">
+  <area shape="rect" coords="479,29,535,47" href="/visitors" alt="Visitors" title="City Life">
+  <area shape="rect" coords="546,29,625,47" href="/government" alt="Government" title="City Agencies">
+  <area shape="rect" coords="638,29,760,47" href="/mayor" alt="Office of the Mayor" title="Office of the Mayor">
+  <area shape="rect" coords="556,5,598,22" href="/search" alt="Email Updates" title="Email Updates">
+  <area shape="rect" coords="609,5,684,22" href="/register" alt="Quick Links" title="Quick Links">
+  <area shape="rect" coords="699,5,758,22" href="/contact" alt="Contact Us" title="Contact Us">
+  <area shape="rect" coords="3,3,48,46" href="http://www.nyc.gov" alt="NYC.gov always open" title="NYC.gov always open">
+</map>
+<!-- Footer Code -->
+<script src="/html/misc/scripts/nycwebtrends.js" type="text/javascript"></script>
+<script type="text/javascript">
+//<![CDATA[
+var _nyctag=new WebTrends();
+_nyctag.dcsInit();
+_nyctag.dcsGetId();
+//]]>>
+</script>
+<script type="text/javascript">
+//<![CDATA[
+_nyctag.dcsCollect();
+//]]>>
+</script>
+
+<!-- PROD noscript section -->
+<noscript>
+<div><img alt="DCSIMG" id="DCSIMG" width="1" height="1" src="http://a858-sdc.nyc.gov/dcsrv5wj8100008mal7c8plvy_5k9p/njs.gif?dcsuri=/nojavascript&WT.js=No&WT.tv=8.6.2"/></div>
+</noscript>
+</body>
+</html><!-- #EndTemplate -->

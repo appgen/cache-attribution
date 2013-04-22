@@ -1,0 +1,587 @@
+
+
+
+		
+	
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+	<head>
+		<meta http-equiv="content-type" content="text/html;charset=UTF-8">
+		<meta name="tp-name" content="homepage_2col">
+
+		
+		
+
+		
+				<title>Instant License Check</title>
+			
+		
+				
+			
+		<link href="../../includes/css/rollout.css" rel="stylesheet">
+	</head>
+
+<body  background="../../includes/site_images/misc/bg_2col.gif"
+  bgcolor="#ffffff" leftmargin="0" marginheight="0" marginwidth="0" topmargin="0">
+
+	<!-- BEGIN_PRINT_PAGE -->
+		<table width="769" border="0" cellspacing="0" cellpadding="0" height="100%">
+	<!-- END_PRINT_PAGE -->	
+			<tr><td colspan="2" align="left" valign="top" width="769">
+					<!-- START of nycgov_header.inc -->
+<table width="769" border="0" cellspacing="0" cellpadding="0" height="51">
+	<tr>
+		<td><img src="../../includes/site_images/nyc_gov/nycgov_banner.gif" alt="" width="769" height="51" border="0" usemap="#TopNav"></td>
+	</tr>
+</table>
+<map name="TopNav">
+  <area shape="rect" coords="554,1,599,25" href="/search" alt="Search">
+  <area shape="rect" coords="607,1,688,25" href="/portal/register.jsp" alt="Email Updates">
+  <area shape="rect" coords="698,1,762,25" href="/contact" alt="Contact Us">
+  <area shape="rect" coords="328,27,399,50" href="/residents" alt="Residents">
+  <area shape="rect" coords="408,27,471,50" href="/business" alt="Business">
+  <area shape="rect" coords="478,27,535,50" href="/visitors" alt="Visitors">
+  <area shape="rect" coords="544,27,628,50" href="/government" alt="Government">
+  <area shape="rect" coords="635,27,764,50" href="/mayor" alt="Office of the Mayor">
+  <area shape="rect" coords="3,3,49,48" href="/home.html" alt="NYC.gov always open">
+</map>
+<!-- END of nycgov_header.inc -->
+					
+							<!-- START of default_header.inc -->
+<script type="text/javascript">
+//<![CDATA[
+
+	var PageConfig = {};
+	PageConfig.dcsid = "dcschmur4mk2tsn1t17qvlt3r_9k7u";
+	PageConfig.onsitere = /^(www\.)?(nyc\.gov|(ci\.)?nyc\.ny\.us){1}(\/)(html)?(\/)?dca.*/i;
+	PageConfig.trackonsite = true;
+	PageConfig.trackoffsite = true;
+
+	var PageArray = {};
+	PageArray.PageLoad = [];
+	PageArray.PageLoad[0] = 'DCSext.o_agcy';
+	PageArray.PageLoad[1] = 'DCA';
+
+	//]]>>
+</script>
+<script type="text/javascript" src="../../includes/scripts/cookies.js"></script>
+<script type="text/javascript" src="../../includes/scripts/translate.js"></script>
+<script language="JavaScript" src="../../includes/scripts/change_text.js"></script>
+<table width="769" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td align="left" valign="top" width="769"><img src="../../includes/site_images/branding/header_logo_2col.jpg" alt="" width="769" height="60" border="0" usemap="#banner_map"></td>
+  </tr>
+  <tr>
+    <td class="tools_bg"><table cellspacing="0" cellpadding="0" border="0" width="769">
+        <tr>
+          <td colspan="22"><img src="../../includes/site_images/spacers/spacer.gif" width="769" height="5" alt="" border="0"></td>
+        </tr>
+        <tr>
+          <td width="16"><img src="../../includes/site_images/spacers/spacer.gif" width="16" height="17" alt="" border="0"></td>
+          <Td width="141" id="translate_button"><a onMouseOver="MM_swapImage('translate','','../../includes/site_images/branding/translate_1.gif',0)" onMouseOut="MM_swapImgRestore()" href="javascript:showTranslate();"><img src="../../includes/site_images/branding/translate_0.gif" border=0 alt="Translate the page" name="translate" width="141" height="17"></a></Td>
+          <Td width="141" id="english_button" style="display:none;"><a onMouseOver="MM_swapImage('english','','../../includes/site_images/branding/english_1.gif',0)" onMouseOut="MM_swapImgRestore()" href="javascript:resetLang();"><img src="../../includes/site_images/branding/english_0.gif" border=0 alt="Back to English" name="english" width="141" height="17"></a></Td>
+          <td width="11"><img src="../../includes/site_images/spacers/spacer.gif" width="11" height="17" alt="" border="0"></td>
+          <td width="1"><img src="../../includes/site_images/branding/divider.gif" width="1" height="17" alt="" border="0"></td>
+          <td width="9"><img src="../../includes/site_images/spacers/spacer.gif" width="9" height="17" alt="" border="0"></td>
+          <Td width="119"><a onMouseOver="MM_swapImage('pff','','../../includes/site_images/branding/print_1.gif',0)" onMouseOut="MM_swapImgRestore()" href="/cgi-bin/misc/pfprinter.cgi?action=print&sitename=DCA"><img src="../../includes/site_images/branding/print_0.gif" width="119" height="17" name="pff" id="pff" alt="Printer this Page" border="0"></a></Td>
+          <td width="14"><img src="../../includes/site_images/spacers/spacer.gif" width="14" height="17" alt="" border="0"></td>
+          <td width="1"><img src="../../includes/site_images/branding/divider.gif" width="1" height="17" alt="" border="0"></td>
+          <td width="14"><img src="../../includes/site_images/spacers/spacer.gif" width="14" height="17" alt="" border="0"></td>
+          <Td width="108"><a onMouseOver="MM_swapImage('eaf','','../../includes/site_images/branding/email_1.gif',0)" onMouseOut="MM_swapImgRestore()"  target="_blank" onclick="this.href = '/j2ee/emailafriend/EAFEntry?' + Date.parse(new Date()); return true;" href="/j2ee/emailafriend/EAFEntry"><img src="../../includes/site_images/branding/email_0.gif" width="108" height="17" name="eaf" id="eaf" alt="Email a Friend" border="0"></a></Td>
+          <td width="13"><img src="../../includes/site_images/spacers/spacer.gif" width="13" height="17" alt="" border="0"></td>
+          <td width="1"><img src="../../includes/site_images/branding/divider.gif" width="1" height="17" alt="" border="0"></td>
+          <td width="11"><img src="../../includes/site_images/spacers/spacer.gif" width="11" height="17" alt="" border="0"></td>
+          <Td width="138"><a onMouseOver="MM_swapImage('nsu','','../../includes/site_images/branding/newsletter_1.gif',0)" onMouseOut="MM_swapImgRestore()" href="https://www.nyc.gov/portal/register.jsp"><img src="../../includes/site_images/branding/newsletter_0.gif" width="138" height="17" name="nsu" id="nsu" alt="Newsletter Sign-Up" border="0"></a></Td>
+          <td width="13"><img src="../../includes/site_images/spacers/spacer.gif" width="13" height="17" alt="" border="0"></td>
+          <td width="1"><img src="../../includes/site_images/branding/divider.gif" width="1" height="17" alt="" border="0"></td>
+          <td width="11"><img src="../../includes/site_images/spacers/spacer.gif" width="11" height="17" alt="" border="0"></td>
+          <td width="70"><img src="../../includes/site_images/branding/text_size.gif" width="70" height="17" alt="Text Size:" border="0"></td>
+          <td width="19"><a onMouseOver="MM_swapImage('small','','../../includes/site_images/branding/small_1.gif',0)" onMouseOut="MM_swapImgRestore()" href="javascript:SetCookie(fontSizeCookie,'1');doRefresh();"><img src="../../includes/site_images/branding/small_0.gif" border=0 alt="Sm" name="small" width="19" height="17"></a></td>
+          <td width="21"><a onMouseOver="MM_swapImage('medium','','../../includes/site_images/branding/med_1.gif',0)" onMouseOut="MM_swapImgRestore()" href="javascript:SetCookie(fontSizeCookie,'2');doRefresh();"><img src="../../includes/site_images/branding/med_0.gif" border=0 alt="Med" name="medium" width="21" height="17"></a></td>
+          <td width="21"><a onMouseOver="MM_swapImage('large','','../../includes/site_images/branding/large_1.gif',0)" onMouseOut="MM_swapImgRestore()" href="javascript:SetCookie(fontSizeCookie,'3');doRefresh();"><img src="../../includes/site_images/branding/large_0.gif" border=0 alt="Lg" name="large" width="21" height="17"></a></td>
+          <td width="16"><img src="../../includes/site_images/spacers/spacer.gif" width="16" height="17" alt="" border="0"></td>
+        </tr>
+        <tr>
+          <td colspan="22"><img src="../../includes/site_images/spacers/spacer.gif" width="769" height="6" alt="" border="0"></td>
+        </tr>
+      </table></td>
+  </tr>
+</table>
+<map name="banner_map">
+  <area shape="poly" coords="11,3,156,3,156,19,302,19,302,56,11,56" href="../../html/home/home.shtml" alt="Department of Consumer Affairs">
+</map>
+<script language="Javascript">
+<!--
+if(GetCookie(fontSizeCookie) == "1"){	
+	document.small.src='../../includes/site_images/branding/small_1.gif';	
+	}else if(GetCookie(fontSizeCookie) == "2"){	
+	document.medium.src='../../includes/site_images/branding/med_1.gif';	
+	}else if(GetCookie(fontSizeCookie) == "3"){
+	document.large.src='../../includes/site_images/branding/large_1.gif';	
+	}else{	document.small.src='../../includes/site_images/branding/small_1.gif';	
+}
+if(this.location.href.indexOf("tl=")!=-1) {
+	document.getElementById("english_button").style.display='';
+	document.getElementById("translate_button").style.display = 'none';
+}
+//-->
+</script>
+<iframe scrolling='no' frameborder='0' class='shim' name='shim' id='shim'></iframe>
+<div id="translate_popup" class="popup">
+  <table cellspacing="0" cellpadding="0" border="0" width="323">
+    <tr>
+      <td class="popup_table"><table cellspacing="0" cellpadding="0" border="0" width="284">
+          <tr>
+            <Td colspan="2"><img src="../../includes/site_images/misc/translate_popup.gif" width="284" height="39" alt="Translate this Page" border="0"></Td>
+          </tr>
+          <tr>
+            <td class="popup_label" width="123">Select a Language</td>
+            <td class="popup_field" width="147"><select name="tl" id="tl" style="width:147px">
+                <option value="">- Select -</option>
+                <option value="ar">Arabic</option>
+                <option value="bg">Bulgarian</option>
+                <option value="ca">Catalan</option>
+                <option value="zh-CN">Chinese (Simplified)</option>
+                <option value="zh-TW">Chinese (Traditional)</option>
+                <option value="hr">Croatian</option>
+                <option value="cs">Czech</option>
+                <option value="da">Danish</option>
+                <option value="nl">Dutch</option>
+                <option value="tl">Filipino</option>
+                <option value="fi">Finnish</option>
+                <option value="fr">French</option>
+                <option value="de">German</option>
+                <option value="el">Greek</option>
+                <option value="iw">Hebrew</option>
+                <option value="hi">Hindi</option>
+                <option value="id">Indonesian</option>
+                <option value="it">Italian</option>
+                <option value="ja">Japanese</option>
+                <option value="ko">Korean</option>
+                <option value="lv">Latvian</option>
+                <option value="lt">Lithuanian</option>
+                <option value="no">Norwegian</option>
+                <option value="pl">Polish</option>
+                <option value="pt">Portuguese</option>
+                <option value="ro">Romanian</option>
+                <option value="ru">Russian</option>
+                <option value="sr">Serbian</option>
+                <option value="sk">Slovak</option>
+                <option value="sl">Slovenian</option>
+                <option value="es">Spanish</option>
+                <option value="sv">Swedish</option>
+                <option value="uk">Ukrainian</option>
+                <option value="vi">Vietnamese</option>
+              </select>
+            </td>
+          </tr>
+          <tr>
+            <td class="buttons" colspan="2"><input type="button" class="yellow_button" style="width:78px;" value="Translate" onClick="setLanguage(document.getElementById('tl').options[document.getElementById('tl').selectedIndex].value)" />
+              <input type="button" class="yellow_button" style="width:56px;" value="Cancel" onClick="hideTranslate()" /></td>
+          </tr>
+        </table></td>
+  </table>
+</div>
+
+						
+			</td></tr>
+
+		
+		<!-- BEGIN_PRINT_PAGE -->
+		<tr>
+		<!-- END_PRINT_PAGE -->
+		<td align="left" valign="top" width="180" height="100%">
+					
+							
+							 
+								  <!-- file tree1_nodes.js will be recreated-->
+<!-- START of leftnav_js.html -->
+<script language="JavaScript" type="text/JavaScript">
+<!--
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+//-->
+</script>
+<body onLoad="MM_preloadImages('../../includes/site_images/nav/botton_ofe_over.gif')">
+<table width="180" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td align="left" bgcolor="" valign="top"><script language="Javascript" src="../../includes/scripts/nav_nodes.js"></script>
+      <script language="Javascript" src="../../includes/scripts/nav_code.js"></script>
+      <noscript>
+      <a href="../../html/home/home.shtml" class="nav_section">Home</a><br>
+      <a href="../../html/about/about.shtml" class="nav_section">About DCA</a><br>
+      <span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/about/message.shtml" class="nav_subsection">Commissioner's Message</a><br>
+      <span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/about/bio.shtml" class="nav_subsection">Commissioner's Bio</a><br>
+      <span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/about/careers.shtml" class="nav_subsection">Career Opportunities</a><br>
+      <span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/about/schedule.shtml" class="nav_subsection">Holidays/Closings Schedule</a><br>
+      <a href="../../html/resources/resources.shtml" class="nav_section">Consumer Resources</a><br>
+      <span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/resources/complaint.shtml" class="nav_subsection">How to File A Complaint</a><br>
+      <span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/resources/law.shtml" class="nav_subsection">How the Law Protects You</a><br>
+      <span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/resources/forms.shtml" class="nav_subsection">Complaint Forms</a><br>
+      <span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/resources/mediation.shtml" class="nav_subsection">Mediation </a><br>
+      <a href="../../html/licenses/licenses.shtml" class="nav_section">Licenses</a><br>
+      <span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/licenses/applications.shtml" class="nav_subsection">License Applications</a><br>
+      <span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/licenses/renewals.shtml" class="nav_subsection">Renewals and Fees</a><br>
+      <span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/licenses/license_check.shtml" class="nav_subsection">Instant License Check</a><br>
+      <span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/licenses/faq.shtml" class="nav_subsection">FAQ</a><br>
+      <a href="../../html/business/business.shtml" class="nav_section">Business Information</a><br>
+      <span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/business/need.shtml" class="nav_subsection">Do You Need a License?</a><br>
+      <span class="nav_subsection">&nbsp;-&nbsp;</span><a href="http://www.nys-opal.com/" class="nav_subsection">NYS Online Permit Assistance and Licensing</a><br>
+      <span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/business/dealing.shtml" class="nav_subsection">Dealing with Consumer Complaints</a><br>
+      <span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/business/handling.shtml" class="nav_subsection">Handling Violations</a><br>
+      <span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/business/paying.shtml" class="nav_subsection">Paying Fines</a><br>
+      <a href="../../html/publications/publications.shtml" class="nav_section">Publications</a><br>
+      <a href="../../html/pr2006/prindex_en_0.shtml" class="nav_section">News from DCA</a><br>
+      <span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../rss/pr_rss.xml" class="nav_subsection">RSS Feed</a><br>
+      <span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/news/pr_archived.shtml" class="nav_subsection">Archived Press Releases </a><br>
+      <a href="../../html/initiatives/initiatives.shtml" class="nav_section">DCA Initiatives</a><br>
+      <span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/initiatives/contractors.shtml" class="nav_subsection">Home Improvement Contractors</a><br>
+      <span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/initiatives/eitc.shtml" class="nav_subsection">EITC & Tax Tips</a><br>
+      <span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/initiatives/preventing.shtml" class="nav_subsection">Preventing Teen Tobacco Use</a><br>
+      <span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/initiatives/facts.shtml" class="nav_subsection">Facts on Internet Sales</a><br>
+      <span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/initiatives/refund.shtml" class="nav_subsection">Refund Policies</a><br>
+      <span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/initiatives/campus.shtml" class="nav_subsection">Consumer Campus</a><br>
+      <span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/initiatives/banking.shtml" class="nav_subsection">Bank on New York</a><br>
+      <a href="../../html/law/law.shtml" class="nav_section">Law</a><br>
+      <a href="../../html/contact/contact.shtml" class="nav_section">Contact DCA</a><br>
+      </noscript>
+    </td>
+  </tr>
+  <tr>
+    <td id="altnav" style="display:none;background-color:#ffffff;"><a href="../../html/home/home.shtml" class="nav_section">Home</a><br>
+      <a href="../../html/about/about.shtml" class="nav_section">About DCA</a><br>
+      <span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/about/message.shtml" class="nav_subsection">Commissioner's Message</a><br>
+      <span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/about/bio.shtml" class="nav_subsection">Commissioner's Bio</a><br>
+      <span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/about/careers.shtml" class="nav_subsection">Career Opportunities</a><br>
+      <span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/about/schedule.shtml" class="nav_subsection">Holidays/Closings Schedule</a><br>
+      <a href="../../html/resources/resources.shtml" class="nav_section">Consumer Resources</a><br>
+      <span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/resources/complaint.shtml" class="nav_subsection">How to File A Complaint</a><br>
+      <span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/resources/law.shtml" class="nav_subsection">How the Law Protects You</a><br>
+      <span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/resources/forms.shtml" class="nav_subsection">Complaint Forms</a><br>
+      <span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/resources/mediation.shtml" class="nav_subsection">Mediation </a><br>
+      <a href="../../html/licenses/licenses.shtml" class="nav_section">Licenses</a><br>
+      <span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/licenses/applications.shtml" class="nav_subsection">License Applications</a><br>
+      <span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/licenses/renewals.shtml" class="nav_subsection">Renewals and Fees</a><br>
+      <span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/licenses/license_check.shtml" class="nav_subsection">Instant License Check</a><br>
+      <span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/licenses/faq.shtml" class="nav_subsection">FAQ</a><br>
+      <a href="../../html/business/business.shtml" class="nav_section">Business Information</a><br>
+      <span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/business/need.shtml" class="nav_subsection">Do You Need a License?</a><br>
+      <span class="nav_subsection">&nbsp;-&nbsp;</span><a href="http://www.nys-opal.com/" class="nav_subsection">NYS Online Permit Assistance and Licensing</a><br>
+      <span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/business/dealing.shtml" class="nav_subsection">Dealing with Consumer Complaints</a><br>
+      <span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/business/handling.shtml" class="nav_subsection">Handling Violations</a><br>
+      <span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/business/paying.shtml" class="nav_subsection">Paying Fines</a><br>
+      <a href="../../html/publications/publications.shtml" class="nav_section">Publications</a><br>
+      <a href="../../html/pr2006/prindex_en_0.shtml" class="nav_section">News from DCA</a><br>
+      <span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../rss/pr_rss.xml" class="nav_subsection">RSS Feed</a><br>
+      <span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/news/pr_archived.shtml" class="nav_subsection">Archived Press Releases </a><br>
+      <a href="../../html/initiatives/initiatives.shtml" class="nav_section">DCA Initiatives</a><br>
+      <span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/initiatives/contractors.shtml" class="nav_subsection">Home Improvement Contractors</a><br>
+      <span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/initiatives/eitc.shtml" class="nav_subsection">EITC & Tax Tips</a><br>
+      <span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/initiatives/preventing.shtml" class="nav_subsection">Preventing Teen Tobacco Use</a><br>
+      <span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/initiatives/facts.shtml" class="nav_subsection">Facts on Internet Sales</a><br>
+      <span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/initiatives/refund.shtml" class="nav_subsection">Refund Policies</a><br>
+      <span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/initiatives/campus.shtml" class="nav_subsection">Consumer Campus</a><br>
+      <span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/initiatives/banking.shtml" class="nav_subsection">Bank on New York</a><br>
+      <a href="../../html/law/law.shtml" class="nav_section">Law</a><br>
+      <a href="../../html/contact/contact.shtml" class="nav_section">Contact DCA</a></td>
+  </tr>
+</table>
+<table cellspacing="0" cellpadding="0" border="0" width="180">
+  <tr>
+    <td>
+<img src="http://www.nyc.gov/html/dca/images/buttons/stay_connected.jpg"></td>
+  </tr>
+</table>
+<table cellspacing="0" cellpadding="0" border="0" width="180" bgcolor="FFFFFF">
+<tr>
+<td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="http://www.nyc.gov/html/dca/images/buttons/facebook_icon.jpg">&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.nyc.gov/cgi-bin/exit.pl?url=http://www.facebook.com/nycdca">Facebook</a></td>
+  </tr><tr>
+<td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="http://www.nyc.gov/html/dca/images/buttons/twitter_icon.jpg">&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.nyc.gov/cgi-bin/exit.pl?url=http://twitter.com/nycdca">Twitter</a></td>
+  </tr><tr>
+<td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="http://www.nyc.gov/html/dca/images/buttons/youtube_icon.jpg">&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.nyc.gov/cgi-bin/exit.pl?url=http://www.youtube.com/nycdca">YouTube</a>&nbsp;<br>&nbsp;</td>
+  </tr></table>
+<table cellspacing="0" cellpadding="0" border="0" width="180">
+  <tr>
+    <td><img src='../../includes/site_images/spacers/spacer.gif' alt='' width='20' height='5' border='0' align='bottom'></td>
+  </tr>
+</table>
+<table cellspacing="0" cellpadding="0" border="0" width="180">
+  <tr>
+    <td><a href="http://www.nyc.gov/html/ofe/html/home/home.shtml" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image1','','../../includes/site_images/nav/botton_ofe_over.gif',1)"><img src="../../includes/site_images/nav/botton_ofe.gif" name="Image1" width="180" height="66" border="0" alt="Office of Financial Empowerment"></a></td>
+  </tr>
+</table>
+<table cellspacing="0" cellpadding="0" border="0" width="180">
+  <tr>
+    <td><img src='../../includes/site_images/spacers/spacer.gif' alt='' width='20' height='5' border='0' align='bottom'></td>
+  </tr>
+</table>
+<table cellspacing="0" cellpadding="0" border="0" width="180">
+  <tr>
+    <td><a href="http://www.nyc.gov/cgi-bin/exit.pl?url=http://www.cfefund.org" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image2','','../../includes/site_images/nav/cfe_ov.gif',2)"><img src="../../includes/site_images/nav/cfe.gif" name="Image2" width="180" height="66" border="0" alt="Cities for Financial Empowerment Fund"></a></td>
+  </tr>
+</table>
+<table cellspacing="0" cellpadding="0" border="0" width="180">
+  <tr>
+    <td valign='bottom' align='right' height='19' width='35'><img src='../../includes/site_images/spacers/spacer.gif' alt='' width='20' height='15' border='0' align='bottom'><img src='../../images/misc/pdficonsmall.gif' alt='Get Adobe PDF Reader' width='15' height='15' border='0' ></td>
+    <td valign='middle' align='left' height='19'><br>
+      &nbsp;<a href='http://www.adobe.com/products/acrobat/readstep2.html' class='pdf_link'>Adobe&nbsp;Acrobat&nbsp;Reader</a></td>
+  </tr>
+  <tr>
+    <td valign='bottom' align='right' height='19'></td>
+    <td valign='top' align='left' height='19'><span class='pdf_text'>(required to view PDFs)</span></td>
+  </tr>
+</table>
+<script language="JavaScript"><!--
+if ((window.location.href).indexOf("translate_c?hl=en") != -1) { //show simple nav
+	document.getElementById("altnav").style.display = "block";
+}
+//--></script>
+
+								 
+						
+				</td>
+				<!-- START of CENTER column -->
+				<!-- BEGIN_PRINT_PAGE -->
+				<td id="main_content" align="left" valign="top" width="589">
+				<!-- START of PRIMARY FEATURE SECTION -->
+				<table width="589" border="0" cellspacing="0" cellpadding="0">
+				  
+					  
+						<tr><td colspan="3" align="left" valign="top" bgcolor="" width="589">
+							
+							
+								<img src="../../includes/site_images/page_titles/title_2col_instant_license_check.gif"
+								alt="Instant License Check" width="589" border="0" /></td></tr>
+						
+					
+						<tr><td align="left" bgcolor="" valign="top" width="30"><img src="../../includes/site_images/spacers/spacer_30_30.gif" alt="" width="30" height="30" border="0">
+						</td><td align="left" bgcolor="" valign="top" width="499"><img src="../../includes/site_images/spacers/spacer_499_15.gif" alt="" width="499" height="15" border="0"><br>
+					  
+							
+						
+					  
+							
+							
+									
+											<span class="bodytext"></span>
+											
+										
+									
+											<span class="bodytext"><p style="MARGIN-top: 0in"><img title="" border="0" alt="" align="left" src="../../images/misc/instant_lic_check.jpg" /></p><p>&#160;</p><p>&#160;<br />
+&#160;</p><p>Use Instant License Check to see if a business has a DCA license. Please note:</p><ul><li>Instant License Check is updated daily.</li><li>In some cases, DCA gives businesses or individuals temporary permission to operate. These businesses or individuals will not appear in Instant License Check. See below for Department contact information.</li><li>Some legally operating sidewalk caf&#233;s and newsstands may not appear in Instant License Check during the license review process which includes public hearings and other City approvals.</li><li>Sightseeing guides, temporary amusement devices, and temporary street fair vendors&#160;are not included in Instant License Check currently. You can download lists of licensed&#160;<a href="../../downloads/pdf/sightseeing_guides.pdf" target="_blank">sightseeing guides</a>&#160;and&#160;<a href="../../downloads/pdf/temporary_amusement_devices.pdf" target="_blank">temporary amusement devices</a>&#160;in PDF.</li></ul><p>Call 311 (212-NEW-YORK outside NYC) during business hours and ask to be transferred to DCA to learn more about a business&#8217;s license status or to check a business&#8217;s complaint history.</p><p><strong>The Department does not endorse any licensed organization or person.</strong></p></span>
+										
+								
+						
+
+					
+
+					 
+					   
+						
+					 
+					 
+					
+					</td><td align="left" bgcolor="" valign="top" width="60"><img src="../../includes/site_images/spacers/spacer_60_30.gif" alt="" width="60" height="30" border="0"></td></tr>
+
+					
+
+					  
+				   
+					  
+						<tr><td colspan="3" align="left" valign="top" bgcolor="" width="589">
+							
+							</td></tr>
+						
+					
+						<tr><td align="left" bgcolor="" valign="top" width="30"><img src="../../includes/site_images/spacers/spacer_30_30.gif" alt="" width="30" height="30" border="0">
+						</td><td align="left" bgcolor="" valign="top" width="499"><img src="../../includes/site_images/spacers/spacer_499_15.gif" alt="" width="499" height="15" border="0"><br>
+					  
+							
+						
+					  
+							
+							
+									
+											<span class="bodytext"></span>
+											
+										
+									
+											<span class="bodytext"><table bgcolor="#e0e0eb"><tbody><tr><td><strong>Business/Individual Name:</strong></td><td><input id="ilcEntityName" /></td></tr><tr><td><strong>License Number (<em>Enter a 7-digit number</em>):</strong></td><td><input id="ilcLicenseNumber" /></td></tr><tr><td><strong>Zip Code (<em>Enter a 5-digit number</em>):</strong></td><td><input id="ilcZip" /></td></tr><tr><td><strong>Industry:</strong></td><td><select id="ilcLicCat"><option selected="selected" value="">Select an Industry</option><option value="014">Amusement Arcade</option><option value="016">Amusement Device (Permanent)</option><option value="018">Amusement Device (Portable)</option><option value="036">Auctioneer</option><option value="128">Auction House</option><option value="089">Bingo Game Operator</option><option value="126">Booting Company</option><option value="073">Cabaret</option><option value="075">Catering Establishment</option><option value="127">Cigarette Retail Dealer</option><option value="091">Commercial Lessor</option><option value="119">Dealer in Products for the Disabled</option><option value="122">Debt Collection Agency</option><option value="115">Electronic &amp; Home Appliance Service Dealer</option><option value="001">Electronics Store</option><option value="034">Employment Agency</option><option value="088">Games of Chance</option><option value="129">Gaming Cafe</option><option value="049">Garage</option><option value="098">Garage &amp; Parking Lot</option><option value="094">General Vendor</option><option value="097">General Vendor Distributor</option><option value="100">Home Improvement Contractor</option><option value="101">Home Improvement Salesperson</option><option value="086">Horse Drawn Cab Driver</option><option value="087">Horse Drawn Cab Owner</option><option value="064">Laundry</option><option value="066">Laundry Jobber</option><option value="062">Locksmith</option><option value="063">Locksmith Apprentice</option><option value="123">Motion Picture Projectionist</option><option value="024">Newsstand</option><option value="080">Pawnbroker</option><option value="050">Parking Lot</option><option value="130">Pedicab Business</option><option value="131">Pedicab Driver</option><option value="046">Pool or Billiard Room</option><option value="110">Process Server Individual</option><option value="109">Process Serving Agency</option><option value="107">Scale Dealer/Repairer</option><option value="118">Scrap Metal Processor</option><option value="005">Secondhand Dealer Auto</option><option value="006">Secondhand Dealer General</option><option value="013">Sidewalk Cafe</option><option value="078">Sightseeing Bus</option><option value="102">Special Sale (e.g., Going Out of Business)</option><option value="033">Stoop Line Stand</option><option value="120">Storage Warehouse</option><option value="124">Tow Truck Company</option><option value="125">Tow Truck Driver</option></select>&#160;</td></tr></tbody></table>
+
+&#160;<br /><p align="right" style="MARGIN-top: 0in"><input onclick="return SendSearch();" value="Search" type="button" />&#160;<script type="text/javascript" lang="javascript"><!--
+function SendSearch() {
+  window.location = "https://a866-bcportal.nyc.gov/BCPortals/LicenseCheckResults.aspx?EntityName=" + document.getElementById("ilcEntityName").value + "&LicenseNumber=" + document.getElementById("ilcLicenseNumber").value + "&Zip=" + document.getElementById("ilcZip").value + "&LicCat=" + document.getElementById("ilcLicCat").value;
+}
+//--></script>&#160;</p><p align="right"><a onmouseover="MM_swapImage('Image44','','http://www.nyc.gov/html/dca/images/buttons/searchtipsov.jpg',1)" onmouseout="MM_swapImgRestore()"><img border="0" name="Image44" src="http://www.nyc.gov/html/dca/images/buttons/searchtips.jpg" width="250" height="250" /></a></p></span>
+										
+								
+						
+
+					
+
+					 
+					   
+						
+					 
+					 
+					
+					</td><td align="left" bgcolor="" valign="top" width="60"><img src="../../includes/site_images/spacers/spacer_60_30.gif" alt="" width="60" height="30" border="0"></td></tr>
+
+					
+
+					  
+				   
+				</table>
+				<!-- END of PRIMARY FEATURE SECTION -->
+
+				<!-- START of SECONDARY FEATURE SECTION -->
+
+				<table width="589" border="0" cellspacing="0" cellpadding="0">
+				  
+					  
+						<tr><td colspan="4" align="left" valign="top" bgcolor="" width="589">
+							
+							</td></tr>
+						
+					
+
+					  </table>
+
+				<!-- END of SECONDARY FEATURE SECTION -->
+
+				<!-- START of TERTIARY FEATURE SECTION -->
+				<table width="589" border="0" cellspacing="0" cellpadding="0">
+				  
+					  
+						<tr><td colspan="3" align="left" valign="top" bgcolor="" width="589">
+							
+							</td></tr>
+						
+					
+					  
+				   
+				</table>
+				<!-- END of TERTIARY FEATURE SECTION -->
+				<!-- END_PRINT_PAGE -->
+				
+
+			<!-- START of nycgov_footer.inc-->
+<!-- old table width=589;  499 for middle td -->
+<!-- expanded table width=769;  619 for middle td -->
+<!-- <table width="589" border="0" cellspacing="0" cellpadding="0">
+	<tr>
+		<td align="left" valign="top" width="30"><img src="../../includes/site_images/spacers/spacer_30_30.gif" alt="" width="30" height="30" border="0"></td>
+		<td align="left" valign="top" width="499"><img src="../..//includes/site_images/spacers/spacer_499_15.gif" alt="" width="499" height="15" border="0"><img src="../../includes/site_images/footer_divider.gif" alt="" width="499" height="1" border="0"><br>
+			<span class="footer_header">Footer header goes here<br>
+			</span><span class="footer_text">Footer text description goes here. It is optional and the max is about 300 characters which is approximately 3-4 lines of text. Footer text description goes here. It is optional and the max is about 300 characters which is approximately 3-4 lines of text.<br>
+			</span></td>
+		<td align="left" valign="top" width="60"><img src="../..//includes/site_images/spacers/spacer_60_30.gif" alt="" width="60" height="30" border="0"><br>
+			<br>
+		</td>
+	</tr>
+</table> -->
+<!-- END of default_footer.inc -->
+
+
+					
+	<!-- BEGIN_PRINT_PAGE -->				
+					<span class="footer_text"><br></span></td>
+				<!-- END of CENTER column -->
+			</tr>
+	<!-- END_PRINT_PAGE -->
+			<tr height="25">
+				<td colspan="2" align="left" valign="top" width="769" height="25"> 
+
+					<table width="769" border="0" cellspacing="0" cellpadding="0">
+	<tr><td><img src="../../includes/site_images/misc/bottom_branding.gif" border="0"></td></tr>
+</table>
+
+
+
+
+<!-- START of nycgov_footer.inc-->
+<style type="text/css">
+<!--
+	.footer_links {font-family: Verdana, Arial, Helvetica, sans-serif;
+		font-size: 10px;
+		color: #F9D053;
+	}
+
+	.footer_copyright {font-family: Verdana, Arial, Helvetica, sans-serif;
+		font-size: 10px;
+		color: #C4C4B2;
+	}
+-->
+</style>
+<TABLE cellSpacing=0 cellPadding=0 width=769 bgColor=#494B4C border=0>
+	<TBODY>
+	<TR><TD width=13><IMG height=24 src="../../includes/site_images/spacers/spacer.gif" width=13></TD>
+          <TD width=287><SPAN class=footer_copyright>Copyright 2013 The City of New York</SPAN></TD>
+          <TD align=right width=444><SPAN class=footer_links><A class=footer_links href="/contact">Contact Us</A> | <A class=footer_links href="/faqs">FAQs</A> | <A class=footer_links href="/privacy">Privacy Policy</A> | <A class=footer_links href="http://www.nyc.gov/html/misc/html/tou.html">Terms of Use</A> | <A class=footer_links href="/sitemap">Site Map</A></SPAN></TD>
+          <TD align=right width=25><IMG height=24 src="../../includes/site_images/spacers/spacer.gif" width=25></TD></TR>
+        </TBODY>
+</TABLE>
+<!-- Privacy Policy updated on 03/08/2011 -->
+<!--  nycgov Webtrends code, added on 02/16/2011 -->
+<script src="/html/misc/scripts/nycwebtrends.js" type="text/javascript"></script>
+<script type="text/javascript">
+//<![CDATA[
+var _nyctag=new WebTrends();
+_nyctag.dcsInit();
+_nyctag.dcsGetId();
+//]]>>
+</script>
+<script type="text/javascript">
+//<![CDATA[
+_nyctag.dcsCollect();
+//]]>>
+</script>
+
+<!-- PROD noscript section -->
+<noscript>
+<div><img alt="DCSIMG" id="DCSIMG" width="1" height="1" src="http://a858-sdc.nyc.gov/dcslfpea2000008i7geu3pdky_5v8x/njs.gif?dcsuri=/nojavascript&WT.js=No&WT.tv=8.6.2"/></div>
+</noscript>
+<!--  END OF nycgov Webtrends code, added on 02/16/2011 -->
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-9518673-1");
+pageTracker._trackPageview();
+} catch(err) {}
+</script>
+<!-- END of nycgov_footer.inc-->
+
+				</td>
+			</tr>
+<!-- BEGIN_PRINT_PAGE -->			
+		</table>
+	<!-- END_PRINT_PAGE -->
+	</body>
+</html>
+

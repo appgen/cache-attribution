@@ -1,0 +1,865 @@
+
+
+
+		
+	
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+	<head>
+		<meta http-equiv="content-type" content="text/html;charset=UTF-8">
+		<meta name="tp-name" content="homepage_3col">
+
+		
+		
+
+		
+				<title>HRA - Food Stamp Centers</title>
+			
+		
+				
+			
+		<link href="../../includes/css/rollout.css" rel="stylesheet">
+	</head>
+
+	<body  background="../../includes/site_images/misc/bg.gif"
+	  bgcolor="#ffffff" leftmargin="0" marginheight="0" marginwidth="0" topmargin="0">
+
+	<!-- BEGIN_PRINT_PAGE -->
+		<table width="769" border="0" cellspacing="0" cellpadding="0" height="100%">
+	<!-- END_PRINT_PAGE -->
+			<tr><td colspan="3" align="left" valign="top" width="769">
+					<!-- START of nycgov_header.inc -->
+<table width="769" border="0" cellspacing="0" cellpadding="0" height="51">
+	<tr>
+		<td><img src="../../includes/site_images/nyc_gov/nycgov_banner.gif" alt="" width="769" height="51" border="0" usemap="#TopNav"></td>
+	</tr>
+</table>
+<map name="TopNav">
+  <area shape="rect" coords="554,1,599,25" href="/search" alt="Search">
+  <area shape="rect" coords="607,1,688,25" href="/portal/register.jsp" alt="Email Updates">
+  <area shape="rect" coords="698,1,762,25" href="/contact" alt="Contact Us">
+  <area shape="rect" coords="328,27,399,50" href="/residents" alt="Residents">
+  <area shape="rect" coords="408,27,471,50" href="/business" alt="Business">
+  <area shape="rect" coords="478,27,535,50" href="/visitors" alt="Visitors">
+  <area shape="rect" coords="544,27,628,50" href="/government" alt="Government">
+  <area shape="rect" coords="635,27,764,50" href="/mayor" alt="Office of the Mayor">
+  <area shape="rect" coords="3,3,49,48" href="/home.html" alt="NYC.gov always open">
+</map>
+<!-- END of nycgov_header.inc -->
+					
+							<!-- START of default_header.inc -->
+<script language="JavaScript" src="../../includes/scripts/change_text.js"></script>
+<script language="JavaScript" type="text/JavaScript">
+<!--
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+//-->
+</script>
+<body onLoad="MM_preloadImages('../../includes/site_images/branding/banner_translate_over.gif')">
+<table width="769" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td><a href="../../html/home/home.shtml"><img src="../../includes/site_images/branding/branding.gif" alt="Human Resources Administration / Department of Social Services" width="769" border="0"></a></td>
+  </tr>
+  <tr bgcolor="2B2772">
+    <td><a href="/cgi-bin/misc/pfprinter.cgi?action=print&sitename=HRA" onMouseOver="MM_swapImage('printer','','../../includes/site_images/branding/printer_friendly_over.gif',0)" onMouseOut="MM_swapImgRestore()"><img src="../../includes/site_images/branding/printer_friendly.gif" alt="Printer Friendly Format" name="printer" border="0" id="printer"></a><span style="display:none" id="english_button"><a onMouseOver="MM_swapImage('eng','','../../includes/site_images/branding/banner_english_over.gif',0)" onMouseOut="MM_swapImgRestore()" href="javascript:resetLang();"><img src="../../includes/site_images/branding/banner_english.gif" name="eng" id="eng" alt="Back to English" border="0"></a></span><span id="translate_button"><a onMouseOver="MM_swapImage('ttp','','../../includes/site_images/branding/banner_translate_over.gif',0)" onMouseOut="MM_swapImgRestore()" href="javascript:showTranslate();"><img src="../../includes/site_images/branding/banner_translate.gif" name="ttp" id="ttp" alt="Translate this Page" border="0"></a></span><img src="../../includes/site_images/spacers/spacer.gif" width="288" height="26"><img src="../../includes/site_images/branding/set_text_size.gif" alt="Set Text Size"><a href="javascript:SetCookie(nameOfCookie,'1');doRefresh();" onMouseOver="MM_swapImage('a1','','../../includes/site_images/branding/a_small_over.gif',0)" onMouseOut="MM_swapImgRestore()"><img src="../../includes/site_images/branding/a_small.gif" alt="Normal Text Size" name="a1" border="0" id="a1"></a><a href="javascript:SetCookie(nameOfCookie,'2');doRefresh();" onMouseOver="MM_swapImage('a2','','../../includes/site_images/branding/a_med_over.gif',0)" onMouseOut="MM_swapImgRestore()"><img src="../../includes/site_images/branding/a_med.gif" alt="Large Text Size" name="a2" border="0" id="a2"></a><a href="javascript:SetCookie(nameOfCookie,'3');doRefresh();" onMouseOver="MM_swapImage('a3','','../../includes/site_images/branding/a_large_over.gif',0)" onMouseOut="MM_swapImgRestore()"><img src="../../includes/site_images/branding/a_large.gif" alt="Largest Text Size" name="a3" border="0" id="a3"></a></td>
+  </tr>
+  <tr>
+    <td bgcolor="#FFFFFF"><img src="../../includes/site_images/spacers/spacer.gif" width="769" height="8"></td>
+  </tr>
+</table>
+<script language="JavaScript">
+<!--
+if(GetCookie(nameOfCookie) == "1"){	
+		document.getElementById("a1").src='../../includes/site_images/branding/a_small_over.gif';	
+	}else if(GetCookie(nameOfCookie) == "2"){	
+		document.getElementById("a2").src='../../includes/site_images/branding/a_med_over.gif';	
+	}else if(GetCookie(nameOfCookie) == "3"){
+		document.getElementById("a3").src='../../includes/site_images/branding/a_large_over.gif';	
+	}else{
+		document.getElementById("a1").src='../../includes/site_images/branding/a_small_over.gif';	
+}
+
+if(this.location.href.indexOf("tl=")!=-1) {
+	document.getElementById("english_button").style.display='';
+	document.getElementById("translate_button").style.display = 'none';
+}
+
+MM_preloadImages('../../includes/site_images/branding/a_small_over.gif');
+//-->
+</script>
+<!-- END of default_header.inc -->
+						
+			</td></tr>
+
+		
+	<!-- BEGIN_PRINT_PAGE -->
+		<tr>
+	<!-- END_PRINT_PAGE -->
+		<td align="left" valign="top" width="180" height="100%">
+					
+							
+							 
+								  <!-- file tree1_nodes.js will be recreated--><!-- START of leftnav_js.html -->
+<table width="180" border="0" cellspacing="0" cellpadding="0">
+ <tr> 
+    <td colspan="2"><img src="../../includes/site_images/misc/search.gif"></td>
+  </tr>
+  <tr> 
+    <td bgcolor="89498e"><img src="../../includes/site_images/misc/search_left.gif" width="14" height="34"></td>
+    <td valign="top" bgcolor="89498e"><form action="http://search1.nyc.gov/search?" method="GET" name="gs" style="margin-bottom:0px"><input value="xml_no_dtd" name="output" type="hidden"><input value="default_collection" name="site" type="hidden"><input value="agency_frontend" name="proxystylesheet" 
+	type="hidden"><input value="agency_frontend" name="client" type="hidden"><input value="www.nyc.gov/html/hra" name="sitesearch" type="hidden"><div class="search_all"><div class="search_left"><input name="q" type="text" class="search-box" id="search box" style="width: 125px;"></div><div class="search_right"><input 
+	name="go" type="image" id="go" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('go','','../../includes/site_images/misc/go_over.gif',1)" src="../../includes/site_images/misc/go.gif"  align="right"  alt="Search"  border="0"></div></div></form></td>
+      </tr>
+</table>
+
+
+<script language="Javascript" src="../../includes/scripts/nav_nodes.js"></script>
+<script language="Javascript" src="../../includes/scripts/nav_code.js"></script>
+<noscript>
+<a href="../../html/home/home.shtml" class="nav_section">Home</a><br>
+<a href="../../html/about/about_hra_dss.shtml" class="nav_section">About HRA DSS</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/about/commissioners_corner.shtml" class="nav_subsection">Meet the Commissioner</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/about/history.shtml" class="nav_subsection">The History of Welfare & HRA</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/about/language.shtml" class="nav_subsection">Language Access</a><br>
+<a href="../../html/directory/directory.shtml" class="nav_section">Directory of Services</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/directory/cash.shtml" class="nav_subsection">Temporary Cash Assistance</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/directory/hasa.shtml" class="nav_subsection">HIV/AIDS Services Administration</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/directory/public_health.shtml" class="nav_subsection">Public Health Insurance</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/directory/food.shtml" class="nav_subsection">Food Stamps & Food Programs</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/directory/dv.shtml" class="nav_subsection">Domestic Violence Support Services</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/directory/adult.shtml" class="nav_subsection">Adult Protective Services</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/directory/home_care.shtml" class="nav_subsection">Home Care</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/directory/heap.shtml" class="nav_subsection">Energy Assistance</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/directory/child.shtml" class="nav_subsection">Child Support  Enforcement</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/directory/long_term.shtml" class="nav_subsection">Long-Term Care</a><br>
+<a href="../../html/programs/programs.shtml" class="nav_section">Our Programs</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/programs/fia.shtml" class="nav_subsection">Family Independence Administration</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/programs/customized_assistance_services.shtml" class="nav_subsection">Customized Assistance Services</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/programs/medical_insurance_community_service_admin.shtml" class="nav_subsection">Medical Insurance & Community Services Administration</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/programs/dv.shtml" class="nav_subsection">The Office of Domestic Violence & Emergency Intervention Services (ODVEIS)</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/programs/ochia.shtml" class="nav_subsection">Office of Citywide Health Insurance Access</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/programs/investigations_revenue_enforcement.shtml" class="nav_subsection">Investigations, Revenue & Enforcement</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/programs/child_support.shtml" class="nav_subsection">Office of Child Support Enforcement</a><br>
+<a href="../../html/partners/community_partners.shtml" class="nav_section">Community Partners</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/partners/food_stamp.shtml" class="nav_subsection">Food Stamp Services</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/partners/health.shtml" class="nav_subsection">Health</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/partners/housing.shtml" class="nav_subsection">Housing</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/partners/transportation.shtml" class="nav_subsection">Transportation</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/partners/vocational_training.shtml" class="nav_subsection">Vocational Training</a><br>
+<a href="../../html/statistics/statistics.shtml" class="nav_section">HRA DSS Statistics</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/statistics/cash_assistance_reports.shtml" class="nav_subsection">Cash Assistance Reports</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/statistics/hra_facts.shtml" class="nav_subsection">Facts</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/statistics/trend_charts.shtml" class="nav_subsection">Trend Charts</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/statistics/job_statistics.shtml" class="nav_subsection">Job Statistics</a><br>
+<a href="../../html/applications/forms.shtml" class="nav_section">Applications</a><br>
+<a href="../../html/news/news.shtml" class="nav_section">News and Communications</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/news/press_releases.shtml" class="nav_subsection">Press Releases</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/news/headlines.shtml" class="nav_subsection">HRA Headlines</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/news/testimony.shtml" class="nav_subsection">Testimony</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/news/publications.shtml" class="nav_subsection">Publications</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/news/newsletters.shtml" class="nav_subsection">Newsletters</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/news/settlement.shtml" class="nav_subsection">Green Settlement</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/news/gallery.shtml" class="nav_subsection">Photo Gallery</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/news/media_kit.shtml" class="nav_subsection">Media Kit</a><br>
+<a href="../../html/contracts/contracts_procurement.shtml" class="nav_section">Contracts and Procurement</a><br>
+<a href="../../html/career/career.shtml" class="nav_section">Careers at HRA DSS</a><br>
+<a href="../../html/contact/contact.shtml" class="nav_section">Contact HRA DSS</a><br>
+</noscript>
+
+
+<div id="altnav" style="display: none;">
+<table width="165" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td width="15">&nbsp;</td>
+    <td><a href="../../html/home/home.shtml" class="nav_section">Home</a><br>
+		<a href="../../html/about/about_hra_dss.shtml" class="nav_section">About HRA DSS</a><br>
+			<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/about/commissioners_corner.shtml" class="nav_subsection">Meet the Commissioner</a><br>
+			<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/about/history.shtml" class="nav_subsection">The History of Welfare & HRA</a><br>
+			<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/about/language.shtml" class="nav_subsection">Language Access</a><br>
+		<a href="../../html/directory/directory.shtml" class="nav_section">Directory of Services</a><br>
+			<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/directory/cash.shtml" class="nav_subsection">Temporary Cash Assistance</a><br>
+			<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/directory/hasa.shtml" class="nav_subsection">HIV/AIDS Services Administration</a><br>
+			<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/directory/public_health.shtml" class="nav_subsection">Public Health Insurance</a><br>
+			<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/directory/food.shtml" class="nav_subsection">Food Stamps & Food Programs</a><br>
+			<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/directory/dv.shtml" class="nav_subsection">Domestic Violence Support Services</a><br>
+			<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/directory/adult.shtml" class="nav_subsection">Adult Protective Services</a><br>
+			<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/directory/home_care.shtml" class="nav_subsection">Home Care</a><br>
+			<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/directory/heap.shtml" class="nav_subsection">Energy Assistance</a><br>
+			<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/directory/child.shtml" class="nav_subsection">Child Support  Enforcement</a><br>
+			<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/directory/long_term.shtml" class="nav_subsection">Long-Term Care</a><br>
+		<a href="../../html/programs/programs.shtml" class="nav_section">Our Programs</a><br>
+			<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/programs/fia.shtml" class="nav_subsection">Family Independence Administration</a><br>
+			<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/programs/customized_assistance_services.shtml" class="nav_subsection">Customized Assistance Services</a><br>
+			<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/programs/medical_insurance_community_service_admin.shtml" class="nav_subsection">Medical Insurance & Community Services Administration</a><br>
+			<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/programs/dv.shtml" class="nav_subsection">The Office of Domestic Violence & Emergency Intervention Services (ODVEIS)</a><br>
+			<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/programs/ochia.shtml" class="nav_subsection">Office of Citywide Health Insurance Access</a><br>
+			<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/programs/investigations_revenue_enforcement.shtml" class="nav_subsection">Investigations, Revenue & Enforcement</a><br>
+			<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/programs/child_support.shtml" class="nav_subsection">Office of Child Support Enforcement</a><br>
+		<a href="../../html/partners/community_partners.shtml" class="nav_section">Community Partners</a><br>
+			<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/partners/food_stamp.shtml" class="nav_subsection">Food Stamp Services</a><br>
+			<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/partners/health.shtml" class="nav_subsection">Health</a><br>
+			<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/partners/housing.shtml" class="nav_subsection">Housing</a><br>
+			<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/partners/transportation.shtml" class="nav_subsection">Transportation</a><br>
+			<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/partners/vocational_training.shtml" class="nav_subsection">Vocational Training</a><br>
+		<a href="../../html/statistics/statistics.shtml" class="nav_section">HRA DSS Statistics</a><br>
+			<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/statistics/cash_assistance_reports.shtml" class="nav_subsection">Cash Assistance Reports</a><br>
+			<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/statistics/hra_facts.shtml" class="nav_subsection">Facts</a><br>
+			<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/statistics/trend_charts.shtml" class="nav_subsection">Trend Charts</a><br>
+			<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/statistics/job_statistics.shtml" class="nav_subsection">Job Statistics</a><br>
+		<a href="../../html/applications/forms.shtml" class="nav_section">Applications</a><br>
+		<a href="../../html/news/news.shtml" class="nav_section">News and Communications</a><br>
+			<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/news/press_releases.shtml" class="nav_subsection">Press Releases</a><br>
+			<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/news/headlines.shtml" class="nav_subsection">HRA Headlines</a><br>
+			<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/news/testimony.shtml" class="nav_subsection">Testimony</a><br>
+			<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/news/publications.shtml" class="nav_subsection">Publications</a><br>
+			<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/news/newsletters.shtml" class="nav_subsection">Newsletters</a><br>
+			<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/news/settlement.shtml" class="nav_subsection">Green Settlement</a><br>
+			<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/news/gallery.shtml" class="nav_subsection">Photo Gallery</a><br>
+			<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/news/media_kit.shtml" class="nav_subsection">Media Kit</a><br>
+		<a href="../../html/contracts/contracts_procurement.shtml" class="nav_section">Contracts and Procurement</a><br>
+		<a href="../../html/career/career.shtml" class="nav_section">Careers at HRA DSS</a><br>
+		<a href="../../html/contact/contact.shtml" class="nav_section">Contact HRA DSS</a><br>
+    </td>
+  </tr>
+</table>
+</div>
+<script type="text/javascript" src="../../includes/scripts/translate.js"></script>
+<iframe scrolling='no' frameborder='0' class='shim' name='shim' id='shim'></iframe>
+<div id="translate_popup" class="popup">
+  <table cellspacing="0" cellpadding="0" border="0" width="323">
+    <tr>
+      <td class="popup_table"><table cellspacing="0" cellpadding="0" border="0" width="284">
+          <tr>
+            <Td colspan="2"><img src="../../includes/site_images/misc/translate_popup.gif" width="284" height="39" alt="Translate this Page" border="0"></Td>
+          </tr>
+          <tr>
+            <td class="popup_label" width="123">Select a Language</td>
+            <td class="popup_field" width="147"><select name="tl" id="tl" style="width:147px">
+                <option value="">- Select -</option>
+                <option value="ar">Arabic</option>
+                <option value="bg">Bulgarian</option>
+                <option value="ca">Catalan</option>
+                <option value="zh-CN">Chinese (Simplified)</option>
+                <option value="zh-TW">Chinese (Traditional)</option>
+                <option value="hr">Croatian</option>
+                <option value="cs">Czech</option>
+                <option value="da">Danish</option>
+                <option value="nl">Dutch</option>
+                <option value="tl">Filipino</option>
+                <option value="fi">Finnish</option>
+                <option value="fr">French</option>
+                <option value="de">German</option>
+                <option value="el">Greek</option>
+                <option value="iw">Hebrew</option>
+                <option value="hi">Hindi</option>
+                <option value="id">Indonesian</option>
+                <option value="it">Italian</option>
+                <option value="ja">Japanese</option>
+                <option value="ko">Korean</option>
+                <option value="lv">Latvian</option>
+                <option value="lt">Lithuanian</option>
+                <option value="no">Norwegian</option>
+                <option value="pl">Polish</option>
+                <option value="pt">Portuguese</option>
+                <option value="ro">Romanian</option>
+                <option value="ru">Russian</option>
+                <option value="sr">Serbian</option>
+                <option value="sk">Slovak</option>
+                <option value="sl">Slovenian</option>
+                <option value="es">Spanish</option>
+                <option value="sv">Swedish</option>
+                <option value="uk">Ukrainian</option>
+                <option value="vi">Vietnamese</option>
+              </select>
+            </td>
+          </tr>
+          <tr>
+            <td class="buttons" colspan="2"><input type="button" class="yellow_button" style="width:78px;" value="Translate" onClick="setLanguage(document.getElementById('tl').options[document.getElementById('tl').selectedIndex].value)" />
+              <input type="button" class="yellow_button" style="width:56px;" value="Cancel" onClick="hideTranslate()" /></td>
+          </tr>
+        </table></td>
+  </table>
+</div>
+<div id="progress_popup" class="progress_popup">
+  <table cellspacing="0" cellpadding="0" border="0" width="223">
+    <tr>
+      <td class="popup_table"><table cellspacing="0" cellpadding="0" border="0">
+          <tr>
+            <Td id="progress_text" class="progress_text"></Td>
+          </tr>
+          <tr>
+            <td><img src="../../includes/site_images/spacers/spacer.gif" width="171" height="15" alt="" border="0"></td>
+          </tr>
+          <tr>
+            <Td><!--<img src="../../includes/site_images/misc/Translation_Progress_Anim.gif" width="171" height="17" alt="" border="0">--></Td>
+          </tr>
+        </table></td>
+  </table>
+</div>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+
+
+
+
+
+
+
+<!-- END of leftnav_js.html -->
+								 
+						
+				</td>
+				<!-- START of CENTER column -->
+			<!-- BEGIN_PRINT_PAGE -->
+				<td id="main_content" align="left" valign="top" width="409">
+				<!-- START of PRIMARY FEATURE SECTION -->
+				<table width="409" border="0" cellspacing="0" cellpadding="0">
+				  
+					  
+						<tr><td colspan="3" align="left" valign="top" bgcolor="" width="409">
+							
+							
+								<img src="../../includes/site_images/titles/directory_food-stamps_apply_centers.jpg"
+								alt="Food Stamp Centers" width="409" border="0" /></td></tr>
+						
+					
+						<tr><td align="left" bgcolor="" valign="top" width="20"><img src="../../includes/site_images/spacers/spacer_20_20.gif" alt="" width="20" height="20" border="0">
+						</td><td align="left" bgcolor="" valign="top" width="369"><img src="../../includes/site_images/spacers/spacer_369_15.gif" alt="" width="369" height="15" border="0"><br>
+					  
+							
+						
+					  
+							
+							
+									
+											<span class="bodytext"></span>
+											
+										
+									
+											<span class="bodytext"><p style="MARGIN-top: 0in"><strong>SNAP&#160;Centers are open 8:30 AM to 5 PM Monday through Friday. In addition, there are five extended-hours centers, one in each borough, that are open until 6 PM on weekdays and are open 9 AM to 5 PM on Saturdays.<br /><br /></strong><span><strong>Its fast and easy to apply online. To get started go to<br />
+&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;<a href="https://a858-ihss.nyc.gov/ihss1/en_US/IHSS_homePage.do">ACCESS NYC</a>&#160;&#160;</strong></span></p><p><span class="bodytextbold"><span class="bodytext"><span class="bodytextbold"><u>Brooklyn Locations:</u></span>&#160;</span></span></p><p><strong>Coney Island<br /></strong>30-50 West 21 Street, 1st flr<br />
+Brooklyn, NY&#160; 11224<br />
+718-333-3275<br />
+718-333-3033</p><p><strong>East New York</strong><br />
+404 Pine Street<br />
+1st Floor<br />
+Brooklyn, New York 11208<br />
+718-827-3961<br />
+718-827-3444<br /><br /><span><strong>Ft. Greene</strong> *<br />
+275 Bergen Street<br />
+1st Floor<br />
+Brooklyn, NY 11217<br />
+718-473-8510<br />
+718-694-8196<br />
+Mon. - Fri. 8:30 - 6 pm<br />
+Saturdays 9:00 am - 5 pm</span>&#160;</p><p><strong>North Brooklyn<br /></strong>500 Dekalb Avenue<br />
+4rd Floor<br />
+Brooklyn, NY&#160; 11205<br />
+718-398-5057<br />
+718-636-7046<br /><br /><strong>Williamsburg</strong>&#160;<br />
+30 Thornton Street<br />
+4th Floor<br />
+Brooklyn, NY 11206<br />
+718-963-5115<br />
+718-963-5140</p><br /><p><strong><u><br /><span class="bodytextbold"><span class="bodytext"><span class="bodytextbold">Bronx Locations:</span>&#160;</span></span></u></strong></p><p><strong>Concourse</strong> *<br />
+1375&#160;Jerome Avenue&#160;<br />
+2nd Floor<br />
+Bronx, NY 10452<br />
+Mon. - Fri. 8:30 am to 6:00 pm<br />
+Sat 9:00 am to 5:00 pm<br />
+718-637-2401<br />
+718-590-7235</p><p><strong>Crotona</strong>&#160;<br />
+1910 Monterey Avenue<br />
+5th Floor<br />
+Bronx, NY 10457<br />
+718-901-0287<br />
+718-901-5459</p><p><strong>Melrose</strong>&#160;<br />
+260 East 161 Street<br />
+Bronx, NY 10451<br />
+718-722-8013<br />
+718-838-6353 (8:30am-9am only)<br />
+718-838-6320 (work requirements)<br /><br /><br /><br /><strong><u><span class="bodytextbold"><span class="bodytext"><span class="bodytextbold">Manhattan&#160;Locations:</span>&#160;</span></span></u></strong></p><p><strong>East End</strong><br />
+2322 Third Avenue<br />
+3rd Floor<br />
+New York, NY 10035<br />
+212-860-5159<br />
+212-860-5147</p><p><strong>St. Nicholas</strong><br />
+132 W.125th Street<br />
+3rd Floor<br />
+New York, NY 10027<br />
+212-666-1434<br />
+212-666-8788<br />
+&#160;<br /><strong>Washington Heights</strong><br />
+4055 10th Avenue<br />
+Lower Level<br />
+New York, NY 10034<br />
+212-569-9829<br />
+212-569-9835<br /><br /><strong>Waverly *</strong><br />
+12 West 14th Street<br />
+4th Floor<br />
+New York, NY 10011<br />
+Mon. - Fri. 8:30 am to 6:00 pm<br />
+Saturdays 9:00 am to 5:00 pm<br />
+212-352-2519<br />
+212-352-2524</p><p>&#160;</p><p><strong><u><span class="bodytextbold"><span class="bodytext"><span class="bodytextbold">Queens&#160;Locations:</span>&#160;</span></span></u></strong></p><p><strong>Jamaica</strong> *<br />
+165-08 88th Avenue<br />
+3rd Floor<br />
+Jamaica, NY 11432<br />
+Mon., Tues., Wed., Fri. 8:30 am<br />
+to 6:00 pm<br />
+Thurs. 8:30 am to 6:00 pm<br />
+Saturdays 9:00 am to 5:00 pm<br />
+718-883-8356<br />
+718-883-8344</p><p><strong>Queens</strong>&#160;<br />
+32-20 Northern Blvd.<br />
+2nd Floor<br />
+(Entrance on One Honeywell Street)<br />
+LIC, NY 11101<br />
+718-784-6123<br />
+718-784-6315</p><p><strong>Rockaway<br /></strong>219 Beach 59th St.<br />
+1st Floor<br />
+Rockaway, NY 11692<br />
+718-637-2754<br />
+718-637-2750</p><p>&#160;</p><p><strong><u><span class="bodytextbold"><span class="bodytext"><span class="bodytextbold">Staten Island&#160;Location:</span>&#160;</span></span></u></strong></p><p><strong>Richmond</strong> *<br />
+201 Bay Street<br />
+2nd&#160;Floor<br />
+Staten Island, NY 10301<br />
+Mon. - Fri. 8:30 am to 6:00 pm<br />
+Saturdays 9:00 am to 5:00 pm<br />
+718-390-6827<br />
+718-390-6994</p><p><strong><br />
+* location with extended hours</strong></p></span>
+										
+								
+						
+
+					
+
+					 
+					   
+						
+					 
+					 
+					
+					</td><td align="left" bgcolor="" valign="top" width="20"><img src="../../includes/site_images/spacers/spacer_20_20.gif" alt="" width="20" height="20" border="0"></td></tr>
+					
+					  
+				   
+				</table>
+				<!-- END of PRIMARY FEATURE SECTION -->
+
+				<!-- START of SECONDARY FEATURE SECTION -->
+
+				<table width="409" border="0" cellspacing="0" cellpadding="0">
+				
+				  
+				
+				
+
+				  
+					  
+					<tr>
+					<td colspan="3" align="left" valign="top" bgcolor="" width="409">
+							
+							</td></tr>
+						
+					
+					  </table>
+
+				<!-- END of SECONDARY FEATURE SECTION -->
+
+				<!-- START of TERTIARY FEATURE SECTION -->
+				<table width="409" border="0" cellspacing="0" cellpadding="0">
+				  
+					  
+						<tr><td colspan="3" align="left" valign="top" bgcolor="" width="409">
+							
+							</td></tr>
+						
+					
+					  
+				   
+				</table>
+				<!-- END of TERTIARY FEATURE SECTION -->
+		<!-- END_PRINT_PAGE -->		
+
+			
+
+
+<!-- BEGIN_PRINT_PAGE -->
+				</td>
+				<!-- END of CENTER column -->
+		<!-- END_PRINT_PAGE -->					
+				
+				<!-- START of THIRD column -->
+				<td align="left" valign="top" width="180" id="col3_content">
+					
+						<!--<script language="JavaScript" type="text/JavaScript">
+<!--
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+//-->
+<!--</script>
+
+<table width="180" border="0" cellspacing="0" cellpadding="0">
+<tr valign="top"> 
+  <td width="16"><img src="../../includes/site_images/spacers/spacer.gif" width="16" height="5"></td>
+  <td align="center" bgcolor="#FFFFFF"><div align="left"><img src="../../includes/site_images/modules/resources.gif" width="161" height="30"><br>
+        <table width="100%" border="0" cellspacing="0" cellpadding="0" bgcolor="#FFFFFF">
+  <tr>
+    <td><img src="../../includes/site_images/spacers/spacer.gif" width="16" height="5"></td>
+  </tr>
+</table><img src="../../includes/site_images/modules/media kit.jpg">
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+            <td width="10"><img src="../../includes/site_images/spacers/spacer.gif" width="10" height="5"></td>
+            <td><img src="../../includes/site_images/nav/arrow_module.gif"><a href="../../html/news/media_kit.shtml" class="module_bodytext">Media Kit</a> <br>            
+              <img src="../../includes/site_images/nav/arrow_module.gif" /><a href="../../downloads/pdf/dss_nine_steps.pdf" class="module_bodytext">To download information on HRA's services</a><br>
+              <img src="../../includes/site_images/nav/arrow_module.gif" /><a href="../../downloads/pdf/dss_five_steps.pdf" class="module_bodytext">To download information on HRA job programs</a><br>
+            <img src="../../includes/site_images/nav/arrow_module.gif" /><a href="../../downloads/pdf/dss_magazine.pdf" class="module_bodytext">To download HRA's Magazine of services</a></td>
+  </tr>
+</table>
+    <br>
+        <br></td>
+  <td width="4"><img src="../../includes/site_images/spacers/spacer.gif" width="4" height="5"></td>
+</tr>
+</table>-->
+<script language="JavaScript" type="text/JavaScript">
+<!--
+
+function go(toelement)
+{
+ if(toelement.options[toelement.selectedIndex].value.length>0){
+ location = toelement.options[toelement.selectedIndex].value;
+ } } 
+//-->
+</script>
+<table width="180" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td><img src="../../includes/site_images/modules/hra_services.gif" alt="HRA Services" border="0"></td>
+  </tr>
+</table><table width="180" border="0" cellspacing="0" cellpadding="0" background="../../includes/site_images/modules/bg_module.gif">
+  <tr>
+    <td style="padding-left: 15px; padding-top: 15px;"><form name="services" style="margin-bottom:0;">
+      <select style="width : 146px" name="bytopic" id="by_topic" onchange="go(this.form.bytopic)" class="dropdown">
+        <option value="" selected>Select a Service</option>
+        <option value="../../html/directory/cash.shtml">Cash Assistance </option>
+        <option value="../../html/directory/hasa.shtml">HIV/AIDS Services </option>
+        <option value="../../html/directory/public_health.shtml">Public Health Insur </option>
+        <option value="../../html/directory/food.shtml">Food Stamps </option>
+        <option value="../../html/programs/liens_recovery_program.shtml">Request Lien Info </option>
+        <option value="../../html/directory/dv.shtml">Domestic Violence </option>
+        <option value="../../html/directory/adult.shtml">Adult Protective Svs </option>
+        <option value="../../html/directory/home_care.shtml">Home Care </option>
+        <option value="../../html/directory/heap.shtml">Energy Assistance </option>
+        <option value="../../html/programs/irea_claims_collections.shtml">Resolve Billing Issues </option>
+        <option value="../../html/directory/child.shtml">Child Support </option>
+        <option value="../../html/directory/long_term.shtml">Long-Term Care </option>
+        <option value=http://www.nyc.gov/html/hia/html/home/home.shtml>Health Insur Access</option>
+      </select>
+    </form></td>
+  </tr>
+</table>
+<table width="180" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td><img src="../../includes/site_images/modules/resources_bottom.gif" border="0"></td>
+  </tr>
+</table>
+
+					
+						﻿<script language="JavaScript" type="text/JavaScript">
+<!--
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+
+function go(toelement)
+{
+ if(toelement.options[toelement.selectedIndex].value.length>0){
+ location = toelement.options[toelement.selectedIndex].value;
+ } } 
+//-->
+</script>
+
+<table width="180" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td><img src="../../includes/site_images/modules/how_do_i.gif" alt="How Do I..." border="0"></td>
+  </tr>
+</table><table width="180" border="0" cellspacing="0" cellpadding="0" background="../../includes/site_images/modules/bg_module.gif">
+  <tr>
+    <td style="padding-left: 15px; padding-top: 15px;"><form name="menuform" style="margin-bottom:0;">
+<select style="width : 146px" name="bytopic" id="by_topic" onChange="go(this.form.bytopic)" class="dropdown">
+<option value="" selected>Select a Question</option>
+<!--
+<option value="http://www.nyc.gov/html/hra/html/programs/d_snap.shtml">Apply for D-SNAP?</option>
+-->
+<option value="../../html/directory/food.shtml">Get SNAP Benefits?</option>
+<option value="../../html/programs/liens_recovery_program.shtml">Get DSS Property Info?</option>
+<option value="../../html/programs/emergency_food.shtml">Get Emergency Food?</option>
+<option value="../../html/directory/info_howtoapply.shtml">Find a SNAP Center?</option>2</option>
+<option value="../../html/programs/irea_claims_collections.shtml">Repay One-Shot Grant?</option>
+<option value=http://www.nyc.gov/html/hia/html/home/home.shtml>Get Health Insurance?</option>
+<option value="../../html/directory/medicaid_offices.shtml">Find a Medicaid Office?</option>
+<option value="../../html/directory/job_centers.shtml">Find a Job Center?</option>
+<option value="../../html/programs/liens_recovery_program.shtml">Get HRA PI Lien Info?</option>
+<option value="../../html/programs/employment_services.shtml">Find a Job?</option>
+<option value="../../html/programs/one-shot_deal.shtml">Get a One-Shot Deal?</option>
+<option value="../../html/directory/dv.shtml">Get Help for D.V.?</option>
+<option value="../../html/programs/office_of_investigations.shtml">Report Fraud?</option>
+</select></form></td>
+  </tr>
+</table><table width="180" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td><img src="../../includes/site_images/modules/resources_bottom.gif" border="0"></td>
+  </tr>
+</table>
+					
+						<table width="180" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td><img src="../../includes/site_images/modules/resources.gif" alt="Resources" border="0" /></td>
+  </tr>
+</table><table width="180" border="0" cellspacing="0" cellpadding="0" background="../../includes/site_images/modules/bg_module.gif">
+  <tr>
+    <td class="module_td"><a href="http://www.nyc.gov/accessnyc"><img src="../../includes/site_images/modules/access_logo.gif" alt="ACCESS NYC" border="0" /></a><br />
+      <span class="module_bodytext"><a href="http://www.nyc.gov/accessnyc">Screen your family for over 35 City, State, 
+      and Federal health and human service benefit programs.</a></span></td>
+  </tr>
+</table><table width="180" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td><img src="../../includes/site_images/modules/resources_bottom.gif" border="0" /></td>
+  </tr>
+</table>
+					
+						﻿<table width="180" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td><img src="../../includes/site_images/modules/quick_links.gif" alt="Quick Links" border="0" /></td>
+  </tr>
+</table>
+<table width="180" border="0" cellspacing="0" cellpadding="0" background="../../includes/site_images/modules/bg_module.gif">
+  <tr>
+    <td class="module_td"><p>
+		<p><strong>Programs/Services:</strong><br />
+        <a href="../../html/directory/info_howtoapply.shtml">How to Apply for 
+		SNAP</a><br />
+        <a href="../../html/directory/food_stamp_expedited.shtml">Expedited SNAP</a><br />
+        <a href="../../downloads/pdf/Anti Discrimination Notice Language.pdf">
+		SNAP Anti Discrimination Notice</a><br />
+        <a href="../../html/programs/emergency_food.shtml ">Emergency Food Assistance Program (EFAP)</a><br />
+        <a href="../../html/directory/help.shtml">Help Is In Your Neighborhood</a><br />
+        <a href="http://www.nyc.gov/html/hra/downloads/pdf/internet_articles/2013/january_2013/Youth_FAQ_Final.pdf">Youth Applicants: FAQs</a><br />
+		</p>
+
+		<p><strong>Applications:</strong><br />
+		<a href="../../downloads/pdf/foodstamp_app.pdf">SNAP Application</a><br />
+		</p>
+
+		<p><strong>Brochures & Reports:<br>
+		</strong><a href="../../downloads/pdf/internet_articles/2012/july_2012/Cut_The_Junk_Booklet.pdf">Download Cut The 
+		Junk<br />Healthy Eating Guide</a><br />
+        <a href="../../downloads/pdf/Work_Support.pdf">Work Support</a><br />
+        <a href="../../downloads/pdf/FS_recertification_english.pdf">SNAP Telephone<br />Recertification- English</a><br />
+        <!--
+        <a href="../../downloads/pdf/FS_recertification_spanish.pdf">SNAP Telephone<br />Recertification- Spanish</a><br />
+        -->
+        <a href="../../downloads/pdf/FS_Needtoknow.pdf">SNAP What You Need<br />to Know- English</a><br />
+        <!-- 
+        <a href="../../downloads/pdf/FS_Needtoknow_S.pdf">SNAP What You Need<br />to Know- Spanish</a><br /> 
+        -->
+        <a href="../../downloads/pdf/SNAP/BRC_901C_IVRS_Eng.pdf">Interactive Voice Response<br />System (IVRS)</a><br />
+	    <a href="../../downloads/pdf/EFAP_stats.pdf">EFAP Stats</a><br />
+		</p>
+
+		<p><strong>Other Information:</strong><br />
+	    <a href="../../html/directory/food_recipes.shtml">Food Recipes</a><br />
+		</p>
+
+   </td>
+  </tr>
+</table>
+<table width="180" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td><img src="../../includes/site_images/modules/resources_bottom.gif" border="0" /></td>
+
+  </tr>
+</table>
+
+					
+				</td>
+				<!-- END of THIRD column -->
+		<!-- BEGIN_PRINT_PAGE -->		
+			</tr>
+	<!-- END_PRINT_PAGE -->			
+			<tr>
+				
+
+				<td>&nbsp;</td><td colspan="2"><!-- START of nycgov_footer.inc-->
+<!-- old table width=589;  499 for middle td -->
+<!-- expanded table width=769;  619 for middle td -->
+<!-- <table width="589" border="0" cellspacing="0" cellpadding="0">
+	<tr>
+		<td align="left" valign="top" width="30"><img src="../../includes/site_images/spacers/spacer_30_30.gif" alt="" width="30" height="30" border="0"></td>
+		<td align="left" valign="top" width="499"><img src="../..//includes/site_images/spacers/spacer_499_15.gif" alt="" width="499" height="15" border="0"><img src="../../includes/site_images/footer_divider.gif" alt="" width="499" height="1" border="0"><br>
+			<span class="footer_header">Footer header goes here<br>
+			</span><span class="footer_text">Footer text description goes here. It is optional and the max is about 300 characters which is approximately 3-4 lines of text. Footer text description goes here. It is optional and the max is about 300 characters which is approximately 3-4 lines of text.<br>
+			</span></td>
+		<td align="left" valign="top" width="60"><img src="../..//includes/site_images/spacers/spacer_60_30.gif" alt="" width="60" height="30" border="0"><br>
+			<br>
+		</td>
+	</tr>
+</table> -->
+<!-- END of default_footer.inc -->
+</td>
+
+			
+			</tr>
+			<tr height="25">
+				<td colspan="3" align="left" valign="top" width="769" height="25">
+
+					<table width="769" border="0" cellspacing="0" cellpadding="0">
+	<tr><td><img src="../../includes/site_images/misc/bottom_branding.gif" border="0"></td></tr>
+</table>
+
+
+
+	<!-- END_PRINT_PAGE -->
+			<!-- START of nycgov_footer.inc-->
+<style type="text/css">
+<!--
+	.footer_links {font-family: Verdana, Arial, Helvetica, sans-serif;
+		font-size: 10px;
+		color: #F9D053;
+	}
+
+	.footer_copyright {font-family: Verdana, Arial, Helvetica, sans-serif;
+		font-size: 10px;
+		color: #C4C4B2;
+	}
+-->
+</style>
+<TABLE cellSpacing=0 cellPadding=0 width=769 bgColor=#494B4C border=0>
+	<TBODY>
+	<TR><TD width=13><IMG height=24 src="../../includes/site_images/spacers/spacer.gif" width=13></TD>
+          <TD width=287><SPAN class=footer_copyright>Copyright 2013 The City of New York</SPAN></TD>
+          <TD align=right width=444><SPAN class=footer_links><A class=footer_links href="/contact">Contact Us</A> | <A class=footer_links href="/faqs">FAQs</A> | <A class=footer_links href="/privacy">Privacy Policy</A> | <A class=footer_links href="http://www.nyc.gov/html/misc/html/tou.html">Terms of Use</A> | <A class=footer_links href="/sitemap">Site Map</A></SPAN></TD>
+          <TD align=right width=25><IMG height=24 src="../../includes/site_images/spacers/spacer.gif" width=25></TD></TR>
+        </TBODY>
+</TABLE>
+<!-- Privacy Policy updated on 03/08/2011 -->
+<!--  nycgov Webtrends code, added on 02/16/2011 -->
+<script src="/html/misc/scripts/nycwebtrends.js" type="text/javascript"></script>
+<script type="text/javascript">
+//<![CDATA[
+var _nyctag=new WebTrends();
+_nyctag.dcsInit();
+_nyctag.dcsGetId();
+//]]>>
+</script>
+<script type="text/javascript">
+//<![CDATA[
+_nyctag.dcsCollect();
+//]]>>
+</script>
+
+<!-- PROD noscript section -->
+<noscript>
+<div><img alt="DCSIMG" id="DCSIMG" width="1" height="1" src="http://a858-sdc.nyc.gov/dcslfpea2000008i7geu3pdky_5v8x/njs.gif?dcsuri=/nojavascript&WT.js=No&WT.tv=8.6.2"/></div>
+</noscript>
+<!--  END OF nycgov Webtrends code, added on 02/16/2011 -->
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-9518673-1");
+pageTracker._trackPageview();
+} catch(err) {}
+</script>
+<!-- END of nycgov_footer.inc-->
+
+	<!-- BEGIN_PRINT_PAGE -->
+				</td>
+			</tr>
+		</table>
+	<!-- END_PRINT_PAGE -->	
+	</body>
+</html>
+

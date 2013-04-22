@@ -1,0 +1,1528 @@
+
+
+
+		
+	
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+	<head>
+		<meta http-equiv="content-type" content="text/html;charset=UTF-8">
+		<meta name="tp-name" content="homepage_2col">
+
+		
+		<meta name="keywords" content="new york city, nyc, free, job opportunities, career opportunities, help me find a job, jobs, Jjob search advice, career help, job vacancies, employment
+">
+		
+		
+
+		
+				<title>Workforce1 - Job and Career Opportunities for New York City's Jobseekers</title>
+			
+		
+				
+			
+		<link href="../../includes/css/rollout.css" rel="stylesheet">
+	</head>
+
+<body  background="../../includes/site_images/misc/bg.gif"
+  bgcolor="#ffffff" leftmargin="0" marginheight="0" marginwidth="0" topmargin="0">
+
+	<!-- BEGIN_PRINT_PAGE -->
+		<table width="769" border="0" cellspacing="0" cellpadding="0" height="100%">
+	<!-- END_PRINT_PAGE -->	
+			<tr><td colspan="2" align="left" valign="top" width="769">
+					<!-- START of nycgov_header.inc -->
+<table width="769" border="0" cellspacing="0" cellpadding="0" height="51">
+	<tr>
+		<td><img src="../../includes/site_images/nyc_gov/nycgov_banner.gif" alt="" width="769" height="51" border="0" usemap="#TopNav"></td>
+	</tr>
+</table>
+<map name="TopNav">
+  <area shape="rect" coords="554,1,599,25" href="/search" alt="Search">
+  <area shape="rect" coords="607,1,688,25" href="/portal/register.jsp" alt="Email Updates">
+  <area shape="rect" coords="698,1,762,25" href="/contact" alt="Contact Us">
+  <area shape="rect" coords="328,27,399,50" href="/residents" alt="Residents">
+  <area shape="rect" coords="408,27,471,50" href="/business" alt="Business">
+  <area shape="rect" coords="478,27,535,50" href="/visitors" alt="Visitors">
+  <area shape="rect" coords="544,27,628,50" href="/government" alt="Government">
+  <area shape="rect" coords="635,27,764,50" href="/mayor" alt="Office of the Mayor">
+  <area shape="rect" coords="3,3,49,48" href="/home.html" alt="NYC.gov always open">
+</map>
+<!-- END of nycgov_header.inc -->
+					
+							<script type="text/javascript">
+//fix for trailing slash issue
+var pagePath = document.location.href;
+if ((pagePath.substring(pagePath.length -6, pagePath.length)) == "shtml/" ) {
+	document.location.replace(pagePath.substring(0,pagePath.length-1));
+}
+</script>
+<script type="text/javascript" src="../../includes/scripts/misc.js"></script>
+<script type="text/javascript" src="../../includes/scripts/cookies.js"></script>
+<script language="JavaScript" src="../../includes/scripts/change_text.js"></script>
+<script language="JavaScript" src="../../includes/scripts/translate.js"></script>
+<!-- Header Code -->
+
+<script type="text/javascript">
+//<![CDATA[
+
+	var PageConfig = {};
+	PageConfig.dcsid = "dcsn77wf910000w8s4czertdx_1p2i";
+	PageConfig.onsitere = /^(www\.)?(nyc\.gov|(ci\.)?nyc\.ny\.us){1}(\/)(html)?(\/)?sbs.*/i;
+	
+	var PageArray = {};
+	PageArray.PageLoad = [];
+	PageArray.PageLoad[0] = 'DCSext.o_agcy';
+	PageArray.PageLoad[1] = 'SBS';
+
+	//]]>>
+</script>
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-20621024-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+<table cellspacing="0" cellpadding="0" border="0" width="769" class="banner_bg">
+  <tr>
+    <Td><table cellspacing="0" cellpadding="0" border="0" width="769">
+        <tr>
+          <td class="banner_logo"><a href="../../html/home/home.shtml"><img src="../../includes/site_images/branding/wf1_logo.png" border="0" alt="Workforce 1" width="255" height="47"></a></td>
+          <td class="banner_sm" align="right"><table cellspacing="0" cellpadding="0" border="0">
+              <tr>
+                <td class="banner_sm_connect"><img src="../../includes/site_images/branding/connect.png" width="111" height="16" border="0" alt="Connect with us:"></td>
+                <td class="banner_sm_icon"><a href="http://www.nyc.gov/cgi-bin/exit.pl?url=http://www.linkedin.com/company/workforce1" target="_blank"><img src="../../includes/site_images/branding/linkedin.png" width="30" height="31" border="0" alt="LinkedIn"></a></td>
+                <td class="banner_sm_icon"><a href="http://www.nyc.gov/cgi-bin/exit.pl?url=http://www.facebook.com/nycworkforce1" target="_blank"><img src="../../includes/site_images/branding/facebook.png" width="30" height="31" border="0" alt="Facebook"></a></td>
+                <td class="banner_sm_icon"><a href="http://www.nyc.gov/cgi-bin/exit.pl?url=http://twitter.com/nycworkforce1" target="_blank"><img src="../../includes/site_images/branding/twitter.png" width="30" height="31" border="0" alt="Twitter"></a></td>
+                <td class="banner_sm_icon"><a href="http://www.nyc.gov/cgi-bin/exit.pl?url=http://nycworkforce1.org" target="_blank"><img src="../../includes/site_images/branding/wordpress.png" width="30" height="31" border="0" alt="WordPress"></a></td>
+              </tr>
+            </table></td>
+        </tr>
+      </table></Td>
+  </tr>
+  <tr>
+    <Td class="banner_tools" align="right"><table cellspacing="0" cellpadding="0" border="0">
+        <tr>
+          <Td class="banner_tools_item"><a onMouseOver="swapImage('bulletin','bulletin_1.gif')" onMouseOut="restoreImage('bulletin')"  href="http://www.nyc.gov/cgi-bin/exit.pl?url=http://visitor.r20.constantcontact.com/d.jsp?llr=qfyc8udab&p=oi&m=1103432343728
+"><img src="../../includes/site_images/branding/bulletin_0.gif" width="67" height="25" name="bulletin" id="bulletin" alt="Sign Up for Our Career Bulleting" border="0"></a></Td>
+          <Td class="banner_tools_item"><a onMouseOver="swapImage('find','find_1.gif')" onMouseOut="restoreImage('find')"  href="../../html/contact/contact.shtml"><img src="../../includes/site_images/branding/find_0.gif" width="59" height="25" name="find" id="find" alt="Find a Center" border="0"></a></Td>
+          <Td class="banner_tools_item" id="translate_button"><a onMouseOver="swapImage('translate','translate_1.gif')" onMouseOut="restoreImage('translate')" href="javascript:showTranslate();"><img src="../../includes/site_images/branding/translate_0.gif" width="42" height="25" name="translate" id="translate" alt="Translate This Page" border="0"></a></Td>
+          <Td class="banner_tools_item" id="english_button" style="display:none;"><a onMouseOver="swapImage('english','english_1.gif')" onMouseOut="restoreImage('english')" href="javascript:resetLang();"><img src="../../includes/site_images/branding/english_0.gif" width="33" height="25" name="english" id="english" alt="Back to English" border="0"></a></Td>
+          <Td class="banner_tools_item"><a onMouseOver="swapImage('printer','printer_1.gif')" onMouseOut="restoreImage('printer')" href="http://www.nyc.gov/cgi-bin/misc/pfprinter.cgi?action=print&sitename=nycdigital"><img src="../../includes/site_images/branding/printer_0.gif" width="36" height="25" name="printer" id="printer" alt="Printer Friendly" border="0"></a></Td>
+          <td class="banner_tools_item" id="right"><table cellspacing="0" cellpadding="0" border="0">
+              <Tr>
+                <Td class="banner_text_size"><img src="../../includes/site_images/branding/font_size.gif" width="42" height="25" alt="Font Size:" border="0"></Td>
+                <td class="banner_text_size_item"><a onMouseOver="swapImage('small','small_1.gif')" onMouseOut="restoreImage('small')" href="javascript:switchStyle('1');"><img src="../../includes/site_images/branding/small_0.gif" border=0 alt="Sm" name="small" id="small" width="7" height="25"></a></td>
+                <td class="banner_text_size_item"><a onMouseOver="swapImage('medium','med_1.gif')" onMouseOut="restoreImage('medium')" href="javascript:switchStyle('2');"><img src="../../includes/site_images/branding/med_0.gif" border=0 alt="Med" name="medium" id="medium" width="9" height="25"></a></td>
+                <td class="banner_text_size_item"><a onMouseOver="swapImage('large','large_1.gif')" onMouseOut="restoreImage('large')" href="javascript:switchStyle('3');"><img src="../../includes/site_images/branding/large_0.gif" border=0 alt="Lg" name="large" id="large" width="10" height="25"></a></td>
+              </Tr>
+            </table></td>
+        </tr>
+      </table></Td>
+  </tr>
+</table>
+<script language="Javascript">
+<!--
+if(GetCookie(fontSizeCookie) == "2"){	
+	document.medium.src='../../includes/site_images/branding/med_1.gif';	
+}else if(GetCookie(fontSizeCookie) == "3"){
+	document.large.src='../../includes/site_images/branding/large_1.gif';	
+}else{
+	document.small.src='../../includes/site_images/branding/small_1.gif';	
+}
+preloadImages(['../../includes/site_images/branding/printer_1.gif','../../includes/site_images/branding/translate_1.gif','../../includes/site_images/branding/english_1.gif','../../includes/site_images/branding/email_1.gif','../../includes/site_images/branding/small_1.gif','../../includes/site_images/branding/med_1.gif','../../includes/site_images/branding/large_1.gif']);
+//--></script>
+<iframe scrolling='no' frameborder='0' class='shim' name='shim' id='shim'></iframe>
+<div id="translate_popup" class="popup">
+  <table cellspacing="0" cellpadding="0" border="0" width="323">
+    <tr>
+      <td class="popup_table"><table cellspacing="0" cellpadding="0" border="0" width="284">
+          <tr>
+            <Td colspan="2"><img src="../../includes/site_images/misc/translate_popup.gif" width="284" height="39" alt="Translate this Page" border="0"></Td>
+          </tr>
+          <tr>
+            <td class="popup_label" width="123">Select a Language</td>
+            <td class="popup_field" width="147"><select name="tl" id="tl" style="width:147px">
+                <option value="">- Select -</option>
+                <option value="ar">Arabic</option>
+                <option value="bg">Bulgarian</option>
+                <option value="ca">Catalan</option>
+                <option value="zh-CN">Chinese (Simplified)</option>
+                <option value="zh-TW">Chinese (Traditional)</option>
+                <option value="hr">Croatian</option>
+                <option value="cs">Czech</option>
+                <option value="da">Danish</option>
+                <option value="nl">Dutch</option>
+                <option value="tl">Filipino</option>
+                <option value="fi">Finnish</option>
+                <option value="fr">French</option>
+                <option value="de">German</option>
+                <option value="el">Greek</option>
+                <option value="iw">Hebrew</option>
+                <option value="hi">Hindi</option>
+                <option value="id">Indonesian</option>
+                <option value="it">Italian</option>
+                <option value="ja">Japanese</option>
+                <option value="ko">Korean</option>
+                <option value="lv">Latvian</option>
+                <option value="lt">Lithuanian</option>
+                <option value="no">Norwegian</option>
+                <option value="pl">Polish</option>
+                <option value="pt">Portuguese</option>
+                <option value="ro">Romanian</option>
+                <option value="ru">Russian</option>
+                <option value="sr">Serbian</option>
+                <option value="sk">Slovak</option>
+                <option value="sl">Slovenian</option>
+                <option value="es">Spanish</option>
+                <option value="sv">Swedish</option>
+                <option value="uk">Ukrainian</option>
+                <option value="vi">Vietnamese</option>
+              </select>
+            </td>
+          </tr>
+          <tr>
+            <td class="buttons" colspan="2"><input type="button" class="yellow_button" style="width:78px;" value="Translate" onClick="setLanguage(document.getElementById('tl').options[document.getElementById('tl').selectedIndex].value)" />
+              <input type="button" class="yellow_button" style="width:56px;" value="Cancel" onClick="hideTranslate()" /></td>
+          </tr>
+        </table></td>
+  </table>
+</div>
+
+						
+			</td></tr>
+
+		
+		<!-- BEGIN_PRINT_PAGE -->
+		<tr>
+		<!-- END_PRINT_PAGE -->
+		<td align="left" valign="top" width="180" height="100%">
+					
+							
+							 
+								  <table width="180" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td class="nav_search"><form action="http://search1.nyc.gov/search?" method="GET" name="gs" style="margin: 0px;">
+        <input value="xml_no_dtd" name="output" type="hidden">
+        <input value="default_collection" name="site" type="hidden">
+        <input value="agency_frontend" name="proxystylesheet" type="hidden">
+        <input value="agency_frontend" name="client" type="hidden">
+        <input value="www.nyc.gov/html/sbs/wf1" name="sitesearch" type="hidden">
+        <table cellspacing="0" cellpadding="0" border="0">
+          <tr>
+            <Td class="banner_search_field"><input name="q" id="search_nycgov" class="searchfield" style="width:141px; height:19px;" type="text" value="Search" onFocus="if(this.value.toLowerCase()=='search'){this.value=''}" onBlur="if(this.value.length==0){this.value='Search'}"></Td>
+            <td class="banner_search_button"><input name="go" id="go" onMouseOver="swapImage('go','go_1.gif');" onMouseOut="restoreImage('go')" src="../../includes/site_images/nav/go_0.gif" alt="Go" border="0" width="18" height="19" type="image"></td>
+          </tr>
+        </table>
+      </form></td>
+  </tr>
+  <tr>
+    <td class="nav"><script language="Javascript" src="../../includes/scripts/nav_nodes.js"></script>
+      <script language="Javascript" src="../../includes/scripts/nav_code.js"></script>
+      <noscript>
+      <a href="../../html/home/home.shtml" class="nav_section">Home</a><br>
+      <a href="../../html/about/about.shtml" class="nav_section">About Workforce1</a><br>
+      <a href="../../html/job/job.shtml" class="nav_section">Find a Job</a><br>
+      <a href="../../html/develop/develop.shtml" class="nav_section">Develop your Skills</a><br>
+      <a href="../../html/land/land.shtml" class="nav_section">Land the Job</a><br>
+      <a href="../../html/register/register.shtml" class="nav_section">Register for Services</a><br>
+      <a href="../../html/contact/contact.shtml" class="nav_section">Contact Workforce1</a><br>
+      <span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/contact/library.shtml" class="nav_subsection">Resource Library</a><br>
+      <span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/contact/bulletin.shtml" class="nav_subsection">Sign Up for Our Career Bulletin</a><br>
+      </noscript>
+    </td>
+  </tr>
+  <tr>
+    <Td id="altnav" class="altnav" style="display:none;"><a href="../../html/home/home.shtml" class="nav_section">Home</a><br>
+      <a href="../../html/about/about.shtml" class="nav_section">About Workforce1</a><br>
+      <a href="../../html/job/job.shtml" class="nav_section">Find a Job</a><br>
+      <a href="../../html/develop/develop.shtml" class="nav_section">Develop your Skills</a><br>
+      <a href="../../html/land/land.shtml" class="nav_section">Land the Job</a><br>
+      <a href="../../html/register/register.shtml" class="nav_section">Register for Services</a><br>
+      <a href="../../html/contact/contact.shtml" class="nav_section">Contact Workforce1</a><br>
+      <span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/contact/library.shtml" class="nav_subsection">Resource Library</a><br>
+      <span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/contact/bulletin.shtml" class="nav_subsection">Sign Up for Our Career Bulletin</a><br>
+    </Td>
+  </tr>
+  <tr>
+    <Td class="nav_icon"><a href="http://www.nyc.gov/sbs" target="_blank"><img src="../../includes/site_images/nav/sbs_logo.gif" width="93" height="54" border="0" alt="NYC Small Business Services"></a></Td>
+  </tr>
+  <tr>
+    <Td class="nav_icon"><a href="https://a801-worksource1.nyc.gov/" target="_blank"><img src="../../includes/site_images/nav/login_1.png" alt="Log In" name="login" width="100" height="30" border="0" id="login" onmouseover="MM_swapImage('login','','../../includes/site_images/nav/login_2.png',0)" onmouseout="MM_swapImgRestore()"></a></Td>
+  </tr>
+</table>
+
+								 
+						
+				</td>
+				<!-- START of CENTER column -->
+				<!-- BEGIN_PRINT_PAGE -->
+				<td id="main_content" align="left" valign="top" width="589">
+				<!-- START of PRIMARY FEATURE SECTION -->
+				<table width="589" border="0" cellspacing="0" cellpadding="0">
+				  
+					  
+						<tr><td colspan="3" align="left" valign="top" bgcolor="" width="589">
+							
+								<img src="../../includes/site_images/spacers/spacer_30_30.gif" alt="" width="30" height="30" border="0"/><span class="area_header">Find a Job<br/></span>
+								
+							</td></tr>
+						
+					
+						<tr><td align="left" bgcolor="" valign="top" width="30"><img src="../../includes/site_images/spacers/spacer_30_30.gif" alt="" width="30" height="30" border="0">
+						</td><td align="left" bgcolor="" valign="top" width="499"><img src="../../includes/site_images/spacers/spacer_499_15.gif" alt="" width="499" height="15" border="0"><br>
+					  
+							
+						
+					  
+							
+							
+									
+											<span class="bodytext"></span>
+											
+										
+									
+											<span class="bodytext"><p style="MARGIN-top: 0in">Please see below for this week's highlighted job opportunities. Check back regularly for new opportunities! You can also browse our upcoming&#160;<a href="../../html/job/events.shtml">Recruitment Events</a>&#160;for additional job opportunites.&#160;For the complete listing of jobs, please visit one of our&#160;<a href="../../html/contact/contact.shtml">Workforce1 career centers</a>.&#160;</p><p><em>*Details subject to change</em></p><p class="sectionheader"><em>Search Job Postings</em></p></span>
+										
+								
+						
+
+					
+
+					 
+					   
+						
+					 
+					 
+					
+					</td><td align="left" bgcolor="" valign="top" width="60"><img src="../../includes/site_images/spacers/spacer_60_30.gif" alt="" width="60" height="30" border="0"></td></tr>
+
+					
+
+					  
+				   
+					  
+						<tr><td colspan="3" align="left" valign="top" bgcolor="" width="589">
+							
+							</td></tr>
+						
+					
+						<tr><td align="left" bgcolor="" valign="top" width="30"><img src="../../includes/site_images/spacers/spacer_30_30.gif" alt="" width="30" height="30" border="0">
+						</td><td align="left" bgcolor="" valign="top" width="499"><img src="../../includes/site_images/spacers/spacer_499_15.gif" alt="" width="499" height="15" border="0"><br>
+					  
+							
+						
+					  
+							
+							
+									
+											<span class="bodytext"><!--
+
+In this app, the structure is basically as follows:
+
+- Script resources. (You can replace them with local links to "jquery.min" and "jquery-ui.css" from business solutions or upload these files from ajax.googleapis.com directly to the appropriate directories on SBS)
+-Styles for the page/module
+-Script for the page. There is extensive commenting in here.
+-HTML
+
+/************************************************************ Modifying job descriptions **************************************************
+
+************How to change the structure of a listing************
+
+1)a) If any data is added to the listing, first make sure the new XML Mapping schema file works in Excel to produce well-formatted XML files properly with any modifications made.
+b) This schema file contains two copies of each listing. The change must be made in both copies, and both copies must be identical. (This alerts Excel that the listing structure may be repeated indefinitely many times.)
+c) If the export name or location is modified relative to the page where this application's code resides, then the file path also needs to be changed in the first occurrence of the "XMLListingsDocPath" variable (search for it).
+
+2)a) Find the prototype "function Listing" near the bottom of the page and add or remove any options from the parenthetical list that follows.
+a*) Do not remove or change pageID - it is a page-level primary key.
+b) Supply/remove a "this.newfield=newfield" declaration,
+c) Supply/remove a ".replace("%newfield%",this.newfield)" -- don't forget the beginning period, which goes on every "replace" command
+c*)If the same "%newfield%" appears more than once in a template, then a global replace is needed: ".replace(/%newfield%/g,this.newfield)" -- Note that there are no quotes in the first parameter of the replace function when global replace is used.
+c**)For some fields, a more complicated logic may be desired in order to display customized output. Depending on how complex, it may be a simple transformation (e.g. - ".replace("%newfield%",this.newfield.toUpperCase())" for all caps) or something that would be best served by a subroutine. Such a subroutine should be fed the necessary fields, handle all of the processing internally, and then return a pure string to keep the replace code clean.
+
+3)a) Modify the structure of "Listing.prototype.template" string as needed (it follows the "function Listing" prototype. Testing this in Dreamweaver may help. carriage returns need a backslash escape immediately prior, or Javascript will try to prematurely terminate the template.
+a*) Do NOT change the class="listing" attribute in the <tr> tag, or nest the <tr> tag in anything else. This application is designed to work in a table structure. Modifying the number and content of the <td> cells is okay, just be sure to modify the width and number of <col> tags accordingly in the HTML under <table id="listings_master_table">, and the <th> tags for heading content.
+b) Make sure the inclusion of any new data to be filled in matches the first argument to the "replace" function above, including percent signs. (Percent signs are not required, but good for human readability and assuring unique identifiers.)
+c) You may alternatively mark up something in Dreamweaver, paste in the markup here as a string, and insert backslashes at the linebreaks.
+c*) If problems still persist, all spaces and carriage returns can simply be removed, or all line breaks should close the string quote, followed by a plus (+) sign to concatenate the HTML string.
+
+4)a) Find the command inside "function populateTable" beginning with "ListingsGlobal.listingsOnPage.push"
+b) add in to the parameter list "e.find('NEWOPTION').text()" where NEWOPTION reflects the new parameter's tag in the XML.
+b*) IMPORTANT: The ordering of the parameters here must match the ordering in the function prototype of step 2.
+(The 'pageID' in the prototype requires the 'i' in the command here and does not come from the XML, so do not modify it.
+
+
+
+************How to add a new filter for the option************
+
+1)a) Inside the <table id="filters">, create a filter row option <select class="filter">...</select> in the HTML.
+b) This select tag must have its id attribute in the HTML set to the same (case-sensitive) value as the new field it is meant to filter on. This field name is determined in "this.NEWFIELD". If this new field does not exist, steps 1 and 2 of "How to change the structure of a listing" above must be followed.
+
+2) Create a clear button for the filter. Copy the code below exactly into the <div id="filter_clears"> at the proper order position, and replace the "IDOFOPTION" with the id (case-sensitive) used above.
+<input value="Clear" class="clearBtn" id="clear_IDOFOPTION" type="button"/>
+
+3) Inside each filter should be placed the following as a default (The 'Select:' message between the tag can be anything, however):
+<option selected="selected" value="">Select:</option>
+
+
+
+************Errata************
+
+Listing Headings
+
+The first <tr> tag of <table id="listings_master_table"> is the only one filled in on the HTML, and it should always be the first and only <tr> tag there. This first <tr> is a reserved spot that the application knows not to touch when repopulating the table. The <col> tags control the column width. They can be adjusted, but should sum up to the maximum value allowed by the width given from Teamsite, in order to reduce unpredictable behavior.
+
+Listing Styles
+
+Some style information related to the display in the table structure and across all listings is specified in page-level CSS within this tag:
+<style id="listings_master_table_styles" type="text/css">
+These can be modified freely.
+
+Collapsible data
+
+Anything within the HTML listing template residing in <div class="extra_details"></div> will be hidden upon display and expandable via the 
+<a href="#" class="readMore"> clickable link. You may change the text inside of this any of the content inside of the <div>, but if the width is forced, the listings table may be thrown off. Test in dev. In order to change the text for the open and closed messages inside the collapsing <a> link, modify "readMoreOpen" and "readMoreClosed" in the major ListingsGlobal collection variable shortly after this guide. You can move around the location of the <a> and its collapsible <div> anywhere in the template.
+
+Listing sorting
+
+All listings are sorted by the property "date" if possible. Otherwise, they are sorted as they appear in the XML. If there is no property "date" but some other date desirable for sorting, then "date" should be modified in the "masterSort" variable. If some other sorting criterion is desired, the entire function in that section must be customized. A sorting function needs to return a negative number to denote that listing_a should come before listing_b, or a positive number to denote that a should come after b. Returning 0 means that a is equivalent to b, and the browser will sort it according to its internal implementation. If desiring to sort alphabetically on some property of a listing, it is usually advisable to write it as: "listing_a.PROPERTY.toLowerCase() < listing_b.PROPERTY.toLowerCase()", otherwise capital letters will always rank lower. Some useful information on this may be found at:
+https://developer.mozilla.org/en/JavaScript/Reference/Global_Objects/Array/sort
+
+Page performance
+
+Asynchronous action allows the user to interact with the webpage without the scripts freezing it the whole browser. This comes at a slight performance cost. The page's action can be tweaked for a desired performance/asynchronous behavior balance using the "iterationsPerAsyncCall" variable. It's value should be an integer greater than or equal to 1. The higher the number, the faster each search/filter/displays will execute, but the less responsive the user's browser may be to other activity while the action is taking place. For small data sets, the number can be quite high (>50) without any noticeable choppiness in the browser. For larger sets, it may be better to reduce the number significantly.
+
+Date management
+
+The recruitment events had both a check in and checkout time, so two different time indicators were used (checkInStart,checkInEnd), both separate from the date. The code relating to time in "function Listing" can be reduced in most cases, if only 1 is used. Or it can be expanded to as many as needed.
+We are currently doing a date export from Excel, which uses a proprietary format.
+If unexpected dates start appearing, this may be due to a change in a later version of Excel that is causing the issue, and some investigative work will need to be done to figure out the new format. To update for fixes, "this.date" should be set to equal the new conversion function from the raw "date" variable. The XML source should really be split out into month, day, and year fields separately. Once that is done and such values are available, the above line can be replaced with:
+"this.date=new Date(month+'/'+date+'/'+year)"
+And this should be much more reliable.
+Time should also be stored separately. Currently, there is a section of code "/********BEGIN EXCEL DATE-TIME CONVERSION***" which is unique to Excel's time format.
+Every datetime should ideally have a completely separate set of values for fully separate date objects, even if the date is the same and only the time is different. Separate start and end times on the same day should not be listed separately apart from the day - this requires messier code.
+A date object can be displayed in a clean format in a replace() command by changing the string in the "format" function. This is a separate script. You call it as DATEOBJECT.format(STRING): it must be called on a javascript date object with a string which closely follows the established PHP notation for date formatting: http://us3.php.net/manual/en/function.date.php
+(All characters without a specified formatting use in the URL above will simply show up as entered into this string.)
+In order to use the format function, dateFormat.js must be properly included in a script tag at the top of the page, preferably right after the jquery include.
+
+Filter options sorting
+
+All filters by default will sort their options (either when all options are visible in a clear search or when the option set has been reduced by restricting other filters) alphabetically. Custom sortings, such as for dates, should be added after this line:
+"Custom sorting of the options in a filter should be amended here"
+Custom sorting functions may have to be written if more than dateSort is required. A tutorial can be found here:
+https://developer.mozilla.org/en/JavaScript/Reference/Global_Objects/Array/sort
+
+Loader
+
+The message of the loading marker can be modified as the first parameter of "ListingsGlobal.loader.start(parameter)" where 'parameter' is a quoted string. The speed of the ellipsis can be modified under with the "timeIncrement" variable (in milliseconds). An optional second parameter to "ListingsGlobal.loader.start(parameter,max)" will display a running percentage of the task completion instead of the shifting ellipsis. This max number needs to be known beforehand, and reflects the number of times some task needs to be performed, such as showing a listing. Usually it is the "length" property of an array/list. A loader can be stopped by "ListingsGlobal.loader.stop()".
+
+Pagination
+
+Pagination kicks in when the number of items in a given filter set exceed the value for "maxPerPage." This can be adjusted to any positive whole number. If pagination is not desired, it should be set to an impossibly high number, or in a more formally to, "Number.MAX_VALUE"
+
+***********************************************************************************************************************************/
+-->
+<script type='text/javascript' src='../../includes/scripts/jquery.min.js'></script>
+<script type='text/javascript' src='../../includes/scripts/dateFormat.js'></script>
+
+<style id="listings_master_table_styles" type="text/css">
+#listings_wrapper{
+	width: 550px;
+	position:relative;
+	top:0px;
+	left:0px;
+}
+#searchTitle{
+	margin: 0px auto 10px auto;
+}
+#optionsBlock{
+	visibility:hidden;
+	margin-left:auto;
+	margin-right:auto;
+	background-color: #F5F5F5;
+	padding-top: 5px;
+}
+/*
+#filters{
+	display:inline-block;
+	height:70px;
+	width: 490px;
+}*/
+	#filters .label{
+		width: 100px;
+		font-size:8pt;
+		font-weight:bold;
+		text-align:right;
+		display:inline-block;
+		margin:0px 5px 0px 0px;
+	}
+	#filters select{
+		font-family: Verdana,Arial,Helvetica;
+		font-size:8pt;
+		max-width: 370px;
+		min-width: 101px;
+	}
+#filter_clears{
+	display:inline-block;
+	height: 70px;
+}
+	.clearBtn{
+		width: 50px;
+		font-size: 8pt;
+		font-family: arial, sans-serif;
+		padding:0px 0px 0px 0px;
+		margin: 1px 0px 1px 5px;
+	}
+table#listings_master_table{
+	width:100%;
+	margin-left:auto;
+	margin-right: auto;
+	font-size:11px;
+	line-height: 15px;
+	color: #5A5A5A;
+	border:solid 1px #000;
+}
+	table#listings_master_table td{
+		vertical-align:top;
+		padding:5px 5px; 10px;
+	}
+	table .listings_master_table_th{
+		text-align:left;
+		padding:5px;
+	}
+	
+	#listings_master_table tr td:nth-child(1){
+		max-width: 150px
+	}	
+	
+</style>
+
+<script type="text/javascript"> 
+
+
+//ListingsGlobal is a Global object collection containing page-wide variables
+var ListingsGlobal={
+	listingsOnPage:[],
+	listingsToShow:[],
+	initialized:false,
+	finishCount:0,
+	iterationsPerAsyncCall:6,
+	XMLListingsDocPath:"job_listings.xml",
+	//Chief sorting criterion
+	masterSort : function(listing_a,listing_b){
+		if(listing_a.title.toLowerCase() < listing_b.title.toLowerCase()){
+			return -1
+		}
+		else{
+			return 1;
+		}
+	},
+	//Pagination properties
+	maxPerPage: 50,
+	currPage: 0,
+	totalPages: null,
+	//Custom text for dynamically set elements in the listing
+	noResults: 'There are no events fitting these search criteria. Clear or alter some of the options above to continue.',
+	noData: 'There are currently no event listings posted.',
+	readMoreClosed: 'Click for details',
+	readMoreOpen: 'Collapse details',
+	optionsBreadcrumb:{
+		justChanged: null,
+		filters : [],
+		snapshotSet : [],
+		availableVals : []
+	},
+	//A custom object designed to show progress. This is an object within ListingsGlobal.
+	loader:{
+		message:"Loading",
+		me:{},
+		timeIncrement:200,
+		currentProgress:0,
+		knownMax:null,
+		active: false,
+		anim: [""," ."," . ."," . . ."],
+		//Both parameters are optional.
+		start:function(msg,maxamt){
+			$("<div id='loader' style='text-align:center;font-family: Verdana,Arial,Helvetica;font-size:8pt;'>"+this.message+"</div>").appendTo('#loaderHolder');
+			this.me = $('#loaderHolder #loader');
+			this.active = true;
+			if(!isNaN(maxamt) && maxamt!==undefined) this.knownMax = maxamt; else this.knownMax = null;
+			if(msg !== undefined) this.message = msg; else this.message = "Loading";
+			this.run(0);
+		},
+		run:function(amountIncr){
+			this.currentProgress += amountIncr;
+			if(this.knownMax == null){
+				this.me.html(this.message + this.anim[this.currentProgress%4]);
+				if(this.active == true)
+					window.setTimeout("ListingsGlobal.loader.run(1)",this.timeIncrement);
+			}
+			else
+				this.me.html(this.message +": "+ (Math.floor((this.currentProgress*100)/this.knownMax))+"% complete");
+			
+		},
+		stop:function(){this.active=false; this.currentProgress=0; this.knownMax=null; this.me.remove();}
+	}
+};
+
+
+
+//Custom lookup for dropdown options. Must be called with array from ListingsGlobal.optionsData.newValues as function context.
+function findOpt(val){
+	size = this.length;
+	for(i=0;i<size;i++){
+		if(this[i].val() == val)
+			return i;
+	}
+	return -1;
+}
+
+function hideRow(rows){
+	if(rows.length != 0)
+		rows.each(function(){this.style.display = 'none';})
+}
+function displayRow(rows){
+	if(rows.length != 0)
+		rows.each(function(){this.style.display = '';})
+}
+
+
+//Scripts to run as soon as page loads.
+$(document).ready(function() {
+	
+	//IE 8 and below needs some formatting fixes.
+	var browser = navigator.appVersion ;
+	var iecheck = browser.toLowerCase().search('msie');
+	if(iecheck != -1){
+		//if(new Number(browser.substr(iecheck+5,1)).valueOf() < 9)
+			$('#filter_clears').css({"top":"-70px","margin-bottom":"-70px"});
+	}
+	
+	//Set up the filters
+	$('.filter').data({'sorter':nameSort,'oldval':''}).each(function(i,e){$(this).data('filterIDNUM',i)});
+	
+	//Custom sorting of the options in a filter should be amended here.
+	$('.filter#date').data('sorter',dateSort)
+	
+	//Loading the XML from file on site.
+	ListingsGlobal.loader.start("Retrieving data");
+	$.ajax({url: ListingsGlobal.XMLListingsDocPath,
+		contentType: "text/xml",
+		dataType: "xml",
+		error: function(jqXHR, textStatus, errorThrown){
+				populateTable(jqXHR.responseText)
+			},
+		success: populateTable
+	});
+	
+	
+	//Bind form action events
+	
+	//The search options. This begins a chain call of functions, some asynchronous. 
+	$('.filter').change(function(){
+	
+		var bc = ListingsGlobal.optionsBreadcrumb;
+		var all = $('.filter,.clearBtn');	
+		//To prevent ongoing search from being meddled with
+		all.attr("disabled","disabled");
+		
+		if(ListingsGlobal.listingsOnPage.length > 0){
+			//Hide all preexisting
+			hideRow($('#listings_master_table>tbody>tr').not(':first'));
+			bc.justChanged = $(this);
+			//Pop the breadcrumb stack so that we don't lose options
+			for(var i=0;i < bc.filters.length;i++){//console.log(altered.attr('id')+" "+bc.filters[i].attr('id'));
+				if(bc.justChanged.attr('id') == $(bc.filters[i]).attr('id'))
+					break;
+			}
+			//First time in: build breadcrumb for primary selection manually
+			if(bc.justChanged == null){
+				initBreadCrumb($(this));
+			}
+			//Found it - force other options into default
+			if(i < bc.filters.length){
+				var i_copy = i+1;
+				while(i_copy < bc.filters.length){
+					$(bc.filters[i_copy]).val('');
+					i_copy++;
+				}
+				bc.filters.length = i+1;
+				bc.snapshotSet.length = i+1;
+			}
+			
+			
+			//Next in the chain
+			filter();
+		}
+	});
+	
+	//Clear buttons
+	$('.clearBtn').click(function(){
+		//Get the ID
+		var fieldid = $(this).attr("id").substring(6);
+		//Clear any preexisting value of the associated filter and remove its other opts to avoid duplication in the filter populate. Then trigger change event.
+		$('#filters #'+fieldid)
+			//.data('oldval',$(this).val()) //Don't think this is needed? Gets overwritten in filter
+			.val("")
+			.change();
+	});
+	
+	//Read more links
+	$('.readMore').live("click",function(e){
+		e.preventDefault(); e.stopImmediatePropagation();
+		if($(this).html().search("Click")!=-1){
+			$(this).closest('.listing').find('.extra_details').slideDown("fast");
+			$(this).html(ListingsGlobal.readMoreOpen);
+		}
+		else{
+			$(this).closest('.listing').find('.extra_details').slideUp("fast");
+			$(this).html(ListingsGlobal.readMoreClosed);
+		}
+	});
+	
+	//Pagination
+	$('.prev,.next').click(function(){
+		var b = $(this);
+		//Just in case browser standards change re:clickability of hidden objects.
+		if(b.css("visibility") == "hidden") return false;
+		//Move page
+		if(b.hasClass("prev")) --ListingsGlobal.currPage; else ++ListingsGlobal.currPage;
+		var entries = $('#listings_master_table>tbody>tr');
+		hideRow(entries.not(":first"));
+		//Update pagination display
+		$(window).scrollTop(154);
+		$('.pagination').css('visibility','hidden');
+		$('.currPage').html(ListingsGlobal.currPage+1);
+		//Show contents of moved page
+		var start = ListingsGlobal.currPage * ListingsGlobal.maxPerPage;
+		display(start,Math.min(start+ListingsGlobal.maxPerPage,ListingsGlobal.listingsToShow.length))
+	});	
+});
+
+function initBreadCrumb(filter){
+	var bc = ListingsGlobal.optionsBreadcrumb;
+	bc.justChanged = filter;
+	bc.filters.push(filter);
+	//Find the full set of vals for this filter
+	for(var j=0; j<bc.filters.length; j++){
+		if(bc.filters[j].attr('id') == filter.attr('id'))
+			break;
+	}
+	bc.snapshotSet.push(bc.availableVals[j]);
+}
+
+//ASYNCHRONOUS - success handler for the AJAX call
+function populateTable(data,index,total){
+	if(index == undefined || index == "success"){
+		index = 0;
+		var total = $('listing',data).length;
+	}
+	var iterationsPerAsyncCall = ListingsGlobal.iterationsPerAsyncCall;
+	var listingsOnPage = ListingsGlobal.listingsOnPage;
+	var options = $('#filters .filter');
+	//Done
+	if(index >= total){
+
+		listingsOnPage.sort(ListingsGlobal.masterSort);
+		//Ressigns page-level ordering after sort above.
+		$.each(listingsOnPage,function(i,e){e.pageID = i;});
+				
+		ListingsGlobal.loader.stop();
+				
+		if(listingsOnPage.length > 0){
+			ListingsGlobal.loader.start("Loading listings",listingsOnPage.length);
+			//Load up the table on init. Will trigger the initial display too.
+			tableLoad(-1);
+		}
+		else{
+			$('#listings_master_table>tbody').append("<tr><td colspan='"+colspan+"'><span>"+ListingsGlobal.noData+"</span></td></tr>");
+		}
+		return;
+	}		
+	for(var i=0; i<iterationsPerAsyncCall && index+i < total; i++){
+		var e=$('listing:eq('+(index+i)+')',data)
+		listingsOnPage.push(new Listing(
+			i,
+			e.find('title').text(),
+			$.trim(e.find('bronx').text()),
+			$.trim(e.find('brooklyn').text()),
+			$.trim(e.find('manhattan').text()),
+			$.trim(e.find('queens').text()),
+			$.trim(e.find('staten_island').text()),
+			$.trim(e.find('outside_nyc').text()),
+			e.find('sector').text(),
+			e.find('sub_sector').text(),
+			e.find('wage_min').text(),
+			e.find('wage_max').text(),
+			e.find('hourly_annual').text(),
+			e.find('description').text(),
+			e.find('exp_qual_skills').text(),
+			e.find('education_reqd').text(),
+			e.find('hours_per_week_min').text(),
+			e.find('hours_per_week_max').text(),
+			e.find('job_order_id').text(),
+			e.find('lead_center_id').text(),
+			e.find('job_family_id').text(),
+			e.find('job_family_name').text(),
+			e.find('soc_code').text(),
+			e.find('soc_name').text(),
+			e.find('position_type').text(),
+			e.find('position_duration').text(),
+			e.find('lead_acct_mgr_email').text(),
+			e.find('job_order_status').text(),
+			e.find('website_status').text(),
+			e.find('target_fill_date').text(),
+			e.find('sreening_family').text()
+		));
+		//Dynamically add a filter option each time a new one appears for the searchable indices
+		for(var j=0; j<options.length; j++){
+			var opt = $(options[j]);
+			if(opt.find('option[value='+DOMSafe(e.find(opt.attr('id')).text())+']').length==0)
+				opt.append('<option value='+DOMSafe(e.find(opt.attr('id')).text())+'>'+e.find(opt.attr('id')).text()+'</option>');
+			}
+		}
+	window.setTimeout(function(){populateTable(data,index+i,total)},0);
+	return;
+}
+
+
+//ASYNCHRONOUS - called from the AJAX success function above
+function tableLoad(index){
+//Declare locals
+		var masterlist = ListingsGlobal.listingsOnPage, iterationsPerAsyncCall = ListingsGlobal.iterationsPerAsyncCall;
+			
+			//Load entries in shut mode.
+			for(var i = 0; i<iterationsPerAsyncCall; i++){
+				index++;
+				if(index == masterlist.length)
+					break;
+				$('#listings_master_table>tbody').append(masterlist[index].toNode("hide"));
+			}
+			if(masterlist.length-iterationsPerAsyncCall > ListingsGlobal.finishCount){
+				ListingsGlobal.loader.run(iterationsPerAsyncCall);
+				ListingsGlobal.finishCount += iterationsPerAsyncCall;
+				window.setTimeout('tableLoad('+(index)+')',0);
+			}
+			else{
+				//Load blank row and stop. Number of columns to span can be determined from </td> instances in the listing prototype template.
+				var colspan = Listing.prototype.template.split('</td>').length;
+				$('#listings_master_table>tbody').append("<tr id='no_results' style='display:none'><td colspan='"+colspan+"'><span>"+ListingsGlobal.noResults+"</span></td></tr>");
+				ListingsGlobal.finishCount = 0;
+				ListingsGlobal.loader.stop();
+				
+
+				
+				//Trigger display
+				$('.filter:first').change();
+				
+			}
+		
+}
+
+
+//ASYNCHRONOUS Filter function.
+function filter(index){
+	var masterlist=ListingsGlobal.listingsOnPage;
+	var size = masterlist.length;
+	//First come in
+	if(index == undefined){
+		index = 0;
+		ListingsGlobal.listingsToShow = [];
+		ListingsGlobal.loader.start("Filtering",ListingsGlobal.listingsOnPage.length);
+	}
+	//When finished
+	if(index >= size){
+		//Set up pagination - in case needed
+		//First reset
+		$('.pagination').hide();
+		ListingsGlobal.currPage = 0;
+		ListingsGlobal.totalPages = Math.ceil(ListingsGlobal.listingsToShow.length/ListingsGlobal.maxPerPage);
+		var p = $('.pagination');
+		p.find('.totalPages').html(ListingsGlobal.totalPages);
+		p.find('.currPage').html(1);
+		p.find('.prev').css("visibility","hidden");
+		if(ListingsGlobal.totalPages > 1)
+			p.find('.pagination .next').css("visibility","visible");
+		
+		ListingsGlobal.loader.stop();
+		ListingsGlobal.loader.start("Updating options",ListingsGlobal.listingsToShow.length);
+		
+		//After initial load, auxiliary data for listings may need to be manually hidden.
+		if(ListingsGlobal.initialized == true){
+			hideRow($('#listings_master_table>tbody>tr:last')); //The 'none found' row.
+			$('.extra_details').hide();
+			$('.readMore').html(ListingsGlobal.readMoreClosed);
+		}
+		optionsChange(); //Trigger optionsChange.
+		return;
+	}
+	//Each listing must pass all options tests: a break will signal a failure
+	var iterationsPerAsyncCall = ListingsGlobal.iterationsPerAsyncCall
+	var showlist=ListingsGlobal.listingsToShow;
+	var filter_num = $('#filters .filter').length;
+	var f,j; // f will be filter iterator, j will be listing
+	var size = masterlist.length;
+	for(var i=0;i<iterationsPerAsyncCall && index+i<size;i++){
+		j = masterlist[index+i];
+		var stop = false;
+		for(f=0;f<filter_num;f++){
+			var filter = $('#filters .filter:eq('+f+')');
+			if(filter.val() != ''){
+				//Date field requires checking against its formatted form.
+				if(j[filter.attr('id')].setHours != undefined){
+					if(DOMSafe(j[filter.attr('id')].format('D, M jS')) != filter.val()){
+						stop=true;
+					}
+				}
+				//Std. string equivalence
+				else{
+					if(DOMSafe(j[filter.attr('id')]) != filter.val())
+						stop=true;
+				}
+			}
+			if(stop == true) break;
+		}
+		if(f == filter_num)
+			showlist.push(j);
+		
+	}
+
+	ListingsGlobal.loader.run(i); // Show progress
+	window.setTimeout('filter('+(index+i)+')',0)
+}
+
+
+//ASYNCHRONOUS - called after the filtering is done from filter modification: will repopulate all filters.
+function optionsChange(index,total){
+	
+	//First time in
+	if(index == undefined){ 
+		$('#filters .filter').each(function(){
+			$(this).data('oldval',$(this).val());
+			$(this).children('option').not(':first').remove();
+		})
+		index = 0;
+		total = ListingsGlobal.listingsToShow.length;
+	}
+	
+	//When finished
+	if(index >= total){
+		ListingsGlobal.finishCount = 0;
+		ListingsGlobal.loader.stop()
+		cleanupOptions();
+		return;
+	}
+	
+	var iterationsPerAsyncCall = ListingsGlobal.iterationsPerAsyncCall;
+
+	//Refine options for iterationsPerAsyncCall many listings
+	for(var i = 0;i<iterationsPerAsyncCall && index+i < total;i++){ 
+		var j=ListingsGlobal.listingsToShow[index+i]; 
+		var filters = $('#filters .filter');
+		var size = filters.length;
+		//Populate each option if the listing presents a new value for it.
+		for(var f=0; f<size; f++){
+			var filter = $(filters[f]);
+			//Date field requires checking against the date's formatted form.
+			//In case attribute holds multiple values, we need to consider all
+			var array = (j[filter.attr('id')].splice !== undefined) ? j[filter.attr('id')] : [j[filter.attr('id')]];
+			for(var opt=0;opt<array.length;opt++){
+				if(array[opt].setHours != undefined){
+					if(filter.find('option[value="'+DOMSafe(array[opt].format('D, M jS'))+'"]').length == 0){
+						filter.append('<option value="'+DOMSafe(array[opt].format('D, M jS'))+'">'+array[opt].format('D, M jS')+'</option>');
+					}
+				}
+				else{
+					if(filter.find('option[value="'+DOMSafe(array[opt])+'"]').length == 0){
+						filter.append('<option value="'+DOMSafe(array[opt])+'">'+array[opt]+'</option>');
+					}
+				}
+			}
+		}
+	}
+	ListingsGlobal.loader.run(iterationsPerAsyncCall);
+	ListingsGlobal.finishCount += iterationsPerAsyncCall;
+	window.setTimeout("optionsChange("+(index+i)+","+total+")",0);
+}
+
+
+//CALLBACK for 'optionsChange()' - This should be fine w/o asynchronizing, unless there is a high ratio of unique:non-unique attributes in several listing items.
+function cleanupOptions(){
+	var bc = ListingsGlobal.optionsBreadcrumb;
+	var altered = bc.justChanged;
+	var filters = $('#filters .filter');
+	filters.each(function(i,e){
+		var options = $(e).children('option');
+		//Take out the default option so that it doesn't interfere with sort
+		var temp = options.first().remove();
+		options.sort($(e).data('sorter'));
+
+		$(e).empty().append(options);
+		//Put back the default
+		$(e).prepend(temp);
+		$(e).val($(e).data('oldval'));
+		//Potential values for storage on the other options breadcrumb need to be updated. For init, also for the just changed option.
+		if(altered.attr('id') != $(e).attr('id') || $(e).val()=='' || ListingsGlobal.initialized == false)	
+			bc.availableVals[i] = temp.add(options);
+		//Replace field's prior selected options.
+		
+	});
+	//If the option is already on the breadcrumb, pop all entries after it.
+	//Else store the current option so that it can be restored after filtering/cleanup
+	//This code may be unnecessary since we stack-pop at the filter change event.
+	for(var i=0;i < bc.filters.length;i++){//console.log(altered.attr('id')+" "+bc.filters[i].attr('id'));
+		if(altered.attr('id') == $(bc.filters[i]).attr('id'))
+			break;
+	}
+	//Found it
+	if(i < bc.filters.length){
+		bc.filters.length = i+1;
+		bc.snapshotSet.length = i+1;
+	}
+	else{
+		bc.filters.push(altered[0]);
+		bc.snapshotSet.push(bc.availableVals[altered.data('filterIDNUM')].slice());
+	}
+	//Restore options for what was prior to the just changed filter on the breadcrumb stack.
+	for(var i=0; i<bc.filters.length;i++){
+		var f = $(bc.filters[i]);
+		f.empty();
+		$.each(bc.snapshotSet[i],function(index,elem){
+			f.append($(elem));
+		});
+		f.val(f.data('oldval'));
+	}
+	
+	
+	//Because IE 8 and below cannot display different select field sub-widths, all widths must be capped at 370.
+	//This would only need to be done once, on init.
+	if(ListingsGlobal.initialized == false){
+
+		$('#optionsBlock').css("visibility","visible");
+		$('#filters .filter').each(function(){
+			$(this).css("width",(($(this).width() >= 370) ? "370px" : $(this).css("width")));
+			$(this).css("min-width",(($(this).width() >= 370) ? "370px" : $(this).css("width")));
+		});
+		
+		
+	}
+	
+	//Trigger a display.
+	display();
+}
+	
+//Helper comparators for function above: used to sort the options filters.
+function nameSort(a,b){
+	return($(a).attr("value").toLowerCase() > $(b).attr("value").toLowerCase()) ? 1:-1;
+}
+function dateSort(a,b){
+	return(new Date($(a).html()) < new Date($(b).html())) ? 1:-1;
+}
+
+
+//When setting IDs, we assure spaces are stripped
+function DOMSafe(value){
+	return $.trim(value).replace(/ /g,"_").replace(/'/g,'_');
+}
+
+
+
+
+//ASYNCHRONOUS
+function display(showListIndex,to){
+	//First time in
+	if(showListIndex == undefined){
+		showListIndex = 0;
+		if(to == undefined) to = Math.min(ListingsGlobal.listingsToShow.length,ListingsGlobal.maxPerPage);
+		ListingsGlobal.loader.start('Displaying',to - showListIndex);
+		ListingsGlobal.finishCount = 0;
+	}
+	var iterationsPerAsyncCall = ListingsGlobal.iterationsPerAsyncCall;
+	var showlist=ListingsGlobal.listingsToShow;
+	
+	//Finished
+	if(showListIndex >= to){
+		//Prepare pagination - it won't actually show unless necessary in the next control structure.
+		if(ListingsGlobal.currPage+1 == 1)
+			$('.pagination').find('.prev').css("visibility","hidden").end().find('.next').css("visibility","visible");
+		else if(ListingsGlobal.currPage+1 == ListingsGlobal.totalPages)
+			$('.pagination').find('.prev').css("visibility","visible").end().find('.next').css("visibility","hidden");
+		else
+			$('.pagination').find('.prev').css("visibility","visible").end().find('.next').css("visibility","visible");
+		 //Display pagination if more to show in either direction
+		if(showlist.length > to || ListingsGlobal.currPage > 0){
+			$('.pagination').css('visibility','visible').show(); //May be hidden if coming from pagination scroll
+		}
+		else
+			$('.pagination').hide();
+		ListingsGlobal.finishCount = 0;
+		ListingsGlobal.loader.stop();
+		$('#filters .filter,.clearBtn').removeAttr("disabled");
+		
+		//Will initialize a full HTML load w/selected dropdowns if there are query vars.
+		if(ListingsGlobal.initialized == false){
+			if(ListingsGlobal.queryvars === undefined){
+				var queryvars = document.location.search.substring(1);
+				if(queryvars != ""){
+					ListingsGlobal.queryvars = queryvars.split('&');
+					ListingsGlobal.queryVarToBeProcessed = 0;
+					var q = ListingsGlobal.queryvars[ListingsGlobal.queryVarToBeProcessed].split('=');
+					ListingsGlobal.queryVarToBeProcessed++;
+					$('#'+q[0]).val(q[1]).change();
+				}
+				else{
+					ListingsGlobal.queryvars = [];
+					//Empty set should have no breadcrumb
+					ListingsGlobal.optionsBreadcrumb.filters.pop();
+					ListingsGlobal.optionsBreadcrumb.snapshotSet.pop();
+					ListingsGlobal.optionsBreadcrumb.justChanged = null;
+					ListingsGlobal.initialized = true;
+				}
+			}
+			else{//More to go ?
+				if(ListingsGlobal.queryVarToBeProcessed == ListingsGlobal.queryvars.length){
+					ListingsGlobal.initialized = true;
+					return;
+				}
+				q = ListingsGlobal.queryvars[ListingsGlobal.queryVarToBeProcessed].split('=');
+				ListingsGlobal.queryVarToBeProcessed++;
+				$('#'+q[0]).val(q[1]).change();
+			}
+		}
+		return;
+	}
+	
+	if(showlist.length > 0){
+		for(var i = 0; i<iterationsPerAsyncCall && showListIndex+i < to;i++){
+			$('#listings_master_table>tbody>tr#pageID-'+showlist[showListIndex+i].pageID)
+				.find('.extra_details').hide().end()
+				.find('.readMore').html(ListingsGlobal.readMoreClosed).end();
+			displayRow($('#listings_master_table>tbody>tr#pageID-'+showlist[showListIndex+i].pageID))
+		}
+		ListingsGlobal.loader.run(iterationsPerAsyncCall);
+		ListingsGlobal.finishCount+=iterationsPerAsyncCall;
+		window.setTimeout("display("+(showListIndex+i)+","+to+")",0);
+	}
+	else{ //Nothing matches: show 'none found' row
+		hideRow($('#listings_master_table>tbody>tr').not(':last,:first'));
+		displayRow($('#listings_master_table>tbody>tr:last'));
+		ListingsGlobal.finishCount = 0;
+		ListingsGlobal.loader.stop();
+		return;
+	}
+}
+
+//This is function is an object prototype. When called with "new Listing", it creates a multi-field
+//abstract object (data type) called an "Listing," each with its own values passed in on the first line and stored.
+//each Listing object can express itself in HTML by calling its "toNode()" function, which runs a find/replace on
+//the shared HTML template string from the Listing prototype. 
+function Listing(pid,title,x,b,m,q,s,o,sec,subsec,w_min,w_max,hr_ann,desc,eqs,edu_req,h_min,h_max,jid,lcid,jfid,jfname,s_code,s_name,type,dur,email,jstat,wstat,fdate,scrid){
+	this.pageID=pid;
+		this.title=title;
+		this.locations = [];
+		if(x == "Yes") this.locations.push("Bronx"); if(b == "Yes") this.locations.push("Brooklyn"); if(m == "Yes") this.locations.push("Manhattan");
+		if(q == "Yes") this.locations.push("Queens"); if(s == "Yes") this.locations.push("Staten Island"); if(o == "Yes") this.locations.push("Outside NYC");
+		this.sector = sec, this.DOMsector=DOMSafe(sec);
+		this.sub_sector = subsec;
+		this.wage_min = new Number(w_min);
+		this.wage_max = new Number(w_max);
+		this.hourly_annual = hr_ann;
+		this.description = desc;
+		this.exp_qual_skills = eqs;
+		this.education_reqd = edu_req;
+		this.hours_per_week_min=h_min;
+		this.hours_per_week_max=h_max;
+		this.job_order_id=jid;
+		this.lead_center_id=lcid;
+		this.job_family_id=jfid;
+		this.job_family_name = jfname, this.DOMjob_family_name=DOMSafe(jfname);
+		this.SOC_code = s_code;
+		this.SOC_name = s_name;
+		this.type = type;
+		this.duration=dur;
+		this.lead_acct_mgr_email=email;
+		this.status = jstat;
+		this.web_status = wstat;
+		//Excel does a strange date conversion in days. Calculation below converts to correct date.
+		//Javascript uses UTC timestamps, for which the fundamental unit is milliseconds.
+		var msPerDay = (1000*60*60*24);
+		this.target_fill_date=new Date((fdate)*msPerDay);
+		this.target_fill_date.setFullYear(this.target_fill_date.getFullYear() - 70);
+		this.screening_family_id=scrid;
+		
+		this.toNode=function (hidden){
+					var row = Listing.prototype.template.replace(/%title%/g,this.title)
+					.replace(/%pageID%/g,this.pageID)
+					.replace("%location%",this.locationsList())
+					.replace("%job_order_id%",this.job_order_id)
+					.replace("%job_family_id%",this.screening_family_id)
+					.replace("%sector%",this.sector)
+					.replace("%locations%",this.locationsList())
+					.replace("%description%",this.description)
+					.replace("%requirements%",this.education_reqd)
+					.replace("%hours%",this.hoursFormat())
+					.replace("%permtemp%", (this.duration != "" ? '('+this.duration+')' : ''))
+					.replace("%wage%",this.wageFormat())
+					.replace("%leadcenter%",this.lead_center_id)
+					.replace("%hidden%",((hidden == "hide") ? "style='display:none'" : ""))
+					.replace("%STYLEapply%", this.getStyle());
+					
+					row = $(row);
+					row.find('.apply').hover(function(){$(this).css('background-image','url("../../includes/site_images/misc/apply_hover.jpg")')}
+						,function(){$(this).css('background-image','url("../../includes/site_images/misc/apply.jpg")')})
+					
+					return row;
+		}
+		
+		//Functions to take care of more complex display features
+		
+		this.hoursFormat = function(){
+			var ret = this.hours_per_week_min
+			if(this.hours_per_week_max == "" || this.hours_per_week_max == undefined)
+				ret += " minimum ";
+			else
+				ret += " - "+this.hours_per_week_max;
+			return ret;
+		}
+		this.wageFormat = function(){
+			var ret;
+			if(this.wage_min != "" && this.wage_min != "undefined"){
+				ret = "$"+this.wage_min.toFixed(2);
+				if(this.wage_max == "" || this.wage_max == undefined)
+					ret += " min";
+				else if(this.wage_max - this.wage_min == 0)
+					ret = ret;
+				else
+					ret += " - "+"$"+this.wage_max.toFixed(2);
+			}
+			else
+				ret = "$"+this.wage_max.toFixed(2);
+			return ret + " ("+this.hourly_annual+")";
+		}
+		
+		this.locationsList = function(){
+			var ret = "";
+			$.each(this.locations,function(i,e){
+				ret+=e + ", ";
+			})
+			return ret.substr(0,ret.length-2); //Remove trailing ", "
+		}
+		
+		this.inLocations = function(loc){
+			for(var i = 0; i < this.locations.length; i++)
+				if(DOMSafe(this.locations[i]) == loc)
+					return true;
+			return false;
+		}
+		
+		//Testing the validity of a job with a filtering parameters.
+		//This layer is needed because location is now done by one of any boroughs - not a single match
+		this.filterValidate = function(filtername,val){
+			if(filtername == "location")
+				return this.inLocations(val)
+			else
+				return this["DOM"+filtername] == val;
+		}
+		
+		this.getStyle = function(){
+			var style = 'style="background-image: url(\'../../includes/site_images/misc/apply.jpg\');\
+				border-radius: 5px 5px 5px 5px;\
+				color: #FFFFFF;\
+				cursor: pointer;\
+				float: right;\
+				font-size: 7pt;\
+				height: 22px;\
+				padding-left: 5px;\
+				padding-top: 5px;\
+				text-decoration: none;\
+				width: 60px;';
+			if($.browser.msie && navigator.userAgent.search('MSIE 9.')  === -1)
+				style += 'filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src=\'../../includes/site_images/misc/apply.jpg\',sizingMethod=\'scale\');\
+			-ms-filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src=\'../../includes/site_images/misc/apply.jpg\',sizingMethod=\'scale\');'
+			
+			style += '"';
+			
+			return style;
+		}
+	}
+
+	//Static members
+	Listing.prototype.MAXLENGTH_DESCRIP=50;
+	Listing.prototype.template='\
+	<tr id="pageID-%pageID%" %hidden% class="listing"><td>\
+		<div class="posting">\
+			<div class="title">\
+				<span class="sectionsubheader">%title%</span>\
+			</div>\
+			<div>\
+				<div style="font-style:italic;width:300px;">%sector%</div>\
+				<div style="font-style:italic;width:300px;">%locations%</div>\
+			</div>\
+			<div class="extraDetails" style="margin-bottom:25px">\
+				<a href="#" class="readMore" id="%pageID%">Click for Details</a><p class="extra_details" style="display:none"><strong>Position Description:</strong><br>\
+				%description%<br/>\
+				<strong>Requirements:</strong>\
+				<br/>%requirements%<br/>\
+				<span style="font-style:italic">For the full list of requirements, please Register for Services or Log In.</span><br/>\
+				<strong>Hours per week:*</strong>\
+				<br/>%hours% %permtemp%<br/>\
+				<strong>Wage:*</strong>\
+				<br/>%wage%\
+			</div>\
+		</div>\
+		</td>\
+		<td class="applyCol">\
+			<a class="apply" href="../register/interest.shtml" %STYLEapply%></a>\
+		</td>\
+	</tr>';
+
+</script>
+
+	<div id="listings_wrapper">
+		<div id="optionsBlock">
+		<!--
+			<div id="filters">
+				<span class="label">Type of Job</span>
+				<select class="filter" id="job_family_name">
+					<option selected="selected" value="">Select:</option>
+				</select>
+				<br/>
+				<span class="label">Industry</span>
+				<select class="filter" id="sector">
+					<option selected="selected" value="">Select:</option>
+				</select><br/>
+				<span class="label">Location</span>
+				<select class="filter" id="locations">
+					<option selected="selected" value="">Select:</option>
+				</select>
+			</div>
+			<div id="filter_clears">
+				<input value="Clear" class="clearBtn" id="clear_job_family_name" type="button"/><br/>
+				<input value="Clear" class="clearBtn" id="clear_sector" type="button"/><br/>
+				<input value="Clear" class="clearBtn" id="clear_locations" type="button"/><br/>
+			</div>
+			-->
+			<table id="filters">
+				<tr>
+					<td valign="middle"><span class="label">Type of Job</span></td>
+					<td valign="middle"><select class="filter" id="job_family_name"><option selected="selected" value="">Select:</option></select></td>
+					<td valign="middle"><input value="Clear" class="clearBtn" id="clear_job_family_name" type="button"/></td>
+				</tr>
+				<tr>
+					<td valign="middle"><span class="label">Industry</span></td>
+					<td valign="middle"><select class="filter" id="sector"><option selected="selected" value="">Select:</option></select></td>
+					<td valign="middle"><input value="Clear" class="clearBtn" id="clear_sector" type="button"/></td>
+				</tr>
+				<tr>
+					<td valign="middle"><span class="label">Location</span></td>
+					<td valign="middle"><select class="filter" id="locations"><option selected="selected" value="">Select:</option></select></td>
+					<td valign="middle"><input value="Clear" class="clearBtn" id="clear_locations" type="button"/></td>
+				</tr>
+			</table>
+			<div style="clear:both"></div>
+		</div>
+		<div id="loaderHolder" style="height:13px;"></div>
+		<div class="pagination" id="pagination_top" style="width:550px;text-align:center;display:none; margin-top:30px;margin-bottom:30px;">
+			<img class="prev" src="../../images/nav/pagination_left.jpg" style="float:left; visibility:hidden;cursor:pointer;"/>
+			<img class="next" src="../../images/nav/pagination_right.jpg" style="float:right;cursor:pointer;"/>
+			<span>Page&nbsp;<span class="currPage"></span>&nbsp;of&nbsp;<span class="totalPages"></span></span>
+		</div>
+		<table id="listings_master_table">
+			<col style="width:70%"/>
+			<col style="width:30%"/>
+			<tbody>
+			<tr>
+				<th class="listings_master_table_th">Job Posting</th>
+				<th class="listings_master_table_th" style="text-align:right">Application Link</th>
+			</tr>
+			</tbody>
+		</table>
+		<div class="pagination" id="pagination_bottom" style="width:550px;text-align:center;display:none; margin-top:30px;">
+			<img class="prev" src="../../images/nav/pagination_left.jpg" style="float:left; visibility:hidden;cursor:pointer"/>
+			<img class="next" src="../../images/nav/pagination_right.jpg" style="float:right;cursor:pointer"/>
+			<span>Page&nbsp;<span class="currPage"></span>&nbsp;of&nbsp;<span class="totalPages"></span></span>
+		</div>
+	</div></span>
+											
+										
+									
+								
+						
+
+					
+
+					 
+					   
+						
+					 
+					 
+					
+					</td><td align="left" bgcolor="" valign="top" width="60"><img src="../../includes/site_images/spacers/spacer_60_30.gif" alt="" width="60" height="30" border="0"></td></tr>
+
+					
+
+					  
+				   
+					  
+						<tr><td colspan="3" align="left" valign="top" bgcolor="" width="589">
+							
+							</td></tr>
+						
+					
+						<tr><td align="left" bgcolor="" valign="top" width="30"><img src="../../includes/site_images/spacers/spacer_30_30.gif" alt="" width="30" height="30" border="0">
+						</td><td align="left" bgcolor="" valign="top" width="499"><img src="../../includes/site_images/spacers/spacer_499_15.gif" alt="" width="499" height="15" border="0"><br>
+					  
+							
+						
+					  
+							
+							
+									
+											<span class="bodytext"></span>
+											
+										
+									
+											<span class="bodytext"><p style="MARGIN-top: 0in"><i><span>Equal opportunity employer/program. &#160;Auxiliary aids and services are available upon request to individuals with disabilities.</span></i></p></span>
+										
+								
+						
+
+					
+
+					 
+					   
+						
+					 
+					 
+					
+					</td><td align="left" bgcolor="" valign="top" width="60"><img src="../../includes/site_images/spacers/spacer_60_30.gif" alt="" width="60" height="30" border="0"></td></tr>
+
+					
+
+					  
+				   
+				</table>
+				<!-- END of PRIMARY FEATURE SECTION -->
+
+				<!-- START of SECONDARY FEATURE SECTION -->
+
+				<table width="589" border="0" cellspacing="0" cellpadding="0">
+				  
+					  
+						<tr><td colspan="4" align="left" valign="top" bgcolor="" width="589">
+							
+							</td></tr>
+						
+					
+
+					  </table>
+
+				<!-- END of SECONDARY FEATURE SECTION -->
+
+				<!-- START of TERTIARY FEATURE SECTION -->
+				<table width="589" border="0" cellspacing="0" cellpadding="0">
+				  
+					  
+						<tr><td colspan="3" align="left" valign="top" bgcolor="" width="589">
+							
+							</td></tr>
+						
+					
+					  
+				   
+				</table>
+				<!-- END of TERTIARY FEATURE SECTION -->
+				<!-- END_PRINT_PAGE -->
+				
+
+			
+
+					
+	<!-- BEGIN_PRINT_PAGE -->				
+					<span class="footer_text"><br></span></td>
+				<!-- END of CENTER column -->
+			</tr>
+	<!-- END_PRINT_PAGE -->
+			<tr height="25">
+				<td colspan="2" align="left" valign="top" width="769" height="25"> 
+
+					<table width="769" border="0" cellspacing="0" cellpadding="0">
+	<tr><td><img src="../../includes/site_images/misc/bottom_branding.gif" border="0"></td></tr>
+</table>
+
+
+
+
+<!-- START of nycgov_footer.inc-->
+<style type="text/css">
+<!--
+	.footer_links {font-family: Verdana, Arial, Helvetica, sans-serif;
+		font-size: 10px;
+		color: #F9D053;
+	}
+
+	.footer_copyright {font-family: Verdana, Arial, Helvetica, sans-serif;
+		font-size: 10px;
+		color: #C4C4B2;
+	}
+-->
+</style>
+<TABLE cellSpacing=0 cellPadding=0 width=769 bgColor=#494B4C border=0>
+	<TBODY>
+	<TR><TD width=13><IMG height=24 src="../../includes/site_images/spacers/spacer.gif" width=13></TD>
+          <TD width=287><SPAN class=footer_copyright>Copyright 2013 The City of New York</SPAN></TD>
+          <TD align=right width=444><SPAN class=footer_links><A class=footer_links href="/contact">Contact Us</A> | <A class=footer_links href="/faqs">FAQs</A> | <A class=footer_links href="/privacy">Privacy Policy</A> | <A class=footer_links href="http://www.nyc.gov/html/misc/html/tou.html">Terms of Use</A> | <A class=footer_links href="/sitemap">Site Map</A></SPAN></TD>
+          <TD align=right width=25><IMG height=24 src="../../includes/site_images/spacers/spacer.gif" width=25></TD></TR>
+        </TBODY>
+</TABLE>
+<!-- Privacy Policy updated on 03/08/2011 -->
+<!--  nycgov Webtrends code, added on 02/16/2011 -->
+<script src="/html/misc/scripts/nycwebtrends.js" type="text/javascript"></script>
+<script type="text/javascript">
+//<![CDATA[
+var _nyctag=new WebTrends();
+_nyctag.dcsInit();
+_nyctag.dcsGetId();
+//]]>>
+</script>
+<script type="text/javascript">
+//<![CDATA[
+_nyctag.dcsCollect();
+//]]>>
+</script>
+
+<!-- PROD noscript section -->
+<noscript>
+<div><img alt="DCSIMG" id="DCSIMG" width="1" height="1" src="http://a858-sdc.nyc.gov/dcslfpea2000008i7geu3pdky_5v8x/njs.gif?dcsuri=/nojavascript&WT.js=No&WT.tv=8.6.2"/></div>
+</noscript>
+<!--  END OF nycgov Webtrends code, added on 02/16/2011 -->
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-9518673-1");
+pageTracker._trackPageview();
+} catch(err) {}
+</script>
+<!-- END of nycgov_footer.inc-->
+
+				</td>
+			</tr>
+<!-- BEGIN_PRINT_PAGE -->			
+		</table>
+	<!-- END_PRINT_PAGE -->
+	</body>
+</html>
+

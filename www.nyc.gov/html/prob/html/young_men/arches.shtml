@@ -1,0 +1,457 @@
+
+
+
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+	<head>
+		<meta http-equiv="content-type" content="text/html;charset=UTF-8">
+		<meta name="tp-name" content="homepage_2col">
+
+		
+		
+
+		
+				<title>Probation - Young Men's Initiative - Arches: A Transformative Mentoring Program</title>
+			
+		
+				
+			
+		<link href="../../includes/css/rollout.css" rel="stylesheet">
+	</head>
+
+<body  background="../../includes/site_images/misc/bg.gif"
+  bgcolor="#ffffff" leftmargin="0" marginheight="0" marginwidth="0" topmargin="0">
+
+	<!-- BEGIN_PRINT_PAGE -->
+		<table width="999" border="0" cellspacing="0" cellpadding="0" height="100%">
+	<!-- END_PRINT_PAGE -->	
+			<tr><td colspan="2" align="left" valign="top" width="999">
+					<!-- START of nycgov_header.inc -->
+<table width="999" border="0" cellspacing="0" cellpadding="0" height="51">
+	<tr>
+		<td><img src="../../includes/site_images/nyc_gov/nycgov_banner_wide.gif" alt="" width="999" height="51" border="0" usemap="#TopNav"></td>
+	</tr>
+</table>
+<map name="TopNav">
+  <area shape="rect" coords="787,6,825,19" href="/search" alt="Search">
+  <area shape="rect" coords="840,6,915,19" href="/portal/register.jsp" alt="Email Updates">
+  <area shape="rect" coords="929,6,988,19" href="/contact" alt="Contact Us">
+  <area shape="rect" coords="563,31,625,46" href="/residents" alt="Residents">
+  <area shape="rect" coords="641,31,698,46" href="/business" alt="Business">
+  <area shape="rect" coords="711,31,761,46" href="/visitors" alt="Visitors">
+  <area shape="rect" coords="776,31,855,46" href="/government" alt="Government">
+  <area shape="rect" coords="868,31,988,46" href="/mayor" alt="Office of the Mayor">
+  <area shape="rect" coords="3,3,48,46" href="/home.html" alt="NYC.gov always open">
+</map>
+<!-- END of nycgov_header.inc -->
+					
+							<script type="text/javascript" src="../../includes/scripts/misc.js"></script>
+<script language="JavaScript" src="../../includes/scripts/change_text.js"></script>
+<script language="JavaScript" src="../../includes/scripts/translate.js"></script>
+<table cellspacing="0" cellpadding="0" border="0" width="999">
+  <tr>
+    <td class="banner_bg"><table cellspacing="0" cellpadding="0" border="0" width="999">
+        <tr valign="top">
+          <td class="logo"><a href="../../html/home/home.shtml"><img src="../../includes/site_images/branding/logo.png" width="224" height="44" border="0" alt="NYC Department of Probation"></a></td>
+          <td class="slogan_td"><table cellspacing="0" cellpadding="0" border="0">
+              <tr>
+                <Td class="slogan" id="top">Strengthening Communities.</Td>
+              </tr>
+              <tr>
+                <Td class="slogan">Creating Opportunity.</Td>
+              </tr>
+              <tr>
+                <Td class="slogan" id="bottom">Changing Lives.</Td>
+              </tr>
+            </table></td>
+          <td class="search_td"><form action="http://search1.nyc.gov/search?" method="GET" name="gs" style="margin: 0px;">
+              <input value="xml_no_dtd" name="output" type="hidden">
+              <input value="default_collection" name="site" type="hidden">
+              <input value="agency_frontend" name="proxystylesheet" type="hidden">
+              <input value="agency_frontend" name="client" type="hidden">
+              <input value="www.nyc.gov/html/prob" name="sitesearch" type="hidden">
+              <table cellpadding="0" cellspacing="0" border="0">
+                <Tr>
+                  <td class="search_field"><input name="q" id="search_nycgov" class="searchfield" style="width:161px; height:21px;" type="text"></td>
+                  <td class="search_button_td"><input name="go" value="Search" class="search_button" type="submit" onMouseOver="this.id='over'" onMouseOut="this.id=''"></td>
+                </Tr>
+              </table>
+            </form></td>
+        </tr>
+      </table></td>
+  </tr>
+  <tr valign="top">
+    <td class="tools_bg"><table cellspacing="0" cellpadding="0" border="0">
+        <tr valign="top">
+          <td class="tools_item"><a href="http://www.nyc.gov/cgi-bin/misc/pfprinter.cgi?action=print&sitename=prob">Printer Friendly</a></td>
+          <Td class="tools_item"><a target="_blank" onclick="this.href = '/j2ee/emailafriend/EAFEntry?' + Date.parse(new Date()); return true;" href="/j2ee/emailafriend/EAFEntry">Email a Friend</a></Td>
+          <td class="tools_item" id="translate_button"><a href="javascript:showTranslate();">Translate Page</a></td>
+          <td class="text_size"><table cellspacing="0" cellpadding="0" border="0">
+              <tr valign="top">
+                <td class="text_size_text">Text Size:</td><td class="text_size_items"><a class="text_size_small" id="small" href="javascript:switchStyle('1');">A</a> &nbsp;<a class="text_size_med" id="med" href="javascript:switchStyle('2');">A</a> &nbsp;<a class="text_size_large" id="large" href="javascript:switchStyle('3');">A</a></td>
+              </tr>
+            </table></td>
+        </tr>
+      </table></td>
+  </tr>
+</table>
+<script language="Javascript">
+if(GetCookie(fontSizeCookie) == "2"){
+	document.getElementById('med').className="text_size_med_active";	
+}else if(GetCookie(fontSizeCookie) == "3"){
+	document.getElementById('large').className="text_size_large_active";	
+}else{
+	document.getElementById('small').className="text_size_small_active";	
+}
+</script>
+<iframe scrolling='no' frameborder='0' class='shim' name='shim' id='shim'></iframe>
+<div id="translate_popup" class="popup">
+  <table cellspacing="0" cellpadding="0" border="0" width="323">
+    <tr>
+      <td class="popup_table"><table cellspacing="0" cellpadding="0" border="0" width="284">
+          <tr>
+            <Td colspan="2"><img src="../../includes/site_images/misc/translate_popup.gif" width="284" height="39" alt="Translate this Page" border="0"></Td>
+          </tr>
+          <tr>
+            <td class="popup_label" width="123">Select a Language</td>
+            <td class="popup_field" width="147"><select name="tl" id="tl" style="width:147px">
+                <option value="">- Select -</option>
+                <option value="ar">Arabic</option>
+                <option value="bg">Bulgarian</option>
+                <option value="ca">Catalan</option>
+                <option value="zh-CN">Chinese (Simplified)</option>
+                <option value="zh-TW">Chinese (Traditional)</option>
+                <option value="hr">Croatian</option>
+                <option value="cs">Czech</option>
+                <option value="da">Danish</option>
+                <option value="nl">Dutch</option>
+                <option value="tl">Filipino</option>
+                <option value="fi">Finnish</option>
+                <option value="fr">French</option>
+                <option value="de">German</option>
+                <option value="el">Greek</option>
+                <option value="iw">Hebrew</option>
+                <option value="hi">Hindi</option>
+                <option value="id">Indonesian</option>
+                <option value="it">Italian</option>
+                <option value="ja">Japanese</option>
+                <option value="ko">Korean</option>
+                <option value="lv">Latvian</option>
+                <option value="lt">Lithuanian</option>
+                <option value="no">Norwegian</option>
+                <option value="pl">Polish</option>
+                <option value="pt">Portuguese</option>
+                <option value="ro">Romanian</option>
+                <option value="ru">Russian</option>
+                <option value="sr">Serbian</option>
+                <option value="sk">Slovak</option>
+                <option value="sl">Slovenian</option>
+                <option value="es">Spanish</option>
+                <option value="sv">Swedish</option>
+                <option value="uk">Ukrainian</option>
+                <option value="vi">Vietnamese</option>
+              </select>
+            </td>
+          </tr>
+          <tr>
+            <td class="buttons" colspan="2"><input type="button" class="yellow_button" style="width:78px;" value="Translate" onClick="setLanguage(document.getElementById('tl').options[document.getElementById('tl').selectedIndex].value)" />
+              <input type="button" class="yellow_button" style="width:56px;" value="Cancel" onClick="hideTranslate()" /></td>
+          </tr>
+        </table></td>
+  </table>
+</div>
+
+						
+			</td></tr>
+
+		
+		<!-- BEGIN_PRINT_PAGE -->
+		<tr>
+		<!-- END_PRINT_PAGE -->
+		<td align="left" valign="top" width="220" height="100%">
+					
+							
+							 
+								  <table cellspacing="0" cellpadding="0" border="0" width="220">
+  <tr>
+    <td class="leftnav"><script language="Javascript" src="../../includes/scripts/nav_nodes.js"></script>
+      <script language="Javascript" src="../../includes/scripts/nav_code.js"></script>
+      <noscript>
+      <a href="../../html/home/home.shtml" class="nav_section">Home</a><br>
+      <a href="../../html/about/about.shtml" class="nav_section">About Probation</a><br>
+      <span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/about/message.shtml" class="nav_subsection">Commissioner's Message</a><br>
+      <span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/about/history.shtml" class="nav_subsection">History of Probation</a><br>
+      <span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/about/lap.shtml" class="nav_subsection">Language Access Plan</a><br>
+      <span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/about/evidence.shtml" class="nav_subsection">Evidence-Based Practices</a><br>
+      <span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/about/plan.shtml" class="nav_subsection">Strategic Plan</a><br>
+      <span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/about/chart.shtml" class="nav_subsection">Senior Leadership Chart</a><br>
+      <a href="../../html/family/family.shtml" class="nav_section">For Family Court Clients</a><br>
+      <span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/family/process.shtml" class="nav_subsection">Family Court Process</a><br>
+      <span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/family/enhanced.shtml" class="nav_subsection">Enhanced Supervision Program</a><br>
+      <span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/family/esperanza.shtml" class="nav_subsection">Esperanza Program</a><br>
+      <span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/family/community.shtml" class="nav_subsection">Intensive Community Monitoring</a><br>
+      <span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/family/faq.shtml" class="nav_subsection">Frequently Asked Questions (FAQ)</a><br>
+      <span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/family/voting.shtml" class="nav_subsection">Voting Rights</a><br>
+      <span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/family/contact.shtml" class="nav_subsection">Family Court Contact Info</a><br>
+      <a href="../../html/adult/adult.shtml" class="nav_section">For Adult Court Clients</a><br>
+      <span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/adult/process.shtml" class="nav_subsection">Adult Court Process</a><br>
+      <span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/adult/forensic.shtml" class="nav_subsection">Forensic Mental Health Unit</a><br>
+      <span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/adult/juvenile.shtml" class="nav_subsection">Kings Juvenile Offender Program</a><br>
+      <span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/adult/pact.shtml" class="nav_subsection">Promoting Accountability and Community Ties (PACT)</a><br>
+      <span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/adult/faq.shtml" class="nav_subsection">Frequently Asked Questions (FAQ)</a><br>
+      <span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/adult/voting.shtml" class="nav_subsection">Voting Rights</a><br>
+      <span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/adult/contact.shtml" class="nav_subsection">Adult Court Contact Info</a><br>
+      <a href="../../html/programs/programs.shtml" class="nav_section">Programs & Resources</a><br>
+      <a href="../../html/young_men/young_men.shtml" class="nav_section">Young Men's Initiative</a><br>
+      <span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/young_men/programs.shtml" class="nav_subsection">Young Adult Justice Scholars/Justice Community Programs</a><br>
+      <span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/young_men/ceps.shtml" class="nav_subsection">Community Education Pathways to Success (CEPS)</a><br>
+      <span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/young_men/arches.shtml" class="nav_subsection">Arches: A Transformative Mentoring Program</a><br>
+      <span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/young_men/aim.shtml" class="nav_subsection">AIM Program: Advocate Intervene Mentor</a><br>
+      <span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/young_men/echoes.shtml" class="nav_subsection">ECHOES: Each Child Has an Opportunity to Excel and Succeed</a><br>
+      <span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/young_men/juvenile.shtml" class="nav_subsection">Juvenile Justice Realignment</a><br>
+      <a href="../../html/neon/neon.shtml" class="nav_section">Neighborhood Opportunity Network (NeON)</a><br>
+      <a href="../../html/news/news.shtml" class="nav_section">News & Media Coverage</a><br>
+      <a href="../../html/jobs/jobs.shtml" class="nav_section">Jobs & Internships</a><br>
+      <span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/jobs/internships.shtml" class="nav_subsection">Internships</a><br>
+      <a href="../../html/contracting/contracting.shtml" class="nav_section">Contracting Opportunities</a><br>
+      <span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/contracting/rfp.shtml" class="nav_subsection">Requests For Proposals</a><br>
+      <span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/contracting/concept.shtml" class="nav_subsection">Concept Papers</a><br>
+      <span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/contracting/manual.shtml" class="nav_subsection">Fiscal Manual</a><br>
+      <a href="../../html/contact/contact.shtml" class="nav_section">Contact Probation</a><br>
+      <span class="nav_subsection">&nbsp;-&nbsp;</span><a href="http://www.nyc.gov/html/mail/html/mailprob.html" class="nav_subsection">Email the Commissioner</a><br>
+      <span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/contact/locations.shtml" class="nav_subsection">Borough Office Locations</a><br>
+      </noscript></td>
+  </tr>
+  <tr id="altnav" style="display:none;">
+    <td class="leftnav"><a href="../../html/home/home.shtml" class="nav_section">Home</a><br>
+      <a href="../../html/about/about.shtml" class="nav_section">About Probation</a><br>
+      <span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/about/message.shtml" class="nav_subsection">Commissioner's Message</a><br>
+      <span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/about/history.shtml" class="nav_subsection">History of Probation</a><br>
+      <span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/about/lap.shtml" class="nav_subsection">Language Access Plan</a><br>
+      <span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/about/evidence.shtml" class="nav_subsection">Evidence-Based Practices</a><br>
+      <span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/about/plan.shtml" class="nav_subsection">Strategic Plan</a><br>
+      <span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/about/chart.shtml" class="nav_subsection">Senior Leadership Chart</a><br>
+      <a href="../../html/family/family.shtml" class="nav_section">For Family Court Clients</a><br>
+      <span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/family/process.shtml" class="nav_subsection">Family Court Process</a><br>
+      <span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/family/enhanced.shtml" class="nav_subsection">Enhanced Supervision Program</a><br>
+      <span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/family/esperanza.shtml" class="nav_subsection">Esperanza Program</a><br>
+      <span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/family/community.shtml" class="nav_subsection">Intensive Community Monitoring</a><br>
+      <span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/family/faq.shtml" class="nav_subsection">Frequently Asked Questions (FAQ)</a><br>
+      <span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/family/voting.shtml" class="nav_subsection">Voting Rights</a><br>
+      <span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/family/contact.shtml" class="nav_subsection">Family Court Contact Info</a><br>
+      <a href="../../html/adult/adult.shtml" class="nav_section">For Adult Court Clients</a><br>
+      <span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/adult/process.shtml" class="nav_subsection">Adult Court Process</a><br>
+      <span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/adult/forensic.shtml" class="nav_subsection">Forensic Mental Health Unit</a><br>
+      <span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/adult/juvenile.shtml" class="nav_subsection">Kings Juvenile Offender Program</a><br>
+      <span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/adult/pact.shtml" class="nav_subsection">Promoting Accountability and Community Ties (PACT)</a><br>
+      <span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/adult/faq.shtml" class="nav_subsection">Frequently Asked Questions (FAQ)</a><br>
+      <span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/adult/voting.shtml" class="nav_subsection">Voting Rights</a><br>
+      <span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/adult/contact.shtml" class="nav_subsection">Adult Court Contact Info</a><br>
+      <a href="../../html/programs/programs.shtml" class="nav_section">Programs & Resources</a><br>
+      <a href="../../html/young_men/young_men.shtml" class="nav_section">Young Men's Initiative</a><br>
+      <span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/young_men/programs.shtml" class="nav_subsection">Young Adult Justice Scholars/Justice Community Programs</a><br>
+      <span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/young_men/ceps.shtml" class="nav_subsection">Community Education Pathways to Success (CEPS)</a><br>
+      <span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/young_men/arches.shtml" class="nav_subsection">Arches: A Transformative Mentoring Program</a><br>
+      <span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/young_men/aim.shtml" class="nav_subsection">AIM Program: Advocate Intervene Mentor</a><br>
+      <span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/young_men/echoes.shtml" class="nav_subsection">ECHOES: Each Child Has an Opportunity to Excel and Succeed</a><br>
+      <span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/young_men/juvenile.shtml" class="nav_subsection">Juvenile Justice Realignment</a><br>
+            <a href="../../html/neon/neon.shtml" class="nav_section">Neighborhood Opportunity Network (NeON)</a><br>
+      <a href="../../html/news/news.shtml" class="nav_section">News & Media Coverage</a><br>
+      <a href="../../html/jobs/jobs.shtml" class="nav_section">Jobs & Internships</a><br>
+      <span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/jobs/internships.shtml" class="nav_subsection">Internships</a><br>
+      <a href="../../html/contracting/contracting.shtml" class="nav_section">Contracting Opportunities</a><br>
+      <span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/contracting/rfp.shtml" class="nav_subsection">Requests For Proposals</a><br>
+      <span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/contracting/concept.shtml" class="nav_subsection">Concept Papers</a><br>
+      <span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/contracting/manual.shtml" class="nav_subsection">Fiscal Manual</a><br>
+      <a href="../../html/contact/contact.shtml" class="nav_section">Contact Probation</a><br>
+      <span class="nav_subsection">&nbsp;-&nbsp;</span><a href="http://www.nyc.gov/html/mail/html/mailprob.html" class="nav_subsection">Email the Commissioner</a><br>
+      <span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/contact/locations.shtml" class="nav_subsection">Borough Office Locations</a><br>
+    </td>
+  </tr>
+  <tr>
+    <td class="nav_item"><table cellspacing="0" cellpadding="0" border="0" width="100%">
+        <tr>
+          <td class="nav_social"><table cellspacing="0" cellpadding="0" border="0" width="100%">
+              <tr>
+                <td class="nav_social_inner"><table cellspacing="0" cellpadding="0" border="0" width="100%">
+                    <tr>
+                      <td class="nav_social_title">Share on Social Networks</td>
+                    </tr>
+                    <tr>
+                      <Td class="nav_social_item"><a href="http://www.nyc.gov/cgi-bin/exit.pl?url=http://twitter.com/nycprobation"><img src="../../includes/site_images/nav/twitter.png" width="32" height="32" border="0" alt="Twitter">Twitter</a></Td>
+                    </tr>
+                    <tr>
+                      <Td class="nav_social_item"><a href="http://www.nyc.gov/cgi-bin/exit.pl?url=http://www.youtube.com/user/nycprobation/videos"><img src="../../includes/site_images/nav/youtube.png" width="32" height="32" border="0" alt="You Tube">You 
+                        Tube</a></Td>
+                    </tr>
+                    <tr>
+                      <Td class="nav_social_item"><a href="http://www.nyc.gov/cgi-bin/exit.pl?url=http://www.flickr.com/photos/nycprobation"><img src="../../includes/site_images/nav/flickr.png" width="32" height="32" border="0" alt="Flickr">Flickr</a></Td>
+                    </tr>
+                  </table></td>
+              </tr>
+            </table></td>
+        </tr>
+      </table></td>
+  </tr>
+</table>
+
+								 
+						
+				</td>
+				<!-- START of CENTER column -->
+				<!-- BEGIN_PRINT_PAGE -->
+				<td id="main_content" align="left" valign="top" width="779">
+				<!-- START of PRIMARY FEATURE SECTION -->
+				<table width="779" border="0" cellspacing="0" cellpadding="0">
+				  
+					  
+						<tr><td colspan="3" align="left" valign="top" bgcolor="" width="779">
+							
+								<img src="../../includes/site_images/misc/spacer.gif" alt="" width="25" height="30" border="0"/><span class="area_header">Arches: A Transformative Mentoring Program<br/></span>
+								
+							</td></tr>
+						
+					
+						<tr><td align="left" bgcolor="" valign="top" width="25"><img src="../../includes/site_images/misc/spacer.gif" alt="" width="25" height="30" border="0">
+						</td><td align="left" bgcolor="" valign="top" width="649"><img src="../../includes/site_images/misc/spacer.gif" alt="" width="649" height="15" border="0"><br>
+					  
+							
+						
+					  
+							
+							
+									
+											<span class="bodytext"></span>
+											
+										
+									
+											<span class="bodytext"><p style="MARGIN-top: 0px"><span>Arches is a group mentoring program that helps justice-involved young adults transform the attitudes and behaviors that led to their criminal activity. The NYC Department of Probation (DOP) contracts with nonprofit organizations in various communities, including each of the five Neighborhood Opportunity Network (NeON) communities, to deliver Arches.</span></p><p><span>The goal is to help probation clients get out of the criminal justice system by strengthening their attachment to education, work and community. The core components of Arches include:</span></p><ul><li><span>A group process where the members become an important support system for each other</span></li><li><span>A curriculum delivered by culturally appropriate mentors</span></li><li><span>A setting that incorporates positive values, principles and practices.</span></li></ul><p><span>The group process is central to Arches. It provides an opportunity for the participants to self-examine certain attitudes and behaviors that may be keeping them entangled in the criminal justice system.&#160; The mentors are paid for the hours they work, and the participants receive stipends for each group session that they complete.</span></p><p><span>Arches participants gain a better understanding of personal responsibility and enhance their social skills, which in turn improves peer relationships, self-esteem, and problem-solving skills. Arches also connects participants to educational, vocational, and therapeutic programs, as necessary.&#160; Below is a list of Arches providers:</span></p><table bordercolor="#666666" cellspacing="0" cellpadding="3" width="100%" border="1"><tbody><tr valign="middle" bgcolor="#63e1ef"><td width="20%"><div class="area_header_small" align="center">&#160;<strong><span class="area_header_small">Target Geographic Area</span></strong></div></td><td width="35%">&#160; 
+
+<div class="area_header_small" align="center"><strong><span class="area_header_small">Organization Name</span></strong></div></td><td width="45%">&#160; 
+
+<div class="area_header_small" align="center"><strong><span class="area_header_small">Site Address</span></strong></div></td></tr><tr><td>Bedford Stuyvesant</td><td><div align="left">Good Shepherd Services</div></td><td>862 Park Avenue, Brooklyn, NY 11206</td></tr><tr><td>Bedford Stuyvesant</td><td><div align="left">Friends of Bedford, Inc</div></td><td>510 Gates Ave., Brooklyn, NY 11216</td></tr><tr><td>Brownsville</td><td><div align="left">Jewish Child Care Association</div></td><td>1555 Linden Blvd, Brooklyn, NY11212</td></tr><tr><td>East New York</td><td><div align="left">Alpha School Center for Progressive Living</div></td><td>2400 Linden Blvd, Brooklyn, NU 11208</td></tr><tr><td>Edenwald</td><td>Fedcap Rehabilitation Services, Inc. (partnering with Bronx Clergy Roundtable)</td><td>Site address is being finalized</td></tr><tr><td>Harlem</td><td><div align="left">New York Mission Society</div></td><td>646 Malcolm X Blvd, New York, NY 10037</td></tr><tr><td>Harlem</td><td><div align="left">Friends of Island Academy</div></td><td>22 E 128th Street, New York, NY 10035</td></tr><tr><td>Harlem</td><td><div align="left">Exodus Transitional Community</div></td><td>2271 Third Ave, New York, NY 10035</td></tr><tr><td>Harlem</td><td>Harlem Commonwealth Council Inc.</td><td>361 West 125th Street, New York, NY 10027</td></tr><tr><td>Highbridge /<br />
+Grand Concourse / University Heights</td><td>BronxWorks, Inc.</td><td>1130 Grand Concourse, Bronx, NY 10456</td></tr><tr><td>Highbridge /<br />
+Grand Concourse / University Heights</td><td>The Children's Village</td><td>400 East Fordham Road, Bronx, NY 10458</td></tr><tr><td>Soundview</td><td>Phipps Community Development Corporation</td><td>1680 Seward Avenue, Bronx, NY 10473</td></tr><tr><td>South Jamaica</td><td>Safe Space NYC Inc.</td><td>89-74 162nd Street, 3rd Fl., Jamaica, NY 11432</td></tr><tr><td>South Jamaica</td><td>Community Mediation Services, Inc.</td><td>89-64 163rd Street, Jamaica, NY 11432</td></tr><tr><td>South Bronx</td><td>Federation Employment &amp; Guidance Services, Inc.</td><td>412-424 E 147th Street, Bronx, NY 10455</td></tr><tr><td>South Bronx</td><td>The Osborne Association</td><td>809 Westchester Avenue, Bronx, NY 10455</td></tr><tr><td>South Bronx</td><td>Health People, Inc.</td><td>552 Southern Blvd, 2nd Fl., Bronx, NY 10455</td></tr><tr><td>South Bronx</td><td>Bronx Clergy Criminal Justice Roundtable</td><td>1175 Boston Road, Bronx, NY 10456</td></tr><tr><td>St. George /<br />
+Port Richmond</td><td>New York Center for Interpersonal Development</td><td>130 Stuyvesant Place - 4th Floor, Staten Island, NY 10301</td></tr></tbody></table><br />
+The Mayor&#8217;s Fund to Advance New York City, in partnership with DOP and the Center for Economic Opportunity (CEO), is expanding the &#8220;Arches: A Transformative Mentoring Intervention&#8221; RFA, which was released on January 19, 2012.&#160; We are seeking qualified vendors to provide Arches to young adults between the ages of 16 and 24 who are on probation in four targeted areas in the Bronx and Staten Island.&#160; For more information click&#160;<a href="../../html/contracting/rfa.shtml">here</a></span>
+										
+								
+						
+
+					
+
+					 
+					   
+						
+					 
+					 
+					
+					</td><td align="left" bgcolor="" valign="top" width="105"><img src="../../includes/site_images/misc/spacer.gif" alt="" width="105" height="30" border="0"></td></tr>
+
+					
+
+					  
+				   
+				</table>
+				<!-- END of PRIMARY FEATURE SECTION -->
+
+				<!-- START of SECONDARY FEATURE SECTION -->
+
+				<table width="779" border="0" cellspacing="0" cellpadding="0">
+				  
+					  
+						<tr><td colspan="4" align="left" valign="top" bgcolor="" width="779">
+							
+							</td></tr>
+						
+					
+
+					  </table>
+
+				<!-- END of SECONDARY FEATURE SECTION -->
+
+				<!-- START of TERTIARY FEATURE SECTION -->
+				<table width="779" border="0" cellspacing="0" cellpadding="0">
+				  
+					  
+						<tr><td colspan="3" align="left" valign="top" bgcolor="" width="779">
+							
+							</td></tr>
+						
+					
+					  
+				   
+				</table>
+				<!-- END of TERTIARY FEATURE SECTION -->
+				<!-- END_PRINT_PAGE -->
+				
+
+			
+
+					
+	<!-- BEGIN_PRINT_PAGE -->				
+					<span class="footer_text"><br></span></td>
+				<!-- END of CENTER column -->
+			</tr>
+	<!-- END_PRINT_PAGE -->
+			<tr height="25">
+				<td colspan="2" align="left" valign="top" width="999" height="25"> 
+
+					<table width="999" border="0" cellspacing="0" cellpadding="0">
+	<tr><td><img src="../../includes/site_images/misc/bottom_branding.gif" border="0"></td></tr>
+</table>
+
+
+
+
+<!-- START of nycgov_footer.inc-->
+<style type="text/css">
+<!--
+.footer_links {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	color: #F9D053;
+	text-align:right;
+}
+.footer_copyright {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	color: #C4C4B2;
+}
+.footer_bg {
+	background-color:#494B4C;
+	padding:6px 25px 6px 13px;
+}
+-->
+</style>
+<TABLE cellSpacing="0" cellPadding="0" width="999" border="0">
+  <TR>
+    <td class="footer_bg"><Table cellspacing="0" cellpadding="0" border="0" width="961">
+        <tr>
+          <td width="50%" class="footer_copyright">Copyright 2013 The City of New York</td>
+          <td width="50%" class="footer_links"><A class=footer_links href="/contact">Contact Us</A> | <A class=footer_links href="/faqs">FAQs</A> | <A class=footer_links href="/privacy">Privacy Statement</A> | <A class=footer_links href="http://www.nyc.gov/html/misc/html/tou.html">Terms of Use</A> | <A class=footer_links href="/sitemap">Site Map</A></td>
+        </tr>
+      </Table></td>
+  </TR>
+</TABLE>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-9518673-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+<!-- END of nycgov_footer.inc-->
+
+				</td>
+			</tr>
+<!-- BEGIN_PRINT_PAGE -->			
+		</table>
+	<!-- END_PRINT_PAGE -->
+	</body>
+</html>
+

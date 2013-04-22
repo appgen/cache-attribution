@@ -1,0 +1,447 @@
+
+
+
+		
+	
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+	<head>
+		<meta http-equiv="content-type" content="text/html;charset=UTF-8">
+		<meta name="tp-name" content="homepage_2col">
+
+		
+		
+
+		
+				<title>Public Health Insurance Options | Places to Enroll</title>
+			
+		
+				
+			
+		<link href="../../includes/css/rollout.css" rel="stylesheet">
+	</head>
+
+<body  background="../../includes/site_images/misc/bg_2col.gif"
+  bgcolor="#ffffff" leftmargin="0" marginheight="0" marginwidth="0" topmargin="0">
+
+	<!-- BEGIN_PRINT_PAGE -->
+		<table width="769" border="0" cellspacing="0" cellpadding="0" height="100%">
+	<!-- END_PRINT_PAGE -->	
+			<tr><td colspan="2" align="left" valign="top" width="769">
+					<!-- START of nycgov_header.inc -->
+<table width="769" border="0" cellspacing="0" cellpadding="0" height="51">
+	<tr>
+		<td><img src="../../includes/site_images/nyc_gov/nycgov_banner.gif" alt="" width="769" height="51" border="0" usemap="#TopNav"></td>
+	</tr>
+</table>
+<map name="TopNav">
+  <area shape="rect" coords="554,1,599,25" href="/search" alt="Search">
+  <area shape="rect" coords="607,1,688,25" href="/portal/register.jsp" alt="Email Updates">
+  <area shape="rect" coords="698,1,762,25" href="/contact" alt="Contact Us">
+  <area shape="rect" coords="328,27,399,50" href="/residents" alt="Residents">
+  <area shape="rect" coords="408,27,471,50" href="/business" alt="Business">
+  <area shape="rect" coords="478,27,535,50" href="/visitors" alt="Visitors">
+  <area shape="rect" coords="544,27,628,50" href="/government" alt="Government">
+  <area shape="rect" coords="635,27,764,50" href="/mayor" alt="Office of the Mayor">
+  <area shape="rect" coords="3,3,49,48" href="/home.html" alt="NYC.gov always open">
+</map>
+<!-- END of nycgov_header.inc -->
+					
+							<table width="769" border="0" cellspacing="0" cellpadding="0">
+  <tr> 
+    <td align="left" valign="top" width="769"><img src="../../includes/site_images/branding/agency_topbanner.jpg" alt="Office of Citywide Health Insurance Access" width="769" height="95" border="0" usemap="#LogoNav"></td>
+  </tr>
+</table>
+<map name="LogoNav">
+  <area shape="poly" coords="12,12,165,12,182,45,187,45,187,31,555,31,555,45,12,45" href="../../html/home/home.shtml" alt="">
+</map>
+						
+			</td></tr>
+
+		
+		<!-- BEGIN_PRINT_PAGE -->
+		<tr>
+		<!-- END_PRINT_PAGE -->
+		<td align="left" valign="top" width="180" height="100%">
+					
+							
+							 
+								 <script language="Javascript" src="../../includes/scripts/rollover.js"></script>
+<table width='180' border='0' cellspacing='0' cellpadding='0'>
+<tr>
+    <td colspan="2"><img src="../../includes/site_images/spacers/spacer.gif" alt="" width="180" height="2"></td>
+  </tr>
+  <tr height="53" bgcolor="FF6600"> 
+  <td align="left" valign="bottom"><img src="../../includes/site_images/spacers/spacer.gif" alt="" width="15" height="53">
+  </td>
+    <td valign="top"><table width="165"  border='0' cellspacing='0' cellpadding='0' height="53">
+        <form action="http://search1.nyc.gov/search?" method="GET" name="gs">
+          <tr height="32" valign="bottom"> 
+                     <input value="xml_no_dtd" name="output" type="hidden">
+                     <input value="default_collection" name="site" type="hidden">
+                     <input value="agency_frontend" name="proxystylesheet" type="hidden">
+                     <input value="agency_frontend" name="client" type="hidden">
+                     <input value="www.nyc.gov/html/hia" name="sitesearch" type="hidden">
+            <td align="left"> 
+              <input name="q" type="text" class="search-box" id="search_nycgov">
+            </td>
+          </tr>
+          <tr height="21" valign="top"> 
+            <td align="left" valign="middle"> 
+              <input name="go" type="image" id="go" src="../../includes/site_images/nav/nav_search_button_0.gif" alt="Search OCHIA" width="86" height="11" border="0" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('go','','../../includes/site_images/nav/nav_search_button_1.gif',1)"> 
+            </td>
+          </tr>
+        </form>
+      </table></td>
+  </tr>
+</table>
+<table width="180" border="0" cellspacing="0" cellpadding="0">
+<tr>
+  <td align="left" bgcolor="" valign="top">
+    <a href="../../html/home/home.shtml" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('home','','../../includes/site_images/nav/home_1.gif',1)"><img src="../../includes/site_images/nav/home_0.gif" alt="OCHIA Home" name="home" width="180" height="31" border="0"></a><br>
+	<a href="../../html/about/about.shtml" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('about','','../../includes/site_images/nav/about_1.gif',1)"><img src="../../includes/site_images/nav/about_0.gif" alt="About OCHIA" name="about" width="180" height="30" border="0"></a><br>
+	<a href="../../html/public_insurance/public_insurance.shtml" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('public_insurance','','../../includes/site_images/nav/public_health_active_1.gif',1)"><img src="../../includes/site_images/nav/public_health_active_0.gif" alt="Public Health Insurance Options" name="public_insurance" width="180" height="30" border="0"></a><br>
+	<a href="../../html/public_insurance/children.shtml" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('children','','../../includes/site_images/nav/public_health_children_1.gif',1)"><img src="../../includes/site_images/nav/public_health_children_0.gif" alt="Children" name="children" width="180" height="27" border="0"></a><br>
+	<a href="../../html/public_insurance/adults.shtml" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('adults','','../../includes/site_images/nav/public_health_adults_1.gif',1)"><img src="../../includes/site_images/nav/public_health_adults_0.gif" alt="Adults" name="adults" width="180" height="27" border="0"></a><br>
+	<a href="../../html/public_insurance/pregnant.shtml" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('pregnant','','../../includes/site_images/nav/public_health_pregnant_1.gif',1)"><img src="../../includes/site_images/nav/public_health_pregnant_0.gif" alt="Pregnant Women" name="pregnant" width="180" height="27" border="0"></a><br>
+	<a href="../../html/public_insurance/adults65.shtml" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('adults65','','../../includes/site_images/nav/public_health_adults_65_1.gif',1)"><img src="../../includes/site_images/nav/public_health_adults_65_0.gif" alt="Adults 65 Years or Older" name="adults65" width="180" height="27" border="0"></a><br>
+	<a href="../../html/public_insurance/family.shtml" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('family','','../../includes/site_images/nav/public_health_family_1.gif',1)"><img src="../../includes/site_images/nav/public_health_family_0.gif" alt="Family Planning Benefit Program" name="family" width="180" height="40" border="0"></a><br>
+	<a href="../../html/public_insurance/hiv.shtml" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('hiv','','../../includes/site_images/nav/public_health_hiv_1.gif',1)"><img src="../../includes/site_images/nav/public_health_hiv_0.gif" alt="HIV Special Needs Plan" name="hiv" width="180" height="27" border="0"></a><br>
+	<a href="../../html/public_insurance/buy_in.shtml" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('buy_in','','../../includes/site_images/nav/public_health_buyin_1.gif',1)"><img src="../../includes/site_images/nav/public_health_buyin_0.gif" alt="Medicaid Buy-In Program" name="buy_in" width="180" height="27" border="0"></a><br>
+	<a href="../../html/public_insurance/excess.shtml" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('express','','../../includes/site_images/nav/public_health_express_1.gif',1)"><img src="../../includes/site_images/nav/public_health_express_0.gif" alt="Medicaid Excess Income Program" name="express" width="180" height="40" border="0"></a><br>
+	<a href="../../html/public_insurance/enroll.shtml" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('enroll','','../../includes/site_images/nav/public_health_enroll_1.gif',1)"><img src="../../includes/site_images/nav/public_health_enroll_0.gif" alt="Places to Enroll" name="enroll" width="180" height="27" border="0"></a><br>
+	<a href="../../html/public_insurance/accessing.shtml" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('accessing','','../../includes/site_images/nav/public_health_accessing_1.gif',1)"><img src="../../includes/site_images/nav/public_health_accessing_0.gif" alt="Accessing Your Coverage" name="accessing" width="180" height="27" border="0"></a><br>
+	<a href="../../html/public_insurance/renewing.shtml" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('renewing','','../../includes/site_images/nav/public_health_renewing_1.gif',1)"><img src="../../includes/site_images/nav/public_health_renewing_0.gif" alt="Renewing Your Coverage" name="renewing" width="180" height="27" border="0"></a><br>
+	<a href="../../html/public_insurance/immigrant.shtml" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('immigrant','','../../includes/site_images/nav/public_health_immigrant_1.gif',1)"><img src="../../includes/site_images/nav/public_health_immigrant_0.gif" alt="Immigrant Eligibility" name="immigrant" width="180" height="27" border="0"></a><br>
+	<a href="../../html/public_insurance/faq.shtml" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('faq','','../../includes/site_images/nav/public_health_faq_1.gif',1)"><img src="../../includes/site_images/nav/public_health_faq_0.gif" alt="FAQ" name="faq" width="180" height="29" border="0"></a><br>
+	<a href="../../html/private_insurance/private_insurance.shtml" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('private_insurance','','../../includes/site_images/nav/private_health_1.gif',1)"><img src="../../includes/site_images/nav/private_health_0.gif" alt="Private Health Insurance Options" name="private_insurance" width="180" height="30" border="0"></a><br>
+	<a href="../../html/resources/resources.shtml" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('resources','','../../includes/site_images/nav/resources_1.gif',1)"><img src="../../includes/site_images/nav/resources_0.gif" alt="Resources for the Uninsured" name="resources" width="180" height="44" border="0"></a><br>
+	<a href="../../html/other/other.shtml" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('other','','../../includes/site_images/nav/other_1.gif',1)"><img src="../../includes/site_images/nav/other_0.gif" alt="Other Benefits for Healthy Living" name="other" width="180" height="44" border="0"></a><br>
+	<a href="../../html/policy/policy.shtml" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('policy','','../../includes/site_images/nav/policy_1.gif',1)"><img src="../../includes/site_images/nav/policy_0.gif" alt="Health Insurance Policy & Research Links" name="policy" width="180" height="44" border="0"></a><br>
+	<a href="../../html/publications/publications.shtml" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('publications','','../../includes/site_images/nav/publications_1.gif',1)"><img src="../../includes/site_images/nav/publications_0.gif" alt="Publications" name="publications" width="180" height="30" border="0"></a><br>
+    <a href="http://www.nyc.gov/html/mail/html/mailhia.html" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('contact','','../../includes/site_images/nav/contact_1.gif',1)"><img src="../../includes/site_images/nav/contact_0.gif" alt="Contact OCHIA" name="contact" width="180" height="30" border="0"></a></td>
+</tr>
+<tr><td><img src="../../includes/site_images/nav/bottom_image.jpg" alt="Smiling Girl and Father" height="124" width="180" border="0"></td></tr>
+</table><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+								 
+						
+				</td>
+				<!-- START of CENTER column -->
+				<!-- BEGIN_PRINT_PAGE -->
+				<td id="main_content" align="left" valign="top" width="589">
+				<!-- START of PRIMARY FEATURE SECTION -->
+				<table width="589" border="0" cellspacing="0" cellpadding="0">
+				  
+					  
+						<tr><td colspan="3" align="left" valign="top" bgcolor="" width="589">
+							
+							
+								<img src="../../includes/site_images/titles/title_public_enroll.gif"
+								alt="Places to Enroll" width="589" border="0" /></td></tr>
+						
+					
+						<tr><td align="left" bgcolor="" valign="top" width="30"><img src="../../includes/site_images/spacers/spacer_30_30.gif" alt="" width="30" height="30" border="0">
+						</td><td align="left" bgcolor="" valign="top" width="499"><img src="../../includes/site_images/spacers/spacer_499_15.gif" alt="" width="499" height="15" border="0"><br>
+					  
+							
+						
+					  
+							
+							
+									
+											<span class="bodytext"></span>
+											
+										
+									
+											<span class="bodytext">This section contains a list of organizations that individuals and families can go to for assistance with enrollment into public health insurance programs. These organizations offer valuable resources such as staff who can communicate in different languages, educational materials, and assistance to individuals throughout the enrollment process. Listed below are the different types of organizations where individuals and families can get help determining their eligibility for public health insurance as well as assistance with completing the application process. 
+
+<ul><li><a href="#hra">HRA MAP Community Offices</a>&#160;</li><li><a href="#comm">Community-Based Organizations</a>&#160;</li><li><a href="#dep">Department of Health Clinics</a>&#160;</li><li><a href="#hhc">HHC Hospital-Based Enrollers</a>&#160;</li><li><a href="#hp">Health Plans</a><br /></li></ul><p style="MARGIN-top: 0in"><a id="#hra" class="bookmark" title="#hra" name="#hra"></a>The Human Resources Administration will help children and adults to enroll in public health insurance programs at the offices listed below.&#160; Offices are&#160;opened Monday through Friday&#160;from 9:00 AM to 5:00 PM.&#160;&#160;The Coney&#160;Island Office also opens on Saturdays from 9:00 AM to 12:00&#160;PM.&#160;</p><table border="1" cellspacing="0" cellpadding="3" width="100%"><tbody><tr valign="top"><td class="blue_bg" width="70%" align="center"><span class="table_header_white">Medical Assistance Program<br />
+Medicaid Offices</span></td><td class="blue_bg" width="30%" align="center"><span class="table_header_white">Telephone Number</span></td></tr><tr valign="top"><td colspan="2"><strong>BRONX</strong></td></tr><tr valign="top"><td width="70%"><strong>Bronx Lebanon Hospital</strong><br />
+1316 Fulton Avenue, 1st Floor<br />
+Bronx, New York 10456</td><td width="30%">(718) 860-4634/4635</td></tr><tr valign="top"><td width="70%"><strong>Lincoln Medical and Mental Health Center</strong><br />
+234 East 149th Street, Basement, Room B-75<br />
+Bronx, New York 10451</td><td width="30%">(718) 585-7872/7920</td></tr><tr valign="top"><td width="70%"><strong>North Central Bronx Hospital</strong><br />
+3424 Kossuth Avenue, 1st Floor, Room 1A 05<br />
+Bronx, New York 10467</td><td width="30%">(718) 920-1070</td></tr><tr valign="top"><td width="70%"><strong>Morrisania</strong>&#160;<br />
+1225 Gerard Avenue, Basement<br />
+Bronx, New York 10452</td><td width="30%">(718) 960-2799/2752</td></tr><tr valign="top"><td colspan="2"><strong>BROOKLYN</strong></td></tr><tr valign="top"><td width="70%"><strong>Boerum Hill</strong>&#160;<br />
+35 Fourth Avenue<br />
+Brooklyn, New York 11217</td><td width="30%">(718) 623-7427/7428</td></tr><tr valign="top"><td width="70%"><strong>Kings County Hospital Medicaid Office</strong><br />
+441 Clarkson Avenue<br />
+"T" Building Nurses' Residence, 1st Floor<br />
+Brooklyn, New York 11203</td><td width="30%">(718) 718-221-2300/2301</td></tr><tr valign="top"><td width="70%"><strong>Coney Island</strong>&#160;<br />
+30-50 West 21st Street<br />
+Brooklyn, New York 11224</td><td width="30%">(718) 333-3000/3001</td></tr><tr valign="top"><td width="70%"><strong>East New York</strong><br />
+2094 Pitkin Avenue, Basement<br />
+Brooklyn, New York 11207</td><td width="30%">(718) 922-8292/8293</td></tr><tr valign="top"><td colspan="2"><strong>MANHATTAN</strong></td></tr><tr valign="top"><td width="70%"><strong>Bellevue Hospital Medicaid Office (Temporarily closed due to Hurricane Sandy)</strong><br />
+462 First Avenue, &#8220;G&#8221; Link, Ground Floor<br />
+New York, New York 10016</td><td width="30%">(212) 679-7424</td></tr><tr valign="top"><td width="70%"><strong><span>Chinatown</span>&#160;<span>Medicaid Office</span></strong><br /><span>115 Chrystie Street</span>&#160;<span>(5th floor)</span>&#160;<br />
+New York, New York 10002</td><td width="30%"><p><span>(212) 334-6114</span></p></td></tr><tr valign="top"><td width="70%"><strong>Metropolitan Hospital</strong><br />
+1901 First Avenue. 1st Floor, Room 1D-27<br />
+New York, New York 10029</td><td width="30%">(212) 423-7006</td></tr><tr valign="top"><td width="70%"><p><strong>Manhattanville Medicaid Office</strong><br />
+520-530 West 135th Street, 1st Floor<br />
+New York, New York 10031</p></td><td width="30%">(212) 939-0207/0208</td></tr><tr valign="top"><td colspan="2"><strong>QUEENS</strong></td></tr><tr valign="top"><td width="70%"><strong>Queens Community Medicaid Office</strong><br />
+45-12 32nd Place, 1st Floor<br />
+LIC,&#160;New York 11101</td><td width="30%">(718) 752-4540</td></tr><tr valign="top"><td colspan="2"><strong>STATEN ISLAND</strong>&#160;</td></tr><tr valign="top"><td width="70%"><strong>Staten Island</strong>&#160;<br />
+215 Bay Street<br />
+Staten Island, New York 10301</td><td width="30%">(718) 420-4660/4732</td></tr></tbody></table><p align="right"><a href="#Top">back to top</a></p><p><a id="#comm" class="bookmark" title="#comm" name="#comm"></a>Community-based enrollment counselors are stationed in many neighborhoods, making enrollment into public health insurance programs convenient for many New Yorkers. Currently, the social service organizations listed below determine an individual&#8217;s eligibility as well as assist with the application process for public health insurance programs.</p><table border="1" cellspacing="0" cellpadding="3" width="100%"><tbody><tr valign="top"><td class="blue_bg" width="38%" align="center"><span class="table_header_white">Community-Based Organizations</span></td><td class="blue_bg" width="33%" align="center"><span class="table_header_white">Telephone Number &amp; Website</span></td><td class="blue_bg" width="29%" align="center"><span class="table_header_white">Areas Served</span></td></tr><tr valign="top"><td width="38%"><strong>Brooklyn Perinatal Network, Inc.</strong><br />
+30 Third Avenue<br />
+Room 618<br />
+Brooklyn, NY 11217</td><td width="33%"><p>(718) 643-8258 *819<br /><a href="http://www.bpnetwork.org/">www.bpnetwork.org</a></p><p>&#160;</p></td><td width="29%">Northern Brooklyn</td></tr><tr><td width="38%"><strong>Callen-Lorde Community Health Center<br /></strong>356 West 18th Street<br />
+New York, NY 10011</td><td width="33%"><p>(212) 271-7200<br /><a href="http://www.callen-lorde.org/">www.callen-lorde.org/</a></p><p>&#160;</p></td><td width="29%">Bronx, Brooklyn, Manhattan and Queens</td></tr><tr valign="top"><td width="38%"><strong>The Children&#8217;s Aid Society</strong><br />
+Lord Memorial Building<br />
+150 East 45th Street<br />
+Room 230<br />
+New York, NY 10017</td><td width="33%">(212) 503-6804<br /><a href="http://www.childrensaidsociety.org/">www.childrensaidsociety.org</a></td><td width="29%">All Manhattan and the Bronx</td></tr><tr valign="top"><td width="38%"><strong>Hispanic Federation</strong>&#160;<br />
+55 Exchange Place, 5th Fl<br />
+New York, NY 10005</td><td width="33%">(212) 233-8955 ext. 127<br /><a href="http://www.hispanicfederation.org/">www.hispanicfederation.org</a></td><td width="29%">Lower Manhattan and South Bronx</td></tr><tr valign="top"><td width="38%"><strong>Jewish Community Center of Staten Island</strong><br />
+475 Victory Boulevard<br />
+Staten Island, NY 10301</td><td width="33%">(718) 981-1400<br /><a href="http://www.sijcc.org/community">www.sijcc.org/community</a></td><td width="29%">Staten Island</td></tr><tr valign="top"><td width="38%"><strong>Metropolitan New York Coordinating Council on Jewish Poverty</strong>&#160;<br />
+80 Maiden Lane<br />
+21st Fl<br />
+New York, NY 10038</td><td width="33%">(212) 453-9532 <a href="http://www.metcouncil.org/">www.metcouncil.org</a>&#160;</td><td width="29%">Southern Brooklyn</td></tr><tr valign="top"><td width="38%"><strong>Morris Heights Health Center</strong>&#160;<br />
+2042 Grand Avenue<br />
+Bronx, NY 10453</td><td width="33%">(718) 483-1260<br /><a href="http://www.mhhc.org/">www.mhhc.org</a></td><td width="29%">Bronx and Manhattan</td></tr><tr><td width="38%"><strong>Public Health Solutions</strong>&#160;<br />
+220 Church Street<br />
+New York, New York, NY 10013</td><td width="33%">(212) 748-0400<br /><a href="http://www.healthsolutions.org/">www.healthsolutions.org</a>&#160;</td><td width="29%">Citywide</td></tr><tr valign="top"><td width="38%"><strong>Ridgewood Bushwick Senior Citizens Council</strong><br />
+217 Wyckoff Avenue<br />
+Brooklyn, NY 11237</td><td width="33%">(718) 366-1830<br /><a href="http://www.rbscc.org/">www.rbscc.org</a>&#160;</td><td width="29%">Parts of Brooklyn (Bushwick and Lower Ridgewood)</td></tr><tr><td width="38%"><strong>Safe Space</strong>&#160;<br />
+96-01 43rd Avenue<br />
+Corona, NY 11368</td><td width="33%">(718) 785-9050 ext. 39<br /><a href="http://www.safespacenyc.org/">www.safespacenyc.org</a></td><td width="29%">Northern and Southern Queens</td></tr><tr><td width="38%"><p><strong>Structured Employment Economic Development (SEEDCO)</strong><br />
+915 Broadway<br />
+New York, NY 10010</p></td><td width="33%">(212) 204-1384<br /><a href="http://www.seedco.org/">www.seedco.org</a></td><td width="29%">Bronx and Manhattan</td></tr><tr valign="top"><td width="38%"><p><strong>Yeled V' Yalda</strong><br />
+3820 14th Avenue<br />
+Brooklyn, NY 11218</p></td><td width="33%">(718) 686-2188, 2189<br /><a href="http://www.yeled.org/">www.yeled.org</a></td><td width="29%">Brooklyn and Staten Island</td></tr></tbody></table><p align="right"><a href="#Top">back to top</a></p><p><a id="#dep" class="bookmark" title="#dep" name="#dep"></a>The Department of Health and Mental Hygiene has enrollers who will assist individuals and families with completing an application for public health insurance programs at any one of the following clinic locations. Additionally, individuals and families can access other free health services including immunizations, sexually transmitted disease testing, tuberculosis services, and flu shots. There are no income or immigration status requirements to receive these services. The clinics are open to the general public.</p><table border="1" cellspacing="0" cellpadding="3" width="100%"><tbody><tr valign="top"><td class="blue_bg" width="70%" align="center"><span class="table_header_white">NYC Department of Health and Mental Hygiene Clinics<br />
+Website: <a class="table_header_white" href="http://www.nyc.gov/health">www.nyc.gov/health</a></span></td><td class="blue_bg" width="30%" align="center"><span class="table_header_white">Telephone Number</span></td></tr><tr valign="top"><td width="70%"><strong>Chelsea Health Center</strong><br />
+303 Ninth Avenue, 1st Floor<br />
+New York, New York 10001</td><td width="30%">(212) 244-0841</td></tr><tr valign="top"><td width="70%"><strong>Corona Health Center</strong><br />
+34-33 Junction Boulevard, Basement<br />
+Jackson Heights, New York 11372</td><td width="30%">(718) 476-7860</td></tr><tr><td width="70%"><strong>Crown Heights Health Center<br /></strong>1219 Prospect Place, Basement<br />
+Brooklyn, New York 11213</td><td width="30%">(718) 953-8234/8236</td></tr><tr><td width="70%"><strong>Fort Greene Health Center<br /></strong>295 Flatbush Avenue, 5th Floor<br />
+Brooklyn, New York 11201</td><td width="30%">(718) 643-4467/4445</td></tr><tr valign="top"><td width="70%"><strong>Homecrest Health Center</strong><br />
+1601 Avenue S, 1St Floor<br />
+Brooklyn, New York 11229</td><td width="30%">(718) 336-2553 x144/145</td></tr><tr><td width="70%"><strong>Jamaica Health Center<br /></strong>90-37 Parsons Boulevard,&#160;Basement<br />
+Jamaica,&#160;New York 11437</td><td width="30%">(718) 262-5512</td></tr><tr><td width="70%"><strong>Staten Island Health Center<br /></strong>51 Stuyvesant Place, Room 203<br />
+Staten Island, New York 10301</td><td width="30%">(718) 420-4714</td></tr><tr valign="top"><td width="70%"><strong>Tremont Health Center</strong><br />
+1826 Arthur Avenue, Basement<br />
+Bronx, New York 10457</td><td width="30%">(718) 466-8842/8883</td></tr><tr valign="top"><td width="70%"><strong>Washington Heights Health Center</strong><br />
+600 West 168th Street, 2nd Floor<br />
+New York, New York 10032</td><td width="30%">(212) 491-1661/4453</td></tr></tbody></table><p align="right"><a href="#Top">back to top</a></p><p><a id="#hhc" class="bookmark" title="#hhc" name="#hhc"></a>If patients have no health insurance, or their insurance does not cover some of the services that are needed, specially trained HHC Financial Counselors will work with patients to figure the type of financial assistance for which they are eligible.</p><table border="1" cellspacing="0" cellpadding="3" width="100%"><tbody><tr valign="top"><td class="blue_bg" width="70%" align="center"><span class="table_header_white">New York City Health and Hospitals Corporation (HHC)<br />
+Website: <a class="table_header_white" href="http://www.nyc.gov/hhc">www.nyc.gov/hhc</a></span></td><td class="blue_bg" width="30%" align="center"><span class="table_header_white">Telephone Number</span></td></tr><tr valign="top"><td width="70%"><strong>Bellevue Hospital Center</strong><br />
+462 First Avenue<br />
+New York, New York 10016</td><td width="30%">(212)562-1020/1010</td></tr><tr valign="top"><td width="70%"><strong>Coney Island Hospital</strong><br />
+2601 Ocean Parkway<br />
+Brooklyn, New York 11235</td><td width="30%">(718)616-5024</td></tr><tr valign="top"><td width="70%"><strong>Cumberland Diagnostic &amp; Treatment Center</strong><br />
+100 North Portland Avenue<br />
+Brooklyn, New York 11205</td><td width="30%">(718)260-7742/7691</td></tr><tr valign="top"><td width="70%"><strong>East New York Diagnostic &amp; Treatment Center</strong><br />
+2094 Pitkin Avenue<br />
+Brooklyn, New York 11207</td><td width="30%">(718)240-0628/0629 0630</td></tr><tr valign="top"><td width="70%"><strong>Elmhurst Hospital Center</strong><br />
+79-01 Broadway<br />
+Elmhurst, New York 11373</td><td width="30%">(718)334-2565</td></tr><tr valign="top"><td width="70%"><strong>Gouverneur Healthcare Services</strong><br />
+227 Madison Street<br />
+New York, New York 10002</td><td width="30%">(212)238-7139/7143</td></tr><tr valign="top"><td width="70%"><strong>Harlem Hospital Center</strong><br />
+506 Lenox Avenue<br />
+New York, New York 10037</td><td width="30%">(212)939-8094 /8172/ 8085</td></tr><tr valign="top"><td width="70%"><strong>Jacobi Medical Center</strong><br />
+1400 Pelham Parkway South<br />
+Bronx, New York 10461</td><td width="30%">(718)918-4710</td></tr><tr valign="top"><td width="70%"><strong>Kings County Hospital Center</strong><br />
+451 Clarkson Avenue<br />
+Brooklyn, New York 11203</td><td width="30%">(718)245-4324</td></tr><tr valign="top"><td width="70%"><strong>Lincoln Medical &amp; Mental Health Center</strong><br />
+234 East 149th Street<br />
+Bronx, New York, 10451<br /></td><td width="30%">(718)579-6414</td></tr><tr valign="top"><td width="70%"><strong>Metropolitan Hospital Center</strong><br />
+1901 First Avenue<br />
+New York, New York 10029<br /></td><td width="30%">(212)423-6451</td></tr><tr valign="top"><td width="70%"><strong>Morrisania Diagnostic &amp; Treatment Center</strong><br />
+1225 Gerard Avenue<br />
+Bronx, New York 10452</td><td width="30%">(718)960-2636/2721</td></tr><tr valign="top"><td width="70%"><strong>North Central Bronx Hospital</strong>&#160;<br />
+3424 Kossuth Avenue<br />
+Bronx, New York 10467<br /></td><td width="30%">(718)519-3537/3129</td></tr><tr valign="top"><td width="70%"><strong>Queens Hospital Center</strong><br />
+82-70 164th Street<br />
+Jamaica, New York 11432</td><td width="30%">(718)883-6702/6705</td></tr><tr valign="top"><td width="70%"><strong>Renaissance Health Care Network Diagnostic &amp; Treatment Center</strong><br />
+215 West 125 Street<br />
+New York, New York 10027</td><td width="30%">(212)932-6622/6585/ 6586</td></tr><tr valign="top"><td width="70%"><strong>Segundo Ruiz Belvis Diagnostic &amp; Treatment Center</strong><br />
+545 East 142nd Street<br />
+Bronx, New York 10454</td><td width="30%">(718)579-1763</td></tr><tr valign="top"><td width="70%"><strong>Woodhull Medical and Mental Health Center</strong><br />
+760 Broadway<br />
+Brooklyn, New York 11206<br />
+718-963-8995; 718-630-3403</td><td width="30%">(718)963-8995<br />
+(718)630-3403</td></tr></tbody></table><p align="right"><a href="#Top">back to top</a></p><p><a id="#hp" class="bookmark" title="#hp" name="#hp"></a>The listed health plans are trained to find the right health insurance coverage for individuals and families. If an individual or family wants to maintain a relationship with their physician, clinic or hospital, they should be sure to ask if their doctor or other health care provider is part of the health plan.</p><table border="1" cellspacing="0" cellpadding="3" width="100%"><tbody><tr valign="top"><td class="blue_bg" width="34%" align="center"><span class="table_header_white">Health Plans</span></td><td class="blue_bg" width="33%" align="center"><span class="table_header_white">Telephone Number &amp; Website</span></td><td class="blue_bg" width="33%" align="center"><span class="table_header_white">Boroughs Served</span></td></tr><tr valign="top"><td width="34%"><strong>Affinity Health Plan</strong></td><td width="33%">(866) 247-5678<br /><a href="http://www.affinityplan.org/">www.affinityplan.org</a>&#160;</td><td width="33%">All</td></tr><tr><td width="34%"><strong>EmblemHealth</strong></td><td width="33%">(800) 542-2412<br /><a href="http://www.emblemhealth.com/">www.emblemhealth.com</a></td><td width="33%">All</td></tr><tr valign="top"><td width="34%"><strong>Fidelis Care NY</strong></td><td width="33%">(888) 343-3547<br /><a href="http://www.fideliscare.org/">www.fideliscare.org</a></td><td width="33%">All</td></tr><tr valign="top"><td width="34%"><strong>HealthFirst</strong></td><td width="33%">(800) 404-8778<br /><a href="http://www.healthfirstny.com/">www.healthfirstny.com</a></td><td width="33%">All</td></tr><tr valign="top"><td width="34%"><strong>Health Plus Amerigroup</strong></td><td width="33%">(888) 809-8009<br /><a href="http://www.healthplus.amerigroup.com/">www.healthplus.amerigroup.com</a></td><td width="33%">All</td></tr><tr valign="top"><td width="34%"><strong>MetroPlus Health Plan</strong></td><td width="33%">(800) 475-6387<br /><a href="http://www.metroplus.org/">www.metroplus.org</a>&#160;</td><td width="33%">Bk, Bx, M, Q</td></tr><tr valign="top"><td width="34%"><strong>Neighborhood Health Providers</strong></td><td width="33%">800-826-6240<br /><a href="http://www.getnhp.com/">www.getnhp.com</a></td><td width="33%">All</td></tr><tr><td width="34%"><strong>UnitedHealthcare Community Plan</strong></td><td width="33%">(800) 493-4647<br /><a href="http://www.uhccommunityplan.com/">www.uhccommunityplan.com</a></td><td width="33%">All</td></tr><tr valign="top"><td width="34%"><strong>WellCare, Inc.</strong></td><td width="33%">(800) 992-6095<br /><a href="http://www.wellcare.com/">www.wellcare.com</a>&#160;</td><td width="33%">Bk, Bx, M, Q</td></tr></tbody></table><p align="right"><a href="#Top">back to top</a></p>
+
+&#160;</span>
+										
+								
+						
+
+					
+
+					 
+					   
+						
+					 
+					 
+					
+					</td><td align="left" bgcolor="" valign="top" width="60"><img src="../../includes/site_images/spacers/spacer_60_30.gif" alt="" width="60" height="30" border="0"></td></tr>
+
+					
+
+					  
+				   
+				</table>
+				<!-- END of PRIMARY FEATURE SECTION -->
+
+				<!-- START of SECONDARY FEATURE SECTION -->
+
+				<table width="589" border="0" cellspacing="0" cellpadding="0">
+				  
+					  
+						<tr><td colspan="4" align="left" valign="top" bgcolor="" width="589">
+							
+							</td></tr>
+						
+					
+
+					  </table>
+
+				<!-- END of SECONDARY FEATURE SECTION -->
+
+				<!-- START of TERTIARY FEATURE SECTION -->
+				<table width="589" border="0" cellspacing="0" cellpadding="0">
+				  
+					  
+						<tr><td colspan="3" align="left" valign="top" bgcolor="" width="589">
+							
+							</td></tr>
+						
+					
+					  
+				   
+				</table>
+				<!-- END of TERTIARY FEATURE SECTION -->
+				<!-- END_PRINT_PAGE -->
+				
+
+			<br><table width="200" border="0" cellspacing="0" cellpadding="0" class="eaf_position_2col">
+  <tr> 
+    <td align="left" valign="middle" width="30">&nbsp;</td>
+    <td align="left" valign="middle" width="16"><a target="_blank" onclick="this.href = '/j2ee/emailafriend/EAFEntry?' + Date.parse(new Date()); return true;" href="/j2ee/emailafriend/EAFEntry"><img src="../../images/buttons/eaf.gif" border="0" height="12" width="16"></a></td>
+    <td width="154">&nbsp;&nbsp;<a target="_blank" onclick="this.href = '/j2ee/emailafriend/EAFEntry?' + Date.parse(new Date()); return true;" href="/j2ee/emailafriend/EAFEntry?" class="footer_text">EMAIL 
+      A FRIEND</a></td>
+  </tr>
+</table>
+
+<br> <!-- Pay ATTENTION!!!
+        Please, delete comments before you upload to IW Server your changes to this File!
+
+        1. In the link tag below instead of sitename=HPD type your Agency Name.
+        2. If you included alternative file to use Printer Friendly link on your page, and if your
+           Agency uses Customized Style Sheets, you need to create "rollout_print.css " force the script print text without conflicts with customized Style Sheets of the NYC.gov default
+           Style Sheets "rollout.css "
+        3. If your agency uses Customized Style Sheets the linkk to Printer Friendly should be          like: <a href="/cgi-bin/misc/pfprinter.cgi?action=print&sitename=HPD&printstyle=other">
+        4. Because of use of the customized Style Sheets this file must contain the link to Pfinter  Frindly Script with variable "printstyle=other"
+         -->
+<table width="212" border="0" cellspacing="0" cellpadding="0" class="printer_position_2col">
+  <tr> 
+    <td align="left" valign="middle" width="30">&nbsp;</td>
+    <td align="left" valign="middle" width="17"><a href="/cgi-bin/misc/pfprinter.cgi?action=print&sitename=HPD"><img src="../../images/misc/printer_icon.gif" border=0 width="17" height="15" alt="Printer Version"></a></td>
+    <td width="165" valign="middle">&nbsp;&nbsp;<a href="/cgi-bin/misc/pfprinter.cgi?action=print&sitename=HPD" class="footer_text">PRINTER 
+      FRIENDLY FORMAT</a> </td>
+  </tr>
+</table>
+
+
+
+<!-- START of nycgov_footer.inc-->
+<!-- old table width=589;  499 for middle td -->
+<!-- expanded table width=769;  619 for middle td -->
+<!-- <table width="589" border="0" cellspacing="0" cellpadding="0">
+	<tr>
+		<td align="left" valign="top" width="30"><img src="../../includes/site_images/spacers/spacer_30_30.gif" alt="" width="30" height="30" border="0"></td>
+		<td align="left" valign="top" width="499"><img src="../..//includes/site_images/spacers/spacer_499_15.gif" alt="" width="499" height="15" border="0"><img src="../../includes/site_images/footer_divider.gif" alt="" width="499" height="1" border="0"><br>
+			<span class="footer_header">Footer header goes here<br>
+			</span><span class="footer_text">Footer text description goes here. It is optional and the max is about 300 characters which is approximately 3-4 lines of text. Footer text description goes here. It is optional and the max is about 300 characters which is approximately 3-4 lines of text.<br>
+			</span></td>
+		<td align="left" valign="top" width="60"><img src="../..//includes/site_images/spacers/spacer_60_30.gif" alt="" width="60" height="30" border="0"><br>
+			<br>
+		</td>
+	</tr>
+</table> -->
+<!-- END of default_footer.inc -->
+
+
+					
+	<!-- BEGIN_PRINT_PAGE -->				
+					<span class="footer_text"><br></span></td>
+				<!-- END of CENTER column -->
+			</tr>
+	<!-- END_PRINT_PAGE -->
+			<tr height="25">
+				<td colspan="2" align="left" valign="top" width="769" height="25"> 
+
+					
+
+
+
+<!-- START of nycgov_footer.inc-->
+<style type="text/css">
+<!--
+	.footer_links {font-family: Verdana, Arial, Helvetica, sans-serif;
+		font-size: 10px;
+		color: #F9D053;
+	}
+
+	.footer_copyright {font-family: Verdana, Arial, Helvetica, sans-serif;
+		font-size: 10px;
+		color: #C4C4B2;
+	}
+-->
+</style>
+<TABLE cellSpacing=0 cellPadding=0 width=769 bgColor=#494B4C border=0>
+	<TBODY>
+	<TR><TD width=13><IMG height=24 src="../../includes/site_images/spacers/spacer.gif" width=13></TD>
+          <TD width=287><SPAN class=footer_copyright>Copyright 2013 The City of New York</SPAN></TD>
+          <TD align=right width=444><SPAN class=footer_links><A class=footer_links href="/contact">Contact Us</A> | <A class=footer_links href="/faqs">FAQs</A> | <A class=footer_links href="/privacy">Privacy Policy</A> | <A class=footer_links href="http://www.nyc.gov/html/misc/html/tou.html">Terms of Use</A> | <A class=footer_links href="/sitemap">Site Map</A></SPAN></TD>
+          <TD align=right width=25><IMG height=24 src="../../includes/site_images/spacers/spacer.gif" width=25></TD></TR>
+        </TBODY>
+</TABLE>
+<!-- Privacy Policy updated on 03/08/2011 -->
+<!--  nycgov Webtrends code, added on 02/16/2011 -->
+<script src="/html/misc/scripts/nycwebtrends.js" type="text/javascript"></script>
+<script type="text/javascript">
+//<![CDATA[
+var _nyctag=new WebTrends();
+_nyctag.dcsInit();
+_nyctag.dcsGetId();
+//]]>>
+</script>
+<script type="text/javascript">
+//<![CDATA[
+_nyctag.dcsCollect();
+//]]>>
+</script>
+
+<!-- PROD noscript section -->
+<noscript>
+<div><img alt="DCSIMG" id="DCSIMG" width="1" height="1" src="http://a858-sdc.nyc.gov/dcslfpea2000008i7geu3pdky_5v8x/njs.gif?dcsuri=/nojavascript&WT.js=No&WT.tv=8.6.2"/></div>
+</noscript>
+<!--  END OF nycgov Webtrends code, added on 02/16/2011 -->
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-9518673-1");
+pageTracker._trackPageview();
+} catch(err) {}
+</script>
+<!-- END of nycgov_footer.inc-->
+
+				</td>
+			</tr>
+<!-- BEGIN_PRINT_PAGE -->			
+		</table>
+	<!-- END_PRINT_PAGE -->
+	</body>
+</html>
+

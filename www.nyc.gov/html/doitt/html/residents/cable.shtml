@@ -1,0 +1,516 @@
+
+
+
+		
+	
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+	<head>
+		<meta http-equiv="content-type" content="text/html;charset=UTF-8">
+		<meta name="tp-name" content="homepage_2col">
+
+		
+		
+
+		
+				<title>DoITT - For Residents - Cable & Open Video Requests</title>
+			
+		
+				
+			
+		<link href="../../includes/css/rollout.css" rel="stylesheet">
+	</head>
+
+<body  background="../../includes/site_images/misc/bg.gif"
+  bgcolor="#ffffff" leftmargin="0" marginheight="0" marginwidth="0" topmargin="0">
+
+	<!-- BEGIN_PRINT_PAGE -->
+		<table width="999" border="0" cellspacing="0" cellpadding="0" height="100%">
+	<!-- END_PRINT_PAGE -->	
+			<tr><td colspan="2" align="left" valign="top" width="999">
+					<!-- START of nycgov_header.inc -->
+<table width="999" border="0" cellspacing="0" cellpadding="0" height="51">
+	<tr>
+		<td><img src="../../includes/site_images/nyc_gov/nycgov_banner_wide.gif" alt="" width="999" height="51" border="0" usemap="#TopNav"></td>
+	</tr>
+</table>
+<map name="TopNav">
+  <area shape="rect" coords="787,6,825,19" href="/search" alt="Search">
+  <area shape="rect" coords="840,6,915,19" href="/portal/register.jsp" alt="Email Updates">
+  <area shape="rect" coords="929,6,988,19" href="/contact" alt="Contact Us">
+  <area shape="rect" coords="563,31,625,46" href="/residents" alt="Residents">
+  <area shape="rect" coords="641,31,698,46" href="/business" alt="Business">
+  <area shape="rect" coords="711,31,761,46" href="/visitors" alt="Visitors">
+  <area shape="rect" coords="776,31,855,46" href="/government" alt="Government">
+  <area shape="rect" coords="868,31,988,46" href="/mayor" alt="Office of the Mayor">
+  <area shape="rect" coords="3,3,48,46" href="/home.html" alt="NYC.gov always open">
+</map>
+<!-- END of nycgov_header.inc -->
+					
+							<link href='http://fonts.googleapis.com/css?family=Istok+Web:400,400italic,700,700italic' rel='stylesheet' type='text/css'>
+<script type="text/javascript" src="../../includes/scripts/misc.js"></script>
+<script type="text/javascript" src="../../includes/scripts/cookies.js"></script>
+<script language="JavaScript" src="../../includes/scripts/change_text.js"></script>
+<script language="JavaScript" src="../../includes/scripts/translate.js"></script>
+<table cellspacing="0" cellpadding="0" border="0" width="999">
+  <tr>
+    <td class="banner"><table cellspacing="0" cellpadding="0" border="0" width="100%">
+        <Tr>
+          <Td class="banner_bg"><table cellspacing="0" cellpadding="0" border="0" width="100%">
+              <tr>
+                <Td class="banner_logo"><a href="../../html/home/home.shtml"><img src="../../includes/site_images/branding/logo.png" width="577" height="43" border="0" alt="NYC Information Technology & Telecommunications"></a></Td>
+                <td class="banner_search"><form action="http://search1.nyc.gov/search?" method="GET" name="gs" style="margin: 0px;">
+                    <input value="xml_no_dtd" name="output" type="hidden">
+                    <input value="default_collection" name="site" type="hidden">
+                    <input value="agency_frontend" name="proxystylesheet" type="hidden">
+                    <input value="agency_frontend" name="client" type="hidden">
+                    <input value="www.nyc.gov/html/doitt" name="sitesearch" type="hidden">
+                    <table cellpadding="0" cellspacing="0" border="0">
+                      <Tr>
+                        <td class="search_field"><input name="q" id="search_nycgov" class="searchfield" style="width:163px; height:20px;" type="text" value="Search" onFocus="if(this.value.toLowerCase()=='search'){this.value=''}" onBlur="if(this.value.length==0){this.value='Search'}"></td>
+                        <td class="search_button"><input name="go" id="go" src="../../includes/site_images/branding/search.gif" alt="Go" border="0" width="13" height="14" type="image"></td>
+                      </Tr>
+                    </table>
+                  </form></td>
+              </tr>
+            </table></Td>
+        </Tr>
+        <tr>
+          <Td><table cellspacing="0" cellpadding="0" border="0" width="100%">
+              <tr>
+                <td width="184" class="nav_section" onMouseOver="this.id='over'" onMouseOut="this.id=''" onClick="window.location.href='../../html/home/home.shtml'"><a href="../../html/home/home.shtml">Home</a></Td>
+                <td class="tools_bg"><table cellspacing="0" cellpadding="0" border="0">
+                    <tr>
+                      <Td class="tools_item"><a href="/register">Newsletter Sign-Up</a></Td>
+                      <td class="tools_item"><a href="http://www.nyc.gov/cgi-bin/misc/pfprinter.cgi?action=print&sitename=doitt">Printer Friendly</a></td>
+                      <td class="tools_item" id="translate_button"><a href="javascript:showTranslate();">Translate Page</a></td>
+                      <td class="text_size"><table cellspacing="0" cellpadding="0" border="0">
+                          <tr>
+                            <td class="text_size_text">Text Size: <a class="text_size_small" id="small" href="javascript:switchStyle('1');">A</a> <a class="text_size_med" id="med" href="javascript:switchStyle('2');">A</a> <a class="text_size_large" id="large" href="javascript:switchStyle('3');">A</a></td>
+                          </tr>
+                        </table></td>
+                    </tr>
+                  </table></td>
+              </tr>
+            </table></Td>
+        </tr>
+      </table></td>
+  </tr>
+</table>
+<script language="Javascript">
+if(GetCookie(fontSizeCookie) == "2"){
+	document.getElementById('med').className="text_size_med_active";	
+}else if(GetCookie(fontSizeCookie) == "3"){
+	document.getElementById('large').className="text_size_large_active";	
+}else{
+	document.getElementById('small').className="text_size_small_active";	
+}
+</script>
+<iframe scrolling='no' frameborder='0' class='shim' name='shim' id='shim'></iframe>
+<div id="translate_popup" class="popup">
+  <table cellspacing="0" cellpadding="0" border="0" width="323">
+    <tr>
+      <td class="popup_table"><table cellspacing="0" cellpadding="0" border="0" width="284">
+          <tr>
+            <Td colspan="2"><img src="../../includes/site_images/misc/translate_popup.gif" width="284" height="39" alt="Translate this Page" border="0"></Td>
+          </tr>
+          <tr>
+            <td class="popup_label" width="123">Select a Language</td>
+            <td class="popup_field" width="147"><select name="tl" id="tl" style="width:147px">
+                <option value="">- Select -</option>
+                <option value="af">Afrikaans</option>
+                <option value="sq">Albanian</option>
+                <option value="ar">Arabic</option>
+                <option value="be">Belarusian</option>
+                <option value="bg">Bulgarian</option>
+                <option value="ca">Catalan</option>
+                <option value="zh">Chinese</option>
+                <option value="zh-CN">Chinese (Simplified)</option>
+                <option value="zh-TW">Chinese (Traditional)</option>
+                <option value="hr">Croatian</option>
+                <option value="cs">Czech</option>
+                <option value="da">Danish</option>
+                <option value="nl">Dutch</option>
+                <option value="en">English</option>
+                <option value="et">Estonian</option>
+                <option value="tl">Filipino</option>
+                <option value="fi">Finnish</option>
+                <option value="fr">French</option>
+                <option value="gl">Galician</option>
+                <option value="de">German</option>
+                <option value="el">Greek</option>
+                <option value="ht">Haitian Creole</option>
+                <option value="iw">Hebrew</option>
+                <option value="hi">Hindi</option>
+                <option value="hu">Hungarian</option>
+                <option value="is">Icelandic</option>
+                <option value="id">Indonesian</option>
+                <option value="ga">Irish</option>
+                <option value="it">Italian</option>
+                <option value="pa">Japanese</option>
+                <option value="ko">Korean</option>
+                <option value="lv">Latvian</option>
+                <option value="lt">Lithuanian</option>
+                <option value="mk">Macedonian</option>
+                <option value="ms">Malay</option>
+                <option value="mt">Maltese</option>
+                <option value="no">Norwegian</option>
+                <option value="fa">Persian</option>
+                <option value="pl">Polish</option>
+                <option value="pt">Portuguese</option>
+                <option value="pt-PT">Portuguese (Portugal)</option>
+                <option value="ro">Romanian</option>
+                <option value="ru">Russian</option>
+                <option value="sr">Serbian</option>
+                <option value="sk">Slovak</option>
+                <option value="sl">Slovenian</option>
+                <option value="es">Spanish</option>
+                <option value="sw">Swahili</option>
+                <option value="sv">Swedish</option>
+                <option value="tl">Tagalog</option>
+                <option value="th">Thai</option>
+                <option value="tr">Turkish</option>
+                <option value="uk">Ukrainian</option>
+                <option value="vi">Vietnamese</option>
+                <option value="cy">Welsh</option>
+                <option value="yi">Yiddish</option>
+              </select>
+            </td>
+          </tr>
+          <tr>
+            <td class="buttons" colspan="2"><input type="button" class="yellow_button" style="width:78px;" value="Translate" onClick="setLanguage(document.getElementById('tl').options[document.getElementById('tl').selectedIndex].value)" />
+              <input type="button" class="yellow_button" style="width:56px;" value="Cancel" onClick="hideTranslate()" /></td>
+          </tr>
+        </table></td>
+  </table>
+</div>
+<div style="display:none; position:absolute; top:0px; left:0px;">
+  <div id="google_translate_element"></div>
+  <script>
+function googleTranslateElementInit() {
+  new google.translate.TranslateElement({
+    pageLanguage: 'en',
+    layout: google.translate.TranslateElement.InlineLayout.SIMPLE
+  }, 'google_translate_element');
+}
+</script>
+  <script src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+</div>
+
+						
+			</td></tr>
+
+		
+		<!-- BEGIN_PRINT_PAGE -->
+		<tr>
+		<!-- END_PRINT_PAGE -->
+		<td align="left" valign="top" width="220" height="100%">
+					
+							
+							 
+								  <table cellspacing="0" cellpadding="0" border="0" width="220">
+  <tr>
+    <td class="leftnav"><script language="Javascript" src="../../includes/scripts/nav_nodes.js"></script>
+      <script language="Javascript" src="../../includes/scripts/nav_code.js"></script>
+      <noscript>
+<a href="../../html/about/about.shtml" class="nav_section">About DoITT</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/about/organization.shtml" class="nav_subsection">Organization Chart</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/about/descriptions.shtml" class="nav_subsection">Who We Are</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/about/reports.shtml" class="nav_subsection">Reports & Presentations</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/about/language.shtml" class="nav_subsection">Language Gateway and Access Plan</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/about/mou.shtml" class="nav_subsection">Interagency MOUs</a><br>
+<a href="../../html/news/news.shtml" class="nav_section">News & Awards</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/news/press.shtml" class="nav_subsection">Press Archive</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/news/awards.shtml" class="nav_subsection">Awards</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/news/newsletter.shtml" class="nav_subsection">DoITT Newsletter</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/news/testimonies.shtml" class="nav_subsection">Testimonies</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/news/notices.shtml" class="nav_subsection">Public Notices</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/news/events.shtml" class="nav_subsection">Events</a><br>
+<a href="../../html/citywide/citywide.shtml" class="nav_section">Citywide IT Services</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/citywide/citiserv.shtml" class="nav_subsection">CITIServ</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/citywide/service.shtml" class="nav_subsection">Citywide Service Desk</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/citywide/nycwin.shtml" class="nav_subsection">NYCWiN </a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/citywide/radio.shtml" class="nav_subsection">Citywide Radio Network </a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/citywide/security.shtml" class="nav_subsection">IT Security</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/citywide/nycgov.shtml" class="nav_subsection">NYC.gov</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/citywide/gis.shtml" class="nav_subsection">GIS & Mapping</a><br>
+<a href="../../html/open/open.shtml" class="nav_section">Open&nbsp;Government/<br>Innovation</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/open/data.shtml" class="nav_subsection">Open Data</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/open/broadband.shtml" class="nav_subsection">Broadband</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/open/collaboration.shtml" class="nav_subsection">Collaboration</a><br>
+<a href="../../html/policy/policy.shtml" class="nav_section">Policy & Strategy</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/policy/it_policy.shtml" class="nav_subsection">IT Policy & Governance </a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/policy/partnerships.shtml" class="nav_subsection">Community Partnerships</a><br>
+<a href="../../html/residents/residents.shtml" class="nav_section">For Residents</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/residents/phone.shtml" class="nav_subsection">Public Pay Telephone Complaints</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/residents/cable.shtml" class="nav_subsection">Cable Television & Open Video Requests</a><br>
+<a href="../../html/business/business.shtml" class="nav_section">Doing Business</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/business/franchise.shtml" class="nav_subsection">Telecommunications Franchises</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/business/filings.shtml" class="nav_subsection">Legislative & Regulatory Filings</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/business/security.shtml" class="nav_subsection">IT Security Requirements</a><br>
+<a href="../../html/faq/faq.shtml" class="nav_section">Frequently Asked Questions</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/faq/cable_tv.shtml" class="nav_subsection">Cable Television</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/faq/video.shtml" class="nav_subsection">Open Video System</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/faq/payphone.shtml" class="nav_subsection">Public Pay Telephones</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/faq/telecommunications.shtml" class="nav_subsection">Mobile Telecommunications Franchises</a><br>
+<a href="../../html/jobs/jobs.shtml" class="nav_section">Job Opportunities</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/jobs/eeo.shtml" class="nav_subsection">Equal Employment Opportunity & Diversity</a><br>
+<a href="../../html/contact/contact.shtml" class="nav_section">Contact DoITT</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="http://www.nyc.gov/html/mail/html/maildoitt.html" class="nav_subsection">Email the Commissioner</a><br>
+</noscript></td>
+  </tr>
+  <tr>
+    <td class="leftnav"><table cellspacing="0" cellpadding="0" border="0" width="100%">
+        <Td class="nav_social"><table cellspacing="0" cellpadding="0" border="0">
+              <tr>
+                <Td class="nav_social_header">Follow DoITT on:</Td>
+              </tr>
+              <tr>
+                <Td class="nav_social_icons"><table cellspacing="0" cellpadding="0" border="0">
+                    <tr>
+                      <Td class="nav_social_icons_entry"><a href="http://www.nyc.gov/cgi-bin/exit.pl?url=http://www.twitter.com/NYCDOITT"><img src="../../includes/site_images/nav/icon_twitter.png" width="29" height="30" border="0" alt="Twitter"></a></Td>
+                      <Td class="nav_social_icons_entry"><a href="http://www.nyc.gov/cgi-bin/exit.pl?url=http://www.facebook.com/pages/New-York-NY/NYC-INFORMATION-TECHNOLOGY-TELECOMMUNICATIONS/104786059565184"><img src="../../includes/site_images/nav/icon_facebook.png" width="29" height="30" border="0" alt="Facebook"></a></Td>
+                      <Td class="nav_social_icons_entry"><a href="http://www.nyc.gov/cgi-bin/exit.pl?url=http://www.youtube.com/doittnews"><img src="../../includes/site_images/nav/icon_youtube.png" width="29" height="30" border="0" alt="YouTube"></a></Td>
+                      <Td class="nav_social_icons_entry"><a href="http://www.nyc.gov/cgi-bin/exit.pl?url=http://www.linkedin.com/company/nyc-department-of-information-technology-&-telecommunications"><img src="../../includes/site_images/nav/icon_linkedin.png" width="29" height="30" border="0" alt="LinkedIn"></a></Td>
+                    </tr>
+                  </table></Td>
+              </tr>
+             
+            </table></Td>
+        <tr></tr>
+      </table></td>
+  </tr>
+</table>
+
+								 
+						
+				</td>
+				<!-- START of CENTER column -->
+				<!-- BEGIN_PRINT_PAGE -->
+				<td id="main_content" align="left" valign="top" width="779">
+				<!-- START of PRIMARY FEATURE SECTION -->
+				<table width="779" border="0" cellspacing="0" cellpadding="0">
+				  
+					  
+						<tr><td colspan="3" align="left" valign="top" bgcolor="" width="779">
+							
+								<img src="../../includes/site_images/misc/spacer.gif" alt="" width="25" height="30" border="0"/><span class="area_header">For Residents: <b>Cable & Open Video Requests</b><br/></span>
+								
+							</td></tr>
+						
+					
+						<tr><td align="left" bgcolor="" valign="top" width="25"><img src="../../includes/site_images/misc/spacer.gif" alt="" width="25" height="30" border="0">
+						</td><td align="left" bgcolor="" valign="top" width="649"><img src="../../includes/site_images/misc/spacer.gif" alt="" width="649" height="15" border="0"><br>
+					  
+							
+						
+					  
+							
+							
+									
+											<span class="bodytext"></span>
+											
+										
+									
+											<span class="bodytext"><p style="MARGIN-top: 0px">For requests or concerns regarding your cable service, you may contact your service provider's customer service office using the contact information below.</p><p>If your situation isn't resolved by the service provider, you have several additional options:</p><ul class="padded"><li><b>Submit a <a href="../../html/residents/cable_submit.shtml">Cable Television and OVS System Customer Service Request</a> online.</b></li><li><b>Go to 311 Online at <a href="http://www.nyc.gov/311">nyc.gov/311</a> or&#160;text 311NYC (311692).</b></li><li><b>Write DoITT or the <a href="http://www.nyc.gov/cgi-bin/exit.pl?url=http://www.dps.state.ny.us/">New York State Public Service Commission</a>:</b><p>DoITT<br />
+Consumer Service Department - Cable TV<br />
+2 Metro Tech Center, 4th Floor<br />
+Brooklyn, NY 11201</p><p>New York State Public Service Commission (New York City Office)<br />
+90 Church Street<br />
+New York, NY 10007-2919<br />
+Phone: (800) 342-3377</p></li></ul></span>
+										
+								
+						
+
+					
+
+					 
+					   
+						<img src="../../includes/site_images/misc/arrow.gif" alt="" border="0" /><a href="../../html/residents/cable_rights.shtml"  class="bodytext_underline">Learn about your consumer rights</a><br>
+						
+					 
+					 
+					<br>
+					</td><td align="left" bgcolor="" valign="top" width="105"><img src="../../includes/site_images/misc/spacer.gif" alt="" width="105" height="30" border="0"></td></tr>
+
+					
+
+					  
+						<tr><td colspan="3" align="left" bgcolor="" valign="top" width="779">
+							<img src="../../includes/site_images/misc/body_spacer.gif" alt="" width="779" border="0"/></td></tr>
+						
+				   
+					  
+						<tr><td colspan="3" align="left" valign="top" bgcolor="" width="779">
+							
+							</td></tr>
+						
+					
+						<tr><td align="left" bgcolor="" valign="top" width="25"><img src="../../includes/site_images/misc/spacer.gif" alt="" width="25" height="30" border="0">
+						</td><td align="left" bgcolor="" valign="top" width="649"><img src="../../includes/site_images/misc/spacer.gif" alt="" width="649" height="15" border="0"><br>
+					  
+							
+						
+					  
+							
+							<span class="headline">Cable provider contacts:<br>
+								</span>
+								
+							
+									
+									
+											<span class="bodytext"><table cellspacing="0" cellpadding="0" width="100%" border="0"><tbody><tr><td class="cable_header">Cablevision</td></tr><tr><td class="cable_entry">6 Corporate Center Drive<br />
+Melville, NY 11747<br />
+Phone: (718) 617-3500<br /><a href="http://www.nyc.gov/cgi-bin/exit.pl?url=http://www.optimum.com/">www.optimum.com/</a></td></tr><tr><td class="cable_header">RCN Telecom Services of New York</td></tr><tr><td class="cable_entry">100 Baltimore Drive<br />
+Wilkes-Barre, PA 18702<br />
+Phone: 800-RING-RCN (800-746-4726)<br /><a href="http://www.nyc.gov/cgi-bin/exit.pl?url=http://www.rcn.com/">www.rcn.com</a></td></tr><tr><td class="cable_header">Staten Island Cable</td></tr><tr><td class="cable_entry">100 Cable Way<br />
+Staten Island, NY 10303<br />
+Phone: (718) 816-8686<br />
+Fax: (718) 447-2638<br /><a href="http://www.nyc.gov/cgi-bin/exit.pl?url=http://www.timewarnercable.com/">www.timewarnercable.com</a></td></tr><tr><td class="cable_header">Time Warner Cable of New York City (Citywide)</td></tr><tr><td class="cable_entry">46 East 23rd Street<br />
+New York, NY 10010<br />
+Phone: (212) 358-0900<br /><a href="http://www.nyc.gov/cgi-bin/exit.pl?url=http://www.timewarnercable.com/">www.timewarnercable.com</a></td></tr><tr><td class="cable_header">Time Warner Cable of New York City (Brooklyn and Queens)</td></tr><tr><td class="cable_entry">4161 Kissena Boulevard<br />
+Flushing, NY 11355<br />
+Phone: (718) 358-0900<br /><a href="http://www.nyc.gov/cgi-bin/exit.pl?url=http://www.timewarnercable.com/">www.timewarnercable.com</a></td></tr><tr><td class="cable_header">Verizon New York Inc.</td></tr><tr><td class="cable_entry">To order Verizon FiOS cable service, for technical support, billing inquiries and customer care:<br />
+1-800-VERIZON (1-800-837-4966)<br /><a href="http://www.nyc.gov/cgi-bin/exit.pl?url=http://www.verizon.com/fiostv">www.verizon.com/fiostv</a></td></tr></tbody></table></span>
+										
+								
+						
+
+					
+
+					 
+					   
+						
+					 
+					 
+					
+					</td><td align="left" bgcolor="" valign="top" width="105"><img src="../../includes/site_images/misc/spacer.gif" alt="" width="105" height="30" border="0"></td></tr>
+
+					
+
+					  
+				   
+				</table>
+				<!-- END of PRIMARY FEATURE SECTION -->
+
+				<!-- START of SECONDARY FEATURE SECTION -->
+
+				<table width="779" border="0" cellspacing="0" cellpadding="0">
+				  
+					  
+						<tr><td colspan="4" align="left" valign="top" bgcolor="" width="779">
+							
+							</td></tr>
+						
+					
+
+					  </table>
+
+				<!-- END of SECONDARY FEATURE SECTION -->
+
+				<!-- START of TERTIARY FEATURE SECTION -->
+				<table width="779" border="0" cellspacing="0" cellpadding="0">
+				  
+					  
+						<tr><td colspan="3" align="left" valign="top" bgcolor="" width="779">
+							
+							</td></tr>
+						
+					
+					  
+				   
+				</table>
+				<!-- END of TERTIARY FEATURE SECTION -->
+				<!-- END_PRINT_PAGE -->
+				
+
+			
+
+					
+	<!-- BEGIN_PRINT_PAGE -->				
+					<span class="footer_text"><br></span></td>
+				<!-- END of CENTER column -->
+			</tr>
+	<!-- END_PRINT_PAGE -->
+			<tr height="25">
+				<td colspan="2" align="left" valign="top" width="999" height="25"> 
+
+					<table width="999" border="0" cellspacing="0" cellpadding="0">
+	<tr><td><img src="../../includes/site_images/misc/bottom_branding.gif" border="0"></td></tr>
+</table>
+
+
+
+
+<!-- START of nycgov_footer.inc-->
+<style type="text/css">
+<!--
+.footer_links {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	color: #F9D053;
+	text-align:right;
+}
+.footer_copyright {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	color: #C4C4B2;
+}
+.footer_bg {
+	background-color:#494B4C;
+	padding:6px 25px 6px 13px;
+}
+-->
+</style>
+<TABLE cellSpacing="0" cellPadding="0" width="999" border="0">
+  <TR>
+    <td class="footer_bg"><Table cellspacing="0" cellpadding="0" border="0" width="961">
+        <tr>
+          <td width="50%" class="footer_copyright">Copyright 2013 The City of New York</td>
+          <td width="50%" class="footer_links"><A class=footer_links href="/contact">Contact Us</A> | <A class=footer_links href="/faqs">FAQs</A> | <A class=footer_links href="/privacy">Privacy Statement</A> | <A class=footer_links href="http://www.nyc.gov/html/misc/html/tou.html">Terms of Use</A> | <A class=footer_links href="/sitemap">Site Map</A></td>
+        </tr>
+      </Table></td>
+  </TR>
+</TABLE>
+<!--  nycgov Webtrends code, added on 02/16/2011 -->
+<script src="/html/misc/scripts/nycwebtrends.js" type="text/javascript"></script>
+<script type="text/javascript">
+//<![CDATA[
+var _nyctag=new WebTrends();
+_nyctag.dcsInit();
+_nyctag.dcsGetId();
+//]]>>
+</script>
+<script type="text/javascript">
+//<![CDATA[
+_nyctag.dcsCollect();
+//]]>>
+</script>
+
+<!-- PROD noscript section -->
+<noscript>
+<div><img alt="DCSIMG" id="DCSIMG" width="1" height="1" src="http://a858-sdc.nyc.gov/dcslfpea2000008i7geu3pdky_5v8x/njs.gif?dcsuri=/nojavascript&WT.js=No&WT.tv=8.6.2"/></div>
+</noscript>
+<!--  END OF nycgov Webtrends code, added on 02/16/2011 -->
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-9518673-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+<!-- END of nycgov_footer.inc-->
+
+				</td>
+			</tr>
+<!-- BEGIN_PRINT_PAGE -->			
+		</table>
+	<!-- END_PRINT_PAGE -->
+	</body>
+</html>
+

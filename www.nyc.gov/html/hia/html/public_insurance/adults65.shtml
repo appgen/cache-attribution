@@ -1,0 +1,452 @@
+
+
+
+		
+	
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+	<head>
+		<meta http-equiv="content-type" content="text/html;charset=UTF-8">
+		<meta name="tp-name" content="homepage_3col">
+
+		
+		
+
+		
+				<title>Public Health Insurance Options | Adults 65 Years or Older</title>
+			
+		
+				
+			
+		<link href="../../includes/css/rollout.css" rel="stylesheet">
+	</head>
+
+	<body  background="../../includes/site_images/misc/bg.gif"
+	  bgcolor="#ffffff" leftmargin="0" marginheight="0" marginwidth="0" topmargin="0">
+
+	<!-- BEGIN_PRINT_PAGE -->
+		<table width="769" border="0" cellspacing="0" cellpadding="0" height="100%">
+	<!-- END_PRINT_PAGE -->
+			<tr><td colspan="3" align="left" valign="top" width="769">
+					<!-- START of nycgov_header.inc -->
+<table width="769" border="0" cellspacing="0" cellpadding="0" height="51">
+	<tr>
+		<td><img src="../../includes/site_images/nyc_gov/nycgov_banner.gif" alt="" width="769" height="51" border="0" usemap="#TopNav"></td>
+	</tr>
+</table>
+<map name="TopNav">
+  <area shape="rect" coords="554,1,599,25" href="/search" alt="Search">
+  <area shape="rect" coords="607,1,688,25" href="/portal/register.jsp" alt="Email Updates">
+  <area shape="rect" coords="698,1,762,25" href="/contact" alt="Contact Us">
+  <area shape="rect" coords="328,27,399,50" href="/residents" alt="Residents">
+  <area shape="rect" coords="408,27,471,50" href="/business" alt="Business">
+  <area shape="rect" coords="478,27,535,50" href="/visitors" alt="Visitors">
+  <area shape="rect" coords="544,27,628,50" href="/government" alt="Government">
+  <area shape="rect" coords="635,27,764,50" href="/mayor" alt="Office of the Mayor">
+  <area shape="rect" coords="3,3,49,48" href="/home.html" alt="NYC.gov always open">
+</map>
+<!-- END of nycgov_header.inc -->
+					
+							<table width="769" border="0" cellspacing="0" cellpadding="0">
+  <tr> 
+    <td align="left" valign="top" width="769"><img src="../../includes/site_images/branding/agency_topbanner.jpg" alt="Office of Citywide Health Insurance Access" width="769" height="95" border="0" usemap="#LogoNav"></td>
+  </tr>
+</table>
+<map name="LogoNav">
+  <area shape="poly" coords="12,12,165,12,182,45,187,45,187,31,555,31,555,45,12,45" href="../../html/home/home.shtml" alt="">
+</map>
+						
+			</td></tr>
+
+		
+	<!-- BEGIN_PRINT_PAGE -->
+		<tr>
+	<!-- END_PRINT_PAGE -->
+		<td align="left" valign="top" width="180" height="100%">
+					
+							
+							 
+								 <script language="Javascript" src="../../includes/scripts/rollover.js"></script>
+<table width='180' border='0' cellspacing='0' cellpadding='0'>
+<tr>
+    <td colspan="2"><img src="../../includes/site_images/spacers/spacer.gif" alt="" width="180" height="2"></td>
+  </tr>
+  <tr height="53" bgcolor="FF6600"> 
+  <td align="left" valign="bottom"><img src="../../includes/site_images/spacers/spacer.gif" alt="" width="15" height="53">
+  </td>
+    <td valign="top"><table width="165"  border='0' cellspacing='0' cellpadding='0' height="53">
+        <form action="http://search1.nyc.gov/search?" method="GET" name="gs">
+          <tr height="32" valign="bottom"> 
+                     <input value="xml_no_dtd" name="output" type="hidden">
+                     <input value="default_collection" name="site" type="hidden">
+                     <input value="agency_frontend" name="proxystylesheet" type="hidden">
+                     <input value="agency_frontend" name="client" type="hidden">
+                     <input value="www.nyc.gov/html/hia" name="sitesearch" type="hidden">
+            <td align="left"> 
+              <input name="q" type="text" class="search-box" id="search_nycgov">
+            </td>
+          </tr>
+          <tr height="21" valign="top"> 
+            <td align="left" valign="middle"> 
+              <input name="go" type="image" id="go" src="../../includes/site_images/nav/nav_search_button_0.gif" alt="Search OCHIA" width="86" height="11" border="0" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('go','','../../includes/site_images/nav/nav_search_button_1.gif',1)"> 
+            </td>
+          </tr>
+        </form>
+      </table></td>
+  </tr>
+</table>
+<table width="180" border="0" cellspacing="0" cellpadding="0">
+<tr>
+  <td align="left" bgcolor="" valign="top">
+    <a href="../../html/home/home.shtml" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('home','','../../includes/site_images/nav/home_1.gif',1)"><img src="../../includes/site_images/nav/home_0.gif" alt="OCHIA Home" name="home" width="180" height="31" border="0"></a><br>
+	<a href="../../html/about/about.shtml" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('about','','../../includes/site_images/nav/about_1.gif',1)"><img src="../../includes/site_images/nav/about_0.gif" alt="About OCHIA" name="about" width="180" height="30" border="0"></a><br>
+	<a href="../../html/public_insurance/public_insurance.shtml" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('public_insurance','','../../includes/site_images/nav/public_health_active_1.gif',1)"><img src="../../includes/site_images/nav/public_health_active_0.gif" alt="Public Health Insurance Options" name="public_insurance" width="180" height="30" border="0"></a><br>
+	<a href="../../html/public_insurance/children.shtml" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('children','','../../includes/site_images/nav/public_health_children_1.gif',1)"><img src="../../includes/site_images/nav/public_health_children_0.gif" alt="Children" name="children" width="180" height="27" border="0"></a><br>
+	<a href="../../html/public_insurance/adults.shtml" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('adults','','../../includes/site_images/nav/public_health_adults_1.gif',1)"><img src="../../includes/site_images/nav/public_health_adults_0.gif" alt="Adults" name="adults" width="180" height="27" border="0"></a><br>
+	<a href="../../html/public_insurance/pregnant.shtml" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('pregnant','','../../includes/site_images/nav/public_health_pregnant_1.gif',1)"><img src="../../includes/site_images/nav/public_health_pregnant_0.gif" alt="Pregnant Women" name="pregnant" width="180" height="27" border="0"></a><br>
+	<a href="../../html/public_insurance/adults65.shtml" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('adults65','','../../includes/site_images/nav/public_health_adults_65_1.gif',1)"><img src="../../includes/site_images/nav/public_health_adults_65_0.gif" alt="Adults 65 Years or Older" name="adults65" width="180" height="27" border="0"></a><br>
+	<a href="../../html/public_insurance/family.shtml" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('family','','../../includes/site_images/nav/public_health_family_1.gif',1)"><img src="../../includes/site_images/nav/public_health_family_0.gif" alt="Family Planning Benefit Program" name="family" width="180" height="40" border="0"></a><br>
+	<a href="../../html/public_insurance/hiv.shtml" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('hiv','','../../includes/site_images/nav/public_health_hiv_1.gif',1)"><img src="../../includes/site_images/nav/public_health_hiv_0.gif" alt="HIV Special Needs Plan" name="hiv" width="180" height="27" border="0"></a><br>
+	<a href="../../html/public_insurance/buy_in.shtml" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('buy_in','','../../includes/site_images/nav/public_health_buyin_1.gif',1)"><img src="../../includes/site_images/nav/public_health_buyin_0.gif" alt="Medicaid Buy-In Program" name="buy_in" width="180" height="27" border="0"></a><br>
+	<a href="../../html/public_insurance/excess.shtml" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('express','','../../includes/site_images/nav/public_health_express_1.gif',1)"><img src="../../includes/site_images/nav/public_health_express_0.gif" alt="Medicaid Excess Income Program" name="express" width="180" height="40" border="0"></a><br>
+	<a href="../../html/public_insurance/enroll.shtml" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('enroll','','../../includes/site_images/nav/public_health_enroll_1.gif',1)"><img src="../../includes/site_images/nav/public_health_enroll_0.gif" alt="Places to Enroll" name="enroll" width="180" height="27" border="0"></a><br>
+	<a href="../../html/public_insurance/accessing.shtml" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('accessing','','../../includes/site_images/nav/public_health_accessing_1.gif',1)"><img src="../../includes/site_images/nav/public_health_accessing_0.gif" alt="Accessing Your Coverage" name="accessing" width="180" height="27" border="0"></a><br>
+	<a href="../../html/public_insurance/renewing.shtml" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('renewing','','../../includes/site_images/nav/public_health_renewing_1.gif',1)"><img src="../../includes/site_images/nav/public_health_renewing_0.gif" alt="Renewing Your Coverage" name="renewing" width="180" height="27" border="0"></a><br>
+	<a href="../../html/public_insurance/immigrant.shtml" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('immigrant','','../../includes/site_images/nav/public_health_immigrant_1.gif',1)"><img src="../../includes/site_images/nav/public_health_immigrant_0.gif" alt="Immigrant Eligibility" name="immigrant" width="180" height="27" border="0"></a><br>
+	<a href="../../html/public_insurance/faq.shtml" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('faq','','../../includes/site_images/nav/public_health_faq_1.gif',1)"><img src="../../includes/site_images/nav/public_health_faq_0.gif" alt="FAQ" name="faq" width="180" height="29" border="0"></a><br>
+	<a href="../../html/private_insurance/private_insurance.shtml" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('private_insurance','','../../includes/site_images/nav/private_health_1.gif',1)"><img src="../../includes/site_images/nav/private_health_0.gif" alt="Private Health Insurance Options" name="private_insurance" width="180" height="30" border="0"></a><br>
+	<a href="../../html/resources/resources.shtml" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('resources','','../../includes/site_images/nav/resources_1.gif',1)"><img src="../../includes/site_images/nav/resources_0.gif" alt="Resources for the Uninsured" name="resources" width="180" height="44" border="0"></a><br>
+	<a href="../../html/other/other.shtml" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('other','','../../includes/site_images/nav/other_1.gif',1)"><img src="../../includes/site_images/nav/other_0.gif" alt="Other Benefits for Healthy Living" name="other" width="180" height="44" border="0"></a><br>
+	<a href="../../html/policy/policy.shtml" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('policy','','../../includes/site_images/nav/policy_1.gif',1)"><img src="../../includes/site_images/nav/policy_0.gif" alt="Health Insurance Policy & Research Links" name="policy" width="180" height="44" border="0"></a><br>
+	<a href="../../html/publications/publications.shtml" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('publications','','../../includes/site_images/nav/publications_1.gif',1)"><img src="../../includes/site_images/nav/publications_0.gif" alt="Publications" name="publications" width="180" height="30" border="0"></a><br>
+    <a href="http://www.nyc.gov/html/mail/html/mailhia.html" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('contact','','../../includes/site_images/nav/contact_1.gif',1)"><img src="../../includes/site_images/nav/contact_0.gif" alt="Contact OCHIA" name="contact" width="180" height="30" border="0"></a></td>
+</tr>
+<tr><td><img src="../../includes/site_images/nav/bottom_image.jpg" alt="Smiling Girl and Father" height="124" width="180" border="0"></td></tr>
+</table><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+								 
+						
+				</td>
+				<!-- START of CENTER column -->
+			<!-- BEGIN_PRINT_PAGE -->
+				<td id="main_content" align="left" valign="top" width="409">
+				<!-- START of PRIMARY FEATURE SECTION -->
+				<table width="409" border="0" cellspacing="0" cellpadding="0">
+				  
+					  
+						<tr><td colspan="3" align="left" valign="top" bgcolor="" width="409">
+							
+							
+								<img src="../../includes/site_images/titles/title_public_adults65.gif"
+								alt="Adults 65 Years or Older" width="409" border="0" /></td></tr>
+						
+					
+						<tr><td align="left" bgcolor="" valign="top" width="20"><img src="../../includes/site_images/spacers/spacer_20_20.gif" alt="" width="20" height="20" border="0">
+						</td><td align="left" bgcolor="" valign="top" width="369"><img src="../../includes/site_images/spacers/spacer_369_15.gif" alt="" width="369" height="15" border="0"><br>
+					  
+							
+						
+					  
+							
+							
+									
+											<span class="bodytext"></span>
+											
+										
+									
+											<span class="bodytext"><p style="MARGIN-top: 0in"><strong>Health Insurance for Older Adults: Medicare and Medicaid</strong></p><p><strong>Medicare</strong> is a federal government program that provides health care coverage if you are 65 or older, or have a disability, no matter what your income. The Social Security Administration advises people to apply for Medicare benefits 3 months before the age of 65 years old to ensure that your Medicare coverage starts as soon as you turn 65. Individuals with specified disabilities and End-Stage Renal Disease can begin Medicare before the age of 65. If you are already receiving Social Security benefits, you will be automatically enrolled in Medicare without having to fill out an additional application.</p><p>The traditional Medicare program consists of two parts, <strong>Part A</strong> (hospital insurance)and <strong>Part B</strong> (supplemental medical insurance). <strong>Part A</strong> covers hospital, skilled nursing facility, home health and hospice care. <strong>Part B</strong> covers doctors' services, outpatient hospital services, durable medical equipment and a number of other medical services and supplies. Medicare also provides limited coverage for preventive services.</p><p>The two additional parts to Medicare are <strong>Part C</strong> (most commonly known as Medicare Advantage, previously Medicare+Choice) and <strong>Part D</strong> (prescription drug coverage, scheduled to begin January, 2006). <strong>Part C</strong> is your option to get your Medicare-covered health care services through a private health plan, such as a managed care plan or a preferred provider organization. <strong>Part D</strong> provides a drug discount card that may save you money on your prescription drugs.</p><p><strong>New Medicare Prescription Drug Coverage</strong></p><p>Beginning January 1, 2006, new Medicare prescription drug plans will be available to Medicare recipients. Managed Care Organizations and other private companies will work with Medicare to offer the drug plans. These plans are different from the Medicare-approved drug discount cards, which Medicare will phase out by May 15, 2006, or when your enrollment in a Medicare prescription drug plan is effective, whichever is earlier.</p><p>If you are a Medicare recipient who currently receives prescription drug coverage through Medicaid, you will lose your Medicaid drug coverage on <strong>December 31, 2005</strong> and receive your drug coverage through Medicare as of January 1, 2006. You will still keep your other Medicaid benefits. You will automatically receive extra help paying for your Medicare drug costs, but you should enroll in the Medicare drug plan that best meets your needs or you will be automatically enrolled in a randomly selected plan.</p><p><strong>What You Need to Know About the New Medicare Prescription Drug Plan</strong></p><p><strong>Enrollment</strong></p><ul><li>To receive Medicare prescription drug coverage, you must choose and enroll in a Medicare prescription drug plan in one of two ways:<br /><ul><li>A prescription drug plan (PDP), from a private company. You will continue to get coverage for your other medical services (such as<br />
+doctor visits and hospital stays) through Medicare; or</li><li>A Medicare private plan, like a health maintenance organization (HMO) or preferred provider organization (PPO), that offers medical and hospital benefits in addition to drug coverage.</li></ul></li><li>You can first enroll in a Medicare prescription drug plan from November 15, 2005 through May 15, 2006.</li><li>If you join by December 31, 2005, your coverage will begin January 1, 2006.</li><li>If you decide to enroll after May 15, 2006, you may have to pay a penalty each month in<br />
+addition to the premium. The premium penalty will be at least 1 percent of the national average premium for every month you delay enrollment.</li></ul><p><strong>Cost</strong></p><ul><li>If you join a Medicare prescription drug plan, your costs will vary depending on which plan you choose. In general, you will pay a monthly premium (generally estimated around $37 in 2006) and a yearly deductible ($250 in 2006).</li><li>You will also pay a share of your prescription drug costs, and your plan will pay a share.</li></ul><p><strong>Coverage</strong></p><ul><li>Medicare helps pay for prescription drugs up to a limit ($2,250 in total) and once your total out-of-pocket<br />
+costs for drugs reach $3,600, you then pay 5% of the costs and Medicare pay 95% of the costs for the rest of the year. If you have limited income and resources as described below, you will receive extra help paying for your prescription drug coverage:<br /><ul><li>If your annual income is below $14,355 for a single person or $19,245 if you are<br />
+married and living with your spouse, you may qualify for extra help. Slightly<br />
+higher income levels may apply, if you provide half of the support for other family members<br />
+living with you; and</li><li>If your resources (including your savings and stocks, but not counting your<br />
+home or car) are under $11,500 (for a single person) or under $23,000 (for a<br />
+married couple) you may qualify for extra help paying for your Medicare prescription drug costs.</li></ul></li></ul><p><strong>Who is Eligible for Medicare?</strong></p><ul><li>People 65 years of age or older;</li><li>Some individuals with disabilities and who have had Social Security benefits for at least 2 years;</li><li>People who have end-stage renal disease (permanent kidney failure requiring dialysis or a transplant); or</li><li>People who have amyotrophic lateral sclerosis (ALS-Lou Gehrig's disease)</li></ul><p><strong>Enrolling into Medicare</strong></p><ul><li>If you are receiving Social Security benefits when you turn 65, you will automatically receive both Medicare Part A and Part B on the first day of the month in which you turn 65. A card will be mailed to you about three months before your birthday. The Medicare card is red, white and blue. It will come with your name and Medicare number printed on it.</li><li>If you are not receiving Social Security benefits when you turn 65, you should go to your local Social Security office to enroll in Medicare three months before your 65th birthday. (You have seven months to enroll in Medicare without incurring penalties, starting three months before the month you turn 65 and ending three months after you turn 65.</li><li>If you are disabled and receiving Social Security benefits for more than two years, you should receive your Medicare card three months before you become eligible. If you have a kidney disease, you should enroll at your local Social Security office. If you have ALS, you become eligible for Medicare as soon as you begin getting Social Security disability benefits.</li></ul><p><strong>Enrollment Costs</strong></p><p>Part A is generally free, however, if you worked less than the required 10 years in Medicare-covered employment to receive Part A free, you will have to pay from $189 to $343 per month for Medicare Part A coverage.</p><p>Part B has a monthly premium of $78.20 in 2005. As a general rule, if you are not automatically enrolled in Medicare as stated above, you should enroll in Medicare Part A and Part B when you turn 65. If you delay enrollment in Part B, you may have to pay a penalty of 10% of the Part B premium for each year that you wait.</p><p><strong>Other Helpful Resources</strong></p><p>For more information regarding Medicare and the Medicare Prescription Drug Coverage, please contact an agency listed below:<br /><a href="http://www.cms.hhs.gov/default.asp">Centers for Medicare and Medicaid Services</a> or call 1-800-633-4227<br /><a href="http://www.ssa.gov/">Social Security Administration</a> or call 1-800-772-1213<br /><a href="http://www.communityhealthadvocates.org/">Communtity Health Advocates</a>&#160;or call 1-888-614-5400<br /><a href="http://www.medicarerights.org/">Medicare Rights Center</a> or call 1-212-869-3532<br /><a href="http://www.ci.nyc.ny.us/html/dfta/html/hiicap.html">New York Health Insurance Information Counseling and Assistance Program (HIICAP)</a> or call the HIICAP Hot Line at 1-800-333-4114</p><p><strong>Medicaid</strong> provides free health insurance for low-income older adults. Eligible adults receive their medical care through a managed care plan or fee-for-service. While your application is being processed, Medicaid may provide up to 90 days of retroactive coverage for unpaid medical bills, if you are eligible during those 90 days.</p><p><strong>Eligibility Requirements Include</strong>:</p><ul><li><strong>Age</strong>: . Medicaid is available for individuals over 65 years old.</li><li><strong>Residency</strong>: Must be a New York State resident</li><li><strong>Citizenship/Immigration Status</strong>: Can be a U.S. citizen or fall under one of many <a class="bodytext_underline" href="../../html/public_insurance/immigrant.shtml">immigration categories</a>. Undocumented immigrants and people on short-term visas who are not in the process of applying for permanent status are not eligible.</li><li><strong>Assets</strong>: The resource (asset)&#160;test has been eliminated for applicants/recipients who are <strong>not</strong> aged (65 or&#160; older),&#160;&#160;certified blind or certified disabled</li><li><strong>Income</strong>: Please see chart below for monthly income levels.</li></ul><table border="1" cellspacing="0" cellpadding="0" width="100%"><tbody><tr><td class="blue_bg" colspan="5" align="center"><span class="table_header_white">Medicaid Net&#160;Income Levels<br />
+(Parents, 19 and 20 year olds, 21-64 years old who are disabled, 65 and over)<br /></span><span class="table_text_white">This chart is only a guide. Individuals should see an enrollment counselor for eligibility screening.</span></td></tr><tr class="blue_bg"><td align="center"><span class="table_header_white">Family Size</span></td><td align="center"><span class="table_header_white">Yearly Income</span></td><td align="center"><span class="table_header_white">Monthly Income</span></td><td align="center"><span class="table_header_white">Weekly Income</span></td><td align="center"><span class="table_header_white">Resource Level*</span></td></tr><tr><td align="center"><strong>1</strong></td><td align="center">$9,600</td><td align="center">$800</td><td align="center">$185</td><td align="center">$14,400</td></tr><tr><td align="center"><strong>2</strong></td><td align="center">$14,100</td><td align="center">$1,175</td><td align="center">$271</td><td align="center">$21,150</td></tr><tr><td align="center"><strong>3</strong></td><td align="center">$16,224</td><td align="center">$1,352</td><td align="center">$312</td><td align="center">$24,323</td></tr><tr><td align="center"><strong>4</strong></td><td align="center">$18,336</td><td align="center">$1,528</td><td align="center">$353</td><td align="center">$27,495</td></tr><tr><td align="center"><strong>5</strong></td><td align="center">$20,448</td><td align="center">$1,704</td><td align="center">$393</td><td align="center">$30,668</td></tr><tr><td align="center"><strong>For each additional person add:</strong></td><td align="center">$2,124</td><td align="center">$177</td><td align="center">$41</td><td align="center">$3,173</td></tr><tr><td colspan="5"><span class="highlight_bodytext"><strong>NOTE:</strong></span> Chart effective January&#160;1, 2013; subject to annual income updates.</td></tr><tr><td colspan="5">* The resource test applies to applicants/recipients who are aged (65 or&#160; older),&#160;certified blind or certified disabled.</td></tr></tbody></table><p><strong>What Benefits are Covered by Medicaid?</strong></p><p>Medicaid covers medically necessary care including:</p><ul><li>Regular checkups;</li><li>Hospital inpatient and outpatient services;</li><li>Emergency room care;</li><li>Prescription drugs;</li><li>Specialist care;</li><li>Home health care;</li><li>Nursing home care;</li><li>Dental care;</li><li>Prenatal care;</li><li>Smoking cessation agents;</li><li>Medical supplies and equipment.</li><li>Delivery of Service</li></ul><p>For some older adults, a managed care plan must be selected at the time of enrollment. Other older adults may be exempt or excluded from managed care enrollment because they receive both Medicaid and Medicare or due to a serious medical condition. These adults will receive health care services on a fee for service basis.</p><p><strong>Where to Enroll in Medicaid</strong></p><p>Older adults can call 311 and ask for the HRA Medicaid helpline to find out if they are eligible for Medicaid. <strong>Adults 65 years and older must&#160;visit a Medical Assistance Program Office</strong>, for eligibility determination and assistance with filling out an application.</p><p><a href="../../downloads/pdf/medicaid_offices.pdf">Find out</a> where you can enroll in your neighborhood.</p><p><strong>Other Helpful Resources</strong></p><p>For more information on Medicaid programs, please contact an agency listed below:<br />
+Human Resources Administration at 1-718-557-1399<br />
+New York State Department of Health at1-800-541-2831 or visit its website at <a href="http://www.health.state.ny.us/health_care/medicaid/index.htm">New York State Department of Health</a><br /></p></span>
+										
+								
+						
+
+					
+
+					 
+					   
+						
+					 
+					 
+					
+					</td><td align="left" bgcolor="" valign="top" width="20"><img src="../../includes/site_images/spacers/spacer_20_20.gif" alt="" width="20" height="20" border="0"></td></tr>
+					
+					  
+				   
+				</table>
+				<!-- END of PRIMARY FEATURE SECTION -->
+
+				<!-- START of SECONDARY FEATURE SECTION -->
+
+				<table width="409" border="0" cellspacing="0" cellpadding="0">
+				
+				  
+				
+				
+
+				  
+					  
+					<tr>
+					<td colspan="3" align="left" valign="top" bgcolor="" width="409">
+							
+							</td></tr>
+						
+					
+					  </table>
+
+				<!-- END of SECONDARY FEATURE SECTION -->
+
+				<!-- START of TERTIARY FEATURE SECTION -->
+				<table width="409" border="0" cellspacing="0" cellpadding="0">
+				  
+					  
+						<tr><td colspan="3" align="left" valign="top" bgcolor="" width="409">
+							
+							</td></tr>
+						
+					
+					  
+				   
+				</table>
+				<!-- END of TERTIARY FEATURE SECTION -->
+		<!-- END_PRINT_PAGE -->		
+
+			<br><table width="200" border="0" cellspacing="0" cellpadding="0" class="eaf_position">
+  <tr> 
+    <td align="left" valign="middle" width="30">&nbsp;</td>
+    <td align="left" valign="middle" width="16"><a target="_blank" onclick="this.href = '/j2ee/emailafriend/EAFEntry?' + Date.parse(new Date()); return true;" href="/j2ee/emailafriend/EAFEntry"><img src="../../images/buttons/eaf.gif" border="0" height="12" width="16"></a></td>
+    <td width="154">&nbsp;&nbsp;<a target="_blank" onclick="this.href = '/j2ee/emailafriend/EAFEntry?' + Date.parse(new Date()); return true;" href="/j2ee/emailafriend/EAFEntry?" class="footer_text">EMAIL 
+      A FRIEND</a></td>
+  </tr>
+</table>
+
+<br> <!-- Pay ATTENTION!!!
+        Please, delete comments before you upload to IW Server your changes to this File!
+
+        1. In the link tag below instead of sitename=HPD type your Agency Name.
+        2. If you included alternative file to use Printer Friendly link on your page, and if your
+           Agency uses Customized Style Sheets, you need to create "rollout_print.css " force the script print text without conflicts with customized Style Sheets of the NYC.gov default
+           Style Sheets "rollout.css "
+        3. If your agency uses Customized Style Sheets the linkk to Printer Friendly should be          like: <a href="/cgi-bin/misc/pfprinter.cgi?action=print&sitename=HPD&printstyle=other">
+        4. Because of use of the customized Style Sheets this file must contain the link to Pfinter  Frindly Script with variable "printstyle=other"
+         -->
+<table width="212" border="0" cellspacing="0" cellpadding="0" class="printer_position">
+  <tr> 
+    <td align="left" valign="middle" width="30">&nbsp;</td>
+    <td align="left" valign="middle" width="17"><a href="/cgi-bin/misc/pfprinter.cgi?action=print&sitename=HPD"><img src="../../images/misc/printer_icon.gif" border=0 width="17" height="15" alt="Printer Version"></a></td>
+    <td width="165" valign="middle">&nbsp;&nbsp;<a href="/cgi-bin/misc/pfprinter.cgi?action=print&sitename=HPD" class="footer_text">PRINTER 
+      FRIENDLY FORMAT</a> </td>
+  </tr>
+</table>
+
+
+
+
+
+
+<!-- BEGIN_PRINT_PAGE -->
+				</td>
+				<!-- END of CENTER column -->
+		<!-- END_PRINT_PAGE -->					
+				
+				<!-- START of THIRD column -->
+				<td align="left" valign="top" width="180" id="col3_content">
+					
+						<script language="JavaScript" type="text/JavaScript">
+<!--
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+//-->
+</script>
+<body onLoad="MM_preloadImages('../../includes/site_images/misc/pre-screening_button_1.gif')">
+<table width="180" border="0" cellspacing="0" cellpadding="0">
+  <tr> 
+    <td align="left" valign="top" bgcolor="" width="180"> <img src="../../includes/site_images/misc/column_image.jpg" alt="Photo of two people" height="124" width="180" border="0" /></td>
+  </tr>
+  <tr> 
+    <td align="left" valign="top" bgcolor=""><img src="../../includes/site_images/misc/pre-screening_top.gif" height="41" width="180" border="0"></td>
+  </tr>
+  <tr>
+    <td><table cellpadding="0" cellspacing="0" border="0" bgcolor="BAD6E1">
+        <tr height="10"> 
+          <td colspan="3" width="180"><img src="../../includes/site_images/spacers/spacer.gif" alt="" width="180" height="10" border="0"></td>
+        </tr>
+        <tr> 
+          <td width="15"><img src="../../includes/site_images/spacers/spacer.gif" alt="" width="15" height="10" border="0"></td>
+          <td width="150"><span class="module_bodytext">Welcome to the HealthStat 
+            pre-screening system for health insurance. The pre-screening system 
+            serves both individuals and families living in New York City. This 
+            system can help you find out if you and your family qualify financially 
+            for public and private health insurance options.<br>
+            <br>
+            <a href="https://a069-webapps3.nyc.gov/health/mainpage.htm" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('pre-screening','','../../includes/site_images/misc/pre-screening_button_1.gif',1)"><img src="../../includes/site_images/misc/pre-screening_button_0.gif" alt="Begin Pre-Screening" name="pre-screening" width="150" height="30" border="0"></a></span></td>
+          <td width="15"><img src="../../includes/site_images/spacers/spacer.gif" alt="" width="15" height="10" border="0"></td>
+        </tr>
+        <tr height="15"> 
+          <td colspan="3"><img src="../../includes/site_images/spacers/spacer.gif" alt="" width="180" height="15" border="0"></td>
+        </tr>
+      </table></td>
+  </tr>
+  <tr> 
+    <td align="left" bgcolor="#FFFFFF" valign="top" width="180"><img src="../../includes/site_images/spacers/spacer.gif" alt="" width="180" height="2" border="0"></td>
+  </tr>
+</table>
+<table width="180" border="0" cellspacing="0" cellpadding="0">
+  <tr> 
+    <td align="left" valign="top" bgcolor=""><img src="../../includes/site_images/misc/access_nyc.gif" alt="Access NYC" width="180" height="41" border="0"></td>
+  </tr>
+  <tr> 
+    <td><table cellpadding="0" cellspacing="0" border="0" bgcolor="BAD6E1">
+        <tr height="10"> 
+          <td colspan="3" width="180"><img src="../../includes/site_images/spacers/spacer.gif" alt="" width="180" height="10" border="0"></td>
+        </tr>
+        <tr> 
+          <td width="15"><img src="../../includes/site_images/spacers/spacer.gif" alt="" width="15" height="10" border="0"></td>
+          <td width="150"><span class="module_bodytext">Visit <a href="http://www.nyc.gov/accessnyc" class="bodytext_underline">www.nyc.gov/<br>accessnyc</a>, a free Web site where New Yorkers can screen for eligibility and get information for City, State, and Federal benefits and programs. Learn how to apply, what documents to bring, where offices are and how to get there, and even print partially completed applications. Visit <a href="http://www.nyc.gov/accessnyc">ACCESS NYC</a> online anytime, from any computer with an internet connection. Benefit Information. One Place. </span> <span class="module_bodytext"><br>
+            <br>
+          <a href="http://www.nyc.gov/accessnyc"><img src="../../includes/site_images/misc/access_nyc_logo.gif" alt="Access NYC" width="150" height="35" border="0"></a></span></td>
+          <td width="15"><img src="../../includes/site_images/spacers/spacer.gif" alt="" width="15" height="10" border="0"></td>
+        </tr>
+        <tr height="15"> 
+          <td colspan="3"><img src="../../includes/site_images/spacers/spacer.gif" alt="" width="180" height="15" border="0"></td>
+        </tr>
+      </table></td>
+  </tr>
+  <tr> 
+    <td align="left" bgcolor="#FFFFFF" valign="top" width="180"><img src="../../includes/site_images/spacers/spacer.gif" alt="" width="180" height="2" border="0"></td>
+  </tr>
+</table>
+
+					
+				</td>
+				<!-- END of THIRD column -->
+		<!-- BEGIN_PRINT_PAGE -->		
+			</tr>
+	<!-- END_PRINT_PAGE -->			
+			<tr>
+				
+
+				<td>&nbsp;</td><td colspan="2"><!-- START of nycgov_footer.inc-->
+<!-- old table width=589;  499 for middle td -->
+<!-- expanded table width=769;  619 for middle td -->
+<!-- <table width="589" border="0" cellspacing="0" cellpadding="0">
+	<tr>
+		<td align="left" valign="top" width="30"><img src="../../includes/site_images/spacers/spacer_30_30.gif" alt="" width="30" height="30" border="0"></td>
+		<td align="left" valign="top" width="499"><img src="../..//includes/site_images/spacers/spacer_499_15.gif" alt="" width="499" height="15" border="0"><img src="../../includes/site_images/footer_divider.gif" alt="" width="499" height="1" border="0"><br>
+			<span class="footer_header">Footer header goes here<br>
+			</span><span class="footer_text">Footer text description goes here. It is optional and the max is about 300 characters which is approximately 3-4 lines of text. Footer text description goes here. It is optional and the max is about 300 characters which is approximately 3-4 lines of text.<br>
+			</span></td>
+		<td align="left" valign="top" width="60"><img src="../..//includes/site_images/spacers/spacer_60_30.gif" alt="" width="60" height="30" border="0"><br>
+			<br>
+		</td>
+	</tr>
+</table> -->
+<!-- END of default_footer.inc -->
+</td>
+
+			
+			</tr>
+			<tr height="25">
+				<td colspan="3" align="left" valign="top" width="769" height="25">
+
+					<table width="769" border="0" cellspacing="0" cellpadding="0">
+	<tr><td><img src="../../includes/site_images/misc/bottom_branding.gif" border="0"></td></tr>
+</table>
+
+
+
+	<!-- END_PRINT_PAGE -->
+			<!-- START of nycgov_footer.inc-->
+<style type="text/css">
+<!--
+	.footer_links {font-family: Verdana, Arial, Helvetica, sans-serif;
+		font-size: 10px;
+		color: #F9D053;
+	}
+
+	.footer_copyright {font-family: Verdana, Arial, Helvetica, sans-serif;
+		font-size: 10px;
+		color: #C4C4B2;
+	}
+-->
+</style>
+<TABLE cellSpacing=0 cellPadding=0 width=769 bgColor=#494B4C border=0>
+	<TBODY>
+	<TR><TD width=13><IMG height=24 src="../../includes/site_images/spacers/spacer.gif" width=13></TD>
+          <TD width=287><SPAN class=footer_copyright>Copyright 2013 The City of New York</SPAN></TD>
+          <TD align=right width=444><SPAN class=footer_links><A class=footer_links href="/contact">Contact Us</A> | <A class=footer_links href="/faqs">FAQs</A> | <A class=footer_links href="/privacy">Privacy Policy</A> | <A class=footer_links href="http://www.nyc.gov/html/misc/html/tou.html">Terms of Use</A> | <A class=footer_links href="/sitemap">Site Map</A></SPAN></TD>
+          <TD align=right width=25><IMG height=24 src="../../includes/site_images/spacers/spacer.gif" width=25></TD></TR>
+        </TBODY>
+</TABLE>
+<!-- Privacy Policy updated on 03/08/2011 -->
+<!--  nycgov Webtrends code, added on 02/16/2011 -->
+<script src="/html/misc/scripts/nycwebtrends.js" type="text/javascript"></script>
+<script type="text/javascript">
+//<![CDATA[
+var _nyctag=new WebTrends();
+_nyctag.dcsInit();
+_nyctag.dcsGetId();
+//]]>>
+</script>
+<script type="text/javascript">
+//<![CDATA[
+_nyctag.dcsCollect();
+//]]>>
+</script>
+
+<!-- PROD noscript section -->
+<noscript>
+<div><img alt="DCSIMG" id="DCSIMG" width="1" height="1" src="http://a858-sdc.nyc.gov/dcslfpea2000008i7geu3pdky_5v8x/njs.gif?dcsuri=/nojavascript&WT.js=No&WT.tv=8.6.2"/></div>
+</noscript>
+<!--  END OF nycgov Webtrends code, added on 02/16/2011 -->
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-9518673-1");
+pageTracker._trackPageview();
+} catch(err) {}
+</script>
+<!-- END of nycgov_footer.inc-->
+
+	<!-- BEGIN_PRINT_PAGE -->
+				</td>
+			</tr>
+		</table>
+	<!-- END_PRINT_PAGE -->	
+	</body>
+</html>
+

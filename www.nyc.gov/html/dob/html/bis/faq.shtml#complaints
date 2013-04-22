@@ -1,0 +1,967 @@
+
+
+
+		
+	
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+	<head>
+		<meta http-equiv="content-type" content="text/html;charset=UTF-8">
+		<meta name="tp-name" content="homepage_3col">
+
+		
+		<meta name="keywords" content="BIS, bis, Buildings Information System, Building Information System, BIS Facts, bis facts, BIS on the Web, bis faq, BIS FAQ, bis frequently asked questions, BIS Frequently Asked Questions">
+		
+		
+
+		
+				<title>Department of Buildings - BIS Frequently Asked Questions</title>
+			
+		
+				
+			
+		<link href="../../includes/css/rollout.css" rel="stylesheet">
+	</head>
+
+	<body  background="../../includes/site_images/misc/bg.gif"
+	  bgcolor="#ffffff" leftmargin="0" marginheight="0" marginwidth="0" topmargin="0">
+
+	<!-- BEGIN_PRINT_PAGE -->
+		<table width="999" border="0" cellspacing="0" cellpadding="0" height="100%">
+	<!-- END_PRINT_PAGE -->
+			<tr><td colspan="3" align="left" valign="top" width="999">
+					<!-- START of nycgov_header.inc -->
+<table width="999" border="0" cellspacing="0" cellpadding="0" height="51">
+	<tr>
+		<td><img src="../../includes/site_images/nyc_gov/nycgov_banner_wide.gif" alt="" width="999" height="51" border="0" usemap="#TopNav"></td>
+	</tr>
+</table>
+<map name="TopNav">
+  <area shape="rect" coords="787,6,825,19" href="/search" alt="Search">
+  <area shape="rect" coords="840,6,915,19" href="/portal/register.jsp" alt="Email Updates">
+  <area shape="rect" coords="929,6,988,19" href="/contact" alt="Contact Us">
+  <area shape="rect" coords="563,31,625,46" href="/residents" alt="Residents">
+  <area shape="rect" coords="641,31,698,46" href="/business" alt="Business">
+  <area shape="rect" coords="711,31,761,46" href="/visitors" alt="Visitors">
+  <area shape="rect" coords="776,31,855,46" href="/government" alt="Government">
+  <area shape="rect" coords="868,31,988,46" href="/mayor" alt="Office of the Mayor">
+  <area shape="rect" coords="3,3,48,46" href="/home.html" alt="NYC.gov always open">
+</map>
+<!-- END of nycgov_header.inc -->
+					
+							<script type="text/javascript" src="../../includes/scripts/cookies.js"></script>
+<script type="text/javascript" src="../../includes/scripts/change_text.js"></script> 
+<script type="text/javascript" src="../../includes/scripts/translate.js"></script> 
+<link href='http://fonts.googleapis.com/css?family=Istok+Web' rel='stylesheet' type='text/css'>
+
+<script language="JavaScript" type="text/JavaScript">
+<!--
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+//-->
+</script>
+<body>
+<table width="999" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td bgcolor="#FFFFFF" width="764"><a href="../../html/home/home.shtml"><img src="../../includes/site_images/branding/banner.gif" border="0"></a></td>
+    <td width="234" bgcolor="#FFFFFF"><table width="234" border="0" cellspacing="0" cellpadding="0" height="70">
+  <form action="http://search1.nyc.gov/search?" method="GET" name="gs"><tr>
+    <td width="156" bgcolor="#FFFFFF" valign="top" style="padding-top: 12px;"><input value="xml_no_dtd" name="output" type="hidden">
+		<input value="default_collection" name="site" type="hidden">
+		<input value="agency_frontend" name="proxystylesheet" type="hidden">
+		<input value="agency_frontend" name="client" type="hidden">
+		<input value="www.nyc.gov/html/dob" name="sitesearch" type="hidden">
+		<input type="text" name="q" id="search_nycgov" maxlength="512"></td>
+    <td width="78" valign="top" class="searchbttn"><input name="go" type="image" id="go" src="../../includes/site_images/nav/search.gif" alt="Search" border="0" onMouseOver="MM_swapImage('go','','../../includes/site_images/nav/search_over.gif',1)" onMouseOut="MM_swapImgRestore()"></td>
+  </tr></form>
+</table>
+</td><td width="1"><img src="../../includes/site_images/spacers/spacer.gif" width="1" height="23"><td>
+  </tr>
+</table>
+<table width="999" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td bgcolor="ffffff"><a href="../../html/home/home.shtml"><img src="../../includes/site_images/branding/banner_bottom.gif" border="0" ></a></td>
+	<td bgcolor="ffffff"><a href="/register" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('signup','','../../includes/site_images/branding/signup_1.gif',1)"><img src="../../includes/site_images/branding/signup_0.gif" alt="Newsletter Sign-up" name="signup" border="0"></a></td>
+    <td bgcolor="ffffff"><img src="../../includes/site_images/spacers/spacer.gif" width="4" height="23"></td>
+	<Td bgcolor="ffffff" id="weather"><a onMouseOver="MM_swapImage('weather','','../../includes/site_images/branding/weather_1.gif',0)" onMouseOut="MM_swapImgRestore()" href="../../html/development/forms_online_weather_subscr.shtml"><img src="../../includes/site_images/branding/weather_0.gif" name="weather" id="weather" alt="Weather Advisories" border="0"></a></Td>
+	<td bgcolor="ffffff"><img src="../../includes/site_images/spacers/spacer.gif" width="4" height="23"></td><Td bgcolor="ffffff" id="weather"><a onMouseOver="MM_swapImage('bill','','../../includes/site_images/branding/bill_1.gif',0)" onMouseOut="MM_swapImgRestore()" href="../../html/about/bill_of_rights.shtml"><img src="../../includes/site_images/branding/bill_0.gif" name="bill" id="bill" alt="Owner's Bill of Rights" border="0"></a></Td>
+	<td bgcolor="ffffff"><img src="../../includes/site_images/spacers/spacer.gif" width="4" height="23"></td>
+    <td bgcolor="ffffff"><a href="/cgi-bin/misc/pfprinter.cgi?action=print&sitename=DOB" 
+	onClick="this.href = '/cgi-bin/misc/pfprinter.cgi?action=print&sitename=DOB&p=' + Date.parse(new Date()); return true;" onMouseOver="MM_swapImage('printer','','../../includes/site_images/branding/printer_1.gif',1)" onMouseOut="MM_swapImgRestore()"><img src="../../includes/site_images/branding/printer_0.gif" alt="Printer Friendly Format" name="printer"border="0" id="printer"></a></td>
+	<td bgcolor="ffffff"><img src="../../includes/site_images/spacers/spacer.gif" width="4" height="23"></td>
+    	<Td bgcolor="ffffff" id="translate_button"><a onMouseOver="MM_swapImage('ttp','','../../includes/site_images/branding/translate_1.gif',0)" onMouseOut="MM_swapImgRestore()" href="javascript:showTranslate();"><img src="../../includes/site_images/branding/translate_0.gif" name="ttp" id="ttp" alt="Translate This Page" border="0"></a></Td>
+    <Td bgcolor="ffffff" id="english_button" style="display:none"><a onMouseOver="MM_swapImage('eng','','../../includes/site_images/branding/english_1.gif',0)" onMouseOut="MM_swapImgRestore()" href="javascript:setLanguage(sourceTextLang);"><img src="../../includes/site_images/branding/english_0.gif" name="eng" id="eng" alt="Back to English" border="0"></a></td>
+
+    <!--<td bgcolor="ffffff"><img src="../../includes/site_images/branding/text_size.gif" alt="Text Size" name="size" border="0" id="size"></td>
+    <td bgcolor="ffffff"><a onMouseOver="swapImage('small','small_1.gif')" onMouseOut="restoreImage('small')" href="javascript:switchStyle('1');"><img src="../../includes/site_images/branding/small_0.gif" border=0 alt="Small" name="small" id="small"></a></td>
+    <td bgcolor="ffffff"><a onMouseOver="swapImage('medium','med_1.gif')" onMouseOut="restoreImage('medium')" href="javascript:switchStyle('2');"><img src="../../includes/site_images/branding/med_0.gif" border=0 alt="Medium" name="medium" id="medium"></a></td>
+    <td bgcolor="ffffff"><a onMouseOver="swapImage('large','large_1.gif')" onMouseOut="restoreImage('large')" href="javascript:switchStyle('3');"><img src="../../includes/site_images/branding/large_0.gif" border=0 alt="Large" name="large" id="large"></a></td>-->
+    <td><img src="../../includes/site_images/branding/banner_right.gif"></td>
+  </tr>
+</table><table width="999" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td><img src="../../includes/site_images/branding/banner_bottom2.gif"></td>
+  </tr>
+</table>
+
+<script language="Javascript">
+<!--
+/*if(GetCookie(fontSizeCookie) == "2"){	
+	document.medium.src='../../includes/site_images/branding/med_1.gif';	
+}else if(GetCookie(fontSizeCookie) == "3"){
+	document.large.src='../../includes/site_images/branding/large_1.gif';	
+}else{
+	document.small.src='../../includes/site_images/branding/small_1.gif';	
+}
+MM_preloadImages('../../includes/site_images/branding/translate_1.gif','../../includes/site_images/branding/english_1.gif','../../includes/site_images/nav/go_1.gif','../../includes/site_images/branding/large_1.gif','../../includes/site_images/branding/med_1.gif','../../includes/site_images/branding/small_1.gif');*/
+//-->
+
+
+</script>
+<iframe scrolling='no' frameborder='0' class='shim' name='shim' id='shim'></iframe>
+<div id="translate_popup" class="popup">
+  <table cellspacing="0" cellpadding="0" border="0" width="323">
+    <tr>
+      <td class="popup_table"><table cellspacing="0" cellpadding="0" border="0" width="284">
+          <tr>
+            <Td colspan="2"><img src="../../includes/site_images/misc/translate_popup.gif" width="284" height="39" alt="Translate This Page" border="0"></Td>
+          </tr>
+          <tr>
+            <td class="popup_label" width="123">Select a Language</td>
+            <td class="popup_field" width="147"><select name="tl" id="tl" style="width:147px">
+                <option value="">- Select -</option>
+                <option value="ar">Arabic</option>
+                <option value="bg">Bulgarian</option>
+                <option value="ca">Catalan</option>
+                <option value="zh-CN">Chinese (Simplified)</option>
+                <option value="zh-TW">Chinese (Traditional)</option>
+                <option value="hr">Croatian</option>
+                <option value="cs">Czech</option>
+                <option value="da">Danish</option>
+                <option value="nl">Dutch</option>
+                <option value="tl">Filipino</option>
+                <option value="fi">Finnish</option>
+                <option value="fr">French</option>
+                <option value="de">German</option>
+                <option value="el">Greek</option>
+                <option value="iw">Hebrew</option>
+                <option value="hi">Hindi</option>
+                <option value="id">Indonesian</option>
+                <option value="it">Italian</option>
+                <option value="ja">Japanese</option>
+                <option value="ko">Korean</option>
+                <option value="lv">Latvian</option>
+                <option value="lt">Lithuanian</option>
+                <option value="no">Norwegian</option>
+                <option value="pl">Polish</option>
+                <option value="pt">Portuguese</option>
+                <option value="ro">Romanian</option>
+                <option value="ru">Russian</option>
+                <option value="sr">Serbian</option>
+                <option value="sk">Slovak</option>
+                <option value="sl">Slovenian</option>
+                <option value="es">Spanish</option>
+                <option value="sv">Swedish</option>
+                <option value="uk">Ukrainian</option>
+                <option value="vi">Vietnamese</option>
+              </select>
+            </td>
+          </tr>
+          <tr>
+            <td class="buttons" colspan="2"><input type="button" class="yellow_button" style="width:78px;" value="Translate" onClick="setLanguage(document.getElementById('tl').options[document.getElementById('tl').selectedIndex].value)" />
+              <input type="button" class="yellow_button" style="width:56px;" value="Cancel" onClick="hideTranslate()" /></td>
+          </tr>
+        </table></td>
+  </table>
+</div>
+
+						
+			</td></tr>
+
+		
+	<!-- BEGIN_PRINT_PAGE -->
+		<tr>
+	<!-- END_PRINT_PAGE -->
+		<td align="left" valign="top" width="220" height="100%">
+					
+							
+							 
+								  <script type="text/javascript" src="../../includes/scripts/cookies.js"></script>
+<script language="JavaScript" type="text/JavaScript"> 
+<!--
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+ 
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+ 
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+ 
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+//-->
+</script>
+
+<script language="JavaScript" type="text/JavaScript"><!--
+ 
+function submitBIS() {
+ var tmpHouseno = document.getElementById("houseno").value;
+ var tmpStreet = document.getElementById("street").value;
+ if (tmpHouseno.value == 0 || tmpStreet.length == 0) {
+  alert("Please enter the House # and Street Name.");
+  return;
+ }
+ 
+ var bisBoro = encodeURI(document.getElementById("boro").value);
+ if (bisBoro.length == 0) {
+  alert("Please select a borough.");
+  return;
+ }
+ window.location.href="http://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?boro=" + bisBoro + "&houseno=" + tmpHouseno + "&street=" + tmpStreet + "&requestid=0&s=A03C41B885B461E4F46BD08866A7430E";
+ 
+}
+//--></script></span>
+
+<body onLoad="MM_preloadImages('../../includes/site_images/misc/button_submit_over.gif')">
+<table cellspacing="0" cellpadding="0" border="0" width="212">
+ <tr> 
+    <td><img src="../../includes/site_images/spacers/spacer.gif" height="1" width="7"></td>
+    <td><script language="Javascript" src="../../includes/scripts/nav_nodes.js"></script> 
+      <script language="Javascript" src="../../includes/scripts/nav_code.js"></script> 
+      <noscript>
+<a href="../../html/home/home.shtml" class="nav_section">Home</a><br>
+<a href="../../html/about/about.shtml" class="nav_section">About the Buildings Department</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/about/mission.shtml" class="nav_subsection">Mission & Vision</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/about/slt_limandri.shtml" class="nav_subsection">Commissioner's Bio</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/about/senior_leadership_team.shtml" class="nav_subsection">Administration</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/about/history.shtml" class="nav_subsection">History</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/about/code_of_conduct.shtml" class="nav_subsection">Code of Conduct</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/about/career.shtml" class="nav_subsection">Career Opportunities </a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/about/faq.shtml" class="nav_subsection">Frequently Asked Questions</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/about/mou.shtml" class="nav_subsection">Interagency MOUs</a><br>
+    <span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/about/lap.shtml" class="nav_subsection">Language Access Plan</a><br>
+    <span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/about/bill_of_rights.shtml" class="nav_subsection">Owner's Bill of Rights</a><br>
+    <a href="../../html/rebuilding_after_sandy/storm_update.shtml" class="nav_section">Rebuilding After Sandy</a><br>
+    <a href="../../html/bis/bis.shtml" class="nav_section">Buildings Information</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/bis/glossary.shtml" class="nav_subsection">BIS Glossary</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/bis/faq.shtml" class="nav_subsection">BIS FAQs</a><br>
+<a href="../../html/development/development_main.shtml" class="nav_section">Development</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/development/the_hub_main.shtml" class="nav_subsection">NYC Development Hub</a><br>
+<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/development/applications_and_permits.shtml" class="nav_subsection">Applications & Permits</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/development/forms.shtml" class="nav_subsection">Forms</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/development/licensing_main.shtml" class="nav_subsection">Licensing</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/development/bim_main.shtml" class="nav_subsection">3D Site Safety Plans</a><br>
+<a href="../../html/safety/safety_main.shtml" class="nav_section">Safety & Enforcement</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/safety/amusement_safety.shtml" class="nav_subsection">Amusement Rides</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/safety/cda.shtml" class="nav_subsection">Construction, Demolition & Abatement (CDA)</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/safety/demolition_safety.shtml" class="nav_subsection">Demolition</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/safety/iad.shtml" class="nav_subsection">Disciplinary Actions</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/safety/dob.shtml" class="nav_subsection">DOB Violations</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/safety/ecb_violation.shtml" class="nav_subsection">ECB Violations</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/safety/elevator_safety.shtml" class="nav_subsection">Elevators & Escalators</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/safety/excavation.shtml" class="nav_subsection">Excavation</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/safety/experience_is_not_enough.shtml" class="nav_subsection">Experience Is Not Enough</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/safety/facade_safety_program.shtml" class="nav_subsection">Facades</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/safety/hrco.shtml" class="nav_subsection">High Risk Construction Analysis</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/safety/padlock.shtml" class="nav_subsection">Padlocks</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/safety/scaffold_shed_safety.shtml" class="nav_subsection">Scaffolds & Sheds</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/safety/signs.shtml" class="nav_subsection">Signs</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/safety/stalled_construction.shtml" class="nav_subsection">Stalled Construction</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/safety/stop_work_order.shtml" class="nav_subsection">Stop Work Orders</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/safety/top10_elev_offenders.shtml" class="nav_subsection">Top 10 Elevator Offenders</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/safety/ub.shtml" class="nav_subsection">Unsafe Buildings</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/safety/voluntary_surrender.shtml" class="nav_subsection">Voluntary Surrenders</a><br>
+<a href="../../html/community_partnerships/cp_main.shtml" class="nav_section">Community Partnerships</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="/html/dob/html/community_partnerships/construction_info.shtml" class="nav_subsection">Construction Information Panel Pilot Program</a><br>
+    <span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/community_partnerships/coolroofs.shtml" class="nav_subsection">NYC CoolRoofs</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/community_partnerships/urbancanvas_main.shtml" class="nav_subsection">urbancanvas</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/community_partnerships/urbanSHED_main.shtml" class="nav_subsection">urbanSHED</a><br>
+<a href="../../html/homeowners_and_tenants/homeowners_tenants_main.shtml" class="nav_section">Homeowners & Tenants</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/homeowners_and_tenants/rental.shtml" class="nav_subsection">Renting & Buying a Home</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/homeowners_and_tenants/cons_basic.shtml" class="nav_subsection">Construction: The Basics </a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/homeowners_and_tenants/hiring_a_professional.shtml" class="nav_subsection">Hiring a Professional</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/homeowners_and_tenants/living_safely.shtml" class="nav_subsection">Living Safely </a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/homeowners_and_tenants/home_maintenance.shtml" class="nav_subsection">Home Maintenance & Energy Efficiency</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/homeowners_and_tenants/community.shtml" class="nav_subsection">Construction in Your Community </a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/homeowners_and_tenants/complaints.shtml" class="nav_subsection">Complaints & Challenges</a><br>
+<a href="../../html/sustainability/sustainability_main.shtml" class="nav_section">Sustainability</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/sustainability/benchmarking.shtml" class="nav_subsection">Benchmarking</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/sustainability/green_roofs.shtml" class="nav_subsection">Green Roofs</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/sustainability/microturbine.shtml" class="nav_subsection">Microturbines</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/sustainability/solar_panels.shtml" class="nav_subsection">Solar Panels</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/sustainability/sustainability_advisory_board.shtml" class="nav_subsection">Sustainability Board</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/sustainability/resources.shtml" class="nav_subsection">Resources & Links</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/sustainability/sustainability_presentations.shtml" class="nav_subsection">Presentations</a><br>
+<a href="../../html/codes_and_reference_materials/reference.shtml" class="nav_section">Codes & Reference</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/codes_and_reference_materials/construction_code.shtml" class="nav_subsection">2008 Construction Codes</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/codes_and_reference_materials/code_internet.shtml" class="nav_subsection">1968 Building Code</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/codes_and_reference_materials/brochures.shtml" class="nav_subsection">Brochures</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/codes_and_reference_materials/bulletin_ppn_memo.shtml" class="nav_subsection">Buildings Bulletins, PPNs, Dir, Exec Order & Memos</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/codes_and_reference_materials/code_revisions.shtml" class="nav_subsection">Code Revision</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/codes_and_reference_materials/statistics.shtml" class="nav_subsection">Department Statistics</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/codes_and_reference_materials/nycecc_main.shtml" class="nav_subsection">Energy Code Guidelines</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/codes_and_reference_materials/mea_resource.shtml" class="nav_subsection">MEA Resources</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/codes_and_reference_materials/wetlandsMaps.shtml" class="nav_subsection">NYS DEC Wetlands</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/codes_and_reference_materials/nec.shtml" class="nav_subsection">NYC Electrical Code</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/codes_and_reference_materials/presentations.shtml" class="nav_subsection">Presentations</a><br>
+    <span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/codes_and_reference_materials/reports.shtml" class="nav_subsection">Reports</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/codes_and_reference_materials/rules.shtml" class="nav_subsection">Rules</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/codes_and_reference_materials/local_laws.shtml" class="nav_subsection">Selected Local Laws</a><br>
+<a href="../../html/news/news.shtml" class="nav_section">News & Services</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/news/pr.shtml" class="nav_subsection">Press Releases</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/news/newsletters.shtml" class="nav_subsection">Buildings News</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/news/events.shtml" class="nav_subsection">Events</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/news/upcoming_changes.shtml" class="nav_subsection">Service Updates</a><br>
+    <span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/news/podcasts.shtml" class="nav_subsection">State of Construction</a><br>
+<a href="../../html/contact/contact.shtml" class="nav_section">Contact the Buildings Department</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="http://www.nyc.gov/html/mail/html/maildob.html" class="nav_subsection">Email the Department</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/contact/holiday_sch.shtml" class="nav_subsection">Holiday Schedule</a><br>
+      </noscript></td>
+  </tr>
+  <tr> 
+    <Td id="altnav" style="display:none;">&nbsp;</Td>
+    <Td id="altnav" style="display:none;"><a href="../../html/home/home.shtml" class="nav_section">Home</a><br>
+<a href="../../html/about/about.shtml" class="nav_section">About the Buildings Department</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/about/mission.shtml" class="nav_subsection">Mission & Vision</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/about/slt_limandri.shtml" class="nav_subsection">Commissioner's Bio</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/about/senior_leadership_team.shtml" class="nav_subsection">Administration</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/about/history.shtml" class="nav_subsection">History</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/about/code_of_conduct.shtml" class="nav_subsection">Code of Conduct</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/about/career.shtml" class="nav_subsection">Career Opportunities </a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/about/faq.shtml" class="nav_subsection">Frequently Asked Questions</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/about/mou.shtml" class="nav_subsection">Interagency MOUs</a><br>
+    <span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/about/lap.shtml" class="nav_subsection">Language Access Plan</a><br>
+    <span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/about/bill_of_rights.shtml" class="nav_subsection">Owner's Bill of Rights</a><br>
+     <a href="../../html/rebuilding_after_sandy/storm_update.shtml" class="nav_section">Rebuilding After Sandy</a><br>
+    <a href="../../html/bis/bis.shtml" class="nav_section">Buildings Information</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/bis/glossary.shtml" class="nav_subsection">BIS Glossary</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/bis/faq.shtml" class="nav_subsection">BIS FAQs</a><br>
+<a href="../../html/development/development_main.shtml" class="nav_section">Development</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/development/the_hub_main.shtml" class="nav_subsection">NYC Development Hub</a><br>
+<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/development/applications_and_permits.shtml" class="nav_subsection">Applications & Permits</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/development/forms.shtml" class="nav_subsection">Forms</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/development/licensing_main.shtml" class="nav_subsection">Licensing</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/development/bim_main.shtml" class="nav_subsection">3D Site Safety Plans</a><br>
+<a href="../../html/safety/safety_main.shtml" class="nav_section">Safety & Enforcement</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/safety/amusement_safety.shtml" class="nav_subsection">Amusement Rides</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/safety/cda.shtml" class="nav_subsection">Construction, Demolition & Abatement (CDA)</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/safety/demolition_safety.shtml" class="nav_subsection">Demolition</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/safety/iad.shtml" class="nav_subsection">Disciplinary Actions</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/safety/dob.shtml" class="nav_subsection">DOB Violations</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/safety/ecb_violation.shtml" class="nav_subsection">ECB Violations</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/safety/elevator_safety.shtml" class="nav_subsection">Elevators & Escalators</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/safety/excavation.shtml" class="nav_subsection">Excavation</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/safety/experience_is_not_enough.shtml" class="nav_subsection">Experience Is Not Enough</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/safety/facade_safety_program.shtml" class="nav_subsection">Facades</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/safety/hrco.shtml" class="nav_subsection">High Risk Construction Analysis</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/safety/padlock.shtml" class="nav_subsection">Padlocks</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/safety/scaffold_shed_safety.shtml" class="nav_subsection">Scaffolds & Sheds</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/safety/signs.shtml" class="nav_subsection">Signs</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/safety/stalled_construction.shtml" class="nav_subsection">Stalled Construction</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/safety/stop_work_order.shtml" class="nav_subsection">Stop Work Orders</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/safety/top10_elev_offenders.shtml" class="nav_subsection">Top 10 Elevator Offenders</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/safety/ub.shtml" class="nav_subsection">Unsafe Buildings</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/safety/voluntary_surrender.shtml" class="nav_subsection">Voluntary Surrenders</a><br>
+<a href="../../html/community_partnerships/cp_main.shtml" class="nav_section">Community Partnerships</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="/html/dob/html/community_partnerships/construction_info.shtml" class="nav_subsection">Construction Information Panel Pilot Program</a><br>
+    <span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/community_partnerships/coolroofs.shtml" class="nav_subsection">NYC CoolRoofs</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/community_partnerships/urbancanvas_main.shtml" class="nav_subsection">urbancanvas</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/community_partnerships/urbanSHED_main.shtml" class="nav_subsection">urbanSHED</a><br>
+<a href="../../html/homeowners_and_tenants/homeowners_tenants_main.shtml" class="nav_section">Homeowners & Tenants</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/homeowners_and_tenants/rental.shtml" class="nav_subsection">Renting & Buying a Home</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/homeowners_and_tenants/cons_basic.shtml" class="nav_subsection">Construction: The Basics </a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/homeowners_and_tenants/hiring_a_professional.shtml" class="nav_subsection">Hiring a Professional</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/homeowners_and_tenants/living_safely.shtml" class="nav_subsection">Living Safely </a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/homeowners_and_tenants/home_maintenance.shtml" class="nav_subsection">Home Maintenance & Energy Efficiency</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/homeowners_and_tenants/community.shtml" class="nav_subsection">Construction in Your Community </a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/homeowners_and_tenants/complaints.shtml" class="nav_subsection">Complaints & Challenges</a><br>
+<a href="../../html/sustainability/sustainability_main.shtml" class="nav_section">Sustainability</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/sustainability/benchmarking.shtml" class="nav_subsection">Benchmarking</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/sustainability/green_roofs.shtml" class="nav_subsection">Green Roofs</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/sustainability/microturbine.shtml" class="nav_subsection">Microturbines</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/sustainability/solar_panels.shtml" class="nav_subsection">Solar Panels</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/sustainability/sustainability_advisory_board.shtml" class="nav_subsection">Sustainability Board</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/sustainability/resources.shtml" class="nav_subsection">Resources & Links</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/sustainability/sustainability_presentations.shtml" class="nav_subsection">Presentations</a><br>
+<a href="../../html/codes_and_reference_materials/reference.shtml" class="nav_section">Codes & Reference</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/codes_and_reference_materials/construction_code.shtml" class="nav_subsection">2008 Construction Codes</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/codes_and_reference_materials/code_internet.shtml" class="nav_subsection">1968 Building Code</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/codes_and_reference_materials/brochures.shtml" class="nav_subsection">Brochures</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/codes_and_reference_materials/bulletin_ppn_memo.shtml" class="nav_subsection">Buildings Bulletins, PPNs, Dir, Exec Order & Memos</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/codes_and_reference_materials/code_revisions.shtml" class="nav_subsection">Code Revision</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/codes_and_reference_materials/statistics.shtml" class="nav_subsection">Department Statistics</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/codes_and_reference_materials/nycecc_main.shtml" class="nav_subsection">Energy Code Guidelines</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/codes_and_reference_materials/mea_resource.shtml" class="nav_subsection">MEA Resources</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/codes_and_reference_materials/wetlandsMaps.shtml" class="nav_subsection">NYS DEC Wetlands</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/codes_and_reference_materials/nec.shtml" class="nav_subsection">NYC Electrical Code</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/codes_and_reference_materials/presentations.shtml" class="nav_subsection">Presentations</a><br>
+    <span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/codes_and_reference_materials/reports.shtml" class="nav_subsection">Reports</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/codes_and_reference_materials/rules.shtml" class="nav_subsection">Rules</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/codes_and_reference_materials/local_laws.shtml" class="nav_subsection">Selected Local Laws</a><br>
+<a href="../../html/news/news.shtml" class="nav_section">News & Services</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/news/pr.shtml" class="nav_subsection">Press Releases</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/news/newsletters.shtml" class="nav_subsection">Buildings News</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/news/events.shtml" class="nav_subsection">Events</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/news/upcoming_changes.shtml" class="nav_subsection">Service Updates</a><br>
+    <span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/news/podcasts.shtml" class="nav_subsection">State of Construction</a><br>
+<a href="../../html/contact/contact.shtml" class="nav_section">Contact the Buildings Department</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="http://www.nyc.gov/html/mail/html/maildob.html" class="nav_subsection">Email the Department</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/contact/holiday_sch.shtml" class="nav_subsection">Holiday Schedule</a><br></Td>
+  </tr>
+  <tr>
+    <Td><img src="../../includes/site_images/spacers/spacer.gif" width="1" border="0" height="9" alt=""></Td>
+    <Td><img src="../../includes/site_images/spacers/spacer.gif" width="1" border="0" height="9" alt=""></Td>
+  </tr>
+<tr>
+<td>&nbsp;</td>
+<td><table width="212" border="0" cellspacing="0" cellpadding="0">
+  <form name="query" method="get" onSubmit="return submitBIS();">
+    <tr> 
+      <td colspan="2"><img src="../../includes/site_images/misc/bsi_query_left.gif"></td>
+    </tr>
+    <tr>
+      <td bgcolor="28387c"><img src="../../includes/site_images/spacers/spacer.gif" alt="" width="12" border="0" height="1"></td>
+      <td bgcolor="28387c" class="module_text"><img src="../../includes/site_images/spacers/spacer.gif" alt="" width="185" border="0" height="1"></td>
+    </tr>
+    <tr> 
+      <td width="12" bgcolor="28387c"><img src="../../includes/site_images/spacers/spacer.gif" alt="" width="12" border="0" height="1"></td>
+      <td width="185" bgcolor="28387c" class="module_text"><em>House #</em></td>
+      </tr>
+    <tr> 
+      <td width="12" bgcolor="28387c">&nbsp;</td>
+      <td width="185" bgcolor="28387c" style="padding-top: 2px;"> <input id="houseno" name="houseno" type="text" style="width : 185px; border-top: 1px solid d7d7d7;  border-right: 1px solid d7d7d7;  border-left: 1px solid d7d7d7;  border-bottom: 0px solid d7d7d7;"></td>
+    </tr>
+     <tr> 
+      <td width="12" bgcolor="28387c"><img src="../../includes/site_images/spacers/spacer.gif" alt="" width="12" border="0" height="1"></td>
+      <td width="185" bgcolor="28387c" class="module_text"><em>Street Name</em></td>
+      <tr> 
+      <td width="12" bgcolor="28387c">&nbsp;</td>
+      <td width="185" bgcolor="28387c" style="padding-top: 2px;"> <input name="street" id="street" type="text" style="width : 185px; border-top: 1px solid d7d7d7;  border-right: 1px solid d7d7d7;  border-left: 1px solid d7d7d7;  border-bottom: 0px solid d7d7d7;"></td>
+     </tr>
+    <tr> 
+      <td width="12" bgcolor="28387c">&nbsp;</td>
+      <td width="185" bgcolor="28387c" class="module_text" style="padding-top: 6px;"><em>Borough</em></td>
+    </tr>
+    <tr> 
+      <td width="12" bgcolor="28387c">&nbsp;</td>
+      <td width="185" bgcolor="28387c" style="padding-top: 2px;"> <select name="boro" id="boro" style="width : 185px; border-top: 1px solid d7d7d7;  border-right: 1px solid d7d7d7;  border-left: 1px solid d7d7d7;  border-bottom: 0px solid d7d7d7;" class="iamField">
+          <option value="">Pick a Borough</option>
+          <option value="1">Manhattan</option>
+          <option value="2" >Bronx</option>
+          <option value="3" >Brooklyn</option>
+          <option value="4" >Queens</option>
+          <option value="5" >Staten Island</option>
+        </select></td>
+     </tr>
+    <tr> 
+      <td width="12" bgcolor="28387c">&nbsp;</td>
+      <td width="185" bgcolor="28387c" style="padding-top: 10px; padding-right: 13px;" align="right"><a href="javascript:submitBIS();"><img src="../../includes/site_images/misc/button_submit.gif" name="enter1" border="0" id="enter1" onMouseOver="MM_swapImage('enter1','','../../includes/site_images/misc/button_submit_over.gif',1)" onMouseOut="MM_swapImgRestore()"></a></td>
+      </tr>
+    <tr> 
+      <td colspan="3"><img src="../../includes/site_images/misc/bsi_query_buttom_left.gif"></td>
+<td></td>
+    </tr>
+  </form>
+</table></tr>
+</td>
+  <tr>
+    <Td><img src="../../includes/site_images/spacers/spacer.gif" width="1" border="0" height="9" alt=""></Td>
+    <Td><img src="../../includes/site_images/spacers/spacer.gif" width="1" border="0" height="9" alt=""></Td>
+  </tr>
+  <tr> 
+    <Td>&nbsp;</Td>
+    <Td><table width="212" border="0" cellspacing="0" cellpadding="0">
+        <tr> 
+          <td><img src="../../includes/site_images/nav/iwantto.gif" width="212" height="37"></td>
+        </tr>
+        <tr> 
+          <td align="right" style="padding-right: 14px;" bgcolor="28387c"><script>
+          	function IAmGo() {
+	         	var tmpURL = document.getElementById("i_am").value;
+	         	if (tmpURL != "") {
+		         	document.location.replace(tmpURL) 
+	         	}
+          	}
+          </script><select class="iamField" name="I am" id="i_am">
+              <option value="">Choose One</option>
+               <option value="http://www.nyc.gov/html/dob/html/development/applications_and_permits.shtml">Obtain a Permit</option>
+               <option value="http://www.nyc.gov/html/dob/html/development/licensing_main.shtml">Obtain a License</option>
+               <option value="http://www.nyc.gov/html/dob/html/homeowners_and_tenants/hiring_a_professional.shtml">Hire a Professional</option>
+               <option value="http://www.nyc.gov/html/dob/html/bis/bis.shtml">Look Up a Building/Property</option>
+               <option value="http://a810-bisweb.nyc.gov/bisweb/my_community.jsp">Look at Building on My Block</option>
+               <option value="https://a810-efiling.nyc.gov/eRenewal/loginER.jsp">Electronic Filing</option>
+               <option value="http://www.nyc.gov/html/dob/html/development/certificates.shtml">Get a Certificate of Occupancy</option>
+               <option value="http://www.nyc.gov/html/dob//html/development/pa.shtml">Get a PA Certificate</option>
+               <option value="http://www.nyc.gov/html/dob//html/development/laa_emergency.shtml">Perform Emergency Work</option>
+               <option value="http://www.nyc.gov/html/dob//html/news/op98_rejections.shtml">Find the OP98 Rejection Reports</option>
+               <option value="http://www.nyc.gov/html/dob//html/codes_and_reference_materials/statistics.shtml">Find Department Statistics</option>
+               <option value="http://www.nyc.gov/html/dob/html/development/forms.shtml">Find a Form</option>
+               <option value="http://www.nyc.gov/html/dob/html/safety/ecb_violation.shtml">Learn More about Violations</option>
+               <option value="http://www.nyc.gov/html/dob/html/codes_and_reference_materials/construction_code.shtml">Find the Building Code</option>
+               <option value="http://www.nyc.gov/html/dob/html/about/faq.shtml">View Department FAQs</option>
+               </select></td>
+        </tr>
+        <tr> 
+          <td align="right" style="padding-right: 14px; padding-top: 10px;" bgcolor="28387c"><a href="javascript:IAmGo();" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('search_nav','','../../includes/site_images/nav/search_nav_over.gif',1)"><img src="../../includes/site_images/nav/search_nav.gif" name="search_nav" width="54" height="22" border="0"></a></td>
+        </tr>
+        <tr> 
+          <td><img src="../../includes/site_images/nav/iwantto_bottom.gif" width="212" height="13"></td>
+        </tr>
+		<tr>
+    <Td><img src="../../includes/site_images/spacers/spacer.gif" width="1" border="0" height="9" alt=""></Td>
+    <Td><img src="../../includes/site_images/spacers/spacer.gif" width="1" border="0" height="9" alt=""></Td>
+  </tr>
+      </table></Td>
+  </tr>
+</table>
+
+
+<table width="100%" cellspacing="0" cellpadding="0" border="0" class="nav_social">
+  <tbody>
+    <tr valign="top">
+      <td><div class="nav_social_icons"><img src="../../includes/site_images/spacers/spacer.gif" width="7" border="0" height="1" alt=""><a href="http://www.nyc.gov/cgi-bin/exit.pl?url=http://www.facebook.com/pages/New-York-NY/NYC-Buildings/130491737001202?v=wall"><img src="../../includes/site_images/misc/facebook_icon.gif" alt="Like Us On Facebook" border="0"/></a><img src="../../includes/site_images/spacers/spacer.gif" width="13" border="0" height="1" alt=""><a href="http://www.nyc.gov/cgi-bin/exit.pl?url=http://twitter.com/nyc_buildings"><img src="../../includes/site_images/misc/twitter_icon.gif" alt="Follow NYCDOB" border="0"/> </a><img src="../../includes/site_images/spacers/spacer.gif" width="13" border="0" height="1" alt=""><a href="http://www.nyc.gov/cgi-bin/exit.pl?url=http://nycbuildings.tumblr.com/"><img src="../../includes/site_images/misc/tumblr_icon.gif" alt="Follow NYCDOB" border="0"/> </a><img src="../../includes/site_images/spacers/spacer.gif" width="13" border="0" height="1" alt=""><a href="http://www.nyc.gov/cgi-bin/exit.pl?url=http://www.youtube.com/nycbuildings"><img src="../../includes/site_images/misc/youtube_icon.gif" alt="Follow NYCDOB" border="0"/></a><img src="../../includes/site_images/spacers/spacer.gif" width="13" border="0" height="1" alt=""></div></td>
+    </tr>
+    </tbody>
+   </table>
+   
+
+
+<script language="Javascript">
+<!--
+if(this.location.href.indexOf("tl=")!=-1) {
+	document.getElementById("english_button").style.display='';
+	document.getElementById("translate_button").style.display = 'none';
+}
+//-->
+</script>
+<iframe scrolling='no' frameborder='0' class='shim' name='shim' id='shim'></iframe>
+<div id="translate_popup" class="popup">
+  <table cellspacing="0" cellpadding="0" border="0" width="323">
+    <tr>
+      <td class="popup_table"><table cellspacing="0" cellpadding="0" border="0" width="284">
+          <tr>
+            <Td colspan="2"><img src="../../includes/site_images/misc/translate_popup.gif" width="284" height="39" alt="Translate this Page" border="0"></Td>
+          </tr>
+          <tr>
+            <td class="popup_label" width="123">Select a Language</td>
+            <td class="popup_field" width="147"><select name="tl" id="tl" style="width:147px">
+                <option value="">- Select -</option>
+                <option value="ar">Arabic</option>
+                <option value="bg">Bulgarian</option>
+                <option value="ca">Catalan</option>
+                <option value="zh-CN">Chinese (Simplified)</option>
+                <option value="zh-TW">Chinese (Traditional)</option>
+                <option value="hr">Croatian</option>
+                <option value="cs">Czech</option>
+                <option value="da">Danish</option>
+                <option value="nl">Dutch</option>
+                <option value="tl">Filipino</option>
+                <option value="fi">Finnish</option>
+                <option value="fr">French</option>
+                <option value="de">German</option>
+                <option value="el">Greek</option>
+                <option value="iw">Hebrew</option>
+                <option value="hi">Hindi</option>
+                <option value="id">Indonesian</option>
+                <option value="it">Italian</option>
+                <option value="ja">Japanese</option>
+                <option value="ko">Korean</option>
+                <option value="lv">Latvian</option>
+                <option value="lt">Lithuanian</option>
+                <option value="no">Norwegian</option>
+                <option value="pl">Polish</option>
+                <option value="pt">Portuguese</option>
+                <option value="ro">Romanian</option>
+                <option value="ru">Russian</option>
+                <option value="sr">Serbian</option>
+                <option value="sk">Slovak</option>
+                <option value="sl">Slovenian</option>
+                <option value="es">Spanish</option>
+                <option value="sv">Swedish</option>
+                <option value="uk">Ukrainian</option>
+                <option value="vi">Vietnamese</option>
+              </select>
+            </td>
+          </tr>
+          <tr>
+            <td class="buttons" colspan="2"><input type="button" class="yellow_button" style="width:78px;" value="Translate" onClick="setLanguage(document.getElementById('tl').options[document.getElementById('tl').selectedIndex].value)" />
+              <input type="button" class="yellow_button" style="width:56px;" value="Cancel" onClick="hideTranslate()" /></td>
+          </tr>
+        </table></td>
+  </table>
+</div>
+
+
+<script type="text/javascript" src="../../includes/scripts/translate.js"></script>
+<script language="JavaScript"><!--
+if ((window.location.href).indexOf("translate_c?hl=en") != -1) { //show simple nav
+	document.getElementById("altnav").style.display = "block";
+}
+//--></script>
+								 
+						
+				</td>
+				<!-- START of CENTER column -->
+			<!-- BEGIN_PRINT_PAGE -->
+				<td id="main_content" align="left" valign="top" width="559">
+				<!-- START of PRIMARY FEATURE SECTION -->
+				<table width="559" border="0" cellspacing="0" cellpadding="0">
+				  
+					  
+						<tr><td colspan="3" align="left" valign="top" bgcolor="" width="559">
+							
+								<img src="../../includes/site_images/misc/spacer.gif" alt="" width="25" height="20" border="0"/><span class="area_header">BIS FAQ<br></span>
+								
+							</td></tr>
+						
+					
+						<tr><td align="left" bgcolor="" valign="top" width="25"><img src="../../includes/site_images/misc/spacer.gif" alt="" width="25" height="20" border="0">
+						</td><td align="left" bgcolor="" valign="top" width="509"><img src="../../includes/site_images/misc/spacer.gif" alt="" width="509" height="15" border="0"><br>
+					  
+							
+						
+					  
+							
+							
+									
+											<span class="bodytext"></span>
+											
+										
+									
+											<span class="bodytext"><b>Information On:</b><br /><a href="#property">Property Profile</a><br /><a href="#boiler">Boiler</a><br /><a href="#cofo">Certificate of Occupancy</a><br /><a href="#complaints">Complaints</a><br /><a href="#dvio">Buildings ("DOB") Violations</a><br /><a href="#evio">ECB Violations</a><br /><a href="#licensing">Licensing</a><p style="MARGIN-top: 0in"><br /><b>Q - What is BIS?</b></p><p><b>A</b> - BIS is the <b>B</b>uildings <b>I</b>nformation <b>S</b>ystem, the Department of Buildings' database of licensee information, complaints, Department of Buildings and Environmental Control Board (ECB) violations, boilers and property profile and construction application information.</p><p><b>Q - How do I conduct a Property Profile Search?</b></p><p><b>A</b> - Select the first option on the Buildings Information System. Choose Option A for Building Information Search. From this screen there are nine possible options to request BIS information depending on the type of search you want to conduct. You can search by property, complaint or violation, application or boiler.</p><p><b>Q - How do I search the license database?</b></p><p><b>A</b> - Select the second item on the BIS Menu, Skilled Trades Licensees Search. You will be directed to a screen where you may search by licensee name, business name or license number.</p><p>For more information see&#160;<a href="../development/licensing_main.shtml">Licenses information</a> or&#160;<a href="../development/lic_faq.shtml">Licenses FAQ</a>, or contact the <a href="../../html/contact/contact.shtml#lic">Licenses Unit</a>.</p><a id="property" class="bookmark" title="property" name="property"></a><p align="right"><a href="#top"><strong>BACK TO TOP</strong></a></p><p><b>Property Profile Details</b></p><p><b>Q - What is the Property Profile Overview?</b></p><p><b>A</b> - The Property Profile Overview is a summary of construction activity, job filings, PRA/ARA (plumbing applications), boilers, violations, and complaints for a particular address.</p><ul><li>All the alternate addresses for a property are listed, as well as the number of Department of Buildings property records, and the Building Identification Number (BIN), a designation assigned by the Department of City Planning.</li><li>The total amount of complaints filed and violations issued can be accessed with an indication of the number that is open.</li><li>The section labeled Job/Filings can be accessed with an indication of the number of construction applications (jobs) and supporting documents (filings) submitted for a property since the Department implemented an electronic application filing system in the late 1980's.</li><li>This screen also displays information and designations from other agencies, for example Department of Finance Building Occupancy Codes and Block/Lot numbers. There is also zip code information, to the right of the address.</li></ul><p><b>Q - How do I get a list of the actions on my property?</b></p><p><b>A</b> - The section labeled Actions from the Property Profile screen reflects older construction applications and other records prior to the implementation of electronic processing.</p><p><b>Q - How can I get additional details on a specific action?</b></p><p><b>A</b> - Additional details on actions are not accessible from the Building Information System. If the action is a construction application (i.e., ALT 2005-39) you can obtain more information by visiting the DOB Borough Office where your property is located in order to view the job folder for that action.</p><p><b>Q - Why does my property have no actions?</b></p><p><b>A</b> - The property might be a very old building where the old applications for your building were not entered or there is no recorded actions.</p><p><b>Q - Should I be concerned if my building has open <a href="../../html/safety/violations.shtml"><em>violations</em></a>?</b></p><p><b>A</b> - The existence of an open violation(s) is not an automatic cause for alarm. Violations can be for major or minor offenses of the Building Code or Zoning Resolution. Violations can remain open even after the offending condition is corrected because&#160;a Certificate of Correction has not been filed indicating that the condition has been corrected. Please see the preceding section for information on obtaining violation details.&#160;Violations are often the result of a complaint and therefore a review of&#160;the underlying complaint information may provide additional details.</p><p><b>Q - My building has hundreds of actions and violations listed against it. Is this accurate?</b></p><p><b>A</b> - Occasionally, a property record will show an unusual amount of activity at a premises. Most likely, all of this activity is not for this property. This happens if an address does not yet have a unique BIN (Building Identification Number) assigned to it. You will see this when for premises with BIN designations of 1000000, 2000000, 3000000, 4000000 and 5000000. This problem is resolved when the address receives it permanent BIN.</p><p><b>Q - Why is "Other BINs" number(s) listed?</b></p><p><b>A</b> - In some instances there are additional BIN numbers listed in the "Other BINs" section, that contains additional historical information on property. Multiple BINs occur for many reasons including when a lot is subdivided or when there are multiple buildings on one property.</p><p><b>Q - What are "JOB Types" in the Overview of New Jobs screens?</b></p><p><b>A</b> - There are a some basic job types that are used for different types of applications. NB and A1 are used for new buildings or major alterations that will result in the issuance of a new Certificate of Occupancy. A2 and A3 reference smaller types of alterations and DM is for a demolition. Please review the <a href="glossary.shtml">BIS glossary</a> for additional types of applications.</p><a id="boiler" class="bookmark" title="boiler" name="boiler"></a><p align="right"><strong><a href="#top"><strong>BACK TO TOP</strong></a></strong></p><p align="left"><b>Boilers Details</b></p><p><b>Q - How do I find my boiler number?</b></p><p><b>A</b> - Select option A on the BIS Menu, Building Information Search. You will be directed to the Building Information Search screen. You will need to enter the precise address (house number and street name) of the desired property, or the block and lot number or the Building Identification Number (BIN). You will be directed to the Property Profile Overview screen. Scroll down to the bottom of the page to "View Boilers" which will direct you to the Compliance Boiler Query which list the Boiler Number (NUM)</p><p><b>Q - How do I conduct a boiler search?</b></p><p><b>A</b> - Select option A on the BIS Menu, Building Information Search. You will be directed to the Building Information Search screen. Scroll down to option 9, where you will enter the borough and boiler number. You will be directed to the Compliance Boiler Query screen.</p><p><b>Q - How do I find out if the required annual boiler report was filed?</b></p><p><b>A</b> - Select option A on the BIS Menu, Building Information Search. You will be directed to the Building Information Search screen. You will be required to enter the precise address, the house number and street name or the block and lot number or the Building Identification Number (BIN). You will be directed to the Property Profile Overview screen. Scroll down to the bottom of the page to "View Boilers" which will direct you to the Compliance Boiler Query screen.</p><p><b>Q - How do I find out if a violation was issued for failure to file the annual boiler report?</b></p><p><b>A</b> - Select option A on the BIS Menu, Building Information Search. You will be directed to the Building Information Search screen. You will be required to enter the precise address, the house number and street name or the block and lot number or the Building Identification Number (BIN). You will be directed to the Property Profile Overview screen. Scroll down to the bottom of the page to "View Boilers" which will direct you to the Compliance Boiler Query screen.</p><a id="cofo" class="bookmark" title="cofo" name="cofo"></a><p align="right"><strong><a href="#top"><strong>BACK TO TOP</strong></a></strong></p><p align="left"><b>Certificate of Occupancy Details</b></p><p><b>Q - How can I obtain additional details on a Certificate of Occupancy (CO) number?</b></p><p><b>A</b> - From the list of Actions on the Property Profile Overview screen, double-click on the <b>CO</b> number.</p><p><b>Q - Why doesn't my building have a CO number?</b></p><p><b>A</b> -Buildings built prior to 1938 that have had no changes made to its occupancy nor egress since then do not have a CO number.</p><p><b>Q - Why are there no details for my CO application number?</b></p><p><b>Q - How do I obtain copies of a Certificate of Occupancy?</b></p><p><b>A</b> - The basic details on every CO application is not listed in the BIS system. You can obtain a complete copy of the CO by bringing the CO number to the DOB Borough office where the property is located.</p><a id="complaints" class="bookmark" title="complaints" name="complaints"></a><p align="right"><strong><a href="#top"><strong>BACK TO TOP</strong></a></strong></p><p align="left"><b>Complaints Details</b></p><p><b>Q - How do I find out if a building has any complaints?</b></p><p><b>A</b> - Select the first option, Building Information Search, on the BIS Menu. You will be directed to a screen where you can conduct a Building Information Search. You will need to enter the precise address (house number and street name) of the desired property or the block and lot or Building Identification Number (BIN). If you know the tracking number of a complaint, you can enter it on option 4 this screen, and get the status of the complaint. Otherwise, you can access complaints from the Property Profile Overview.</p><p><b>Q - I don't see a disposition for a complaint. Why is that?</b></p><p><b>A</b> - All complaints are prioritized and responded to based on the perceived severity. "A" complaints are generally responded to within 1.5 days and "B" complaints are generally responded to within 25 days. Other complaints are responded to as time and resources allow. Also see <a href="../../downloads/pdf/bis_complaint_disposition_codes.pdf">BIS Complaint Disposition Codes (PDF)</a>.</p><p><b>Q - I don't see the name of the person who made a complaint. How do I get this information?</b></p><p><b>A</b> - The identity of people who make complaints to the Department of Buildings is confidential agency information and cannot be released.</p><a id="dvio" class="bookmark" title="dvio" name="dvio"></a><p align="right"><strong><a href="#top"><strong>BACK TO TOP</strong></a></strong></p><p align="left"><b><a href="../../html/safety/dob.shtml">Buildings ("DOB") Violations</a> Details</b></p><p><b>Q - Why can't I click on the number where it says "DOB Violation"?</b></p><p><b>A</b> - We are working on it and this option will be available soon. In the interim this information is available in the Actions in the drop down menu area under V-DOB violation. Alternatively you may click on the Actions Area and type in V in the Enter Action Type box.</p><p><b>Q - Why can't I obtain additional details on a Buildings violation?</b></p><p><b>A</b> - The format of some older violations do not allow for additional details.</p><p><b>Q - How can I obtain a copy of a violation?</b></p><p><b>A</b> - You can obtain a copy of the violation from the <a href="../../html/contact/contact.shtml#boro">Buildings Borough Office</a> where the property is located.</p><p><b>Q - How can I get a <a href="../../html/safety/violations.shtml">violation</a> dismissed?</b></p><p><b>A</b> - The remedy for the violation is listed on the violation as part of the inspector's report. For additional assistance, call or visit the <a href="../../html/contact/contact.shtml#cons">Inspection Unit</a> within the Buildings local borough office. An * next to the violation on the Actions screen indicates that the violation has been dismissed.</p><p><b>Q - How can I tell what type of violation this is?</b></p><p><b>A</b> - For older violations a coding system was often used in the violation number that makes it easily identifiable (i.e. "C" = Construction, "NRF" = No Report Filed). Please review the <a href="glossary.shtml">BIS glossary</a> for additional types of violations.</p><a id="evio" class="bookmark" title="evio" name="evio"></a><p align="right"><strong><a href="#top"><strong>BACK TO TOP</strong></a></strong></p><p align="left"><b><a href="../../html/safety/ecb_violation.shtml">ECB Violation</a> Details</b></p><p><b>Q - What is the "ECB Query by Location" Screen?</b></p><p><b>A</b> - The "Query by Location" screen is a summary of all ECB violations that have been filed against a particular property location.</p><p><b>Q - What does "ECB NUM/"INF CD" mean?</b></p><p><b>A</b> - "ECB NUM" is the number that ECB uses to identify a violation. "INF CD" stands for infraction code. An infraction code indicates the nature of the violation.</p><a id="licensing" class="bookmark" title="licensing" name="licensing"></a><p align="right"><strong><a href="#top"><strong>BACK TO TOP</strong></a></strong></p><p align="left"><b><a href="../../html/development/licensing_main.shtml">Licensing</a> Details</b></p><p><b>Q - What is a Skilled Trades Licensees Search?</b></p><p><b>A</b> - The Skilled Trades Licensees Search is a query of personnel or businesses with licenses* issued by the Department of Buildings. <b>It is not a recommendation</b> of a specific individual or company.</p><p><b>Q - I don't see the type of license listed that I'm interested in. Why is that?</b></p><p><b>A</b> - The Department of Buildings does not license every trade. A listing of the trades licensed by this Department is located at the end of this section. General contractors are not licensed in New York City or New York State. Home Improvement Contractors are licensed by the Department of Consumer Affairs (<a href="http://nyc.gov/html/dca/home.html">NYC.gov/consumers</a> or 212-487-4436).</p><p><b>Q -I can't find my contractor on your database. Why is that?</b></p><p><b>A</b> - There may several possible explanations. As noted in the preceding section, the Department of Buildings may not license this particular trade. Another possibility is that there is an alternate spelling of the licensee's name or business name. Try another variation. If you still cannot find the person or company, please call the Department's <a href="../../html/contact/contact.shtml#lic">Licensing Division</a> for assistance.</p><p><b>Q - My query displayed very little information about the licensee*. Why is that?</b></p><p><b>A</b> - Different licenses have different requirements, so certain information may be not available for a particular trade. For example, insurance is only required for plumbers, fire suppression contractors, riggers, sign hangers, oil burner installers and elevator inspection companies. If you have any questions about the information for a particular licensee, please contact the <a href="../contact/contact.shtml#lic">Licensing Division</a>.</p><p><b>Q - My contractor's license has expired. Is his/her license valid?</b></p><p><b>A</b> - Your contractor's license may be still valid, but if the contractor did not submit his/her renewal information to the Licensing Division in a timely manner, then it will automatically display as expired in the system. If you have any questions about the information for a particular licensee, please contact the <a href="../contact/contact.shtml#lic">Licensing Division</a>.</p><p><b>Q -My contractor's* insurance is expired. Should I be concerned?</b></p><p><b>A</b> - Your contractor's insurance may still be valid, but if the contractor did not submit his/her updated insurance to the Licensing Division in a timely manner, then it will automatically be expired in the system. If you have any questions about the information for a particular licensee, contact the <a href="../contact/contact.shtml#lic">Licensing Division</a>.</p><p><b>* LICENSES ISSUED BY DEPARTMENT OF BUILDINGS</b></p><ul><li>Oil Burner Installer</li><li>Engineer - Stationary and Portable</li><li>Hoist Machine Operator</li><li>Cherry Picker</li><li>Welder</li><li>Special Rigger</li><li>Master Rigger</li><li>Special Sign Hanger</li><li>Master Sign Hanger</li><li>Master Plumber</li><li>Master Fire Suppression Contractor</li><li>Private Agency Elevator Director</li><li>Private Agency Elevator Inspector</li><li>Tower Crane Rigger</li><li>Site Safety Manager</li><li>Concrete Test Laboratory</li><li>Master Electrician</li></ul><p><b>Note:</b> General contractors are not licensed in New York City or New York State. Home Improvement Contractors are licensed by the Department of Consumer Affairs. (<a href="http://www.nyc.gov/html/dca/home.html">NYC.gov/consumers</a> or 212-487-4436)</p><p align="right"><strong><a href="#top"><strong>BACK TO TOP</strong></a></strong></p><p align="left"><b>Q - I have reviewed the above and need more information, what do I do?</b></p><p><b>A</b> - Please review the <a href="glossary.shtml">BIS glossary</a> for additional information. Contact our <a href="../contact/contact.shtml#bis">BIS Unit</a>, Monday through Friday between the hours of 9 AM and 5 PM or visit one of our Borough Offices.</p><p></p><strong>Other Related Links:</strong><br /></span>
+										
+								
+						
+
+					
+
+					 
+					   
+						<img src="../../includes/site_images/misc/arrow.gif" alt="" border="0" /><a href="../../html/development/efiling_faq.shtml"  class="bodytext_underline">eFiling FAQ</a><br>
+						
+					 
+					   
+						<img src="../../includes/site_images/misc/arrow.gif" alt="" border="0" /><a href="../../html/development/lic_faq.shtml"  class="bodytext_underline">Licensing FAQ</a><br>
+						
+					 
+					   
+						<img src="../../includes/site_images/misc/arrow.gif" alt="" border="0" /><a href="../../html/safety/enffaq.shtml"  class="bodytext_underline">Violations FAQ</a><br>
+						
+					 
+					   
+						<img src="../../includes/site_images/misc/arrow.gif" alt="" border="0" /><a href="../../html/about/faq1.shtml"  class="bodytext_underline">Other Department of Buildings FAQ A-L</a><br>
+						
+					 
+					   
+						<img src="../../includes/site_images/misc/arrow.gif" alt="" border="0" /><a href="../../html/about/faq2.shtml"  class="bodytext_underline">Other Department of Buildings FAQ M-Z</a><br>
+						
+					 
+					 
+					
+					</td><td align="left" bgcolor="" valign="top" width="25"><img src="../../includes/site_images/misc/spacer.gif" alt="" width="25" height="20" border="0"></td></tr>
+					
+					  
+				   
+				</table>
+				<!-- END of PRIMARY FEATURE SECTION -->
+
+				<!-- START of SECONDARY FEATURE SECTION -->
+
+				<table width="559" border="0" cellspacing="0" cellpadding="0">
+				
+				  
+				
+				
+
+				  
+					  
+					<tr>
+					<td colspan="3" align="left" valign="top" bgcolor="" width="559">
+							
+							</td></tr>
+						
+					
+					  </table>
+
+				<!-- END of SECONDARY FEATURE SECTION -->
+
+				<!-- START of TERTIARY FEATURE SECTION -->
+				<table width="559" border="0" cellspacing="0" cellpadding="0">
+				  
+					  
+						<tr><td colspan="3" align="left" valign="top" bgcolor="" width="559">
+							
+							</td></tr>
+						
+					
+					  
+				   
+				</table>
+				<!-- END of TERTIARY FEATURE SECTION -->
+		<!-- END_PRINT_PAGE -->		
+
+			
+
+
+<!-- BEGIN_PRINT_PAGE -->
+				</td>
+				<!-- END of CENTER column -->
+		<!-- END_PRINT_PAGE -->					
+				
+				<!-- START of THIRD column -->
+				<td align="left" valign="top" width="220" id="col3_content">
+					
+						  <span class="module_bodytext">
+    <script language="JavaScript" type="text/JavaScript">
+<!--
+
+
+//Slide code
+
+var curSlide;
+var curTime;
+
+var slides = new Array();
+
+slides[slides.length] = "../../images/scrolling news/scrolling_news_background.gif|Tickets on Sale Now|<center>Tickets on Sale Now<p></center>|<a href='http://www.nyc.gov/html/dob/html/news/construction_safety_week.shtml'><center>Click here for tickets to the 2013 Build Safe Live Safe Conference! During this full-day event, Department engineers, architects and construction experts will outline industry trends and safe construction practices.</center></a>";
+
+slides[slides.length] = "../../images/scrolling news/scrolling_news_background.gif|No Penalty Retaining Wall Inspections|<center>No Penalty Retaining Wall Inspections<p></center>|<a href='http://www.nyc.gov/html/dob/html/news/pr_retaining_wall_2013.shtml'><center>We're offering free no-penalty inspections for retaining walls through May to help New Yorkers better maintain their properties. Call 311 to schedule an inspection. Click to learn more.</center></a>";
+
+slides[slides.length] = "../../images/scrolling news/scrolling_news_background.gif|Manhattan Plan Examination|<center>Manhattan Plan Examination<p></center>|<a href='http://www.nyc.gov/html/dob/downloads/pdf/mn_plan_exam_renovation.pdf'><center>We're renovating our Manhattan plan examination offices to provide better service, more space for appointments and easier access to our code and zoning experts. During construction, plan exams will be on the sixth floor. Click here for more.</center></a>";
+
+slides[slides.length] = "../../images/scrolling news/scrolling_news_background.gif|Free Design Consultations|<center>Free Design Consultations<p></center>|<a href='http://www.nyc.gov/html/dob/html/news/pr_consultation_sandy_affected_home.shtml'><center>Starting March 4, the Department is offering free design consultations for property owners and design professionals who are planning to reconstruct buildings damaged by Hurricane Sandy. These consultations will ensure new flood standards are incorporated. Click here for more.</center></a>";
+
+slides[slides.length] = "../../images/scrolling news/scrolling_news_background.gif|The NYC Buildings App|<center>The NYC Buildings App<p></center>|<a href='http://www.nyc.gov/html/dob/html/news/pr_buildings_app.shtml'><center>Download the Department's free new app on your smartphone and find the easiest way to search the history of NYC's buildings. Click here to learn more.</center></a>";
+
+slides[slides.length] = "../../images/scrolling news/scrolling_news_background.gif|Videos Tutorials for Hub <i>Self-Service</i>|<center>Videos Tutorials for Hub <i>Self-Service</i><p></center>|<a href='http://www.nyc.gov/html/dob/html/development/hub_how_to_guide.shtml'><center>At the NYC Development Hub, you can obtain online permits for most small construction projects. Click here for a series of video tutorials that show you how to submit plans and documents, step by step.</center></a>";
+
+slides[slides.length] = "../../images/scrolling news/scrolling_news_background.gif|Post-Storm Information|<center>Post-Storm Information<p></center>|<a href='http://www.nyc.gov/html/dob/html/rebuilding_after_sandy/storm_update.shtml'><center>Click here to find the latest information regarding the Department's response to Hurricane Sandy as well as helpful information for homeowners and licensed professionals performing repair work. Additionally, all of the Department's offices have re-opened and are ready for business.</center></a>";
+
+slides[slides.length] = "../../images/scrolling news/scrolling_news_background.gif|Year of the Hub|<center>Year of the Hub<p></center>|<a href='http://www.nyc.gov/portal/site/nycgov/menuitem.c0935b9a57bb4ef3daf2f1c701c789a0/index.jsp?pageID=mayor_press_release&catID=1194&doc_name=http%3A%2F%2Fwww.nyc.gov%2Fhtml%2Fom%2Fhtml%2F2012b%2Fpr350-12.html&cc=unused1978&rc=1194&ndi=1'><center>In its first year, the NYC Development Hub approved 339 new buildings & major construction projects, generating $1.3 billion in estimated economic activity in NYC. With the use of digital plans, these projects were approved up to 3X faster than paper-based plans .</center></a>";
+
+slides[slides.length] = "../../images/scrolling news/scrolling_news_background.gif|Special Inspection Agency Registration Deadline Extended|<center>Special Inspection Agency Registration Deadline Extended<p></center>|<a href='http://www.nyc.gov/html/dob/html/development/special_insp_overview.shtml'><center>The Department has extended the deadline to register as a special inspection agency to May 13, 2013. Click here to learn more about how to register and the extension.</center></a>";
+
+var slidesLoad = new Array();
+for (x=0; x<slides.length; x++) {
+	var tmpImgSplit = slides[x].split("|");
+	slidesLoad[x] = new Image();
+	slidesLoad[x].src = tmpImgSplit[0];
+
+
+
+}
+
+
+
+function switchSlide(slideNum) {
+
+	var tmpSplit = slides[slideNum].split("|");
+
+	if (document.images.slide_main.filters) {
+		//document.images.slide_main.style.filter="blendTrans(duration=.5)";
+		document.images.slide_main.filters.blendTrans.Stop();
+	    document.images.slide_main.filters.blendTrans(duration=.5).Apply();
+	}
+
+	document.slide_main.src = slidesLoad[slideNum].src;  //tmpSplit[0];
+	document.slide_main.alt = tmpSplit[1];
+	document.getElementById("boldtitle").innerHTML = tmpSplit[2];
+	document.getElementById("slidetext").innerHTML = tmpSplit[3];
+
+	if (document.images.slide_main.filters) {
+	    document.images.slide_main.filters.blendTrans.Play();
+	}
+
+	curSlide = slideNum;
+}
+
+function nextSlide() {
+	if (curSlide >= (slides.length -1)) {
+		switchSlide(0);
+	} else {
+		switchSlide(curSlide+1);
+	}
+	setCurTime();
+}
+
+function prevSlide() {
+	if (curSlide <= 0) {
+		switchSlide((slides.length -1));
+	} else {
+		switchSlide(curSlide-1);
+	}
+	setCurTime();
+}
+
+function setCurTime() {
+	curTime = new Date().getTime();
+}
+
+function setTimer() {
+	setTimeout("compareTime()",500);
+}
+
+function compareTime() {
+	if (document.images.slide_main.filters) {
+		if (document.images.slide_main.filters.blendTrans.status == 0) {
+			var tmpImgSplit = slides[curSlide].split("|");
+			document.slide_main.src = tmpImgSplit[0];
+		}
+	}
+
+	var tmpTime = new Date().getTime();
+	if ((tmpTime - curTime) >= 15000) {
+		nextSlide();
+		setCurTime();
+	}
+
+	setTimer();
+}
+
+function slideInit() {
+	switchSlide(0);
+	setCurTime();
+	setTimer();
+}
+
+window.onload = slideInit;
+
+
+//-->
+</script><div style="position: absolute; left: 780px; top: 158px; width: 179px;">
+  <table width="196" height="305" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td><img src="../../includes/site_images/branding/slide_blank.jpg" name="slide_main" width="196" height="305" id="slide_main" style="filter:blendTrans(duration=1); writing-mode:tb-rl;"></td>
+  </tr>
+</table></div>
+<div style="position: absolute; left: 787px; top: 180px; width: 180px; height: 295px;"><span class="slide_right_title" id="boldtitle"></span><span class="slide_right_text" id="slidetext"><a href="#" class="slide_right_text"></a></span></div>
+<div style="position: absolute; left: 874px; top: 415px; width: 20px; height: 5px;"><a href="javascript:;" onClick="nextSlide();"><img src="../../includes/site_images/branding/next_button.gif" alt="Next" name="slide_next" border="0" id="slide_next"></a></div>
+			</span>
+
+
+					
+				</td>
+				<!-- END of THIRD column -->
+		<!-- BEGIN_PRINT_PAGE -->		
+			</tr>
+	<!-- END_PRINT_PAGE -->			
+			<tr>
+				
+
+				
+
+			
+			</tr>
+			<tr height="25">
+				<td colspan="3" align="left" valign="top" width="999" height="25">
+
+					<table width="999" border="0" cellspacing="0" cellpadding="0">
+	<tr><td><img src="../../includes/site_images/misc/bottom_branding.gif" border="0"></td></tr>
+</table>
+
+
+
+	<!-- END_PRINT_PAGE -->
+			<!-- START of nycgov_footer.inc-->
+<style type="text/css">
+<!--
+.footer_links {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	color: #F9D053;
+	text-align:right;
+}
+.footer_copyright {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	color: #C4C4B2;
+}
+.footer_bg {
+	background-color:#494B4C;
+	padding:6px 25px 6px 13px;
+}
+-->
+</style>
+<TABLE cellSpacing="0" cellPadding="0" width="999" border="0">
+  <TR>
+    <td class="footer_bg"><Table cellspacing="0" cellpadding="0" border="0" width="961">
+        <tr>
+          <td width="50%" class="footer_copyright">Copyright 2013 The City of New York</td>
+          <td width="50%" class="footer_links"><A class=footer_links href="/contact">Contact Us</A> | <A class=footer_links href="/faqs">FAQs</A> | <A class=footer_links href="/privacy">Privacy Statement</A> | <A class=footer_links href="http://www.nyc.gov/html/misc/html/tou.html">Terms of Use</A> | <A class=footer_links href="/sitemap">Site Map</A></td>
+        </tr>
+      </Table></td>
+  </TR>
+</TABLE>
+<!--  nycgov Webtrends code, added on 02/16/2011 -->
+<script src="/html/misc/scripts/nycwebtrends.js" type="text/javascript"></script>
+<script type="text/javascript">
+//<![CDATA[
+var _nyctag=new WebTrends();
+_nyctag.dcsInit();
+_nyctag.dcsGetId();
+//]]>>
+</script>
+<script type="text/javascript">
+//<![CDATA[
+_nyctag.dcsCollect();
+//]]>>
+</script>
+
+<!-- PROD noscript section -->
+<noscript>
+<div><img alt="DCSIMG" id="DCSIMG" width="1" height="1" src="http://a858-sdc.nyc.gov/dcslfpea2000008i7geu3pdky_5v8x/njs.gif?dcsuri=/nojavascript&WT.js=No&WT.tv=8.6.2"/></div>
+</noscript>
+<!--  END OF nycgov Webtrends code, added on 02/16/2011 -->
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-9518673-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+<!-- END of nycgov_footer.inc-->
+
+	<!-- BEGIN_PRINT_PAGE -->
+				</td>
+			</tr>
+		</table>
+	<!-- END_PRINT_PAGE -->	
+	</body>
+</html>
+

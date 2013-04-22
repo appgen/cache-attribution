@@ -1,0 +1,580 @@
+
+
+
+		
+	
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+	<head>
+		<meta http-equiv="content-type" content="text/html;charset=UTF-8">
+		<meta name="tp-name" content="homepage_2col">
+
+		
+		<meta name="keywords" content="CCC, Customer Contact Center, NYCHA, maintenance repairs, appointments, New York City Housing Authority">
+		
+		
+
+		
+				<title>Maintenance Requests - New York City Housing Authority</title>
+			
+		
+				
+			
+		<link href="../../includes/css/rollout.css" rel="stylesheet">
+	</head>
+
+<body  background="../../includes/site_images/misc/bg.gif"
+  bgcolor="#ffffff" leftmargin="0" marginheight="0" marginwidth="0" topmargin="0">
+
+	<!-- BEGIN_PRINT_PAGE -->
+		<table width="769" border="0" cellspacing="0" cellpadding="0" height="100%">
+	<!-- END_PRINT_PAGE -->	
+			<tr><td colspan="2" align="left" valign="top" width="769">
+					<!-- START of nycgov_header.inc -->
+<table width="769" border="0" cellspacing="0" cellpadding="0" height="51">
+	<tr>
+		<td><img src="../../includes/site_images/nyc_gov/nycgov_banner.gif" alt="" width="769" height="51" border="0" usemap="#TopNav"></td>
+	</tr>
+</table>
+<map name="TopNav">
+  <area shape="rect" coords="554,1,599,25" href="/search" alt="Search">
+  <area shape="rect" coords="607,1,688,25" href="/portal/register.jsp" alt="Email Updates">
+  <area shape="rect" coords="698,1,762,25" href="/contact" alt="Contact Us">
+  <area shape="rect" coords="328,27,399,50" href="/residents" alt="Residents">
+  <area shape="rect" coords="408,27,471,50" href="/business" alt="Business">
+  <area shape="rect" coords="478,27,535,50" href="/visitors" alt="Visitors">
+  <area shape="rect" coords="544,27,628,50" href="/government" alt="Government">
+  <area shape="rect" coords="635,27,764,50" href="/mayor" alt="Office of the Mayor">
+  <area shape="rect" coords="3,3,49,48" href="/home.html" alt="NYC.gov always open">
+</map>
+<!-- END of nycgov_header.inc -->
+					
+							<script type="text/javascript">
+//<![CDATA[
+
+	var PageConfig = {};
+	PageConfig.dcsid = "dcs0kj9vk7etzuvsmzo9uwcem_5f2f";
+	PageConfig.onsitere = /^(www\.)?(nyc\.gov|(ci\.)?nyc\.ny\.us){1}(\/)(html)?(\/)?nycha.*/i;
+	
+	var PageArray = {};
+	PageArray.PageLoad = [];
+	PageArray.PageLoad[0] = 'DCSext.o_agcy';
+	PageArray.PageLoad[1] = 'NYCHA';
+
+	//]]>>
+</script><table width="769" border="0" cellspacing="0" cellpadding="0">
+  <tr> 
+    <td width="180" valign="top"><a href="../../html/home/home.shtml"><img src="../../includes/site_images/branding/banner_top_left.gif" alt="New York City Housing Authority" width="180" height="66" border="0"></a></td>
+    <td colspan="2" rowspan="2" valign="top"><script language="Javascript">
+<!--
+
+function getCookie(Name) {
+	var search = Name + "=";
+	if (document.cookie.length > 0) {
+		offset = document.cookie.indexOf(search)
+		if (offset != -1) {
+			offset += search.length
+			end = document.cookie.indexOf(";", offset)
+			if (end == -1)
+				end = document.cookie.length
+			return unescape(document.cookie.substring(offset, end))
+		}
+	}
+}
+
+function getFolder(thePath) {
+	if (thePath == null) { return -1; }
+	var startSlash = thePath.lastIndexOf("/");
+	startSlash2 = thePath.lastIndexOf("/",startSlash -1);
+
+	if(startSlash == startSlash2) { return -1; }
+	if (startSlash == -1 || startSlash2 == -1) {
+		return -1;
+	} else {
+		return thePath.substr(startSlash2, startSlash - startSlash2 + 1);
+	}
+}
+
+
+var imgNum = getCookie("nychabannerNum");
+var cookiePath = location.pathname;
+var filename;
+
+cookiePath = cookiePath.substr(0,(cookiePath.lastIndexOf("/html/") + 6));
+currentFolder = getFolder(location.pathname);
+
+/*switch (currentFolder) {
+	case "/mfta/":
+		document.write('<img src="../../includes/site_images/branding/materials_banner.jpg" name="banner" alt="Department of Cultural Affairs" width="769" border="0">');
+		break;
+	case "/panyc/":
+		document.write('<img src="../../includes/site_images/branding/percent_for_art.jpg" name="banner" alt="Department of Cultural Affairs" width="769" border="0">');
+		break;
+	default:*/
+		var bannerList = new Array(
+			"banner_1",
+			"banner_2",
+			"banner_3",
+			"banner_4",
+			"banner_5",
+			"banner_6");
+		
+		if (imgNum == "" || imgNum == null || isNaN(imgNum)) {
+			
+			imgNum = Math.round(((bannerList.length -1) * Math.random()) + 1) - 1;
+			filename=bannerList[imgNum] + "_anim.gif";
+			if(document.cookie.length > 0) {
+				document.cookie = "nychabannerNum=" + imgNum + ";path=" + cookiePath + ";" + document.cookie;
+			} else {
+				document.cookie = "nychabannerNum=" + imgNum + ";path=" + cookiePath + ";";
+			}
+		} else filename=bannerList[imgNum] + ".jpg";
+		
+		document.write('<img src="../../includes/site_images/branding/' + filename + '" name="banner" alt="New York City Housing Authority" width="589" border="0">');
+		/*break;
+}*/
+
+//-->
+</script>
+	
+	<!--<script language="Javascript"><!--
+	        var iconList1 = new Array("banner_1.gif", "banner_2.gif", "banner_3.gif", "banner_4.gif", "banner_5.gif", "banner_6.gif", "banner_7.gif");
+	        var iconNum = Math.round(((iconList1.length -1) * Math.random()) + 1) - 1;
+	        document.write('<a href="../../html/home/home.shtml"><img src="../../includes/site_images/branding/' + iconList1[iconNum] + '" width="589" height="126" alt="New York City Housing Authority" border="0"></a>');
+        
+        </script>//
+		<a href="../../html/home/home.shtml"><img src="../../includes/site_images/branding/banner_1_anim.gif" width="589" height="126" alt="New York City Housing Authority" border="0"></a>
+		--></td>
+  </tr>
+  <tr> 
+    <td width="180" align="right"><table width="170" height="60" border="0" cellpadding="0" cellspacing="0" class="search_table">
+      <tr><form action="http://search1.nyc.gov/search?" method="GET" name="gs" style="margin-bottom:0px">
+        <td><input value="xml_no_dtd" name="output" type="hidden"><input value="default_collection" name="site" type="hidden"><input value="agency_frontend" name="proxystylesheet" type="hidden"><input value="agency_frontend" name="client" type="hidden"><input value="www.nyc.gov/html/nycha" name="sitesearch" type="hidden"><img src="../../includes/site_images/spacers/spacer.gif" width="9" height="6" alt=""><br><img src="../../includes/site_images/spacers/spacer.gif" width="9" height="11" alt=""><label accesskey="s"><input name="q" type="text" class="search-box" id="search box" size="12" style="width : 148px; height : 24"></label><br><label accesskey="g"><input name="go" type="image" id="go" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('go','','../../includes/site_images/misc/search_over.gif',1)" src="../../includes/site_images/misc/search.gif"  align="right"  alt="Search"  width="62" height="25" border="0"></label></td>
+      </form></tr>
+    </table></td>
+  </tr>
+  </table>
+  <table width="769" border="0" cellspacing="0" cellpadding="0">
+  <tr> 
+    <td width="180"><img src="../../includes/site_images/branding/banner_bottom_left.gif" width="180" height="37" alt=""></td>
+	<td><img src="../../includes/site_images/branding/banner_top_center.gif" alt=""></td>
+	<Td id="translate_button"><a onMouseOver="MM_swapImage('ttp','','../../includes/site_images/branding/translate_1.gif',0)" onMouseOut="MM_swapImgRestore()" href="javascript:showTranslate();"><img src="../../includes/site_images/branding/translate_0.gif" name="ttp" id="ttp" alt="Translate this Page" border="0" ></a></Td>
+	<Td id="english_button" style="display:none"><a onMouseOver="MM_swapImage('eng','','../../includes/site_images/branding/english_1.gif',0)" onMouseOut="MM_swapImgRestore()" href="javascript:resetLang();"><img src="../../includes/site_images/branding/english_0.gif" name="eng" id="eng" alt="Back to English" border="0"></a></td>
+    <td><a href="/cgi-bin/misc/pfprinter.cgi?action=print&sitename=NYCHA" onClick="this.href = '/cgi-bin/misc/pfprinter.cgi?action=print&sitename=NYCHA&p=' + Date.parse(new Date()); return true;" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('pff','','../../includes/site_images/branding/pff_over.gif',1)"><img src="../../includes/site_images/branding/pff.gif" border="0" name="pff" alt="Printer Friendly Format"></a></td>
+    <td><a href="http://www.nyc.gov/nychanews" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('sign','','../../includes/site_images/branding/sign_up_over.gif',1)"><img src="../../includes/site_images/branding/sign_up.gif" border="0" name="sign" alt="Sign-up for NYCHA Newsletter"></a></td>
+  </tr>
+</table>
+<!--[if lt IE 7]>
+<script defer type="text/javascript" src="../../includes/scripts/pngfix.js"></script>
+<![endif]-->
+						
+			</td></tr>
+
+		
+		<!-- BEGIN_PRINT_PAGE -->
+		<tr>
+		<!-- END_PRINT_PAGE -->
+		<td align="left" valign="top" width="180" height="100%">
+					
+							
+							 
+								  <script type="text/javascript" src="../../includes/scripts/cookies.js"></script>
+<table width="180" border="0" cellspacing="0" cellpadding="0">
+  
+<tr><td align="left" bgcolor="" valign="top" width="165">
+    <script language="Javascript" src="../../includes/scripts/nav_nodes.js"></script>
+    <script language="Javascript" src="../../includes/scripts/nav_code_custom.js"></script>
+    <noscript>
+<a href="../../html/home/home.shtml" class="nav_section">Home</a><br>
+<a href="../../html/about/about.shtml" class="nav_section">About NYCHA</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/about/message_from_chairman.shtml" class="nav_subsection">Message from the Chairman</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/about/factsheet.shtml" class="nav_subsection">Fact Sheet</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/about/orgchart.shtml" class="nav_subsection">Organization</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/about/financialinfo.shtml" class="nav_subsection">Financial Information</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/about/agencyplan.shtml" class="nav_subsection">Annual Plan</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/about/ppph.shtml" class="nav_subsection">Plan to Preserve<br> Public Housing</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/about/nycha70.shtml" class="nav_subsection">NYCHA at 70</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/about/awards.shtml" class="nav_subsection">Awards</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/about/job_opps.shtml" class="nav_subsection">Job Opportunities</a><br>
+<a href="../../html/assistance/app_for_pubhsg.shtml" class="nav_section">Applying for Public Housing</a><br>
+<a href="../../html/developments/dev_guide.shtml" class="nav_section">NYCHA Housing Developments</a><br>
+<a href="../../html/section8/section8.shtml" class="nav_section">Section 8 Assistance</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/section8/gen_info.shtml" class="nav_subsection">General Information</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/section8/section8-applying.shtml" class="nav_subsection">Applying for Section 8</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/section8/tenant_info.shtml" class="nav_subsection">Information for Tenants</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/section8/landlord_info.shtml" class="nav_subsection">Information for Landlords</a><br>
+<a href="../../html/residents/residents.shtml" class="nav_section">Residents Corner</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/residents/resident_resources.shtml" class="nav_subsection">Resources</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/residents/resident_whatshappening.shtml" class="nav_subsection">What's Happening</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/residents/journal.shtml" class="nav_subsection">NYCHA Journal</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/residents/linksofinterest.shtml" class="nav_subsection">Links of Interest</a><br>
+<a href="../../html/community/community.shtml" class="nav_section">Community Programs and Services</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/community/res_employ.shtml" class="nav_subsection">Resident Employment Services</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/community/education.shtml" class="nav_subsection">Education Programs</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/community/sports.shtml" class="nav_subsection">Sports Programs</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/community/recreation.shtml" class="nav_subsection">Recreation Programs</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/community/garden.shtml" class="nav_subsection">Garden Program</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/community/art.shtml" class="nav_subsection">Art Programs</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/community/performance.shtml" class="nav_subsection">Performing Arts</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/community/music.shtml" class="nav_subsection">Music Programs</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/community/health_services.shtml" class="nav_subsection">Health Services</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/community/senior_services.shtml" class="nav_subsection">Senior Services</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/community/social_serv.shtml" class="nav_subsection">Social Services</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/community/equalopp.shtml" class="nav_subsection">Equal Opportunity</a><br>
+<a href="../../html/business/business.shtml" class="nav_section">Doing Business with NYCHA</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/business/procure_opps.shtml" class="nav_subsection">Procurement Opportunities</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/business/vendor_events.shtml" class="nav_subsection">Vendor Events</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/business/mwbe.shtml" class="nav_subsection">MWSBE</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/business/prevail_wage_init.shtml" class="nav_subsection">Prevailing Wage Initiative</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/business/store-leasing.shtml" class="nav_subsection">Store Leasing</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/business/training_n_development.shtml" class="nav_subsection">Training and Development</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/pr/print-shop.shtml" class="nav_subsection">NYCHA Print Shop</a><br>
+<a href="../../html/news/news.shtml" class="nav_section">News Events and Publications</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/news/pressrelease.shtml" class="nav_subsection">Press Releases</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/news/newsarchives.shtml" class="nav_subsection">News Archives</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/news/calendar_events.shtml" class="nav_subsection">Calendar of Events</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/news/publications.shtml" class="nav_subsection">Publications</a><br>
+<a href="../../html/faqs/faqs.shtml" class="nav_section">FAQs</a><br>
+<a href="../../html/contact/contact.shtml" class="nav_section">Contact NYCHA</a><br>
+</noscript>
+    </td></tr>
+	
+	<tr><td align="left" bgcolor="" valign="top" width="165" id="altnav" style="display:none;">
+<a href="../../html/home/home.shtml" class="nav_section">Home</a><br>
+<a href="../../html/about/about.shtml" class="nav_section">About NYCHA</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/about/message_from_chairman.shtml" class="nav_subsection">Message from the Chairman</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/about/factsheet.shtml" class="nav_subsection">Fact Sheet</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/about/orgchart.shtml" class="nav_subsection">Organization</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/about/financialinfo.shtml" class="nav_subsection">Financial Information</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/about/agencyplan.shtml" class="nav_subsection">Annual Plan</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/about/ppph.shtml" class="nav_subsection">Plan to Preserve<br> Public Housing</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/about/nycha70.shtml" class="nav_subsection">NYCHA at 70</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/about/awards.shtml" class="nav_subsection">Awards</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/about/job_opps.shtml" class="nav_subsection">Job Opportunities</a><br>
+<a href="../../html/assistance/app_for_pubhsg.shtml" class="nav_section">Applying for Public Housing</a><br>
+<a href="../../html/developments/dev_guide.shtml" class="nav_section">NYCHA Housing Developments</a><br>
+<a href="../../html/section8/section8.shtml" class="nav_section">Section 8 Assistance</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/section8/gen_info.shtml" class="nav_subsection">General Information</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/section8/section8-applying.shtml" class="nav_subsection">Applying for Section 8</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/section8/tenant_info.shtml" class="nav_subsection">Information for Tenants</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/section8/landlord_info.shtml" class="nav_subsection">Information for Landlords</a><br>
+<a href="../../html/residents/residents.shtml" class="nav_section">Residents Corner</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/residents/resident_resources.shtml" class="nav_subsection">Resources</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/residents/resident_whatshappening.shtml" class="nav_subsection">What's Happening</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/residents/journal.shtml" class="nav_subsection">NYCHA Journal</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/residents/linksofinterest.shtml" class="nav_subsection">Links of Interest</a><br>
+<a href="../../html/community/community.shtml" class="nav_section">Community Programs and Services</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/community/res_employ.shtml" class="nav_subsection">Resident Employment Services</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/community/education.shtml" class="nav_subsection">Education Programs</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/community/sports.shtml" class="nav_subsection">Sports Programs</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/community/recreation.shtml" class="nav_subsection">Recreation Programs</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/community/garden.shtml" class="nav_subsection">Garden Program</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/community/art.shtml" class="nav_subsection">Art Programs</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/community/performance.shtml" class="nav_subsection">Performing Arts</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/community/music.shtml" class="nav_subsection">Music Programs</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/community/health_services.shtml" class="nav_subsection">Health Services</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/community/senior_services.shtml" class="nav_subsection">Senior Services</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/community/social_serv.shtml" class="nav_subsection">Social Services</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/community/equalopp.shtml" class="nav_subsection">Equal Opportunity</a><br>
+<a href="../../html/business/business.shtml" class="nav_section">Doing Business with NYCHA</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/business/procure_opps.shtml" class="nav_subsection">Procurement Opportunities</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/business/vendor_events.shtml" class="nav_subsection">Vendor Events</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/business/mwbe.shtml" class="nav_subsection">MWSBE</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/business/prevail_wage_init.shtml" class="nav_subsection">Prevailing Wage Initiative</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/business/store-leasing.shtml" class="nav_subsection">Store Leasing</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/business/training_n_development.shtml" class="nav_subsection">Training and Development</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/pr/print-shop.shtml" class="nav_subsection">NYCHA Print Shop</a><br>
+<a href="../../html/news/news.shtml" class="nav_section">News Events and Publications</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/news/pressrelease.shtml" class="nav_subsection">Press Releases</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/news/newsarchives.shtml" class="nav_subsection">News Archives</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/news/calendar_events.shtml" class="nav_subsection">Calendar of Events</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/news/publications.shtml" class="nav_subsection">Publications</a><br>
+<a href="../../html/faqs/faqs.shtml" class="nav_section">FAQs</a><br>
+<a href="../../html/contact/contact.shtml" class="nav_section">Contact NYCHA</a><br>
+    </td></tr>
+  
+</table>
+
+<table width="180" border="0" cellspacing="0" cellpadding="0">
+<tr><td width='180'><img src='../../includes/site_images/nav/bottom_img.jpg'></td></tr>
+<tr><td width='160' align='middle'><img src='../../images/photos/ptiseal_160x160.gif'></td></tr>
+</table>
+
+
+<script language="Javascript">
+<!--
+if(this.location.href.indexOf("tl=")!=-1) {
+	document.getElementById("english_button").style.display='';
+	document.getElementById("translate_button").style.display = 'none';
+}
+//-->
+</script>
+<iframe scrolling='no' frameborder='0' class='shim' name='shim' id='shim'></iframe>
+<div id="translate_popup" class="popup">
+  <table cellspacing="0" cellpadding="0" border="0" width="323">
+    <tr>
+      <td class="popup_table"><table cellspacing="0" cellpadding="0" border="0" width="284">
+          <tr>
+            <Td colspan="2"><img src="../../includes/site_images/misc/translate_popup.gif" width="284" height="39" alt="Translate this Page" border="0"></Td>
+          </tr>
+          <tr>
+            <td class="popup_label" width="123">Select a Language</td>
+            <td class="popup_field" width="147"><select name="tl" id="tl" style="width:147px">
+                <option value="">- Select -</option>
+                <option value="ar">Arabic</option>
+                <option value="bg">Bulgarian</option>
+                <option value="ca">Catalan</option>
+                <option value="zh-CN">Chinese (Simplified)</option>
+                <option value="zh-TW">Chinese (Traditional)</option>
+                <option value="hr">Croatian</option>
+                <option value="cs">Czech</option>
+                <option value="da">Danish</option>
+                <option value="nl">Dutch</option>
+                <option value="tl">Filipino</option>
+                <option value="fi">Finnish</option>
+                <option value="fr">French</option>
+                <option value="de">German</option>
+                <option value="el">Greek</option>
+                <option value="iw">Hebrew</option>
+                <option value="hi">Hindi</option>
+                <option value="id">Indonesian</option>
+                <option value="it">Italian</option>
+                <option value="ja">Japanese</option>
+                <option value="ko">Korean</option>
+                <option value="lv">Latvian</option>
+                <option value="lt">Lithuanian</option>
+                <option value="no">Norwegian</option>
+                <option value="pl">Polish</option>
+                <option value="pt">Portuguese</option>
+                <option value="ro">Romanian</option>
+                <option value="ru">Russian</option>
+                <option value="sr">Serbian</option>
+                <option value="sk">Slovak</option>
+                <option value="sl">Slovenian</option>
+                <option value="es">Spanish</option>
+                <option value="sv">Swedish</option>
+                <option value="uk">Ukrainian</option>
+                <option value="vi">Vietnamese</option>
+              </select>
+            </td>
+          </tr>
+          <tr>
+            <td class="buttons" colspan="2"><input type="button" class="yellow_button" style="width:78px;" value="Translate" onClick="setLanguage(document.getElementById('tl').options[document.getElementById('tl').selectedIndex].value)" />
+              <input type="button" class="yellow_button" style="width:56px;" value="Cancel" onClick="hideTranslate()" /></td>
+          </tr>
+        </table></td>
+  </table>
+</div>
+<script type="text/javascript" src="../../includes/scripts/translate.js"></script>
+<script language="JavaScript"><!--
+if ((window.location.href).indexOf("translate_c?hl=en") != -1) { //show simple nav
+	document.getElementById("altnav").style.display = "block";
+}
+//--></script>
+
+
+								 
+						
+				</td>
+				<!-- START of CENTER column -->
+				<!-- BEGIN_PRINT_PAGE -->
+				<td id="main_content" align="left" valign="top" width="589">
+				<!-- START of PRIMARY FEATURE SECTION -->
+				<table width="589" border="0" cellspacing="0" cellpadding="0">
+				  
+					  
+						<tr><td colspan="3" align="left" valign="top" bgcolor="" width="589">
+							
+							
+								<img src="../../includes/site_images/page_titles/title_residents_maint_requests.gif"
+								alt="Maintenance Requests" width="589" border="0" /></td></tr>
+						
+					
+						<tr><td align="left" bgcolor="" valign="top" width="30"><img src="../../includes/site_images/spacers/spacer_30_30.gif" alt="" width="30" height="30" border="0">
+						</td><td align="left" bgcolor="" valign="top" width="499"><img src="../../includes/site_images/spacers/spacer_499_15.gif" alt="" width="499" height="15" border="0"><br>
+					  
+							
+						
+					  
+							
+							
+									
+											<span class="bodytext"></span>
+											
+										
+									
+											<span class="bodytext"><p style="MARGIN-top: 0in"><img border="0" alt="" align="right" src="../../includes/site_images/modules/ccclogo_new2_174x220.jpg" width="174" height="220"></p>
+
+<p>Call the Customer Contact Center (CCC) for emergency repairs in your apartment or in a public space 24 hours a day, seven days a week at: (718) 707-7771. To schedule apartment repair appointments call the CCC Monday through Friday from 6:00am to midnight.<br>
+</p>
+
+<p>REDUCE YOUR CALL WAIT TIME - CALL DURING NON-PEAK HOURS - Call volume is heaviest on Mondays and the day after a holiday. The best time to call is usually during the afternoon.</p>
+
+<p>Click here for more <a href="../residents/ccc_rc.shtml">information</a> about CCC repair requests.</p>
+
+<p>See the flyers below&#160;to learn more about scheduling maintenance repairs from 6am to midnight. <a href="http://www.adobe.com/products/acrobat/readstep2.html">You will need Acrobat Reader to view the flyers.</a></p></span>
+										
+								
+						
+
+					
+
+					 
+					   
+						<img src="../../includes/site_images/misc/arrow.gif" alt="" border="0" /><a href="../../downloads/pdf/ccc_flyer_english.pdf"  class="bodytext_underline">Schedule maintenance appointments from 6am to midnight (English) </a><br>
+						
+					 
+					   
+						<img src="../../includes/site_images/misc/arrow.gif" alt="" border="0" /><a href="../../downloads/pdf/ccc_flyer_spanish.pdf"  class="bodytext_underline">En Espa&#241;ol (Spanish) </a><br>
+						
+					 
+					   
+						<img src="../../includes/site_images/misc/arrow.gif" alt="" border="0" /><a href="../../downloads/pdf/ccc_flyer_russian.pdf"  class="bodytext_underline">&#1056;&#1091;&#1089;&#1089;&#1082;&#1080;&#1081; (Russian) </a><br>
+						
+					 
+					   
+						<img src="../../includes/site_images/misc/arrow.gif" alt="" border="0" /><a href="../../downloads/pdf/ccc_flyer_chinese.pdf"  class="bodytext_underline">&#20013;&#25991; (Chinese) </a><br>
+						
+					 
+					 
+					
+					</td><td align="left" bgcolor="" valign="top" width="60"><img src="../../includes/site_images/spacers/spacer_60_30.gif" alt="" width="60" height="30" border="0"></td></tr>
+
+					
+
+					  
+				   
+				</table>
+				<!-- END of PRIMARY FEATURE SECTION -->
+
+				<!-- START of SECONDARY FEATURE SECTION -->
+
+				<table width="589" border="0" cellspacing="0" cellpadding="0">
+				  
+					  
+						<tr><td colspan="4" align="left" valign="top" bgcolor="" width="589">
+							
+							</td></tr>
+						
+					
+
+					  </table>
+
+				<!-- END of SECONDARY FEATURE SECTION -->
+
+				<!-- START of TERTIARY FEATURE SECTION -->
+				<table width="589" border="0" cellspacing="0" cellpadding="0">
+				  
+					  
+						<tr><td colspan="3" align="left" valign="top" bgcolor="" width="589">
+							
+							</td></tr>
+						
+					
+					  
+				   
+				</table>
+				<!-- END of TERTIARY FEATURE SECTION -->
+				<!-- END_PRINT_PAGE -->
+				
+
+			<!-- START of nycgov_footer.inc-->
+<!-- old table width=589;  499 for middle td -->
+<!-- expanded table width=769;  619 for middle td -->
+<!-- <table width="589" border="0" cellspacing="0" cellpadding="0">
+	<tr>
+		<td align="left" valign="top" width="30"><img src="../../includes/site_images/spacers/spacer_30_30.gif" alt="" width="30" height="30" border="0"></td>
+		<td align="left" valign="top" width="499"><img src="../..//includes/site_images/spacers/spacer_499_15.gif" alt="" width="499" height="15" border="0"><img src="../../includes/site_images/footer_divider.gif" alt="" width="499" height="1" border="0"><br>
+			<span class="footer_header">Footer header goes here<br>
+			</span><span class="footer_text">Footer text description goes here. It is optional and the max is about 300 characters which is approximately 3-4 lines of text. Footer text description goes here. It is optional and the max is about 300 characters which is approximately 3-4 lines of text.<br>
+			</span></td>
+		<td align="left" valign="top" width="60"><img src="../..//includes/site_images/spacers/spacer_60_30.gif" alt="" width="60" height="30" border="0"><br>
+			<br>
+		</td>
+	</tr>
+</table> -->
+<!-- END of default_footer.inc -->
+
+
+					
+	<!-- BEGIN_PRINT_PAGE -->				
+					<span class="footer_text"><br></span></td>
+				<!-- END of CENTER column -->
+			</tr>
+	<!-- END_PRINT_PAGE -->
+			<tr height="25">
+				<td colspan="2" align="left" valign="top" width="769" height="25"> 
+
+					<table width="769" border="0" cellspacing="0" cellpadding="0">
+	<tr><td><img src="../../includes/site_images/misc/bottom_branding.gif" border="0"></td></tr>
+</table>
+
+
+
+
+<!-- START of nycgov_footer.inc-->
+<style type="text/css">
+<!--
+	.footer_links {font-family: Verdana, Arial, Helvetica, sans-serif;
+		font-size: 10px;
+		color: #F9D053;
+	}
+
+	.footer_copyright {font-family: Verdana, Arial, Helvetica, sans-serif;
+		font-size: 10px;
+		color: #C4C4B2;
+	}
+-->
+</style>
+<TABLE cellSpacing=0 cellPadding=0 width=769 bgColor=#494B4C border=0>
+	<TBODY>
+	<TR><TD width=13><IMG height=24 src="../../includes/site_images/spacers/spacer.gif" width=13></TD>
+          <TD width=287><SPAN class=footer_copyright>Copyright 2013 The City of New York</SPAN></TD>
+          <TD align=right width=444><SPAN class=footer_links><A class=footer_links href="/contact">Contact Us</A> | <A class=footer_links href="/faqs">FAQs</A> | <A class=footer_links href="/privacy">Privacy Policy</A> | <A class=footer_links href="http://www.nyc.gov/html/misc/html/tou.html">Terms of Use</A> | <A class=footer_links href="/sitemap">Site Map</A></SPAN></TD>
+          <TD align=right width=25><IMG height=24 src="../../includes/site_images/spacers/spacer.gif" width=25></TD></TR>
+        </TBODY>
+</TABLE>
+<!-- Privacy Policy updated on 03/08/2011 -->
+<!--  nycgov Webtrends code, added on 02/16/2011 -->
+<script src="/html/misc/scripts/nycwebtrends.js" type="text/javascript"></script>
+<script type="text/javascript">
+//<![CDATA[
+var _nyctag=new WebTrends();
+_nyctag.dcsInit();
+_nyctag.dcsGetId();
+//]]>>
+</script>
+<script type="text/javascript">
+//<![CDATA[
+_nyctag.dcsCollect();
+//]]>>
+</script>
+
+<!-- PROD noscript section -->
+<noscript>
+<div><img alt="DCSIMG" id="DCSIMG" width="1" height="1" src="http://a858-sdc.nyc.gov/dcslfpea2000008i7geu3pdky_5v8x/njs.gif?dcsuri=/nojavascript&WT.js=No&WT.tv=8.6.2"/></div>
+</noscript>
+<!--  END OF nycgov Webtrends code, added on 02/16/2011 -->
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-9518673-1");
+pageTracker._trackPageview();
+} catch(err) {}
+</script>
+<!-- END of nycgov_footer.inc-->
+
+				</td>
+			</tr>
+<!-- BEGIN_PRINT_PAGE -->			
+		</table>
+	<!-- END_PRINT_PAGE -->
+	</body>
+</html>
+

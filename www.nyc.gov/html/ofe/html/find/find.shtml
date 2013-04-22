@@ -1,0 +1,605 @@
+
+
+
+		
+	
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+	<head>
+		<meta http-equiv="content-type" content="text/html;charset=UTF-8">
+		<meta name="tp-name" content="homepage_2col">
+
+		
+		
+
+		
+				<title>Find Counselor/Class - Office of Financial Empowerment</title>
+			
+		
+				
+			
+		<link href="../../includes/css/rollout.css" rel="stylesheet">
+	</head>
+
+<body  background="../../includes/site_images/misc/bg.gif"
+  bgcolor="#ffffff" leftmargin="0" marginheight="0" marginwidth="0" topmargin="0">
+
+	<!-- BEGIN_PRINT_PAGE -->
+		<table width="769" border="0" cellspacing="0" cellpadding="0" height="100%">
+	<!-- END_PRINT_PAGE -->	
+			<tr><td colspan="2" align="left" valign="top" width="769">
+					<!-- START of nycgov_header.inc -->
+<table width="769" border="0" cellspacing="0" cellpadding="0" height="51">
+	<tr>
+		<td><img src="../../includes/site_images/nyc_gov/nycgov_banner.gif" alt="" width="769" height="51" border="0" usemap="#TopNav"></td>
+	</tr>
+</table>
+<map name="TopNav">
+  <area shape="rect" coords="554,1,599,25" href="/search" alt="Search">
+  <area shape="rect" coords="607,1,688,25" href="/portal/register.jsp" alt="Email Updates">
+  <area shape="rect" coords="698,1,762,25" href="/contact" alt="Contact Us">
+  <area shape="rect" coords="328,27,399,50" href="/residents" alt="Residents">
+  <area shape="rect" coords="408,27,471,50" href="/business" alt="Business">
+  <area shape="rect" coords="478,27,535,50" href="/visitors" alt="Visitors">
+  <area shape="rect" coords="544,27,628,50" href="/government" alt="Government">
+  <area shape="rect" coords="635,27,764,50" href="/mayor" alt="Office of the Mayor">
+  <area shape="rect" coords="3,3,49,48" href="/home.html" alt="NYC.gov always open">
+</map>
+<!-- END of nycgov_header.inc -->
+					
+							<script type="text/javascript">
+//<![CDATA[
+
+	var PageConfig = {};
+	PageConfig.dcsid = "dcsh4z1fxmk2tsnta2hhdmt3r_4z8t";
+	PageConfig.onsitere = /^(www\.)?(nyc\.gov|(ci\.)?nyc\.ny\.us){1}(\/)(html)?(\/)?ofe.*/i;
+	PageConfig.trackonsite = true;
+	PageConfig.trackoffsite = true;
+
+	var PageArray = {};
+	PageArray.PageLoad = [];
+	PageArray.PageLoad[0] = 'DCSext.o_agcy';
+	PageArray.PageLoad[1] = 'OFE';
+
+	//]]>>
+</script>
+<script type="text/javascript" src="../../includes/scripts/cookies.js"></script>
+<script type="text/javascript" src="../../includes/scripts/translate.js"></script>
+<script language="JavaScript" src="../../includes/scripts/change_text.js"></script>
+
+<table width="769" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td><a href="../../html/home/home.shtml"><img src="../../includes/site_images/branding/agency_banner.gif" alt="Office of Financial Empowerment" width="769" height="82" border="0"></a></td>
+  </tr>
+  <tr>
+    <td><table cellspacing="0" cellpadding="0" border="0" width="769">
+        <tr>
+          <td width="178" id="translate_button"><a href="javascript:showTranslate();" onMouseOver="MM_swapImage('translate','','../../includes/site_images/branding/banner_translate_over.gif',1)" onMouseOut="MM_swapImgRestore()"><img src="../../includes/site_images/branding/banner_translate.gif" alt="Translate This Page" name="translate" border="0" id="translate" width="178" height="30"></a></td>
+          <td width="178" id="english_button" style="display:none;"><a href="javascript:resetLang();" onMouseOver="MM_swapImage('english','','../../includes/site_images/branding/english_1.gif',1)" onMouseOut="MM_swapImgRestore()"><img src="../../includes/site_images/branding/english_0.gif" alt="Back to English" name="english" border="0" id="english" width="178" height="30"></a></td>
+          <td width="148"><a href="/cgi-bin/misc/pfprinter.cgi?action=print&sitename=OFE" onClick="this.href = '/cgi-bin/misc/pfprinter.cgi?action=print&sitename=OFE&p=' + Date.parse(new Date()); return true;" onMouseOver="MM_swapImage('printer','','../../includes/site_images/branding/banner_printer_over.gif',1)" onMouseOut="MM_swapImgRestore()"><img src="../../includes/site_images/branding/banner_printer.gif" alt="Printer Friendly Format" name="printer" border="0" id="printer" width="148" height="30"></a></td>
+          <td width="133"><a href="/j2ee/emailafriend/EAFEntry?" target="_blank" onClick="this.href = '/j2ee/emailafriend/EAFEntry?' + Date.parse(new Date()); return true;" onMouseOver="MM_swapImage('eaf','','../../includes/site_images/branding/banner_eaf_over.gif',1)" onMouseOut="MM_swapImgRestore()"><img src="../../includes/site_images/branding/banner_eaf.gif" alt="Email A Friend" name="eaf" border="0" id="eaf" width="133" height="30"></a></td>
+          <td width="163"><a href="/register" onMouseOver="MM_swapImage('signup','','../../includes/site_images/branding/banner_signup_over.gif',1)" onMouseOut="MM_swapImgRestore()"><img src="../../includes/site_images/branding/banner_signup.gif" alt="Sign-up For Office of Financial Empowerment News" name="signup" border="0" id="signup" width="163" height="30"></a></td>
+          <td width="70"><img src="../../includes/site_images/branding/test_size.gif" alt="Set Text Size" name="text_size" border="0" width="70" height="30"></td>
+          <td width="20"><a onMouseOver="MM_swapImage('small','','../../includes/site_images/branding/a_small_over.gif',0)" onMouseOut="MM_swapImgRestore()" href="javascript:SetCookie(nameOfCookie,'1');doRefresh();"><img src="../../includes/site_images/branding/a_small.gif" border=0 alt="Small Font" name="small" align="absmiddle" width="20" height="30"></a></td>
+          <td width="21"><a onMouseOver="MM_swapImage('midium','','../../includes/site_images/branding/a_midium_over.gif',0)" onMouseOut="MM_swapImgRestore()" href="javascript:SetCookie(nameOfCookie,'2');doRefresh();"><img src="../../includes/site_images/branding/a_midium.gif" border=0 alt="midium Font" name="midium" align="absmiddle" width="21" height="30"></a></td>
+          <td width="36"><a onMouseOver="MM_swapImage('large','','../../includes/site_images/branding/a_large_over.gif',0)" onMouseOut="MM_swapImgRestore()" href="javascript:SetCookie(nameOfCookie,'3');doRefresh();"><img src="../../includes/site_images/branding/a_large.gif" border=0 alt="Large Font" name="large" align="absmiddle" width="36" height="30"></a></td>
+        </tr>
+      </table></td>
+  </tr>
+</table>
+<script language="Javascript">
+<!--
+if(GetCookie(fontSizeCookie) == "2"){	
+	document.medium.src='../../includes/site_images/branding/a_midium_over.gif';	
+}else if(GetCookie(fontSizeCookie) == "3"){
+	document.large.src='../../includes/site_images/branding/a_large_over.gif';	
+}else{
+	document.small.src='../../includes/site_images/branding/a_small_over.gif';	
+}
+if(this.location.href.indexOf("tl=")!=-1) {
+	document.getElementById("english_button").style.display='';
+	document.getElementById("translate_button").style.display = 'none';
+}
+MM_preloadImages('../../includes/site_images/branding/banner_translate_over.gif','../../includes/site_images/branding/english_1.gif','../../includes/site_images/branding/banner_eaf_over.gif','../../includes/site_images/branding/banner_printer_over.gif','../../includes/site_images/branding/banner_signup_over.gif')
+//-->
+</script>
+<iframe scrolling='no' frameborder='0' class='shim' name='shim' id='shim'></iframe>
+<div id="translate_popup" class="popup">
+  <table cellspacing="0" cellpadding="0" border="0" width="323">
+    <tr>
+      <td class="popup_table"><table cellspacing="0" cellpadding="0" border="0" width="284">
+          <tr>
+            <Td colspan="2"><img src="../../includes/site_images/branding/translate_popup.gif" width="284" height="39" alt="Translate this Page" border="0"></Td>
+          </tr>
+          <tr>
+            <td class="popup_label" width="123">Select a Language</td>
+            <td class="popup_field" width="147"><select name="tl" id="tl" style="width:147px">
+                <option value="">- Select -</option>
+                <option value="ar">Arabic</option>
+                <option value="bg">Bulgarian</option>
+                <option value="ca">Catalan</option>
+                <option value="zh-CN">Chinese (Simplified)</option>
+                <option value="zh-TW">Chinese (Traditional)</option>
+                <option value="hr">Croatian</option>
+                <option value="cs">Czech</option>
+                <option value="da">Danish</option>
+                <option value="nl">Dutch</option>
+                <option value="tl">Filipino</option>
+                <option value="fi">Finnish</option>
+                <option value="fr">French</option>
+                <option value="de">German</option>
+                <option value="el">Greek</option>
+                <option value="iw">Hebrew</option>
+                <option value="hi">Hindi</option>
+                <option value="id">Indonesian</option>
+                <option value="it">Italian</option>
+                <option value="ja">Japanese</option>
+                <option value="ko">Korean</option>
+                <option value="lv">Latvian</option>
+                <option value="lt">Lithuanian</option>
+                <option value="no">Norwegian</option>
+                <option value="pl">Polish</option>
+                <option value="pt">Portuguese</option>
+                <option value="ro">Romanian</option>
+                <option value="ru">Russian</option>
+                <option value="sr">Serbian</option>
+                <option value="sk">Slovak</option>
+                <option value="sl">Slovenian</option>
+                <option value="es">Spanish</option>
+                <option value="sv">Swedish</option>
+                <option value="uk">Ukrainian</option>
+                <option value="vi">Vietnamese</option>
+              </select>
+            </td>
+          </tr>
+          <tr>
+            <td class="buttons" colspan="2"><input type="button" class="yellow_button" style="width:78px;" value="Translate" onClick="setLanguage(document.getElementById('tl').options[document.getElementById('tl').selectedIndex].value)" />
+              <input type="button" class="yellow_button" style="width:56px;" value="Cancel" onClick="hideTranslate()" /></td>
+          </tr>
+        </table></td>
+  </table>
+</div>
+
+						
+			</td></tr>
+
+		
+		<!-- BEGIN_PRINT_PAGE -->
+		<tr>
+		<!-- END_PRINT_PAGE -->
+		<td align="left" valign="top" width="180" height="100%">
+					
+							
+							 
+								  <!-- file tree1_nodes.js will be recreated-->
+<!-- START of leftnav_js.html -->
+<script type="text/javascript">
+<!--
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+//-->
+</script>
+<body onload="MM_preloadImages('../../includes/site_images/nav/nav_dca_over.gif','../../includes/site_images/nav/nav_ceo_over.gif')">
+<table width="180" border="0" cellspacing="0" cellpadding="0" background="../../includes/site_images/nav/search_bg.gif" height="67">
+  <tr>
+    <td colspan="2"><img src="../../includes/site_images/spacers/spacer.gif" width="180" height="32"></td>
+  </tr>
+  <tr>
+    <td><img src="../../includes/site_images/spacers/spacer.gif" width="15" height="24"></td>
+    <td width="165"><form action="http://search1.nyc.gov/search?" method="GET" name="gs" style="margin-bottom: 0px;">
+        <div class="search_all">
+          <div class="search_left">
+            <input value="xml_no_dtd" name="output" type="hidden">
+            <input value="default_collection" name="site" type="hidden">
+            <input value="agency_frontend" name="proxystylesheet" type="hidden">
+            <input value="agency_frontend" name="client" type="hidden">
+            <input value="www.nyc.gov/html/ofe" name="sitesearch" type="hidden">
+            <input type="text" name="q" id="search_nycgov" style="width: 111px; height: 22px;">
+            <img src="../../includes/site_images/spacers/spacer.gif" width="7" height="1"></div>
+          <div class="search_box">
+            <input name="go" type="image" id="go" src="../../includes/site_images/nav/search_go.gif" alt="Search" align="middle" width="20" height="20" border="0" onMouseOver="MM_swapImage('go','','../../includes/site_images/nav/search_go_over.gif',1)" onMouseOut="MM_swapImgRestore()">
+          </div>
+        </div>
+      </form>
+      <img src="../../includes/site_images/spacers/spacer.gif" width="1" height="24"></td>
+  </tr>
+  <tr>
+    <td><img src="../../includes/site_images/spacers/spacer.gif" width="15" height="11"></td>
+    <td width="165"><img src="../../includes/site_images/spacers/spacer.gif" width="1" height="11"></td>
+  </tr>
+</table>
+<table width="180" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td align="left" bgcolor="" valign="top" width="165"><script language="Javascript" src="../../includes/scripts/nav_nodes.js"></script>
+      <script language="Javascript" src="../../includes/scripts/nav_code.js"></script>
+      <noscript>
+      <a href="../../html/home/home.shtml" class="nav_section">Home</a><br>
+      <a href="../../html/find/find.shtml" class="nav_section">Find Class Counselor</a><br>
+      <a href="../../html/help/help.shtml" class="nav_section">Get Debt Credit Help</a><br>
+      <a href="../../html/get/get.shtml" class="nav_section">How to Get Money</a><br>
+      <a href="../../html/manage/manage.shtml" class="nav_section">How to Manage Money</a><br>
+      <a href="../../html/save/save.shtml" class="nav_section">How to Save Money</a><br>
+      <a href="../../html/protect/protect.shtml" class="nav_section">How to Protect Money</a><br>
+      <a href="../../html/about/about.shtml" class="nav_section">About OFE</a><br>
+      <span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/about/message.shtml" class="nav_subsection">Message from the Executive Director</a><br>
+      <span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/about/staff.shtml" class="nav_subsection">Staff</a><br>
+      <span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/about/job.shtml" class="nav_subsection">Job Opportunities</a><br>
+      <a href="../../html/providers/providers.shtml" class="nav_section">Financial Education Providers</a><br>
+      <span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/providers/join.shtml" class="nav_subsection">Join the Network</a><br>
+      <span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/providers/resources.shtml" class="nav_subsection">Resources for Providers</a><br>
+      <a href="../../html/news/news.shtml" class="nav_section">News from OFE</a><br>
+      <span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/news/rss.shtml" class="nav_subsection">RSS Feed</a><br>
+      <span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/news/pr_archived.shtml" class="nav_subsection">Archived Press Releases</a><br>
+      <span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/news/hot_topics.shtml" class="nav_subsection">Hot Topics</a><br>
+      <a href="../../html/publications/publications.shtml" class="nav_section">Publications</a><br>
+      <span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/publications/consumer.shtml" class="nav_subsection">Consumer Tips and Guides</a><br>
+      <span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/publications/dictionary.shtml" class="nav_subsection">Money Dictionary</a><br>
+      <span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/publications/research.shtml" class="nav_subsection">Research Publications</a><br>
+      <a href="../../html/poverty/poverty.shtml" class="nav_section">NYC Fights Poverty</a><br>
+      <span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/poverty/initiatives.shtml" class="nav_subsection">OFE Initiatives</a><br>
+      <span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/poverty/protections.shtml" class="nav_subsection">DCA Marketplace Protections</a><br>
+      <span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/poverty/advocacy.shtml" class="nav_subsection">Advocacy and Policy</a><br>
+      <span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/poverty/ceo.shtml" class="nav_subsection">Center for Economic Opportunity</a><br>
+      <span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/poverty/cities.shtml" class="nav_subsection">Cities for Financial Empowerment</a><br>
+      <a href="../../html/faq/faq.shtml" class="nav_section">FAQs</a><br>
+      <a href="../../html/contact/contact.shtml" class="nav_section">Contact OFE</a><br>
+      </noscript>
+    </td>
+  </tr>
+  <tr>
+    <Td id="altnav" style="display:none;"><a href="../../html/home/home.shtml" class="nav_section">Home</a><br>
+      <a href="../../html/find/find.shtml" class="nav_section">Find Class Counselor</a><br>
+      <a href="../../html/help/help.shtml" class="nav_section">Get Debt Credit Help</a><br>
+      <a href="../../html/get/get.shtml" class="nav_section">How to Get Money</a><br>
+      <a href="../../html/manage/manage.shtml" class="nav_section">How to Manage Money</a><br>
+      <a href="../../html/save/save.shtml" class="nav_section">How to Save Money</a><br>
+      <a href="../../html/protect/protect.shtml" class="nav_section">How to Protect Money</a><br>
+      <a href="../../html/about/about.shtml" class="nav_section">About OFE</a><br>
+      <span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/about/message.shtml" class="nav_subsection">Message from the Executive Director</a><br>
+      <span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/about/staff.shtml" class="nav_subsection">Staff</a><br>
+      <span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/about/job.shtml" class="nav_subsection">Job Opportunities</a><br>
+      <a href="../../html/providers/providers.shtml" class="nav_section">Financial Education Providers</a><br>
+      <span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/providers/join.shtml" class="nav_subsection">Join the Network</a><br>
+      <span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/providers/resources.shtml" class="nav_subsection">Resources for Providers</a><br>
+      <a href="../../html/news/news.shtml" class="nav_section">News from OFE</a><br>
+      <span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/news/rss.shtml" class="nav_subsection">RSS Feed</a><br>
+      <span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/news/pr_archived.shtml" class="nav_subsection">Archived Press Releases</a><br>
+      <span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/news/hot_topics.shtml" class="nav_subsection">Hot Topics</a><br>
+      <a href="../../html/publications/publications.shtml" class="nav_section">Publications</a><br>
+      <span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/publications/consumer.shtml" class="nav_subsection">Consumer Tips and Guides</a><br>
+      <span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/publications/dictionary.shtml" class="nav_subsection">Money Dictionary</a><br>
+      <span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/publications/research.shtml" class="nav_subsection">Research Publications</a><br>
+      <a href="../../html/poverty/poverty.shtml" class="nav_section">NYC Fights Poverty</a><br>
+      <span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/poverty/initiatives.shtml" class="nav_subsection">OFE Initiatives</a><br>
+      <span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/poverty/protections.shtml" class="nav_subsection">DCA Marketplace Protections</a><br>
+      <span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/poverty/advocacy.shtml" class="nav_subsection">Advocacy and Policy</a><br>
+      <span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/poverty/ceo.shtml" class="nav_subsection">Center for Economic Opportunity</a><br>
+      <span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/poverty/cities.shtml" class="nav_subsection">Cities for Financial Empowerment</a><br>
+      <span class="nav_subsection">&nbsp;-&nbsp;</span><a href="http://www.nyc.gov/protectyourmoney" class="nav_subsection">Protect Your Money</a><br>
+      <a href="../../html/faq/faq.shtml" class="nav_section">FAQs</a><br>
+      <a href="../../html/contact/contact.shtml" class="nav_section">Contact OFE</a></Td>
+  </tr>
+</table>
+<table width="180" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td><img src="../../includes/site_images/spacers/spacer.gif" width="180" height="13"></td>
+  </tr>
+    <tr>
+    <td><a href="http://www.nyc.gov/dca" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image28','','../../includes/site_images/nav/nav_dca_over.gif',1)"><img src="../../includes/site_images/nav/nav_dca.gif" name="Image28" width="180" height="66" border="0" id="Image28" /></a></td>
+  </tr>
+  <tr>
+    <td><img src="../../includes/site_images/spacers/spacer.gif" alt="" width="180" height="6" /></td>
+  </tr>
+  <tr>
+    <td><a href="http://www.nyc.gov/ceo" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image10','','../../includes/site_images/nav/nav_ceo_over.gif',1)"><img src="../../includes/site_images/nav/nav_ceo.gif" name="Image10" width="180" height="66" border="0" id="Image10" /></a></td>
+  </tr>
+    <td><img src="../../includes/site_images/spacers/spacer.gif" alt="" width="180" height="6" /></td>
+  </tr>
+  <tr>
+    <td><a href="http://www.nyc.gov/cgi-bin/exit.pl?url=http://www.cfefund.org/" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image53','','../../includes/site_images/nav/nav_cfefund_over.gif',1)"><img src="../../includes/site_images/nav/nav_cfefund.gif" name="Image53" width="180" height="66" border="0" id="Image53" /></a></td>
+  </tr>
+</table>
+<script language="javascript"><!--
+if ((window.location.href).indexOf("translate_c?hl=en") != -1) { //show simple nav
+	document.getElementById("altnav").style.display = "block";
+}
+//--></script>
+<!-- END of leftnav_js.html -->
+
+								 
+						
+				</td>
+				<!-- START of CENTER column -->
+				<!-- BEGIN_PRINT_PAGE -->
+				<td id="main_content" align="left" valign="top" width="589">
+				<!-- START of PRIMARY FEATURE SECTION -->
+				<table width="589" border="0" cellspacing="0" cellpadding="0">
+				  
+					  
+						<tr><td colspan="3" align="left" valign="top" bgcolor="" width="589">
+							
+							
+								<img src="../../includes/site_images/titles/title_find_counselor.jpg"
+								alt="Find Counselor/Class" width="589" border="0" /></td></tr>
+						
+					
+						<tr><td align="left" bgcolor="" valign="top" width="30"><img src="../../includes/site_images/spacers/spacer_30_30.gif" alt="" width="30" height="30" border="0">
+						</td><td align="left" bgcolor="" valign="top" width="499"><img src="../../includes/site_images/spacers/spacer_499_15.gif" alt="" width="499" height="15" border="0"><br>
+					  
+							
+						
+					  
+							
+							
+									
+											<span class="bodytext"></span>
+											
+										
+									
+											<span class="bodytext"><table border="1" cellspacing="1" bordercolor="#ffffff" cellpadding="5" width="499" align="center"><tbody><tr><td width="240"><a id="fectop" class="bookmark" title="fectop" name="fectop"></a><img border="0" alt="" align="left" src="../../images/misc/fec_example.jpg" /></td><td width="240" align="left"><img border="0" alt="" align="left" src="../../images/misc/fen_example.jpg" /></td></tr><tr><td valign="top" width="240"><p style="MARGIN-top: 0in">The City&#8217;s&#160;<span class="sub_feature_text"><strong>FREE</strong> Financial Empowerment Centers</span>&#160;can help you take control of your debt, deal with debt collectors, improve your credit, create a budget, open a bank account, start an emergency fund, save and plan for your future, and much more.&#160;<br />
+&#160;<br />
+Download the brochure in <a href="../../downloads/pdf/FinancialEmpowermentCenterBrochure_english.pdf">English</a>&#160;&#160;<a href="../../downloads/pdf/FinancialEmpowermentCenterBrochure_bengali.pdf">&#2476;&#2494;&#2434;&#2482;&#2494;</a>&#160;&#160;<a href="../../downloads/pdf/FinancialEmpowermentCenterBrochure_chinese.pdf">&#20013;&#25991;</a>&#160;&#160;<a href="../../downloads/pdf/FinancialEmpowermentCenterBrochure_french.pdf">Fran&#231;ais</a>&#160;&#160;<br /><a href="../../downloads/pdf/FinancialEmpowermentCenterBrochure_hindi.pdf">&#2350;&#2366;&#2344;&#2325; &#2361;&#2367;&#2344;&#2381;&#2342;&#2368;</a>&#160;&#160;<a href="../../downloads/pdf/FinancialEmpowermentCenterBrochure_spanish.pdf">Espa&#241;ol</a>&#160;&#160;</p><p><span class="sub_feature_text">Call 311 to schedule a free one-on-one financial counseling appointment at a Financial Empowerment Center.</span>&#160;All sites are listed below.&#160;&#160;</p><a onmouseover="MM_swapImage('Image0','','../../images/misc/fecbronx_over.jpg',1)" onmouseout="MM_swapImgRestore()" href="../../html/find/find.shtml#fecbronx"><img border="0" name="Image0" src="../../images/misc/fecbronx.jpg" width="110" height="40" /></a>&#160;&#160;<a onmouseover="MM_swapImage('Image1','','../../images/misc/fecbrooklyn_over.jpg',1)" onmouseout="MM_swapImgRestore()" href="../../html/find/find.shtml#fecbrooklyn"><img border="0" name="Image1" src="../../images/misc/fecbrooklyn.jpg" width="110" height="40" /></a><br /><br /><a onmouseover="MM_swapImage('Image2','','../../images/misc/fecmanhattan_over.jpg',1)" onmouseout="MM_swapImgRestore()" href="../../html/find/find.shtml#fecmanhattan"><img border="0" name="Image2" src="../../images/misc/fecmanhattan.jpg" width="110" height="40" /></a>&#160;&#160;<a onmouseover="MM_swapImage('Image3','','../../images/misc/fecqueens_over.jpg',1)" onmouseout="MM_swapImgRestore()" href="../../html/find/find.shtml#fecqueens"><img border="0" name="Image3" src="../../images/misc/fecqueens.jpg" width="110" height="40" /></a><br /><br /><a onmouseover="MM_swapImage('Image4','','../../images/misc/fecsi_over.jpg',1)" onmouseout="MM_swapImgRestore()" href="../../html/find/find.shtml#fecsi"><img border="0" name="Image4" src="../../images/misc/fecsi.jpg" width="110" height="40" /></a></td><td valign="top" width="240"><p>The&#160;<span class="sub_feature_text">Financial Education Network (FEN) Directory</span>&#160;provides access to free or low-cost financial education classes, workshops, hotlines, and one-on-one counseling services in New York City. This easy-to-search online directory of nonprofit organizations is your one-stop shop to help you take charge of your finances. Whether your financial goal is homeownership, starting and growing a small business, avoiding foreclosure, or investing in stocks or mutual funds, the FEN Directory has a service for you!&#160;<br /><br />
+Please contact providers in advance to confirm program schedules and details.</p><p><a onmouseover="MM_swapImage('Image4','','../../includes/site_images/misc/search_fen_ov.gif',1)" onmouseout="MM_swapImgRestore()" href="https://a866-bcportal.nyc.gov/OFEDirectory/DirectorySearch.aspx"><img border="0" name="Image4" src="../../includes/site_images/misc/search_fen.gif" width="240" height="44" /></a></p><p><br />
+&#160;</p></td></tr></tbody></table><p>&#160;</p><span class="headline">Financial Empowerment Center Locations</span><br /><a id="fecbronx" class="bookmark" title="fecbronx" name="fecbronx"></a><img alt="" src="../../images/misc/fecbronx_over.jpg" />&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;[<a href="../../html/find/find.shtml#fectop">back to top</a>] 
+
+<table border="1" cellspacing="0" bordercolor="#f78934" cellpadding="3" width="499"><tbody><tr><td><strong>New York City Financial Empowerment Center<br />
+At the Phipps Opportunity Center</strong><br />
+3125 Third Avenue (at 159th Street)<br />
+Bronx, NY 10451<br /><a href="http://gis.nyc.gov/doitt/mp/Address.do?brand=NYC&amp;hseNumber=3125&amp;strName=third+avenue&amp;boro=2" target="_blank">Click here for map</a>&#160;<br /><img border="0" alt="" align="middle" src="../../images/misc/mta_2.jpg" />&#160;<img border="0" alt="" align="middle" src="../../images/misc/mta_5.jpg" />&#160;to 3rd Avenue/149th Street OR Bx15, Bx21, or Bx55 to 3rd Avenue/158th Street<br /><strong>Telephone:&#160;</strong>Call 311 to make an appointment at this Financial Empowerment Center<br /><strong>Languages:&#160;</strong>English&#160;and Spanish<br /><strong>Site Hours:</strong> Monday-Friday,&#160;9am-5pm<br /><strong>More Information:</strong>&#160;The Financial Empowerment Center in the Bronx is housed at the Phipps Opportunity Center and also provides its services at several community partner locations. Phipps CDC community education sites offer free classes in computer training, ESL/literacy instruction, GED preparation, as well as family programs and some social services.<br />
+&#160;<a href="http://www.nyc.gov/cgi-bin/exit.pl?url=http://www.phippsny.org"><img border="0" alt="" src="../../images/misc/phipps.jpg" width="399" height="23" /></a>&#160;</td></tr><tr><td><p><strong>New York City Financial Empowerment Center</strong><br /><strong>At Neighborhood Housing Services of the South Bronx</strong><br />
+848 Concourse Village West<br />
+Bronx, NY 10451<br /><a href="http://gis.nyc.gov/doitt/mp/Address.do?brand=NYC&amp;hseNumber=848&amp;strName=Concourse+Village+West&amp;boro=2" target="_blank">Click here for map</a><br /><img title="" border="0" alt="" align="middle" src="../../images/misc/mta_d.jpg" />&#160;<img border="0" alt="" align="middle" src="../../images/misc/mta_4.jpg" />&#160;to 161st Street Yankee Stadium<br /><strong>Telephone:&#160;</strong>Call 311 to make an appointment at this Financial Empowerment Center<br /><strong>Languages:&#160;</strong>English&#160;and Spanish<br /><strong>Site Hours:</strong>&#160;Wednesday, Friday, 9am-5pm<br /><img title="" border="0" alt="" src="../../images/misc/ntfp.jpg" /></p></td></tr><tr><td><strong>New York City Financial Empowerment Center<br />
+At Catholic Charities HomeBase</strong>&#160;<br />
+2155 Blackrock Avenue<br />
+Bronx, NY 10472<br /><a href="http://gis.nyc.gov/doitt/mp/Address.do?brand=NYC&amp;hseNumber=2169&amp;strName=blackrock+avenue&amp;boro=2" target="_blank">Click here for map</a>&#160;<br /><img border="0" alt="" align="middle" src="../../images/misc/mta_6.jpg" />&#160;to Castle Hill Avenue<br /><strong>Telephone:&#160;</strong>Call 311 to make an appointment at this Financial Empowerment Center<br /><strong>Languages:&#160;</strong>English&#160;and Spanish<br /><strong>Site Hours:</strong> Wednesday,&#160;9am-5pm<br />
+&#160;<a href="http://www.nyc.gov/cgi-bin/exit.pl?url=http://www.phippsny.org"><img border="0" alt="" src="../../images/misc/phipps.jpg" width="399" height="23" /></a>&#160;</td></tr><tr><td><strong>New York City Financial Empowerment Center<br />
+At West Farms Technology and Career Center</strong><br />
+1071A East Tremont Avenue<br />
+Bronx, NY 10460<br /><a href="http://gis.nyc.gov/doitt/nycitymap/?borough=BRONX&amp;searchType=AddressSearch&amp;addressNumber=1071A&amp;street=east_tremont%20avenue">Click here for map</a>&#160;<br /><img border="0" alt="" align="middle" src="../../images/misc/mta_2.jpg" />&#160;<img border="0" alt="" align="middle" src="../../images/misc/mta_5.jpg" /> to West Farms Square-East Tremont Avenue<br /><strong>Telephone:&#160;</strong>Call 311 to make an appointment at this Financial Empowerment Center<br /><strong>Languages:&#160;</strong>English&#160;and Spanish<br /><strong>Site Hours:</strong> Monday, Wednesday, Thursday, and Friday,&#160;9am-5pm<br />
+&#160;<a href="http://www.nyc.gov/cgi-bin/exit.pl?url=http://www.phippsny.org"><img border="0" alt="" src="../../images/misc/phipps.jpg" width="399" height="23" /></a></td></tr></tbody></table>
+
+&#160;<br /><a id="fecbrooklyn" class="bookmark" title="fecbrooklyn" name="fecbrooklyn"></a><img alt="" src="../../images/misc/fecbrooklyn_over.jpg" />&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;[<a href="../../html/find/find.shtml#fectop">back to top</a>] 
+
+<table border="1" cellspacing="0" bordercolor="#f78934" cellpadding="3" width="499"><tbody><tr><td><p><strong>New York City Financial Empowerment Center<br />
+At Bedford Stuyvesant Restoration Corporation</strong><br />
+1406 Fulton Street<br />
+Brooklyn, NY 11216<br /><a href="http://gis.nyc.gov/doitt/nycitymap/?borough=BROOKLYN&amp;searchType=AddressSearch&amp;addressNumber=1406&amp;street=fulton%20street">Click here for map</a><br /><img border="0" alt="" align="middle" src="../../images/misc/mta_a.jpg" />&#160;<img border="0" alt="" align="middle" src="../../images/misc/mta_c.jpg" />&#160;to Kingston-Throop Avenue<br /><strong>Telephone:&#160;</strong>Call 311 to make an appointment at this Financial Empowerment Center<br /><strong>Languages:&#160;</strong>English, French,&#160;and Spanish<br /><strong>Site Hours:</strong> Monday-Wednesday,&#160;Friday,&#160;10am-6pm;&#160;Thursday, 10am-8pm; Saturday, 10am-2pm<br />
+&#160;&#160;<br />
+&#160;&#160;<img border="0" alt="" src="../../images/misc/bsrc.jpg" />&#160;&#160;&#160;&#160;&#160;</p></td></tr><tr><td><p><strong>New York City Financial Empowerment Center<br />
+At CAMBA</strong><br />
+885 Flatbush Avenue<br />
+Brooklyn, NY 11226<br /><a href="http://gis.nyc.gov/doitt/nycitymap/?z=8&amp;p=990365,173771&amp;c=GISBasic&amp;s=a:885,FLATBUSH+AVENUE,BROOKLYN">Click here for map</a><br /><img title="" border="0" alt="" align="bottom" src="../../images/misc/mta_b.jpg" />&#160;<img title="" border="0" alt="" align="bottom" src="../../images/misc/mta_q.jpg" />&#160;to Church Avenue<br /><strong>Telephone:&#160;</strong>Call 311 to make an appointment at this Financial Empowerment Center<br /><strong>Languages:&#160;</strong>English, Cantonese, Mandarin,&#160;and Spanish<br /><strong>Site Hours:</strong> Monday-Friday, 9am-6pm<br /><img title="" border="0" alt="" src="../../images/misc/ntfp.jpg" />&#160;&#160;&#160;&#160;&#160;&#160;&#160;</p></td></tr><tr><td><p><strong>New York City Financial Empowerment Center<br />
+At Neighborhood Housing Services of East Flatbush<br /></strong>2806 Church Avenue<br />
+Brooklyn, NY 11216<br /><a href="http://gis.nyc.gov/doitt/nycitymap/?z=8&amp;p=997821,176292&amp;c=GISBasic&amp;s=a:2806,CHURCH+AVENUE,BROOKLYN">Click here for map</a><br /><img title="" border="0" alt="" align="bottom" src="../../images/misc/mta_2.jpg" />&#160;<img title="" border="0" alt="" align="bottom" src="../../images/misc/mta_5.jpg" />&#160;to Church Avenue<br /><strong>Telephone:&#160;</strong>Call 311 to make an appointment at this Financial Empowerment Center<br /><strong>Languages:&#160;</strong>English&#160;and Spanish<br /><strong>Site Hours:</strong> Monday, 9:30am-5pm<br /><img title="" border="0" alt="" src="../../images/misc/ntfp.jpg" />&#160;</p></td></tr><tr><td><strong>New York City Financial Empowerment Center<br />
+At Brooklyn Business &amp; Career Library<br /></strong>280 Cadman Plaza West<br />
+Brooklyn, NY 11201<br /><img title="" border="0" alt="" align="bottom" src="../../images/misc/mta_2.jpg" />&#160;<img title="" border="0" alt="" align="bottom" src="../../images/misc/mta_3.jpg" />&#160;<img title="" border="0" alt="" align="bottom" src="../../images/misc/mta_4.jpg" />&#160;<img title="" border="0" alt="" align="bottom" src="../../images/misc/mta_5.jpg" />&#160;&#160;to Borough Hall&#160;&#160;<img title="" border="0" alt="" align="bottom" src="../../images/misc/mta_a.jpg" />&#160;<img title="" border="0" alt="" align="bottom" src="../../images/misc/mta_c.jpg" />&#160;<img title="" border="0" alt="" align="bottom" src="../../images/misc/mta_f.jpg" />&#160;to Jay Street&#160;&#160;<img title="" border="0" alt="" align="bottom" src="../../images/misc/mta_r.jpg" />&#160;&#160;to Court Street<br /><strong>Telephone:&#160;</strong>Call 311 to make an appointment at this Financial Empowerment Center<br /><strong>Languages:&#160;</strong>English<br /><strong>Site Hours:</strong> Thursday, 4pm-8pm; Saturday, 10am-5pm&#160;&#160;&#160;<br /><img border="0" alt="" src="../../images/misc/bsrc.jpg" />&#160;&#160;&#160;&#160;</td></tr><tr><td><strong>New York City Financial Empowerment Center<br />
+At Brooklyn Cooperative Federal Credit Union<br /></strong>1474 Myrtle Avenue<br />
+Brooklyn, NY 11237<br /><a href="http://gis.nyc.gov/doitt/nycitymap/?z=8&amp;p=1007671,193906&amp;c=GISBasic&amp;s=a:1474,MYRTLE+AVENUE,BROOKLYN">Click here for map</a><br /><img title="" border="0" alt="" align="bottom" src="../../images/misc/mta_m.jpg" />&#160;to Myrtle-Wyckoff Avenues<br /><strong>Telephone:&#160;</strong>Call 311 to make an appointment at this Financial Empowerment Center<br /><strong>Languages:&#160;</strong>English&#160;and Spanish<br /><strong>Site Hours:</strong>&#160;Tuesday, 10am-5pm&#160;&#160;&#160;<br />
+&#160;&#160;<img border="0" alt="" src="../../images/misc/bsrc.jpg" />&#160;&#160;&#160;&#160;&#160;</td></tr><tr><td><p><strong>New York City Financial Empowerment Center<br />
+At Brownsville Multi-Service Center<br /></strong>592 Rockaway Avenue<br />
+Brooklyn, NY 11212<br /><a href="http://gis.nyc.gov/doitt/nycitymap/?z=8&amp;p=1009233,181693&amp;c=GISBasic&amp;s=a:592,ROCKAWAY+AVENUE,BROOKLYN">Click here for map</a><br /><img title="" border="0" alt="" align="bottom" src="../../images/misc/mta_3.jpg" />&#160;to Rockaway Avenue<br /><strong>Telephone:&#160;</strong>Call 311 to make an appointment at this Financial Empowerment Center<br /><strong>Languages:&#160;</strong>English&#160;and Spanish<br /><strong>Site Hours:</strong> Tuesday, 10am-8pm&#160;&#160;&#160;<br />
+&#160;&#160;<img border="0" alt="" src="../../images/misc/bsrc.jpg" />&#160;&#160;&#160;&#160;&#160;</p></td></tr><tr><td><strong>New York City Financial Empowerment Center<br />
+At Cypress Hills Community Development Corporation<br /></strong>2832 Fulton Street<br />
+Brooklyn, NY 11207<br /><a href="http://gis.nyc.gov/doitt/nycitymap/?z=8&amp;p=1014743,186356&amp;c=GISBasic&amp;s=a:2832,FULTON+STREET,BROOKLYN">Click here for map</a><br /><img title="" border="0" alt="" align="bottom" src="../../images/misc/mta_j.jpg" />&#160;to Van Siclen Avenue<br /><strong>Telephone:&#160;</strong>Call 311 to make an appointment at this Financial Empowerment Center<br /><strong>Languages:&#160;</strong>English&#160;and Spanish<br /><strong>Site Hours:</strong> Friday, 10am-5pm<br />
+&#160;&#160;<img border="0" alt="" src="../../images/misc/bsrc.jpg" />&#160;&#160;&#160;&#160;&#160;</td></tr></tbody></table>
+
+&#160;<br /><a id="fecmanhattan" class="bookmark" title="fecmanhattan" name="fecmanhattan"></a><img alt="" src="../../images/misc/fecmanhattan_over.jpg" />&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;[<a href="../../html/find/find.shtml#fectop">back to top</a>] 
+
+<table border="1" cellspacing="0" bordercolor="#f78934" cellpadding="3" width="499"><tbody><tr><td><p><strong>New York City Financial Empowerment Center<br />
+At Northern Manhattan Improvement Corporation</strong><br />
+76 Wadsworth Avenue (between 176th and 177th streets)<br />
+New York, NY 10033<br /><a href="http://gis.nyc.gov/doitt/mp/Address.do?brand=NYC&amp;hseNumber=76&amp;strName=Wadsworth+Avenue&amp;boro=1" target="_blank">Click here for map</a><br /><img border="0" alt="" align="middle" src="../../images/misc/mta_a.jpg" />&#160;to 175th Street<br /><strong>Telephone:&#160;</strong>Call 311 to make an appointment at this Financial Empowerment Center<br /><strong>Languages:&#160;</strong>English&#160;and Spanish<br /><strong>Site Hours:</strong> Monday-Friday,&#160;9am-6pm<br /><img title="" border="0" alt="" src="../../images/misc/ntfp.jpg" /></p></td></tr><tr><td><p><strong>New York City Financial Empowerment Center<br />
+At Neighborhood Housing Services of New York City</strong><br />
+307 West 36th Street, 12th Floor (at 8th Ave)<br />
+New York, NY 10018<br /><a href="http://gis.nyc.gov/doitt/mp/Address.do?brand=NYC&amp;hseNumber=307&amp;strName=west+36th+street&amp;boro=1" target="_blank">Click here for map</a><br /><img border="0" alt="" align="middle" src="../../images/misc/mta_a.jpg" />&#160;<img border="0" alt="" align="middle" src="../../images/misc/mta_c.jpg" />&#160;<img border="0" alt="" align="middle" src="../../images/misc/mta_e.jpg" />&#160;to 34th Street<br /><strong>Telephone:&#160;</strong>Call 311 to make an appointment at this Financial Empowerment Center<br /><strong>Languages:&#160;</strong>English&#160;and Spanish<br /><strong>Site Hours:</strong> Monday-Wednesday,&#160;Friday,&#160;9am-5pm<br /><img title="" border="0" alt="" src="../../images/misc/ntfp.jpg" /></p></td></tr><tr><td><p><strong>New York City Financial Empowerment Center<br />
+At Lower East Side People's Federal Credit Union (LESPFCU)</strong><br />
+37 Avenue B (corner of East 3rd Street)<br />
+New York, NY 10009<br /><a href="http://gis.nyc.gov/doitt/mp/Address.do?brand=NYC&amp;hseNumber=37&amp;strName=avenue+b&amp;boro=1" target="_blank">Click here for map</a><br /><img border="0" alt="" align="middle" src="../../images/misc/mta_j.jpg" />&#160;<img border="0" alt="" align="middle" src="../../images/misc/mta_z.jpg" />&#160;to Essex Street<br /><strong>Telephone:&#160;</strong>Call 311 to make an appointment at this Financial Empowerment Center<br /><strong>Languages:&#160;</strong>English&#160;and Spanish<br /><strong>Site Hours:</strong> Thursday,&#160;11am-7pm<br /><img title="" border="0" alt="" src="../../images/misc/ntfp.jpg" /></p></td></tr><tr><td><p><strong>New York City Financial Empowerment Center<br />
+At Midtown Community Court (MCC)</strong><br />
+314 West 54th Street (between 8th and 9th avenues)<br />
+New York, NY 10019<br /><a href="http://gis.nyc.gov/doitt/mp/Address.do?brand=NYC&amp;hseNumber=314&amp;strName=west+54th+street&amp;boro=1" target="_blank">Click here for map</a><br /><img border="0" alt="" align="middle" src="../../images/misc/mta_a.jpg" />&#160;<img border="0" alt="" align="middle" src="../../images/misc/mta_c.jpg" />&#160;<img border="0" alt="" align="middle" src="../../images/misc/mta_e.jpg" />&#160;to 50th Street<br /><strong>Telephone:&#160;</strong>Call 311 to make an appointment at this Financial Empowerment Center<br /><strong>Languages:&#160;</strong>English&#160;and Spanish<br /><strong>Site Hours:</strong> Tuesday,&#160;Friday, 9am-5pm<br /><img title="" border="0" alt="" src="../../images/misc/ntfp.jpg" /></p></td></tr><tr><td><p><strong>New York City Financial Empowerment Center<br />
+At NYCHA Manhattanville Community Center</strong><br />
+530 West 133rd Street<br />
+New York, NY 10027<br /><a href="http://gis.nyc.gov/doitt/nycitymap/?z=8&amp;p=996769,237204&amp;c=GISBasic&amp;s=a:530,WEST+133+STREET,MANHATTAN" target="_blank">Click here for map</a><br /><img title="" border="0" alt="" align="bottom" src="../../images/misc/mta_1.jpg" />&#160;to 125th Street<br /><strong>Telephone:&#160;</strong>Call 311 to make an appointment at this Financial Empowerment Center<br /><strong>Languages:&#160;</strong>English&#160;and Spanish<br /><strong>Site Hours:</strong> Wednesday,&#160;Thursday, 9:30am-1:30pm<br /><img title="" border="0" alt="" src="../../images/misc/ntfp.jpg" /></p></td></tr></tbody></table>
+
+&#160;<br /><a id="fecqueens" class="bookmark" title="fecqueens" name="fecqueens"></a><img alt="" src="../../images/misc/fecqueens_over.jpg" />&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;[<a href="../../html/find/find.shtml#fectop">back to top</a>] 
+
+<table border="1" cellspacing="0" bordercolor="#f78934" cellpadding="3" width="499"><tbody><tr><td><p><strong>New York City Financial Empowerment Center<br />
+At Catholic Charities HomeBase</strong><br />
+87-80 Merrick Blvd., 2nd Floor<br />
+Jamaica, NY 11432<br /><a href="http://gis.nyc.gov/doitt/mp/Address.do?brand=NYC&amp;hseNumber=87-80&amp;strName=merrick+boulevard&amp;boro=4" target="_blank">Click here for map</a><br /><img border="0" alt="" align="middle" src="../../images/misc/mta_f.jpg" /> to 169th Street<br /><strong>Telephone:&#160;</strong>Call 311 to make an appointment at this Financial Empowerment Center<br /><strong>Languages:&#160;</strong>English&#160;and Spanish<br /><strong>Site Hours:</strong> Monday-Friday, 9am-5pm<br />
+&#160;&#160;<img border="0" alt="" src="../../images/misc/financial_clinic.jpg" />&#160;&#160;&#160;&#160;&#160;</p></td></tr><tr><td><p><strong>New York City Financial Empowerment Center<br />
+At East River Development Alliance</strong><br />
+38-81 13th Street<br />
+Long Island City, NY 11101<br /><a href="http://gis.nyc.gov/doitt/nycitymap/?z=8&amp;p=1000403,214626&amp;c=GISBasic&amp;s=a:38-81,13+STREET,QUEENS">Click here for map</a><br /><img border="0" alt="" align="middle" src="../../images/misc/mta_f.jpg" />&#160;to 21 Street-Queensbridge<br /><strong>Telephone:&#160;</strong>Call 311 to make an appointment at this Financial Empowerment Center<br /><strong>Languages:&#160;</strong>English&#160;and Spanish<br /><strong>Site Hours:</strong> Monday, Tuesday, Friday, 9am-5pm; Wednesday, Thursday, 9am-7pm<br />
+&#160;<img title="" border="0" alt="" src="../../images/misc/erda.jpg" />&#160;</p></td></tr><tr><td><strong>New York City Financial Empowerment Center<br />
+At ERDA Astoria Houses</strong><br />
+4-25 Astoria Boulevard (corner of 8th Street)<br />
+Astoria, NY 11105<br /><a href="http://gis.nyc.gov/doitt/nycitymap/?z=8&amp;p=1002840,220934&amp;c=GISBasic&amp;s=a:4-25,ASTORIA+BOULEVARD,QUEENS">Click here for map</a><br /><strong>Telephone:&#160;</strong>Call 311 to make an appointment at this Financial Empowerment Center<br /><strong>Languages:&#160;</strong>English, Bengali, Hindi, Nepali, and Spanish<br /><strong>Site Hours:</strong> Monday, Wednesday-Friday, 9am-5pm; Tuesday, 9am-7pm<br />
+&#160;<img title="" border="0" alt="" src="../../images/misc/erda.jpg" />&#160;</td></tr><tr><td><p><strong>New York City Financial Empowerment Center<br />
+At Neighborhood Housing Services of Northern Queens<br /></strong>60-20 Woodside Avenue, 2nd Floor (Above Astoria Federal Savings)<br />
+Woodside, NY 11377<br /><a href="http://gis.nyc.gov/doitt/nycitymap/?z=8&amp;p=1010860,210603&amp;c=GISBasic&amp;s=a:60-20,WOODSIDE+AVENUE,QUEENS">Click here for map</a>&#160;<br /><img title="" border="0" alt="" align="bottom" src="../../images/misc/mta_7.jpg" />&#160;&#160;to Woodside - 61st Street<br /><strong>Telephone:&#160;</strong>Call 311 to make an appointment at this Financial Empowerment Center<br /><strong>Languages:&#160;</strong>English&#160;and Spanish<br /><strong>Site Hours:</strong> Wednesday and Thursday, 9:30am-5pm<br /><img title="" border="0" alt="" src="../../images/misc/ntfp.jpg" />&#160;</p></td></tr><tr><td><strong>New York City Financial Empowerment Center<br />
+At QCH Pomonok Center<br /></strong>6709 Kissena Boulevard<br />
+Flushing, NY 11367<br /><a href="http://gis.nyc.gov/doitt/nycitymap/?z=8&amp;p=1035764,207082&amp;c=GISBasic&amp;s=a:67-09,KISSENA+BOULEVARD,QUEENS">Click here for map</a><br /><strong>Telephone:&#160;</strong>Call 311 to make an appointment at this Financial Empowerment Center<br /><strong>Languages:&#160;</strong>English, Bengali, Hindi, and Nepali<br /><strong>Site Hours:</strong> Thursday, 10:30am-3pm<br />
+&#160;<img title="" border="0" alt="" src="../../images/misc/erda.jpg" />&#160;</td></tr><tr><td><p><strong>New York City Financial Empowerment Center<br />
+At Queens Community House</strong><br />
+74-09 37th Avenue, 4th Floor, Room 400B<br />
+Jackson Heights, NY 11372<br /><a href="http://gis.nyc.gov/doitt/nycitymap/?z=8&amp;p=1014361,212267&amp;c=GISBasic&amp;s=a:74-09,37+AVENUE,QUEENS" target="_blank">Click here for map</a><br /><img border="0" alt="" align="middle" src="../../images/misc/mta_7.jpg" />&#160;to 74th Street<br /><strong>Telephone:&#160;</strong>Call 311 to make an appointment at this Financial Empowerment Center<br /><strong>Languages:&#160;</strong>English&#160;and Spanish<br /><strong>Site Hours:</strong> Monday, Wednesday, Thursday, 10am-6pm; Tuesday, 11am-7pm; Friday, 9am-12pm<br />
+&#160;&#160;<img border="0" alt="" src="../../images/misc/financial_clinic.jpg" />&#160;&#160;&#160;&#160;&#160;</p></td></tr><tr><td><p><strong>New York City Financial Empowerment Center<br />
+At Queens Library in Jackson Heights</strong><br /><span class="sub_image_text">*Mobile Location*<br /></span>35-51 81st Street<br />
+Jackson Heights, NY 11372<br /><a href="http://gis.nyc.gov/doitt/nycitymap/?z=8&amp;p=1016098,212613&amp;c=GISBasic&amp;s=a:35-51,81+STREET,QUEENS" target="_blank">Click here for map</a><br /><img border="0" alt="" align="middle" src="../../images/misc/mta_7.jpg" />&#160;to 82nd Street<br /><strong>Telephone:&#160;</strong>Call 311 to make an appointment at this Financial Empowerment Center<br /><strong>Languages:&#160;</strong>English and Spanish<br /><strong>Site Hours:</strong> Tuesday and Friday, 2pm-4pm<br /><img border="0" alt="" src="../../images/misc/financial_clinic.jpg" /></p></td></tr></tbody></table>
+
+&#160;<br /><a id="fecsi" class="bookmark" title="fecsi" name="fecsi"></a><img alt="" src="../../images/misc/fecsi_over.jpg" />&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;[<a href="../../html/find/find.shtml#fectop">back to top</a>] 
+
+<table border="1" cellspacing="0" bordercolor="#f78934" cellpadding="3" width="499"><tbody><tr><td><p><strong>New York City Financial Empowerment Center<br />
+At El Centro Del Inmigrante</strong><br />
+1546 Castleton Avenue<br />
+Staten Island, NY 10302<br /><strong>Telephone:&#160;</strong>Call 311 to make an appointment at this Financial Empowerment Center<br /><strong>Languages:&#160;</strong>English&#160;and Spanish<br /><strong>Site Hours:</strong> Tuesday and Wednesday, 9am-5pm<br /><img title="" border="0" alt="" src="../../images/misc/ntfp.jpg" /></p></td></tr></tbody></table></span>
+										
+								
+						
+
+					
+
+					 
+					   
+						
+					 
+					 
+					
+					</td><td align="left" bgcolor="" valign="top" width="60"><img src="../../includes/site_images/spacers/spacer_60_30.gif" alt="" width="60" height="30" border="0"></td></tr>
+
+					
+
+					  
+				   
+				</table>
+				<!-- END of PRIMARY FEATURE SECTION -->
+
+				<!-- START of SECONDARY FEATURE SECTION -->
+
+				<table width="589" border="0" cellspacing="0" cellpadding="0">
+				  
+					  
+						<tr><td colspan="4" align="left" valign="top" bgcolor="" width="589">
+							
+							</td></tr>
+						
+					
+
+					  </table>
+
+				<!-- END of SECONDARY FEATURE SECTION -->
+
+				<!-- START of TERTIARY FEATURE SECTION -->
+				<table width="589" border="0" cellspacing="0" cellpadding="0">
+				  
+					  
+						<tr><td colspan="3" align="left" valign="top" bgcolor="" width="589">
+							
+							</td></tr>
+						
+					
+					  
+				   
+				</table>
+				<!-- END of TERTIARY FEATURE SECTION -->
+				<!-- END_PRINT_PAGE -->
+				
+
+			<!-- START of nycgov_footer.inc-->
+<!-- old table width=589;  499 for middle td -->
+<!-- expanded table width=769;  619 for middle td -->
+<!-- <table width="589" border="0" cellspacing="0" cellpadding="0">
+	<tr>
+		<td align="left" valign="top" width="30"><img src="../../includes/site_images/spacers/spacer_30_30.gif" alt="" width="30" height="30" border="0"></td>
+		<td align="left" valign="top" width="499"><img src="../..//includes/site_images/spacers/spacer_499_15.gif" alt="" width="499" height="15" border="0"><img src="../../includes/site_images/footer_divider.gif" alt="" width="499" height="1" border="0"><br>
+			<span class="footer_header">Footer header goes here<br>
+			</span><span class="footer_text">Footer text description goes here. It is optional and the max is about 300 characters which is approximately 3-4 lines of text. Footer text description goes here. It is optional and the max is about 300 characters which is approximately 3-4 lines of text.<br>
+			</span></td>
+		<td align="left" valign="top" width="60"><img src="../..//includes/site_images/spacers/spacer_60_30.gif" alt="" width="60" height="30" border="0"><br>
+			<br>
+		</td>
+	</tr>
+</table> -->
+<!-- END of default_footer.inc -->
+
+
+					
+	<!-- BEGIN_PRINT_PAGE -->				
+					<span class="footer_text"><br></span></td>
+				<!-- END of CENTER column -->
+			</tr>
+	<!-- END_PRINT_PAGE -->
+			<tr height="25">
+				<td colspan="2" align="left" valign="top" width="769" height="25"> 
+
+					
+
+
+
+<!-- START of nycgov_footer.inc-->
+<style type="text/css">
+<!--
+	.footer_links {font-family: Verdana, Arial, Helvetica, sans-serif;
+		font-size: 10px;
+		color: #F9D053;
+	}
+
+	.footer_copyright {font-family: Verdana, Arial, Helvetica, sans-serif;
+		font-size: 10px;
+		color: #C4C4B2;
+	}
+-->
+</style>
+<TABLE cellSpacing=0 cellPadding=0 width=769 bgColor=#494B4C border=0>
+	<TBODY>
+	<TR><TD width=13><IMG height=24 src="../../includes/site_images/spacers/spacer.gif" width=13></TD>
+          <TD width=287><SPAN class=footer_copyright>Copyright 2013 The City of New York</SPAN></TD>
+          <TD align=right width=444><SPAN class=footer_links><A class=footer_links href="/contact">Contact Us</A> | <A class=footer_links href="/faqs">FAQs</A> | <A class=footer_links href="/privacy">Privacy Policy</A> | <A class=footer_links href="http://www.nyc.gov/html/misc/html/tou.html">Terms of Use</A> | <A class=footer_links href="/sitemap">Site Map</A></SPAN></TD>
+          <TD align=right width=25><IMG height=24 src="../../includes/site_images/spacers/spacer.gif" width=25></TD></TR>
+        </TBODY>
+</TABLE>
+<!-- Privacy Policy updated on 03/08/2011 -->
+<!--  nycgov Webtrends code, added on 02/16/2011 -->
+<script src="/html/misc/scripts/nycwebtrends.js" type="text/javascript"></script>
+<script type="text/javascript">
+//<![CDATA[
+var _nyctag=new WebTrends();
+_nyctag.dcsInit();
+_nyctag.dcsGetId();
+//]]>>
+</script>
+<script type="text/javascript">
+//<![CDATA[
+_nyctag.dcsCollect();
+//]]>>
+</script>
+
+<!-- PROD noscript section -->
+<noscript>
+<div><img alt="DCSIMG" id="DCSIMG" width="1" height="1" src="http://a858-sdc.nyc.gov/dcslfpea2000008i7geu3pdky_5v8x/njs.gif?dcsuri=/nojavascript&WT.js=No&WT.tv=8.6.2"/></div>
+</noscript>
+<!--  END OF nycgov Webtrends code, added on 02/16/2011 -->
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-9518673-1");
+pageTracker._trackPageview();
+} catch(err) {}
+</script>
+<!-- END of nycgov_footer.inc-->
+
+				</td>
+			</tr>
+<!-- BEGIN_PRINT_PAGE -->			
+		</table>
+	<!-- END_PRINT_PAGE -->
+	</body>
+</html>
+

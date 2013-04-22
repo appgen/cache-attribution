@@ -1,0 +1,457 @@
+
+
+
+		
+	
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+	<head>
+		<meta http-equiv="content-type" content="text/html;charset=UTF-8">
+		<meta name="tp-name" content="homepage_3col">
+
+		
+		
+
+		
+				<title>Public Health Insurance Options | Children</title>
+			
+		
+				
+			
+		<link href="../../includes/css/rollout.css" rel="stylesheet">
+	</head>
+
+	<body  background="../../includes/site_images/misc/bg.gif"
+	  bgcolor="#ffffff" leftmargin="0" marginheight="0" marginwidth="0" topmargin="0">
+
+	<!-- BEGIN_PRINT_PAGE -->
+		<table width="769" border="0" cellspacing="0" cellpadding="0" height="100%">
+	<!-- END_PRINT_PAGE -->
+			<tr><td colspan="3" align="left" valign="top" width="769">
+					<!-- START of nycgov_header.inc -->
+<table width="769" border="0" cellspacing="0" cellpadding="0" height="51">
+	<tr>
+		<td><img src="../../includes/site_images/nyc_gov/nycgov_banner.gif" alt="" width="769" height="51" border="0" usemap="#TopNav"></td>
+	</tr>
+</table>
+<map name="TopNav">
+  <area shape="rect" coords="554,1,599,25" href="/search" alt="Search">
+  <area shape="rect" coords="607,1,688,25" href="/portal/register.jsp" alt="Email Updates">
+  <area shape="rect" coords="698,1,762,25" href="/contact" alt="Contact Us">
+  <area shape="rect" coords="328,27,399,50" href="/residents" alt="Residents">
+  <area shape="rect" coords="408,27,471,50" href="/business" alt="Business">
+  <area shape="rect" coords="478,27,535,50" href="/visitors" alt="Visitors">
+  <area shape="rect" coords="544,27,628,50" href="/government" alt="Government">
+  <area shape="rect" coords="635,27,764,50" href="/mayor" alt="Office of the Mayor">
+  <area shape="rect" coords="3,3,49,48" href="/home.html" alt="NYC.gov always open">
+</map>
+<!-- END of nycgov_header.inc -->
+					
+							<table width="769" border="0" cellspacing="0" cellpadding="0">
+  <tr> 
+    <td align="left" valign="top" width="769"><img src="../../includes/site_images/branding/agency_topbanner.jpg" alt="Office of Citywide Health Insurance Access" width="769" height="95" border="0" usemap="#LogoNav"></td>
+  </tr>
+</table>
+<map name="LogoNav">
+  <area shape="poly" coords="12,12,165,12,182,45,187,45,187,31,555,31,555,45,12,45" href="../../html/home/home.shtml" alt="">
+</map>
+						
+			</td></tr>
+
+		
+	<!-- BEGIN_PRINT_PAGE -->
+		<tr>
+	<!-- END_PRINT_PAGE -->
+		<td align="left" valign="top" width="180" height="100%">
+					
+							
+							 
+								 <script language="Javascript" src="../../includes/scripts/rollover.js"></script>
+<table width='180' border='0' cellspacing='0' cellpadding='0'>
+<tr>
+    <td colspan="2"><img src="../../includes/site_images/spacers/spacer.gif" alt="" width="180" height="2"></td>
+  </tr>
+  <tr height="53" bgcolor="FF6600"> 
+  <td align="left" valign="bottom"><img src="../../includes/site_images/spacers/spacer.gif" alt="" width="15" height="53">
+  </td>
+    <td valign="top"><table width="165"  border='0' cellspacing='0' cellpadding='0' height="53">
+        <form action="http://search1.nyc.gov/search?" method="GET" name="gs">
+          <tr height="32" valign="bottom"> 
+                     <input value="xml_no_dtd" name="output" type="hidden">
+                     <input value="default_collection" name="site" type="hidden">
+                     <input value="agency_frontend" name="proxystylesheet" type="hidden">
+                     <input value="agency_frontend" name="client" type="hidden">
+                     <input value="www.nyc.gov/html/hia" name="sitesearch" type="hidden">
+            <td align="left"> 
+              <input name="q" type="text" class="search-box" id="search_nycgov">
+            </td>
+          </tr>
+          <tr height="21" valign="top"> 
+            <td align="left" valign="middle"> 
+              <input name="go" type="image" id="go" src="../../includes/site_images/nav/nav_search_button_0.gif" alt="Search OCHIA" width="86" height="11" border="0" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('go','','../../includes/site_images/nav/nav_search_button_1.gif',1)"> 
+            </td>
+          </tr>
+        </form>
+      </table></td>
+  </tr>
+</table>
+<table width="180" border="0" cellspacing="0" cellpadding="0">
+<tr>
+  <td align="left" bgcolor="" valign="top">
+    <a href="../../html/home/home.shtml" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('home','','../../includes/site_images/nav/home_1.gif',1)"><img src="../../includes/site_images/nav/home_0.gif" alt="OCHIA Home" name="home" width="180" height="31" border="0"></a><br>
+	<a href="../../html/about/about.shtml" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('about','','../../includes/site_images/nav/about_1.gif',1)"><img src="../../includes/site_images/nav/about_0.gif" alt="About OCHIA" name="about" width="180" height="30" border="0"></a><br>
+	<a href="../../html/public_insurance/public_insurance.shtml" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('public_insurance','','../../includes/site_images/nav/public_health_active_1.gif',1)"><img src="../../includes/site_images/nav/public_health_active_0.gif" alt="Public Health Insurance Options" name="public_insurance" width="180" height="30" border="0"></a><br>
+	<a href="../../html/public_insurance/children.shtml" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('children','','../../includes/site_images/nav/public_health_children_1.gif',1)"><img src="../../includes/site_images/nav/public_health_children_0.gif" alt="Children" name="children" width="180" height="27" border="0"></a><br>
+	<a href="../../html/public_insurance/adults.shtml" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('adults','','../../includes/site_images/nav/public_health_adults_1.gif',1)"><img src="../../includes/site_images/nav/public_health_adults_0.gif" alt="Adults" name="adults" width="180" height="27" border="0"></a><br>
+	<a href="../../html/public_insurance/pregnant.shtml" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('pregnant','','../../includes/site_images/nav/public_health_pregnant_1.gif',1)"><img src="../../includes/site_images/nav/public_health_pregnant_0.gif" alt="Pregnant Women" name="pregnant" width="180" height="27" border="0"></a><br>
+	<a href="../../html/public_insurance/adults65.shtml" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('adults65','','../../includes/site_images/nav/public_health_adults_65_1.gif',1)"><img src="../../includes/site_images/nav/public_health_adults_65_0.gif" alt="Adults 65 Years or Older" name="adults65" width="180" height="27" border="0"></a><br>
+	<a href="../../html/public_insurance/family.shtml" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('family','','../../includes/site_images/nav/public_health_family_1.gif',1)"><img src="../../includes/site_images/nav/public_health_family_0.gif" alt="Family Planning Benefit Program" name="family" width="180" height="40" border="0"></a><br>
+	<a href="../../html/public_insurance/hiv.shtml" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('hiv','','../../includes/site_images/nav/public_health_hiv_1.gif',1)"><img src="../../includes/site_images/nav/public_health_hiv_0.gif" alt="HIV Special Needs Plan" name="hiv" width="180" height="27" border="0"></a><br>
+	<a href="../../html/public_insurance/buy_in.shtml" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('buy_in','','../../includes/site_images/nav/public_health_buyin_1.gif',1)"><img src="../../includes/site_images/nav/public_health_buyin_0.gif" alt="Medicaid Buy-In Program" name="buy_in" width="180" height="27" border="0"></a><br>
+	<a href="../../html/public_insurance/excess.shtml" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('express','','../../includes/site_images/nav/public_health_express_1.gif',1)"><img src="../../includes/site_images/nav/public_health_express_0.gif" alt="Medicaid Excess Income Program" name="express" width="180" height="40" border="0"></a><br>
+	<a href="../../html/public_insurance/enroll.shtml" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('enroll','','../../includes/site_images/nav/public_health_enroll_1.gif',1)"><img src="../../includes/site_images/nav/public_health_enroll_0.gif" alt="Places to Enroll" name="enroll" width="180" height="27" border="0"></a><br>
+	<a href="../../html/public_insurance/accessing.shtml" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('accessing','','../../includes/site_images/nav/public_health_accessing_1.gif',1)"><img src="../../includes/site_images/nav/public_health_accessing_0.gif" alt="Accessing Your Coverage" name="accessing" width="180" height="27" border="0"></a><br>
+	<a href="../../html/public_insurance/renewing.shtml" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('renewing','','../../includes/site_images/nav/public_health_renewing_1.gif',1)"><img src="../../includes/site_images/nav/public_health_renewing_0.gif" alt="Renewing Your Coverage" name="renewing" width="180" height="27" border="0"></a><br>
+	<a href="../../html/public_insurance/immigrant.shtml" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('immigrant','','../../includes/site_images/nav/public_health_immigrant_1.gif',1)"><img src="../../includes/site_images/nav/public_health_immigrant_0.gif" alt="Immigrant Eligibility" name="immigrant" width="180" height="27" border="0"></a><br>
+	<a href="../../html/public_insurance/faq.shtml" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('faq','','../../includes/site_images/nav/public_health_faq_1.gif',1)"><img src="../../includes/site_images/nav/public_health_faq_0.gif" alt="FAQ" name="faq" width="180" height="29" border="0"></a><br>
+	<a href="../../html/private_insurance/private_insurance.shtml" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('private_insurance','','../../includes/site_images/nav/private_health_1.gif',1)"><img src="../../includes/site_images/nav/private_health_0.gif" alt="Private Health Insurance Options" name="private_insurance" width="180" height="30" border="0"></a><br>
+	<a href="../../html/resources/resources.shtml" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('resources','','../../includes/site_images/nav/resources_1.gif',1)"><img src="../../includes/site_images/nav/resources_0.gif" alt="Resources for the Uninsured" name="resources" width="180" height="44" border="0"></a><br>
+	<a href="../../html/other/other.shtml" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('other','','../../includes/site_images/nav/other_1.gif',1)"><img src="../../includes/site_images/nav/other_0.gif" alt="Other Benefits for Healthy Living" name="other" width="180" height="44" border="0"></a><br>
+	<a href="../../html/policy/policy.shtml" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('policy','','../../includes/site_images/nav/policy_1.gif',1)"><img src="../../includes/site_images/nav/policy_0.gif" alt="Health Insurance Policy & Research Links" name="policy" width="180" height="44" border="0"></a><br>
+	<a href="../../html/publications/publications.shtml" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('publications','','../../includes/site_images/nav/publications_1.gif',1)"><img src="../../includes/site_images/nav/publications_0.gif" alt="Publications" name="publications" width="180" height="30" border="0"></a><br>
+    <a href="http://www.nyc.gov/html/mail/html/mailhia.html" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('contact','','../../includes/site_images/nav/contact_1.gif',1)"><img src="../../includes/site_images/nav/contact_0.gif" alt="Contact OCHIA" name="contact" width="180" height="30" border="0"></a></td>
+</tr>
+<tr><td><img src="../../includes/site_images/nav/bottom_image.jpg" alt="Smiling Girl and Father" height="124" width="180" border="0"></td></tr>
+</table><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+								 
+						
+				</td>
+				<!-- START of CENTER column -->
+			<!-- BEGIN_PRINT_PAGE -->
+				<td id="main_content" align="left" valign="top" width="409">
+				<!-- START of PRIMARY FEATURE SECTION -->
+				<table width="409" border="0" cellspacing="0" cellpadding="0">
+				  
+					  
+						<tr><td colspan="3" align="left" valign="top" bgcolor="" width="409">
+							
+							
+								<img src="../../includes/site_images/titles/title_public_children.gif"
+								alt="Children" width="409" border="0" /></td></tr>
+						
+					
+						<tr><td align="left" bgcolor="" valign="top" width="20"><img src="../../includes/site_images/spacers/spacer_20_20.gif" alt="" width="20" height="20" border="0">
+						</td><td align="left" bgcolor="" valign="top" width="369"><img src="../../includes/site_images/spacers/spacer_369_15.gif" alt="" width="369" height="15" border="0"><br>
+					  
+							
+						
+					  
+							
+							
+									
+											<span class="bodytext"></span>
+											
+										
+									
+											<span class="bodytext"><strong>Health Insurance for Children: Medicaid (coverage for children) and Child Health Plus</strong>&#160;<br /><br /><table border="0" cellspacing="0" cellpadding="0" width="100%"><tbody><tr><td valign="top" width="13"><img src="../../includes/site_images/spacers/spacer.gif" width="13" height="4" /><img border="0" src="../../includes/site_images/misc/arrow.gif" width="13" height="9" /></td><td><a class="bodytext_underline" href="#what">What is Child Health Plus</a></td></tr><tr><td valign="top" width="13"><img src="../../includes/site_images/spacers/spacer.gif" width="13" height="4" /><img border="0" src="../../includes/site_images/misc/arrow.gif" width="13" height="9" /></td><td><a class="bodytext_underline" href="#childA">Medicaid (coverage for children)</a></td></tr><tr><td valign="top" width="13"><img src="../../includes/site_images/spacers/spacer.gif" width="13" height="4" /><img border="0" src="../../includes/site_images/misc/arrow.gif" width="13" height="9" /></td><td><a class="bodytext_underline" href="#eligibilityA">Medicaid (coverage for children) Eligibility</a></td></tr><tr><td valign="top" width="13"><img src="../../includes/site_images/spacers/spacer.gif" width="13" height="4" /><img border="0" src="../../includes/site_images/misc/arrow.gif" width="13" height="9" /></td><td><a class="bodytext_underline" href="#whatA">What Benefits are Covered by Medicaid (coverage for children)</a></td></tr><tr><td valign="top" width="13"><img src="../../includes/site_images/spacers/spacer.gif" width="13" height="4" /><img border="0" src="../../includes/site_images/misc/arrow.gif" width="13" height="9" /></td><td><a class="bodytext_underline" href="#deliveryA">Medicaid (coverage for children) Delivery Service</a></td></tr><tr><td valign="top" width="13"><img src="../../includes/site_images/spacers/spacer.gif" width="13" height="4" /><img border="0" src="../../includes/site_images/misc/arrow.gif" width="13" height="9" /></td><td><a class="bodytext_underline" href="#whereA">Where to Enroll in Medicaid (coverage for children)</a></td></tr><tr><td valign="top" width="13"><img src="../../includes/site_images/spacers/spacer.gif" width="13" height="4" /><img border="0" src="../../includes/site_images/misc/arrow.gif" width="13" height="9" /></td><td><a class="bodytext_underline" href="#otherA">Other Helpful Resources</a></td></tr><tr><td valign="top" width="13"><img src="../../includes/site_images/spacers/spacer.gif" width="13" height="4" /><img border="0" src="../../includes/site_images/misc/arrow.gif" width="13" height="9" /></td><td><a class="bodytext_underline" href="#childB">Child Health Plus</a></td></tr><tr><td valign="top" width="13"><img src="../../includes/site_images/spacers/spacer.gif" width="13" height="4" /><img border="0" src="../../includes/site_images/misc/arrow.gif" width="13" height="9" /></td><td><a class="bodytext_underline" href="#eligibilityB">Child Health Plus Eligibility</a></td></tr><tr><td valign="top" width="13"><img src="../../includes/site_images/spacers/spacer.gif" width="13" height="4" /><img border="0" src="../../includes/site_images/misc/arrow.gif" width="13" height="9" /></td><td><a class="bodytext_underline" href="#whatB">What Benefits are Covered by Child Health Plus</a></td></tr><tr><td valign="top" width="13"><img src="../../includes/site_images/spacers/spacer.gif" width="13" height="4" /><img border="0" src="../../includes/site_images/misc/arrow.gif" width="13" height="9" /></td><td><a class="bodytext_underline" href="#deliveryB">Child Health Plus&#160;Delivery Service</a></td></tr><tr><td valign="top" width="13"><img src="../../includes/site_images/spacers/spacer.gif" width="13" height="4" /><img border="0" src="../../includes/site_images/misc/arrow.gif" width="13" height="9" /></td><td><a class="bodytext_underline" href="#whereB">Where to Enroll in Child Health Plus</a></td></tr><tr><td valign="top" width="13"><img src="../../includes/site_images/spacers/spacer.gif" width="13" height="4" /><img border="0" src="../../includes/site_images/misc/arrow.gif" width="13" height="9" /></td><td><a class="bodytext_underline" href="#">Other Helpful Resources</a></td></tr></tbody></table><br /><p style="MARGIN-top: 0in"><strong><a id="what" class="bookmark" title="what" name="what"></a>What is Child Health Plus</strong><br />
+New York's two health insurance programs for children are&#160;Medicaid (coverage for children) and Child Health Plus. Child Health Plus is a comprehensive health insurance program that covers a wide range of children's health care and dental needs. The income requirements make it possible for working families to get free or low-cost health insurance for their children.&#160;</p><p align="right"><a class="bodytext_underline" href="#Top">back to top</a></p><p><strong>Medicaid (coverage for children)&#160;</strong> is available for many children in working families. Most children who are eligible for Medicaid (coverage for children) will receive their medical care through a health plan, and visit doctors and hospitals that accept that health plan. While your application is being processed,&#160;Medicaid (coverage for children)&#160;may provide up to 90 days of retroactive coverage for unpaid medical bills, if eligible during those 90 days.</p><p align="right"><a class="bodytext_underline" href="#Top">back to top</a></p><p><strong><a id="eligibilityA" class="bookmark" title="eligibilityA" name="eligibilityA"></a>Eligibility Requirements Include</strong>:</p><ul><li><strong>Age</strong>: Children must be under the age of 19 years old</li><li><strong>Identity/Date of Birth:&#160; See Document Check List</strong>&#160;</li><li><strong>Residency</strong>: Must be a New York State resident</li><li><strong>Citizenship/Immigration Status</strong>: Can be U.S. citizen or an immigrant. Most immigrants in New York State are eligible &#8211; except for undocumented immigrants and people on short-term visas who are not in the process of applying for permanent status.</li><li><strong>Income</strong>: Please see chart below for monthly income levels.</li></ul><table border="1" cellspacing="0" cellpadding="0" width="100%"><tbody><tr><td class="blue_bg" colspan="7" align="center"><p><span class="table_header_white">Medicaid (coverage for children)&#160;and Pregnant Women<br />
+Monthly Income Levels*</span><span class="table_text_white"><br />
+This chart is only a guide. Individuals should see an enrollment counselor for eligibility screening.</span></p></td></tr><tr class="blue_bg"><td rowspan="2" align="center"><span class="table_header_white">Age Categories for Children</span></td><td colspan="5" align="center"><span class="table_header_white">Monthly Income for Family Size</span></td><td rowspan="2" align="center"><span class="table_header_white">Each Additional Person, Add:</span></td></tr><tr><td align="center">1</td><td align="center">2</td><td align="center">3</td><td align="center">4</td><td align="center">5</td></tr><tr><td align="center">Children Under 1 Year old;<br />
+Pregnant Women Perinatal Coverage Only**<br /></td><td align="center">$1,915</td><td align="center">$2,585</td><td align="center">$3,255</td><td align="center">$3,925</td><td align="center">$4,595</td><td align="center">$670</td></tr><tr><td align="center">Children 1 -&#160;18 years old</td><td align="center">$1,274</td><td align="center">$1,720</td><td align="center">$2,165</td><td align="center">$2,611</td><td align="center">$3,056</td><td align="center">$446</td></tr><tr><td align="center">Children 19-20 years old</td><td align="center">$800</td><td align="center">$1,175</td><td align="center">$1,352</td><td align="center">$1,528</td><td align="center">$1,704</td><td align="center">$177</td></tr><tr><td align="center">Pregnant Women** Full Coverage</td><td bgcolor="#336699" align="center"></td><td align="center">$1,293</td><td align="center">$1,628</td><td align="center">$1,963</td><td align="center">$2,298</td><td align="center">$335</td></tr><tr><td colspan="7">* Please see an enrollment counselor for additional program information and requirements.</td></tr><tr><td colspan="7">** Pregnant Women count as two individuals.</td></tr><tr><td colspan="7"><strong>NOTE</strong>: Chart effective&#160;January 1, 2013 subject to annual income updates.</td></tr></tbody></table><p align="right"><a class="bodytext_underline" href="#Top">back to top</a></p><strong><a id="whatA" class="bookmark" title="whatA" name="whatA"></a>Benefits Covered by Medicaid (coverage for children)</strong>&#160;<br /><br />
+Some of the benefits include: 
+
+<ul><li>Regular checkups;</li><li>Immunizations;</li><li>Hospital care;</li><li>Emergency room care;</li><li>Prescription drugs;</li><li>Dental care;</li><li>Eyeglasses;</li><li>Specialty care;</li><li>Medical equipment.</li></ul><p align="right"><a class="bodytext_underline" href="#Top">back to top</a></p><p><strong><a id="deliveryA" class="bookmark" title="deliveryA" name="deliveryA"></a>Delivery of Service</strong><br /></p><p><span>For enrollment into Medicaid (coverage for children), a managed care plan does <b>not</b> have to be selected at the time of enrollment.<span>&#160;</span> Medicaid applicants have 60 days to choose a health plan. <span>&#160;</span>New York Medicaid CHOICE notifies Medicaid eligible persons by mail, of the requirement to enroll into a Medicaid managed care plan following initial determination of eligibility for Medicaid (coverage for children). If the consumer does <b>not</b> return the enrollment form or contact New York Medicaid CHOICE, the following actions will be taken by New York Medicaid Choice.</span></p><ol type="1"><li><span>A 30-day reminder notice is mailed out.</span>&#160;</li><li><span>15 days before 60 days are up - the consumer receives a 2nd reminder notice and is notified of pending <b>AUTO-ASSIGNMENT</b> into a health plan, the name of the health plan and the effective date of enrollment.</span>&#160;</li><li><span>On the 60th day, the consumer is enrolled into that health plan</span></li></ol><p><b><span>Telephone Enrollments:</span></b>&#160;<span>To avoid auto-assignment into a health plan, applicants can enroll by telephone at any time by calling New York Medicaid CHOICE 1-800-505-5678.<span>&#160;</span> Enrollment is confirmed by mail.</span></p><p><span>Some&#160;Medicaid children may be <b><u><span>exempt</span></u></b> or <b><u><span>excluded</span></u></b> from managed care.<span>&#160;</span></span></p><p align="right"><a class="bodytext_underline" href="#Top">back to top</a></p><p><strong><a id="whereA" class="bookmark" title="whereA" name="whereA"></a>Where to Enroll in Medicaid (coverage for children)</strong><br />
+Individuals can&#160;call 311 and ask for the HRA Medicaid helpline to find out if they are eligible for Medicaid (coverage for children). Enrollment counselors are available to enroll&#160;children into Medicaid at convenient neighborhood locations. Counselors are located at Medical Assistance Program Offices, community-based organizations, hospitals and health plans to assist individuals in filling out an application. It is important to see an enrollment counselor to assist you with the application process because factors other than those noted above are considered to determine eligibility.</p><p><a class="bodytext_underline" href="../../html/public_insurance/enroll.shtml">Find out</a> where you can enroll in your neighborhood</p><p><strong>Documentation Check List</strong><br />
+Bring a copy of the following <a class="bodytext_underline" href="../../downloads/pdf/document_check_list.pdf">documents</a> (in <a class="bodytext_underline" href="http://www.adobe.com/products/acrobat/readstep2.html">PDF</a>): your last four pay stubs, proof of age, address, identity, and immigration status (for adults only) to your appointment with a health insurance enrollment counselor.</p><p align="right"><a class="bodytext_underline" href="#Top">back to top</a></p><p><strong><a id="otherA" class="bookmark" title="otherA" name="otherA"></a>Other Helpful Resources</strong><br />
+For more information regarding this and other public health insurance programs, please contact an agency listed below:<br />
+Human Resources Administration at 1-718-557-1399<br />
+New York State Department of Health at 1-800-541-2831or visit its website at <a class="bodytext_underline" href="http://www.health.state.ny.us/nysdoh/chplus/index.htm">New York State Department of Health</a></p><p><br /><strong><a id="childB" class="bookmark" title="childB" name="childB"></a>Child Health Plus</strong>provides free or low-cost health insurance for children under the age of 19 who are not eligible for Medicaid, coverage for children. All children receive their health care through a managed care plan. There are no immigration requirements for Child Health Plus.<br /><br /><strong><a id="eligibilityB" class="bookmark" title="eligibilityB" name="eligibilityB"></a>Eligibility Requirements Include</strong>:</p><ul><li><strong>Age</strong>: Children must be under the age of 19 years old</li><li><strong>Identity/Date of Birth:&#160; See Document Check List</strong>&#160;</li><li><strong>Residency</strong>: Must be a New York State resident</li><li><strong>Health Coverage</strong>: Children can not have other health insurance coverage (there are some limited exceptions)</li><li><strong>Income</strong>: Depending on a family&#8217;s income, Child Health Plus B is free for some families and others have to pay a small monthly premium.Families with higher incomes can also purchase health coverage for their children at the full premium level. Please see chart below for monthly income levels.</li></ul><table border="1" cellspacing="0" cellpadding="0" width="100%"><tbody><tr><td class="blue_bg" colspan="7" align="center"><span class="table_header_white">Child Health Plus (Children Under 19 who are not eligible for Medicaid) Monthly Income Levels</span><span class="table_text_white"><br />
+This chart is only a guide. Individuals should see an enrollment counselor for eligibility screening.</span>&#160;</td></tr><tr class="blue_bg"><td rowspan="2" align="center"><span class="table_header_white">Premium Categories</span></td><td colspan="5" align="center"><span class="table_header_white">Monthly Income for Family Size</span></td><td rowspan="2" align="center"><span class="table_header_white">Each Additional Person, Add:</span></td></tr><tr><td align="center"><strong>1</strong></td><td align="center"><strong>2</strong></td><td align="center"><strong>3</strong></td><td align="center"><strong>4</strong></td><td align="center"><strong>5</strong></td></tr><tr><td align="center">Free Insurance</td><td align="center">$1,531</td><td align="center">$2,067</td><td align="center">$2,603</td><td align="center">$3,139</td><td align="center">$3,675</td><td align="center">$536</td></tr><tr><td align="center">$9 Per Child Per Month (Maximum of $27 per family)<br /></td><td align="center">$2,126</td><td align="center">$2,870</td><td align="center">$3,614</td><td align="center">$4,357</td><td align="center">$5,101</td><td align="center">$744</td></tr><tr><td align="center">$15 Per Child Per Month (Maximum of $45 per family)</td><td align="center">$2,394</td><td align="center">$3,232</td><td align="center">$4,069</td><td align="center">$4,907</td><td align="center">$5,744</td><td align="center">$838</td></tr><tr><td align="center">$30 Per Child Per Month (Maximum of $90 per family)</td><td align="center">$2,873</td><td align="center">$3,878</td><td align="center">$4,883</td><td align="center">$5,888</td><td align="center">$6,893</td><td align="center">$1,005</td></tr><tr><td align="center">$45 Per Child Per Month (Maximum of $135 per family)</td><td align="center">$3,352</td><td align="center">$4,524</td><td align="center">$5,697</td><td align="center">$6,869</td><td align="center">$8,042</td><td align="center">$1,173</td></tr><tr><td align="center">$60 Per Child Per Month (Maximum of $1820 per family)</td><td align="center">$3,830</td><td align="center">$5,170</td><td align="center">$6,510</td><td align="center">$7,850</td><td align="center">$9,190</td><td align="center">$1,340</td></tr><tr><td align="center">Full Premium Per Child Per Month**</td><td align="center">Over $3,830</td><td align="center">Over $5,170</td><td align="center">Over $6,510</td><td align="center">Over $7,850</td><td align="center">Over $9,190</td><td align="center">$1,340</td></tr><tr><td colspan="7" align="center"><p align="left">* Pregnant Women count as two individuals.</p></td></tr><tr><td colspan="7">** Full premium amounts vary, depending on the health plan. Current premium levels average $182&#160; per child per month.</td></tr><tr><td colspan="7"><strong>NOTE</strong>: Effective&#160;January 1, 2013 subject to annual income updates.</td></tr></tbody></table><p align="right"><a class="bodytext_underline" href="#Top">back to top</a></p><p><strong>Benefits&#160;Covered by Child Health Plus</strong><br /><br />
+Some of the benefits include:</p><ul><li>Regular checkups;</li><li>Immunizations;</li><li>Hospital care;</li><li>Emergency room care;</li><li>Prescription drugs;</li><li>Dental care;</li><li>Eyeglasses;</li><li>Specialty care;</li><li>Medical equipment.</li></ul><p align="right"><a class="bodytext_underline" href="#Top">back to top</a></p><p><strong><a id="deliveryB" class="bookmark" title="deliveryB" name="deliveryB"></a>Delivery of Service</strong><br /></p><p><span>Health care services are delivered through a managed care plan.<span>&#160;</span> A managed care plan must be selected at the time of enrollment.<span>&#160;</span></span></p><p align="right"><a class="bodytext_underline" href="#Top">back to top</a></p><p><strong><a id="whereB" class="bookmark" title="whereB" name="whereB"></a>Where to Enroll in Child Health Plus</strong><br />
+Individuals can call 311 and ask for the HRA Medicaid helpline to find out if they are eligible for Child Health Plus. Enrollment counselors are available to enroll children into Child Health Plus&#160; at convenient neighborhood locations. Counselors are located at&#160;community-based organizations, hospitals and health plans to assist individuals in filling out an application. It is important to see an enrollment counselor to assist you with the application process because factors other than those noted above are considered to determine eligibility.<br /></p><p><a class="bodytext_underline" href="../../html/public_insurance/enroll.shtml">Find out</a> where you can enroll in your neighborhood</p><p><strong>Documentation Check List</strong><br />
+Bring a copy of the following <a class="bodytext_underline" href="../../downloads/pdf/document_check_list.pdf">documents</a> (in <a class="bodytext_underline" href="http://www.adobe.com/products/acrobat/readstep2.html">PDF</a>): your last four pay stubs, proof of age, address, identity, and immigration status (for adults only) to your appointment with a health insurance enrollment counselor.</p><p align="right"><a class="bodytext_underline" href="#Top">back to top</a></p><p><strong><a id="otherB" class="bookmark" title="otherB" name="otherB"></a>Other Helpful Resources</strong><br />
+For more information regarding this and other public health insurance programs, please contact an agency listed below:<br />
+Human Resources Administration at 1-718-557-1399<br />
+New York State Department of Health at 1-800-541-2831or visit its website at <a class="bodytext_underline" href="http://www.health.state.ny.us/nysdoh/chplus/index.htm">New York State Department of Health</a></p><p align="right"><a class="bodytext_underline" href="#Top">back to top</a></p></span>
+										
+								
+						
+
+					
+
+					 
+					   
+						
+					 
+					 
+					
+					</td><td align="left" bgcolor="" valign="top" width="20"><img src="../../includes/site_images/spacers/spacer_20_20.gif" alt="" width="20" height="20" border="0"></td></tr>
+					
+					  
+				   
+				</table>
+				<!-- END of PRIMARY FEATURE SECTION -->
+
+				<!-- START of SECONDARY FEATURE SECTION -->
+
+				<table width="409" border="0" cellspacing="0" cellpadding="0">
+				
+				  
+				
+				
+
+				  
+					  
+					<tr>
+					<td colspan="3" align="left" valign="top" bgcolor="" width="409">
+							
+							</td></tr>
+						
+					
+					  </table>
+
+				<!-- END of SECONDARY FEATURE SECTION -->
+
+				<!-- START of TERTIARY FEATURE SECTION -->
+				<table width="409" border="0" cellspacing="0" cellpadding="0">
+				  
+					  
+						<tr><td colspan="3" align="left" valign="top" bgcolor="" width="409">
+							
+							</td></tr>
+						
+					
+					  
+				   
+				</table>
+				<!-- END of TERTIARY FEATURE SECTION -->
+		<!-- END_PRINT_PAGE -->		
+
+			<br><table width="200" border="0" cellspacing="0" cellpadding="0" class="eaf_position">
+  <tr> 
+    <td align="left" valign="middle" width="30">&nbsp;</td>
+    <td align="left" valign="middle" width="16"><a target="_blank" onclick="this.href = '/j2ee/emailafriend/EAFEntry?' + Date.parse(new Date()); return true;" href="/j2ee/emailafriend/EAFEntry"><img src="../../images/buttons/eaf.gif" border="0" height="12" width="16"></a></td>
+    <td width="154">&nbsp;&nbsp;<a target="_blank" onclick="this.href = '/j2ee/emailafriend/EAFEntry?' + Date.parse(new Date()); return true;" href="/j2ee/emailafriend/EAFEntry?" class="footer_text">EMAIL 
+      A FRIEND</a></td>
+  </tr>
+</table>
+
+<br> <!-- Pay ATTENTION!!!
+        Please, delete comments before you upload to IW Server your changes to this File!
+
+        1. In the link tag below instead of sitename=HPD type your Agency Name.
+        2. If you included alternative file to use Printer Friendly link on your page, and if your
+           Agency uses Customized Style Sheets, you need to create "rollout_print.css " force the script print text without conflicts with customized Style Sheets of the NYC.gov default
+           Style Sheets "rollout.css "
+        3. If your agency uses Customized Style Sheets the linkk to Printer Friendly should be          like: <a href="/cgi-bin/misc/pfprinter.cgi?action=print&sitename=HPD&printstyle=other">
+        4. Because of use of the customized Style Sheets this file must contain the link to Pfinter  Frindly Script with variable "printstyle=other"
+         -->
+<table width="212" border="0" cellspacing="0" cellpadding="0" class="printer_position">
+  <tr> 
+    <td align="left" valign="middle" width="30">&nbsp;</td>
+    <td align="left" valign="middle" width="17"><a href="/cgi-bin/misc/pfprinter.cgi?action=print&sitename=HPD"><img src="../../images/misc/printer_icon.gif" border=0 width="17" height="15" alt="Printer Version"></a></td>
+    <td width="165" valign="middle">&nbsp;&nbsp;<a href="/cgi-bin/misc/pfprinter.cgi?action=print&sitename=HPD" class="footer_text">PRINTER 
+      FRIENDLY FORMAT</a> </td>
+  </tr>
+</table>
+
+
+
+
+
+
+<!-- BEGIN_PRINT_PAGE -->
+				</td>
+				<!-- END of CENTER column -->
+		<!-- END_PRINT_PAGE -->					
+				
+				<!-- START of THIRD column -->
+				<td align="left" valign="top" width="180" id="col3_content">
+					
+						<script language="JavaScript" type="text/JavaScript">
+<!--
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+//-->
+</script>
+<body onLoad="MM_preloadImages('../../includes/site_images/misc/pre-screening_button_1.gif')">
+<table width="180" border="0" cellspacing="0" cellpadding="0">
+  <tr> 
+    <td align="left" valign="top" bgcolor="" width="180"> <img src="../../includes/site_images/misc/column_image.jpg" alt="Photo of two people" height="124" width="180" border="0" /></td>
+  </tr>
+  <tr> 
+    <td align="left" valign="top" bgcolor=""><img src="../../includes/site_images/misc/pre-screening_top.gif" height="41" width="180" border="0"></td>
+  </tr>
+  <tr>
+    <td><table cellpadding="0" cellspacing="0" border="0" bgcolor="BAD6E1">
+        <tr height="10"> 
+          <td colspan="3" width="180"><img src="../../includes/site_images/spacers/spacer.gif" alt="" width="180" height="10" border="0"></td>
+        </tr>
+        <tr> 
+          <td width="15"><img src="../../includes/site_images/spacers/spacer.gif" alt="" width="15" height="10" border="0"></td>
+          <td width="150"><span class="module_bodytext">Welcome to the HealthStat 
+            pre-screening system for health insurance. The pre-screening system 
+            serves both individuals and families living in New York City. This 
+            system can help you find out if you and your family qualify financially 
+            for public and private health insurance options.<br>
+            <br>
+            <a href="https://a069-webapps3.nyc.gov/health/mainpage.htm" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('pre-screening','','../../includes/site_images/misc/pre-screening_button_1.gif',1)"><img src="../../includes/site_images/misc/pre-screening_button_0.gif" alt="Begin Pre-Screening" name="pre-screening" width="150" height="30" border="0"></a></span></td>
+          <td width="15"><img src="../../includes/site_images/spacers/spacer.gif" alt="" width="15" height="10" border="0"></td>
+        </tr>
+        <tr height="15"> 
+          <td colspan="3"><img src="../../includes/site_images/spacers/spacer.gif" alt="" width="180" height="15" border="0"></td>
+        </tr>
+      </table></td>
+  </tr>
+  <tr> 
+    <td align="left" bgcolor="#FFFFFF" valign="top" width="180"><img src="../../includes/site_images/spacers/spacer.gif" alt="" width="180" height="2" border="0"></td>
+  </tr>
+</table>
+<table width="180" border="0" cellspacing="0" cellpadding="0">
+  <tr> 
+    <td align="left" valign="top" bgcolor=""><img src="../../includes/site_images/misc/access_nyc.gif" alt="Access NYC" width="180" height="41" border="0"></td>
+  </tr>
+  <tr> 
+    <td><table cellpadding="0" cellspacing="0" border="0" bgcolor="BAD6E1">
+        <tr height="10"> 
+          <td colspan="3" width="180"><img src="../../includes/site_images/spacers/spacer.gif" alt="" width="180" height="10" border="0"></td>
+        </tr>
+        <tr> 
+          <td width="15"><img src="../../includes/site_images/spacers/spacer.gif" alt="" width="15" height="10" border="0"></td>
+          <td width="150"><span class="module_bodytext">Visit <a href="http://www.nyc.gov/accessnyc" class="bodytext_underline">www.nyc.gov/<br>accessnyc</a>, a free Web site where New Yorkers can screen for eligibility and get information for City, State, and Federal benefits and programs. Learn how to apply, what documents to bring, where offices are and how to get there, and even print partially completed applications. Visit <a href="http://www.nyc.gov/accessnyc">ACCESS NYC</a> online anytime, from any computer with an internet connection. Benefit Information. One Place. </span> <span class="module_bodytext"><br>
+            <br>
+          <a href="http://www.nyc.gov/accessnyc"><img src="../../includes/site_images/misc/access_nyc_logo.gif" alt="Access NYC" width="150" height="35" border="0"></a></span></td>
+          <td width="15"><img src="../../includes/site_images/spacers/spacer.gif" alt="" width="15" height="10" border="0"></td>
+        </tr>
+        <tr height="15"> 
+          <td colspan="3"><img src="../../includes/site_images/spacers/spacer.gif" alt="" width="180" height="15" border="0"></td>
+        </tr>
+      </table></td>
+  </tr>
+  <tr> 
+    <td align="left" bgcolor="#FFFFFF" valign="top" width="180"><img src="../../includes/site_images/spacers/spacer.gif" alt="" width="180" height="2" border="0"></td>
+  </tr>
+</table>
+
+					
+				</td>
+				<!-- END of THIRD column -->
+		<!-- BEGIN_PRINT_PAGE -->		
+			</tr>
+	<!-- END_PRINT_PAGE -->			
+			<tr>
+				
+
+				<td>&nbsp;</td><td colspan="2"><!-- START of nycgov_footer.inc-->
+<!-- old table width=589;  499 for middle td -->
+<!-- expanded table width=769;  619 for middle td -->
+<!-- <table width="589" border="0" cellspacing="0" cellpadding="0">
+	<tr>
+		<td align="left" valign="top" width="30"><img src="../../includes/site_images/spacers/spacer_30_30.gif" alt="" width="30" height="30" border="0"></td>
+		<td align="left" valign="top" width="499"><img src="../..//includes/site_images/spacers/spacer_499_15.gif" alt="" width="499" height="15" border="0"><img src="../../includes/site_images/footer_divider.gif" alt="" width="499" height="1" border="0"><br>
+			<span class="footer_header">Footer header goes here<br>
+			</span><span class="footer_text">Footer text description goes here. It is optional and the max is about 300 characters which is approximately 3-4 lines of text. Footer text description goes here. It is optional and the max is about 300 characters which is approximately 3-4 lines of text.<br>
+			</span></td>
+		<td align="left" valign="top" width="60"><img src="../..//includes/site_images/spacers/spacer_60_30.gif" alt="" width="60" height="30" border="0"><br>
+			<br>
+		</td>
+	</tr>
+</table> -->
+<!-- END of default_footer.inc -->
+</td>
+
+			
+			</tr>
+			<tr height="25">
+				<td colspan="3" align="left" valign="top" width="769" height="25">
+
+					
+
+
+	<!-- END_PRINT_PAGE -->
+			<!-- START of nycgov_footer.inc-->
+<style type="text/css">
+<!--
+	.footer_links {font-family: Verdana, Arial, Helvetica, sans-serif;
+		font-size: 10px;
+		color: #F9D053;
+	}
+
+	.footer_copyright {font-family: Verdana, Arial, Helvetica, sans-serif;
+		font-size: 10px;
+		color: #C4C4B2;
+	}
+-->
+</style>
+<TABLE cellSpacing=0 cellPadding=0 width=769 bgColor=#494B4C border=0>
+	<TBODY>
+	<TR><TD width=13><IMG height=24 src="../../includes/site_images/spacers/spacer.gif" width=13></TD>
+          <TD width=287><SPAN class=footer_copyright>Copyright 2013 The City of New York</SPAN></TD>
+          <TD align=right width=444><SPAN class=footer_links><A class=footer_links href="/contact">Contact Us</A> | <A class=footer_links href="/faqs">FAQs</A> | <A class=footer_links href="/privacy">Privacy Policy</A> | <A class=footer_links href="http://www.nyc.gov/html/misc/html/tou.html">Terms of Use</A> | <A class=footer_links href="/sitemap">Site Map</A></SPAN></TD>
+          <TD align=right width=25><IMG height=24 src="../../includes/site_images/spacers/spacer.gif" width=25></TD></TR>
+        </TBODY>
+</TABLE>
+<!-- Privacy Policy updated on 03/08/2011 -->
+<!--  nycgov Webtrends code, added on 02/16/2011 -->
+<script src="/html/misc/scripts/nycwebtrends.js" type="text/javascript"></script>
+<script type="text/javascript">
+//<![CDATA[
+var _nyctag=new WebTrends();
+_nyctag.dcsInit();
+_nyctag.dcsGetId();
+//]]>>
+</script>
+<script type="text/javascript">
+//<![CDATA[
+_nyctag.dcsCollect();
+//]]>>
+</script>
+
+<!-- PROD noscript section -->
+<noscript>
+<div><img alt="DCSIMG" id="DCSIMG" width="1" height="1" src="http://a858-sdc.nyc.gov/dcslfpea2000008i7geu3pdky_5v8x/njs.gif?dcsuri=/nojavascript&WT.js=No&WT.tv=8.6.2"/></div>
+</noscript>
+<!--  END OF nycgov Webtrends code, added on 02/16/2011 -->
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-9518673-1");
+pageTracker._trackPageview();
+} catch(err) {}
+</script>
+<!-- END of nycgov_footer.inc-->
+
+	<!-- BEGIN_PRINT_PAGE -->
+				</td>
+			</tr>
+		</table>
+	<!-- END_PRINT_PAGE -->	
+	</body>
+</html>
+

@@ -1,0 +1,1389 @@
+
+
+
+		
+	
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+	<head>
+		<meta http-equiv="content-type" content="text/html;charset=UTF-8">
+		<meta name="tp-name" content="homepage_2col">
+
+		
+		
+
+		
+				<title>Law Department - Press Releases</title>
+			
+		
+				
+			
+		<link href="../../includes/css/rollout.css" rel="stylesheet">
+	</head>
+
+<body  background="../../includes/site_images/misc/bg.gif"
+  bgcolor="#ffffff" leftmargin="0" marginheight="0" marginwidth="0" topmargin="0">
+
+	<!-- BEGIN_PRINT_PAGE -->
+		<table width="769" border="0" cellspacing="0" cellpadding="0" height="100%">
+	<!-- END_PRINT_PAGE -->	
+			<tr><td colspan="2" align="left" valign="top" width="769">
+					<!-- START of nycgov_header.inc -->
+<table width="769" border="0" cellspacing="0" cellpadding="0" height="51">
+	<tr>
+		<td><img src="../../includes/site_images/nyc_gov/nycgov_banner.gif" alt="" width="769" height="51" border="0" usemap="#TopNav"></td>
+	</tr>
+</table>
+<map name="TopNav">
+  <area shape="rect" coords="554,1,599,25" href="/search" alt="Search">
+  <area shape="rect" coords="607,1,688,25" href="/portal/register.jsp" alt="Email Updates">
+  <area shape="rect" coords="698,1,762,25" href="/contact" alt="Contact Us">
+  <area shape="rect" coords="328,27,399,50" href="/residents" alt="Residents">
+  <area shape="rect" coords="408,27,471,50" href="/business" alt="Business">
+  <area shape="rect" coords="478,27,535,50" href="/visitors" alt="Visitors">
+  <area shape="rect" coords="544,27,628,50" href="/government" alt="Government">
+  <area shape="rect" coords="635,27,764,50" href="/mayor" alt="Office of the Mayor">
+  <area shape="rect" coords="3,3,49,48" href="/home.html" alt="NYC.gov always open">
+</map>
+<!-- END of nycgov_header.inc -->
+					
+							<script language="JavaScript" src="../../includes/scripts/change_text.js"></script>
+<script language="Javascript">
+<!--
+var right_alt=new Array();
+right_alt[0]="Madison Square Garden (Credit: NYC & Company)";
+right_alt[1]="Central Park (Credit: Joseph Pobereskin, NYC & Company)";
+right_alt[2]="NYC Commuters (Credit: Antonio M Rosario)";
+right_alt[3]="Grand Central";
+right_alt[4]="MOMA (Credit: Katie Klith)";
+right_alt[5]="Guggenheim";
+right_alt[6]="Central Park (Credit: NYC & Company)";
+right_alt[7]="NY Botanical Gardens, Bronx";
+right_alt[8]="Sonicvision/ AMNH (Credit: D. Finnin, AMNH)";
+right_alt[9]="Brooklyn Botanical Gardens/Cherry Blossom Festival (Credit: Nina Ong)";
+right_alt[10]="Taxis by Whitney Museum (Credit: Jeff Goldberg, Whitney)";
+right_alt[11]="Lower Manhattan";
+right_alt[12]="Lower Manhattan, evening";
+right_alt[13]="Historic photo of the Law Department";
+
+function writeImage(imageNumber) {
+	document.write('<img src="../../includes/site_images/banner/left_'+imageNumber+'.jpg" width="181" height="164" border="0" alt="Law Department"><img src="../../includes/site_images/banner/right_'+imageNumber+'.jpg" width="588" height="164" border="0" alt="'+right_alt[imageNumber-1]+'">');
+}
+var itemCount = 14;
+rndImage = Math.round(((itemCount -1) * Math.random()) + 1);
+if ((rndImage == 13) || (rndImage == 10)){ //Added to prevent image 13 and 10 from rotating
+	 rndImage = 12;
+	}
+//-->
+</script>
+<script language="JavaScript" type="text/JavaScript">
+<!--
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+//-->
+</script>
+ 
+<table width="769" border="0" cellspacing="0" cellpadding="0">
+  <form action="http://search1.nyc.gov/search?" method="GET" name="gs">
+    <input value="xml_no_dtd" name="output" type="hidden">
+    <input value="default_collection" name="site" type="hidden">
+    <input value="agency_frontend" name="proxystylesheet" type="hidden">
+    <input value="agency_frontend" name="client" type="hidden">
+    <input value="www.nyc.gov/html/law" name="sitesearch" type="hidden">
+    <tr>
+      <td width="589" rowspan="3"><img src="../../includes/site_images/banner/banner_logo.gif" width="589" height="74" alt="New York City Law Department" usemap="#bannerlink" border="0"></td>
+      <td colspan="3"><img src="../../includes/site_images/spacers/spacer.gif" height="40" width="180"></td>
+    </tr>
+    <tr>
+      <td><input name="q" id="search_nycgov" type="text" class="search-box" style="width:151px;height:21px"></td>
+      <td><input name="go" type="image" id="go" src="../../includes/site_images/banner/search_0.gif" alt="Go" align="middle" width="15" height="21" border="0" onMouseOver="MM_swapImage('go','','../../includes/site_images/banner/search_1.gif',1)" onMouseOut="MM_swapImgRestore()"></td>
+      <td><img src="../../includes/site_images/spacers/spacer.gif" height="21" width="14"></td>
+    </tr>
+  </form>
+  <tr>
+    <td colspan="3"><img src="../../includes/site_images/spacers/spacer.gif" height="13" width="180"></td>
+  </tr>
+  <tr> 
+    <td align="left" valign="top" width="769" colspan="4"><script language="JavaScript">
+	<!--
+	writeImage(rndImage);
+	//-->
+	</script>
+	<noscript><img src="../../includes/site_images/banner/left_1.jpg" width="181" height="164" border="0" alt="Man at a Conference Table"><img src="../../includes/site_images/banner/right_1.jpg" width="588" height="164" border="0" alt="Madison Square Garden (Credit: NYC & Company)"></noscript></td>
+  </tr>
+  <tr>
+    <td colspan="4"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td><img width="126" height="25" alt="Select Text Size" src="../../includes/site_images/banner/text_size.gif"><a onMouseOver="MM_swapImage('small','','../../includes/site_images/banner/text_small_1.gif',0)" onMouseOut="MM_swapImgRestore()" href="javascript:SetCookie(nameOfCookie,'1');doRefresh();"><img src="../../includes/site_images/banner/text_small_0.gif" border=0 alt="Sm" name="small" width="16" height="25" align="top"></a><a onMouseOver="MM_swapImage('medium','','../../includes/site_images/banner/text_med_1.gif',0)" onMouseOut="MM_swapImgRestore()" href="javascript:SetCookie(nameOfCookie,'2');doRefresh();"><img src="../../includes/site_images/banner/text_med_0.gif" border=0 alt="Med" name="medium" align="top" width="19" height="25"></a><a 
+	onMouseOver="MM_swapImage('large','','../../includes/site_images/banner/text_large_1.gif',0)" onMouseOut="MM_swapImgRestore()" href="javascript:SetCookie(nameOfCookie,'3');doRefresh();"><img src="../../includes/site_images/banner/text_large_0.gif" border=0 alt="Lg" name="large" align="top" width="19" height="25"></a></td>
+    <td><a href="/cgi-bin/misc/pfprinter.cgi?action=print&sitename=LAW" onClick="this.href = '/cgi-bin/misc/pfprinter.cgi?action=print&sitename=LAW&p=' + Date.parse(new Date()); return true;" onMouseOver="MM_swapImage('printer','','../../includes/site_images/banner/printer_1.gif',0)" onMouseOut="MM_swapImgRestore()"><img src="../../includes/site_images/banner/printer_0.gif" width="206" height="25" border="0" name="printer" id="printer" alt="Printer Friendly Format"></a></td>
+    
+	     <Td id="translate_button"><a onMouseOver="MM_swapImage('translate','','../../includes/site_images/branding/translate_1.gif',0)" onMouseOut="MM_swapImgRestore()" href="javascript:showTranslate();"><img src="../../includes/site_images/branding/translate_0.gif" border=0 alt="Translate the page" name="translate" width="176" height="25"></a></Td>
+          <Td id="english_button" style="display:none;"><a onMouseOver="MM_swapImage('english','','../../includes/site_images/branding/english_1.gif',0)" onMouseOut="MM_swapImgRestore()" href="javascript:resetLang();"><img src="../../includes/site_images/branding/english_0.gif" border=0 alt="Back to English" name="english" width="176" height="25"></a></Td>
+	
+	
+    <td><img src="../../includes/site_images/banner/text_lines.gif" width="207" height="25"></td>
+  </tr>
+</table></td>
+    <script language="Javascript">
+<!--
+if(GetCookie(nameOfCookie) == "1"){	
+	document.small.src='../../includes/site_images/banner/text_small_1.gif';	
+	}else if(GetCookie(nameOfCookie) == "2"){	
+	document.medium.src='../../includes/site_images/banner/text_med_1.gif';	
+	}else if(GetCookie(nameOfCookie) == "3"){
+	document.large.src='../../includes/site_images/banner/text_large_1.gif';	
+	}else{	document.small.src='../../includes/site_images/banner/text_small_1.gif';	
+}
+MM_preloadImages('../../includes/site_images/nav/opportunities_3.gif','../../includes/site_images/nav/opportunities_1.gif','../../includes/site_images/nav/news_3.gif','../../includes/site_images/nav/news_1.gif','../../includes/site_images/nav/home_1.gif','../../includes/site_images/nav/diversity_3.gif','../../includes/site_images/nav/diversity_1.gif','../../includes/site_images/nav/contact_3.gif','../../includes/site_images/nav/contact_1.gif','../../includes/site_images/nav/careers_3.gif','../../includes/site_images/nav/careers_1.gif','../../includes/site_images/nav/about_3.gif','../../includes/site_images/nav/about_1.gif','../../includes/site_images/banner/printer_1.gif','../../includes/site_images/banner/search_1.gif','../../includes/site_images/banner/text_large_1.gif','../../includes/site_images/banner/text_med_1.gif','../../includes/site_images/banner/text_small_1.gif','../../includes/site_images/nav/fca_3.gif','../../includes/site_images/nav/fca_1.gif');
+//-->
+	</script></td>
+  </tr>
+</table>
+<map name="bannerlink">
+<area shape="poly" href="../../html/home/home.shtml" coords="25,24,46,24,46,34,116,34,116,24,144,24,151,29,155,35,238,35,241,30,245,29,245,17,345,17,345,30,352,30,352,61,190,61,190,70,172,70,172,61,25,61">
+<area shape="circle" href="../../html/home/home.shtml" coords="386,38,31">
+<area shape="rect" coords="544,46,583,56" alt="Search">
+</map>
+
+						
+			</td></tr>
+
+		
+		<!-- BEGIN_PRINT_PAGE -->
+		<tr>
+		<!-- END_PRINT_PAGE -->
+		<td align="left" valign="top" width="180" height="100%">
+					
+							
+							 
+								  <table width="180" border="0" cellspacing="0" cellpadding="0">
+  <tr> 
+    <td><img src="../../includes/site_images/spacers/spacer.gif" height="58" width="180"></td>
+  </tr>
+  <tr> 
+    <td align="left" bgcolor="" valign="top" width="180"><script language="Javascript" src="../../includes/scripts/nav_nodes.js"></script> 
+      <script language="Javascript" src="../../includes/scripts/nav_code.js"></script> 
+      <noscript>
+<a href="../../html/home/home.shtml" class="nav_section">Home</a><br>
+<a href="../../html/about/about.shtml" class="nav_section">About the Law Dept</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/about/message.shtml" class="nav_subsection">Corporation Counsel's<br>Message</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/about/mission.shtml" class="nav_subsection">Mission Statement</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/about/history.shtml" class="nav_subsection">Law Department History</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/about/divisions.shtml" class="nav_subsection">Legal Divisions</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/about/support.shtml" class="nav_subsection">Support Divisions</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/about/high-profile.shtml" class="nav_subsection">High-Profile Matters</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/about/service.shtml" class="nav_subsection">Public Service Program</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/about/pro_bono.shtml" class="nav_subsection">Pro Bono/<br>Community Service</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/about/laws.shtml" class="nav_subsection">Laws of the City<br>of New York</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/about/language.shtml" class="nav_subsection">Language Access Plan</a><br>
+<a href="../../html/careers/careers.shtml" class="nav_section">Careers</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/careers/experienced.shtml" class="nav_subsection">Experienced Attorneys</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/careers/students.shtml" class="nav_subsection">Graduating Law Students</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/careers/honors.shtml" class="nav_subsection">Summer Honors Program</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/careers/support.shtml" class="nav_subsection">Support Professionals</a><br>
+<a href="../../html/news/news.shtml" class="nav_section">In the News</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/news/media.shtml" class="nav_subsection">Media Contact</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/news/articles.shtml" class="nav_subsection">Columns</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/news/byline.shtml" class="nav_subsection">Bylined Articles</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/news/pr.shtml" class="nav_subsection">Press Releases</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/news/speeches.shtml" class="nav_subsection">Public Addresses/Speeches</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/news/initiatives.shtml" class="nav_subsection">Initiatives in the Law</a><br>
+<a href="../../html/reports/reports.shtml" class="nav_section">Annual Reports</a><br>
+<a href="../../html/diversity/diversity.shtml" class="nav_section">Diversity</a><br>
+<a href="../../html/opportunities/opportunities.shtml" class="nav_section">MWBE Opportunities</a><br>
+<a href="../../html/fca/fca.shtml" class="nav_section">NYC False Claims Act</a><br>
+<a href="../../html/contact/contact.shtml" class="nav_section">Contact Us</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/contact/offices.shtml" class="nav_subsection">Office Locations</a><br>
+</noscript></td>
+  </tr>
+   <tr> 
+    <td align="left" bgcolor="" valign="top" width="180" id="altnav" style="display: none;"><a href="../../html/home/home.shtml" class="nav_section">Home</a><br>
+<a href="../../html/about/about.shtml" class="nav_section">About the Law Dept</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/about/message.shtml" class="nav_subsection">Corporation Counsel's<br>Message</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/about/mission.shtml" class="nav_subsection">Mission Statement</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/about/history.shtml" class="nav_subsection">Law Department History</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/about/divisions.shtml" class="nav_subsection">Legal Divisions</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/about/support.shtml" class="nav_subsection">Support Divisions</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/about/high-profile.shtml" class="nav_subsection">High-Profile Matters</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/about/service.shtml" class="nav_subsection">Public Service Program</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/about/pro_bono.shtml" class="nav_subsection">Pro Bono/<br>Community Service</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/about/laws.shtml" class="nav_subsection">Laws of the City<br>of New York</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/about/language.shtml" class="nav_subsection">Language Access Plan</a><br>
+<a href="../../html/careers/careers.shtml" class="nav_section">Careers</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/careers/experienced.shtml" class="nav_subsection">Experienced Attorneys</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/careers/students.shtml" class="nav_subsection">Graduating Law Students</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/careers/honors.shtml" class="nav_subsection">Summer Honors Program</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/careers/support.shtml" class="nav_subsection">Support Professionals</a><br>
+<a href="../../html/news/news.shtml" class="nav_section">In the News</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/news/media.shtml" class="nav_subsection">Media Contact</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/news/articles.shtml" class="nav_subsection">Columns</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/news/byline.shtml" class="nav_subsection">Bylined Articles</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/news/pr.shtml" class="nav_subsection">Press Releases</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/news/speeches.shtml" class="nav_subsection">Public Addresses/Speeches</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/news/initiatives.shtml" class="nav_subsection">Initiatives in the Law</a><br>
+<a href="../../html/reports/reports.shtml" class="nav_section">Annual Reports</a><br>
+<a href="../../html/diversity/diversity.shtml" class="nav_section">Diversity</a><br>
+<a href="../../html/opportunities/opportunities.shtml" class="nav_section">MWBE Opportunities</a><br>
+<a href="../../html/fca/fca.shtml" class="nav_section">NYC False Claims Act</a><br>
+<a href="../../html/contact/contact.shtml" class="nav_section">Contact Us</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/contact/offices.shtml" class="nav_subsection">Office Locations</a><br></td>
+  </tr>
+</table><script type="text/javascript" src="../../includes/scripts/translate.js"></script>
+<script language="Javascript">
+<!--
+if(this.location.href.indexOf("tl=")!=-1) {
+	document.getElementById("english_button").style.display='';
+	document.getElementById("translate_button").style.display = 'none';
+}
+//-->
+</script>
+<iframe scrolling='no' frameborder='0' class='shim' name='shim' id='shim'></iframe>
+<div id="translate_popup" class="popup">
+  <table cellspacing="0" cellpadding="0" border="0" width="323">
+    <tr>
+      <td class="popup_table"><table cellspacing="0" cellpadding="0" border="0" width="284">
+          <tr>
+            <Td colspan="2"><img src="../../includes/site_images/misc/translate_popup.gif" width="284" height="39" alt="Translate this Page" border="0"></Td>
+          </tr>
+          <tr>
+            <td class="popup_label" width="123">Select a Language</td>
+            <td class="popup_field" width="147"><select name="tl" id="tl" style="width:147px">
+                <option value="">- Select -</option>
+                <option value="ar">Arabic</option>
+                <option value="bg">Bulgarian</option>
+                <option value="ca">Catalan</option>
+                <option value="zh-CN">Chinese (Simplified)</option>
+                <option value="zh-TW">Chinese (Traditional)</option>
+                <option value="hr">Croatian</option>
+                <option value="cs">Czech</option>
+                <option value="da">Danish</option>
+                <option value="nl">Dutch</option>
+                <option value="tl">Filipino</option>
+                <option value="fi">Finnish</option>
+                <option value="fr">French</option>
+                <option value="de">German</option>
+                <option value="el">Greek</option>
+                <option value="iw">Hebrew</option>
+                <option value="hi">Hindi</option>
+                <option value="id">Indonesian</option>
+                <option value="it">Italian</option>
+                <option value="ja">Japanese</option>
+                <option value="ko">Korean</option>
+                <option value="lv">Latvian</option>
+                <option value="lt">Lithuanian</option>
+                <option value="no">Norwegian</option>
+                <option value="pl">Polish</option>
+                <option value="pt">Portuguese</option>
+                <option value="ro">Romanian</option>
+                <option value="ru">Russian</option>
+                <option value="sr">Serbian</option>
+                <option value="sk">Slovak</option>
+                <option value="sl">Slovenian</option>
+                <option value="es">Spanish</option>
+                <option value="sv">Swedish</option>
+                <option value="uk">Ukrainian</option>
+                <option value="vi">Vietnamese</option>
+              </select>
+            </td>
+          </tr>
+          <tr>
+            <td class="buttons" colspan="2"><input type="button" class="yellow_button" style="width:78px;" value="Translate" onClick="setLanguage(document.getElementById('tl').options[document.getElementById('tl').selectedIndex].value)" />
+              <input type="button" class="yellow_button" style="width:56px;" value="Cancel" onClick="hideTranslate()" /></td>
+          </tr>
+        </table></td>
+  </table>
+</div>
+<!----><br><br><br><br><br><br><br><br><br><br><br>
+								 
+						
+				</td>
+				<!-- START of CENTER column -->
+				<!-- BEGIN_PRINT_PAGE -->
+				<td id="main_content" align="left" valign="top" width="589">
+				<!-- START of PRIMARY FEATURE SECTION -->
+				<table width="589" border="0" cellspacing="0" cellpadding="0">
+				  
+					  
+						<tr><td colspan="3" align="left" valign="top" bgcolor="" width="589">
+							
+							
+								<img src="../../includes/site_images/titles/news_pr.gif"
+								alt="Press Releases" width="589" border="0" /></td></tr>
+						
+					
+						<tr><td align="left" bgcolor="" valign="top" width="30"><img src="../../includes/site_images/spacers/spacer_30_30.gif" alt="" width="30" height="30" border="0">
+						</td><td align="left" bgcolor="" valign="top" width="499"><img src="../../includes/site_images/spacers/spacer_499_15.gif" alt="" width="499" height="15" border="0"><br>
+					  
+							
+						
+					  
+							
+							
+									
+											<span class="bodytext"></span>
+											
+										
+									
+											<span class="bodytext"><p style="MARGIN-top: 0in">The Law Department issues press releases on major cases as a service to the media and the public.<br />
+Contact the <a href="../../html/news/media.shtml">media office</a> for more information about a matter.<br /><br /><a href="http://www.nyc.gov/html/law/html/news/pr.shtml#2013">2013 Press Releases</a><br /><a href="http://www.nyc.gov/html/law/html/news/pr.shtml#2012">2012 Press Releases</a><br /><a href="../../">2011 Press Releases</a><br /><a href="http://www.nyc.gov/html/law/html/news/pr.shtml#2010">2010 Press Releases</a><br /><a href="#2009">2009 Press Releases</a><br /><a href="#2008">2008 Press Releases</a><br /><a href="#2007">2007 Press Releases</a><br /><a href="#2006">2006 Press Releases</a><br /><a href="#2005">2005 Press Releases</a><br /><a href="#2004">2004 Press Releases</a><br /><a href="#2003">2003 Press Releases</a><br /><a href="#2002">2002 Press Releases</a><br /></p></span>
+										
+								
+						
+
+					
+
+					 
+					   
+						
+					 
+					 
+					
+					</td><td align="left" bgcolor="" valign="top" width="60"><img src="../../includes/site_images/spacers/spacer_60_30.gif" alt="" width="60" height="30" border="0"></td></tr>
+
+					
+
+					  
+				   
+					  
+						<tr><td colspan="3" align="left" valign="top" bgcolor="" width="589">
+							
+							</td></tr>
+						
+					
+						<tr><td align="left" bgcolor="" valign="top" width="30"><img src="../../includes/site_images/spacers/spacer_30_30.gif" alt="" width="30" height="30" border="0">
+						</td><td align="left" bgcolor="" valign="top" width="499"><img src="../../includes/site_images/spacers/spacer_499_15.gif" alt="" width="499" height="15" border="0"><br>
+					  
+							
+						
+					  
+							
+							<span class="headline"><a name="2013"></a>2013 Press Releases<br>
+								</span>
+								
+							
+									
+									
+											<span class="bodytext"><p style="MARGIN-top: 0in"><br /><a href="../../downloads/pdf/City%20Win%20in%20Henderson%20Labor%20Case%20_%20PC%20Ray%20Kelly%20Testified.pdf">City Prevails in Case in Which Police Commissioner Raymond Kelly was Asked to Testify</a>&#160;4/4/13 (in&#160;<a href="http://get.adobe.com/reader/">PDF</a>)<br /><br /><a href="../../downloads/pdf/Golden%20Feather%20$10M%20Win%20(4).pdf">New York City Announces $10 Million Award in Long Island Cigarette Bootlegging Lawsuit 4/2/13</a>&#160;(in&#160;<a href="http://get.adobe.com/reader/">PDF</a>)<br /><br /><a href="../../downloads/pdf/Corporation%20Counsel%20Clerkship%20Winner%20Andrew%20Fine%20.pdf">Corporation Counsel's Office Announces Selection of Andrew Fine as the Second Recipient of the Corporation Counsel Clerkship 3/22/13</a>&#160;(in&#160;<a href="http://get.adobe.com/reader/">PDF</a>)<br /><br /><a href="../../downloads/pdf/Wolf%20Pack%20Lawsuit.pdf">New York City Corporation Counsel Announces New Lawsuit Against Tax-Evading Cigarette "Delivery Seller" and its Delivery Service 3/22/13</a>&#160;(in&#160;<a href="http://get.adobe.com/reader/">PDF</a>)<br /><br /><a href="../../downloads/pdf/Fed-Ex%20Cigarette%20Settlement.pdf">New York City Announces Settlement with FedEx Ground Over Cigarette Deliveries 3/15/13</a>&#160;(in&#160;<a href="http://get.adobe.com/reader/">PDF</a>)&#160;<br /><br /><a href="../../downloads/pdf/Appeal_FOIL_Win.pdf">Appeals Court Unanimously Upholds Privacy Exemptions Under Freedom of Information Law (FOIL), Including Handgun Licensees' and Hate Crime Victims' Home Addresses 2/5/13</a>&#160;(in&#160;<a href="http://get.adobe.com/reader/">PDF</a>)&#160;</p></span>
+										
+								
+						
+
+					
+
+					 
+					   
+						
+					 
+					 
+					
+					</td><td align="left" bgcolor="" valign="top" width="60"><img src="../../includes/site_images/spacers/spacer_60_30.gif" alt="" width="60" height="30" border="0"></td></tr>
+
+					
+
+					  
+				   
+					  
+						<tr><td colspan="3" align="left" valign="top" bgcolor="" width="589">
+							
+							</td></tr>
+						
+					
+						<tr><td align="left" bgcolor="" valign="top" width="30"><img src="../../includes/site_images/spacers/spacer_30_30.gif" alt="" width="30" height="30" border="0">
+						</td><td align="left" bgcolor="" valign="top" width="499"><img src="../../includes/site_images/spacers/spacer_499_15.gif" alt="" width="499" height="15" border="0"><br>
+					  
+							
+						
+					  
+							
+							<span class="headline"><a name="2012"></a>2012 Press Releases<br>
+								</span>
+								
+							
+									
+									
+											<span class="bodytext"><p style="MARGIN-top: 0in"><br /><a href="../../downloads/pdf/2012%20Annual%20Awards.pdf">New York City Law Department Holds 31st Annual Awards Ceremony 12/13/12</a>&#160;(in&#160;<a href="http://get.adobe.com/reader/">PDF</a>)&#160;</p><p><a href="../../downloads/pdf/3766074_1.pdf">Judge Approves New FDNY Test, Allowing New York City to Move Forward with Hiring a New Fire Class 9/28/12</a>&#160;(in&#160;<a href="http://get.adobe.com/reader/">PDF</a>)&#160;</p><p><a href="../../downloads/pdf/Wholesalers%20Summary%20Judgment%20Win.pdf">New York City Awarded Summary Judgment Against Two Tobacco Wholesalers for Failure to Collect Cigarette Taxes 8/22/12</a>&#160;(in&#160;<a href="http://get.adobe.com/reader/">PDF</a>)&#160;</p><p><a href="http://www.ag.ny.gov/press-release/ag-schneiderman-nyc-corporation-counsel-cardozo-announce-settlement-two-%E2%80%9Croll-your-own">A.G. Schneiderman &amp; NYC Corporation Counsel Cardozo Announce Settlement With Two &#8220;Roll-Your-Own&#8221; Cigarette Businesses 8/9/12</a>&#160;<em>(released in conjunction with the New York Attorney General's Office)</em>&#160;(in&#160;<a href="http://get.adobe.com/reader/">PDF</a>)&#160;</p><p><a href="../../downloads/pdf/Marcavage%20RNC%20Appeals%20Win.pdf">Federal Appeals Court Affirms City's Significant Win in Republican National Convention Case 8/3/12</a>&#160;(in&#160;<a href="http://get.adobe.com/reader/">PDF</a>)&#160;</p><p><a href="../../downloads/pdf/Prevailing%20Wage%20%20Living%20Wage.pdf">Mayor Bloomberg Announces Suit to Invalidate the City Council's Recent Prevailing and Living Wage Laws 7/27/12</a>&#160;(in&#160;<a href="http://get.adobe.com/reader/">PDF</a>)</p><p><a href="http://www.nyc.gov/portal/site/nycgov/menuitem.c0935b9a57bb4ef3daf2f1c701c789a0/index.jsp?pageID=mayor_press_release&amp;catID=1194&amp;doc_name=http%3A%2F%2Fwww.nyc.gov%2Fhtml%2Fom%2Fhtml%2F2012a%2Fpr248-12.html&amp;cc=unused1978&amp;rc=1194&amp;ndi=1">Mayor Bloomberg Announces City Wins Lawsuit as Court Finds the Taxi &amp; Limousine Commission Compliant with Federal Disabilities Law 6/28/12</a>&#160;&#160;<em>(released in conjunction with the Mayor's Office&#160;and the Taxi &amp; Limousine Commission)</em>&#160;(in&#160;<a href="http://get.adobe.com/reader/">PDF</a>)</p><p><a href="../../downloads/pdf/Roll%20Your%20Own_Prelim%20Injunction%20Win_BBs%20Corner.pdf">Federal Court Orders Two "Roll-Your-Own" Cigarette Operations to Shut Down for Evading Taxes 6/27/12</a><em> (released in conjunction with the New York State Attorney General's Office)</em>&#160;(in&#160;<a href="http://get.adobe.com/reader/">PDF</a>)</p><p><a href="../../downloads/pdf/Cigarette%20Lawsuit%20-%20Gordons%20and%20Regional%20Parcel%20Services.pdf">New York City Law Department Announces New Lawsuit Against Online Cigarette Business and Its Delivery Service 6/20/12</a>&#160;(in&#160;<a href="http://get.adobe.com/reader/">PDF</a>)</p><p><a href="../../downloads/pdf/PR12-06-068.pdf">New York City Comptroller and New York City Law Department Announce Major Shareholder Derivative Suit Against Wal-Mart 6/11/12</a>&#160;<em>(released in conjunction with the NYC Comptroller's Office)</em>&#160;(in&#160;<a href="http://get.adobe.com/reader/">PDF</a>)</p><p><a href="../../downloads/pdf/598%20Broadway.pdf">City Nets Record Settlement from Sign Company and Building Owner Who Repeatedly Installed Illegal Wall Signs on Landmarked Building 5/4/12</a>&#160;(in&#160;<a href="http://get.adobe.com/reader/">PDF</a>)</p><p><a href="../../downloads/pdf/PLA_Win_Appeal.pdf">Second Circuit Upholds Historic Labor Agreement Between the City and Association of Unions 5/4/12</a>&#160;(in&#160;<a href="http://get.adobe.com/reader/">PDF</a>)<br /><br /><a href="../../downloads/pdf/Clerkship_Cho.pdf">Corporation Counsel Michael A. Cardozo Awards Inaugural Law Department Clerkship to Candice Cho 3/28/12</a>&#160;(in&#160;<a href="http://get.adobe.com/reader/">PDF</a>)</p><p><a href="../../downloads/pdf/roll_your_own_cigarette_lawsuit.pdf">A.G. Schneiderman and NYC Corporation Counsel Cardozo Sue Two "Roll-Your-Own" Cigarette Businesses for Evading Taxes 03/13/12</a>&#160;<em>(released in conjunction with the NYS Attorney General's Office)</em> (in&#160;<a href="http://get.adobe.com/reader/">PDF</a>)</p><p><a href="../../downloads/pdf/pr020612.pdf">Mayor Bloomberg Announces Suit Against Two More "Roll-Your-Own" Cigarette Businesses Evading Taxes -- And Shutdown of Another 02/06/12</a>&#160;(in&#160;<a href="http://get.adobe.com/reader/">PDF</a>)</p></span>
+										
+								
+						
+
+					
+
+					 
+					   
+						
+					 
+					 
+					
+					</td><td align="left" bgcolor="" valign="top" width="60"><img src="../../includes/site_images/spacers/spacer_60_30.gif" alt="" width="60" height="30" border="0"></td></tr>
+
+					
+
+					  
+				   
+					  
+						<tr><td colspan="3" align="left" valign="top" bgcolor="" width="589">
+							
+							</td></tr>
+						
+					
+						<tr><td align="left" bgcolor="" valign="top" width="30"><img src="../../includes/site_images/spacers/spacer_30_30.gif" alt="" width="30" height="30" border="0">
+						</td><td align="left" bgcolor="" valign="top" width="499"><img src="../../includes/site_images/spacers/spacer_499_15.gif" alt="" width="499" height="15" border="0"><br>
+					  
+							
+						
+					  
+							
+							<span class="headline"><a name="2011"></a>2011 Press Releases<br>
+								</span>
+								
+							
+									
+									
+											<span class="bodytext"><p style="MARGIN-top: 0in"><br /><a href="../../downloads/pdf/East%2091st%20Street%20Marine%20Waste%20Transfer%20Station.pdf">City Wins Latest Challenge to Planned Marine Waste Transfer Station at East 91st Street and the East River 12/29/11</a>&#160;(in&#160;<a href="http://get.adobe.com/reader/">PDF</a>)</p><p><a href="../../downloads/pdf/3278132_1.pdf">Appeals Court Rules in City's Favor in Major Campaign Finance Reform Case; Reaffirms the Importance of Avoiding Even the Appearance of "Pay-to-Play" Politics 12/21/11</a>&#160;(in&#160;<a href="http://get.adobe.com/reader/">PDF</a>)</p><p><a href="../../downloads/pdf/Island%20Smokes%20Consent%20Decree.pdf">New York City Law Department Announces Consent Decree in Lawsuit Against "Roll-Your-Own" Cigarette Businesses 12/20/11</a>&#160;(in&#160;<a href="http://get.adobe.com/reader/">PDF</a>)</p><p><a href="../../downloads/pdf/3266192_1.pdf">Mayor Michael R. Bloomberg to Honor Law Department Staff at 30th Annual Awards Ceremony 12/14/2011</a>&#160;(in&#160;<a href="http://get.adobe.com/reader/">PDF</a>)</p><p><a href="../../downloads/pdf/Continental%20Settlement.pdf">Owners of Three Upper West Side SRO Buildings Agree to Restore Buildings' Use as Permanent Residences 11/29/11</a>&#160;(in&#160;<a href="http://get.adobe.com/reader/">PDF</a>)</p><p><a href="../../downloads/pdf/3242974_1.pdf">Federal Bar Council Honors Corporation Counsel Michael A. Cardozo with Prestigious Emory Buckner Medal; in Award&#8217;s Keynote Speech, Cardozo Offers Ideas on How to Provide Greater Attorney Training and Increase the Number of Public Sector Lawyers</a>&#160;11/23/11&#160;(<em>released in conjunction with the Federal Bar Council -&#160;their release available&#160;<a href="../../downloads/pdf/FBC_EmoryBuckner.pdf">here</a>.&#160;Find the related speech&#160;<a href="http://www.nyc.gov/html/law/downloads/pdf/FBC_Emory_Buckner_Award.pdf">here</a>.</em> )&#160; (in&#160;<a href="http://get.adobe.com/reader/">PDF</a>)</p><p><a href="../../downloads/pdf/3223023_2.pdf">Law Department Announces Plans to Launch First -Ever Corporation Counsel Clerkship 11/21/11</a>&#160;(in&#160;<a href="http://get.adobe.com/reader/">PDF</a>)</p><p><a href="../../downloads/pdf/Roll_Your_Own_Cigarettes.pdf">Mayor Bloomberg Announces Suit Against "Roll-Your-Own" Cigarette Businesses Evading Taxes 11/21/11</a>&#160;&#160;<em>(released in conjunction with the Office of the Mayor)</em> (in&#160;<a href="http://get.adobe.com/reader/">PDF</a>)&#160;<br /><br /><a href="../../downloads/pdf/Gabe_Taussig_ABA_Government_Service_Award.pdf">Law Department Attorney Receives Prestigious Government Service Award from the American Bar Association 11/18/11</a>&#160;(in&#160;<a href="http://get.adobe.com/reader/">PDF</a>)&#160;</p><p><a href="../../downloads/pdf/Flavored_Tobacco_Win.pdf">Joint Statement From Law Department Corporation Counsel Michael A. Cardozo and Health Commissioner Dr. Thomas Farley on the District Court Ruling in Favor of Restrictions on the Sale of Flavored Tobacco Products 11/17/11</a>&#160;(in&#160;<a href="http://get.adobe.com/reader/">PDF</a>)</p><p><a href="http://www.nycgovparks.org/sub_newsroom/press_releases/press_releases.php?id=21022">City of New York and Sutton Place South Corporation Announce Historic Agreement to Create Public Park 11/2/11</a>&#160;(<em>released in conjunction with the Department of Parks &amp; Recreation and Bingham McCutchen LLP / Sutton Place South Corporation</em>)&#160; (in&#160;<a href="http://get.adobe.com/reader/">PDF</a>)</p><p><a href="../../downloads/pdf/3212644_1.pdf">Corporation Counsel Michael A. Cardozo Urges Medical Malpractice Reform Before Governor's Medicaid Task Force Panel 10/28/11</a>&#160;(in&#160;<a href="http://get.adobe.com/reader/">PDF</a>)</p><p><a href="../../downloads/pdf/3167281_1.pdf">In Speech to Citizens Budget Commission, New York City Corporation Counsel Michael A. Cardozo Addresses Key New York City Legal Issues Involving Billions of Dollars and Much-Needed Reform Initiatives 9/22/11</a>&#160;(in&#160;<a href="http://get.adobe.com/reader/">PDF</a>)&#160; <em>Full text of speech and accompanying charts&#160;linked in release.</em>&#160;</p><p><a href="../../downloads/pdf/3124808_1.pdf">City Prevails in Prospect Park West Bike Case; Decision Preserves Bike Path Requested by the Community 8/16/11</a>&#160;(in&#160;<a href="http://get.adobe.com/reader/">PDF</a>)</p><p><a href="../../downloads/pdf/Project%20Labor%20Agreement%20Win.pdf">Historic Labor Agreement Between the City and Association of Unions Preserved by Federal Court 8/9/11</a>&#160;(in&#160;<a href="http://get.adobe.com/reader/">PDF</a>)<br /><br /><a href="../../downloads/pdf/3103063_1.pdf">Appeals Court Unanimously Dismisses Challenge to Class Size Expenditures 7/28/11</a>&#160;(in&#160;<a href="http://get.adobe.com/reader/">PDF</a>)</p><p><a href="../../downloads/pdf/3093088_1.pdf">Corporation Counsel Michael A. Cardozo Testifies Before Special Commission on Judicial Compensation, Urges Salary Increases for New York State Judges 7/20/11</a>&#160;(in&#160;<a href="http://get.adobe.com/reader/">PDF</a>)&#160;<br /><em>Read the Corporation Counsel's testimony&#160;<a href="../../downloads/pdf/Statement%20on%20judicial%20compensation.pdf">here</a>.</em></p><p><a href="../../downloads/pdf/3078087_1.pdf">Appeals Court Upholds Principle that City Oversees Layoffs, Not Judiciary 7/13/11</a>&#160;(in&#160;<a href="http://get.adobe.com/reader/">PDF</a>)</p><p><a href="../../downloads/pdf/Take%20Our%20Daughters%20&amp;%20Sons%20to%20Work%20Day%202011.pdf">NYC Law Department Hosts Ninth Annual "Take Our Sons &amp; Daughters to Work Day" 4/27/11</a>&#160;(in&#160;<a href="http://get.adobe.com/reader/">PDF</a>)<br /><br /><a href="http://www.nyc.gov/portal/site/nycgov/menuitem.c0935b9a57bb4ef3daf2f1c701c789a0/index.jsp?pageID=mayor_press_release&amp;catID=1194&amp;doc_name=http%3A%2F%2Fwww.nyc.gov%2Fhtml%2Fom%2Fhtml%2F2011a%2Fpr130-11.html&amp;cc=unused1978&amp;rc=1194&amp;ndi=1">Mayor Bloomberg Announces Racketeering Suit Against Out-of-State Internet Ring and City Bootleggers for Illegal Cigarette Sales 4/21/11</a>&#160;<em>(released in conjunction with the Office of the Mayor and the Department of Finance)</em> (in&#160;<a href="http://get.adobe.com/reader/">PDF</a>)<br /><br /><a href="../../downloads/pdf/TLC%202nd%20Circuit%20Decision.pdf">TLC's Ability to Immediately Suspend Licenses of Taxi Drivers Arrested on Criminal Charges Upheld by Federal Appeals Court 3/25/11</a>&#160;(in&#160;<a href="http://get.adobe.com/reader/">PDF</a>)</p><p><a href="../../downloads/pdf/Countrywide.pdf">New York Pension Funds Settle Countrywide Financial Corporation Litigation for $624 Million 2/25/11</a>&#160;(<em>released in conjunction with the Office of the City Comptroller, the Office of the State Comptroller, and Labaton Sucharow, LLP</em>.) (in&#160;<a href="http://get.adobe.com/reader/">PDF</a>)</p></span>
+										
+								
+						
+
+					
+
+					 
+					   
+						
+					 
+					 
+					
+					</td><td align="left" bgcolor="" valign="top" width="60"><img src="../../includes/site_images/spacers/spacer_60_30.gif" alt="" width="60" height="30" border="0"></td></tr>
+
+					
+
+					  
+				   
+					  
+						<tr><td colspan="3" align="left" valign="top" bgcolor="" width="589">
+							
+							</td></tr>
+						
+					
+						<tr><td align="left" bgcolor="" valign="top" width="30"><img src="../../includes/site_images/spacers/spacer_30_30.gif" alt="" width="30" height="30" border="0">
+						</td><td align="left" bgcolor="" valign="top" width="499"><img src="../../includes/site_images/spacers/spacer_499_15.gif" alt="" width="499" height="15" border="0"><br>
+					  
+							
+						
+					  
+							
+							<span class="headline"><a name="2010"></a>2010 Press Releases<br>
+								</span>
+								
+							
+									
+									
+											<span class="bodytext"><br /><a href="http://www.nyc.gov/portal/site/nycgov/menuitem.c0935b9a57bb4ef3daf2f1c701c789a0/index.jsp?pageID=mayor_press_release&amp;catID=1194&amp;doc_name=http%3A%2F%2Fwww.nyc.gov%2Fhtml%2Fom%2Fhtml%2F2010b%2Fpr520-10.html&amp;cc=unused1978&amp;rc=1194&amp;ndi=1">Mayor Michael Bloomberg Proposes Overhaul of the New York State Juvenile Justice System to Improve Public Safety, Break the Cycle of Crime and Save Taxpayers Millions 12/21/10</a>&#160;<em>(released in conjunction with the Office of the Mayor, the Administration for Children's Services, the Department of Probation and the National Action Network)</em> (in <a href="http://get.adobe.com/reader/">PDF</a>)             
+
+<p style="MARGIN-top: 0in"><a href="../../downloads/pdf/2010%20Law%20Department%20Awards%20Ceremony.pdf">Mayor Michael Bloomberg Honors Law Department Staff at 29th Annual Awards Ceremony 12/17/10</a> (in&#160;<a href="http://get.adobe.com/reader/">PDF</a>)</p><p><a href="../../downloads/pdf/Susan_Amron_Environmental_Law_Chief.pdf">Corporation Counsel Names Susan Amron as the New Chief of the Environmental Law Division 11/19/10</a> (in <a href="http://get.adobe.com/reader/">PDF</a>)</p><p><a href="../../downloads/pdf/2792132_1.pdf">New York City Employees' Retirement System Settles Securities Action Aganst Apple 10/6/10 <em>(Released in conjunction with the Office of the New York City Comptroller)</em></a> (in <a href="http://get.adobe.com/reader/">PDF</a>)</p><p><a href="../../downloads/pdf/2787342_1.pdf">City's First Decision Involving Republican National Convention Cases Results in a Win 10/1/10</a> (in <a href="http://get.adobe.com/reader/">PDF</a>)</p><p><a href="../../downloads/pdf/9-23-10%20Alan%20Krams%20Award.pdf">Law Department Attorney Wins Prestigious Professionalism Award from the American Inns of Court 9/23/10</a> (in <a href="http://get.adobe.com/reader/">PDF</a>)</p><p><a href="../../downloads/pdf/364-10%20Cigarettes%20Win.pdf">Mayor Bloomberg &amp; Corporation Counsel Cardozo Announce City's Latest Win in City's Case Targeting Illegal Reservation Cigarette Sales 8/23/10</a>&#160;<em>(released in conjunction with the Office of the Mayor)</em> (in <a href="http://get.adobe.com/reader/">PDF</a>)</p><p><a href="../../downloads/pdf/Lederman_United_Artists_Win.pdf">Federal Court Upholds City's New Rule Regulating the Vending of Art in Parks 7/17/10</a> (in <a href="http://get.adobe.com/reader/">PDF</a>)</p><p><a href="../../downloads/pdf/WTC%20Judge%20Approves%20Amended%20Settlement.pdf">Judge Approves Amended Settlement in WTC Litigation 6/23/10</a>&#160;<em>(released by all parties in the litigation)</em> (in <a href="http://get.adobe.com/reader/">PDF</a>)</p><p><a href="../../downloads/pdf/WTC%20Hearing%20Held%20June%2023.pdf">Hearing Held on Proposed Settlement in WTC Litigation 6/23/10</a>&#160;<em>(released by all parties in the litigation)</em> (in <a href="http://get.adobe.com/reader/">PDF</a>)</p><p><a href="../../downloads/pdf/Disabled%20Driver%20Parking%20Permit%20Settlement.pdf">City to Extend Disabled Parking Program to Non-City Residents 6/22/10</a> (in <a href="http://get.adobe.com/reader/">PDF</a>)</p><p><a href="../../downloads/pdf/WTC_Settlement_Release.pdf">WTC Plaintiffs to Receive Approximately $125 Million in Additional Value Under Amended Settlement Providing Total Compensation of up to $712.5 Million 6/10/10</a>&#160;<em>(released by all parties in the litigation)</em> (in <a href="http://get.adobe.com/reader/">PDF</a>)</p><p><u><a href="../../downloads/pdf/RNC_Mandamus_Win.pdf">Federal Appeals Court Upholds City&#8217;s Right to Protect Confidential Sources in RNC Case</a>&#160;</u><a href="../../downloads/pdf/Jim_McSpiritt.pdf">6/9/10</a> (in <a href="http://get.adobe.com/reader/">PDF</a>)   </p><p><a href="../../downloads/pdf/Jim_McSpiritt.pdf">Corporation Counsel Names James McSpiritt as the New Chief of the Economic Development Division 5/12/10</a> (in <a href="http://get.adobe.com/reader/">PDF</a>)</p><p><a href="../../downloads/pdf/Coney_Island_Win.pdf">Lawsuit Challenging City's Rezoning of Coney Island is Dismissed 5/11/10</a> (in <a href="http://get.adobe.com/reader/">PDF</a>)</p><p><a href="../../downloads/pdf/Countrywide%20Settlement.pdf">New York Pension Funds Settle Countrywide Financial Corporation Litigation for $624 Million 5/7/10</a>&#160;<em>(released in conjunction with the Office of the New York State Comptroller, the Office of the New York City Comptroller, and Labaton Sucharow, LLP)</em>&#160;(in <a href="http://get.adobe.com/reader/">PDF</a>)</p><p><a href="../../downloads/pdf/2634211_1.pdf">State's Highest Court Unanimously (7-0) Reverses Lower Court; Finds That City Can Apply 2007 Statute to Bar Engineer from Filing Any Documents with Buildings Department Based on False Filings He Made Before Effective Date of Statute 4/30/10</a> (in <a href="http://get.adobe.com/reader/">PDF</a>)   <a href="../../downloads/pdf/Family%20Court%20Division%20Chief%20Named.pdf"></a>&#160;</p><p><a href="../../downloads/pdf/2628091_1.pdf">Second Circuit Court of Appeals Affirms Two Lower Court Decisions Awarding City $9.4 Million Against Amtrak 4/26/10</a> (in <a href="http://get.adobe.com/reader/">PDF</a>)</p><p><a href="../../downloads/pdf/Family%20Court%20Division%20Chief%20Named.pdf">Corporation Counsel Names Angela Albertus as the New Chief of the Family Court Division 4/22/10</a> (in <a href="http://get.adobe.com/reader/">PDF</a>).</p><p><a href="../../downloads/pdf/Daughters%20Sons%20to%20Work.pdf">New York City Law Department to Host Eighth Annual "Take Our Daughters &amp; Sons to Work" Day 4/21/10</a> (in <a href="http://get.adobe.com/reader/">PDF</a>)</p><p><a href="../../downloads/pdf/2ndAdultUseZoningWin.pdf">City Wins Another Longstanding Case Involving Adult Use Zoning Laws, This Time Affecting Topless Bars and Strip Clubs 4/16/10</a>&#160;(in <a href="http://get.adobe.com/reader/">PDF</a>)   </p><p><a href="../../downloads/pdf/Adult_Use_Zoning_Win.pdf">City Wins Longstanding Case Involving Adult Use Zoning Laws 3/30/10</a> (in <a href="http://get.adobe.com/reader/">PDF</a>)</p><p><a href="../../downloads/pdf/Foreclosure_Legal_Assistance.pdf">Mayor Bloomberg Announces New <em>NYC Service</em> Initiative to Provide Free Legal Services to Homeowners in Danger of Foreclosure 3/29/10</a>&#160;<em>(released in conjunction with the Office of the Mayor)</em> (in <a href="http://get.adobe.com/reader/">PDF</a>) </p><p><a href="../../downloads/pdf/pr032410.pdf">Court Rejects Challenge to City's Newly Adopted Restrictions on the Sale of Flavored Tobacco Products 3/24/10</a>&#160;&#160;(in <a href="http://get.adobe.com/reader/">PDF</a>)         </p><p><a href="../../downloads/pdf/1WTC%20Captive%20release.pdf">World Trade Center Insurance Fund Announces Settlement of 9/11 Rescue and Debris Removal Claims&#160;<em>(Released by the Captive in Conjunction with the City and its Contractors)</em></a> (in <a href="http://get.adobe.com/reader/">PDF</a>)</p><p><a href="../../downloads/pdf/Tavern_on_the_Green_Win.pdf">City Wins Tavern on the Green Trademark Case 3/10/10</a> (in <a href="http://get.adobe.com/reader/">PDF</a>)</p><p><a href="../../downloads/pdf/Press_Pass_Release.pdf">New York City Law Department Announces Publication of New Rules for Press Passes that Incorporate Online Media 3/2/10</a> (in <a href="http://get.adobe.com/reader/">PDF</a>)</p><blockquote dir="ltr" style="MARGIN-RIGHT: 0px"><p><em>Click</em>&#160;<a href="../../downloads/pdf/Press_Pass_Rules.PDF"><em>here</em></a><em> to view the new rules.</em></p></blockquote><p><a href="../../downloads/pdf/Critical%20Mass%20Win%20SDNY.pdf">Court Finds City's Policing of Large Bike Groups Constitutional 2/16/10</a> (in <a href="http://get.adobe.com/reader/">PDF</a>)</p><p><a href="../../downloads/pdf/Medicaid.pdf">City Prevails in Two&#160;Significant Medicaid&#160;Cases: Wins Continue City's Aggressive Efforts to Recover Monies Owed to It&#160;2/12/10</a> (in <a href="http://get.adobe.com/reader/">PDF</a>)</p><p><a href="../../downloads/pdf/2555654.pdf">In Significant and Unanimous Win, Appellate Court Upholds City's Regulation of Billboards 2/3/10</a> (in <a href="http://get.adobe.com/reader/">PDF</a>)</p><p><a href="../../downloads/pdf/PCB%20Agreement%20with%20EPA.pdf">City and EPA Reach Groundbreaking Agreement on Monitoring Possible PCB Caulk Exposure in City Schools 1/19/10</a> (in <a href="http://get.adobe.com/reader/">PDF</a>)<br />
+<br /><a href="../../downloads/pdf/13-09%20(Nigeria%20Lawsuit).pdf">Mayor Bloomberg Announces Lawsuit to Collect up to $16 Million in Unpaid Real Estate Taxes from Nigerian Government 1/12/10</a>&#160;<em>(released in conjunction with the Office of the Mayor)</em> (in <a href="http://get.adobe.com/reader/">PDF</a>) </p><p><a href="../../downloads/pdf/2526126.pdf">New York City Corporation Counsel Michael A. Cardozo and Philadelphia City Solicitor Shelley R. Smith Come Together in the Name of Public Service to Honor 2009 Yankees-Phillies World Series "Friendly Wager" 1/6/10</a> (in <a href="http://get.adobe.com/reader/">PDF</a>)</p></span>
+										
+								
+						
+
+					
+
+					 
+					   
+						
+					 
+					 
+					
+					</td><td align="left" bgcolor="" valign="top" width="60"><img src="../../includes/site_images/spacers/spacer_60_30.gif" alt="" width="60" height="30" border="0"></td></tr>
+
+					
+
+					  
+				   
+					  
+						<tr><td colspan="3" align="left" valign="top" bgcolor="" width="589">
+							
+							</td></tr>
+						
+					
+						<tr><td align="left" bgcolor="" valign="top" width="30"><img src="../../includes/site_images/spacers/spacer_30_30.gif" alt="" width="30" height="30" border="0">
+						</td><td align="left" bgcolor="" valign="top" width="499"><img src="../../includes/site_images/spacers/spacer_499_15.gif" alt="" width="499" height="15" border="0"><br>
+					  
+							
+						
+					  
+							
+							<span class="headline"><a name="2009"></a>2009 Press Releases<br>
+								</span>
+								
+							
+									
+									
+											<span class="bodytext"><br /><a href="../../downloads/pdf/waste_transfer_station.pdf">Manhattan Judge Dismisses Suit Challenging the Planned Marine Waste Transfer Station at East 91st Street and the East River 12/28/09</a>&#160;(in <a href="http://get.adobe.com/reader/">PDF</a>) <br />
+  <br /><a href="../../downloads/pdf/2512953.pdf">State's Highest Court Rules 6-0, Upholding the Police Commissioner's Authority to Choose the Official Method for Drug Testing 12/17/09</a> (in <a href="http://get.adobe.com/reader/">PDF</a>) 
+
+<p style="MARGIN-top: 0in"><a href="../../downloads/pdf/2507945.pdf">Federal Court Rejects Effort to Enjoin Mandatory Breathalyzer Tests for Police Officers Involved in Shootings 12/11/09</a> (in <a href="http://get.adobe.com/reader/">PDF</a>)<br />
+<br /><a href="../../downloads/pdf/2009_Awards_Ceremony.pdf">Mayor Michael Bloomberg Honors Law Department Staff at 28th Annual Awards Ceremony 12/10/09</a> (in <a href="http://get.adobe.com/reader/">PDF</a>)</p><p><a href="../../downloads/pdf/1MediaRelease%20Final.pdf">Corporation Counsel Michael A. Cardozo Honored at 2009 Cyrus R. Vance Tribute 12/4/09</a> (<em>released in conjunction with The Fund for Modern Courts</em>) (in <a href="http://get.adobe.com/reader/">PDF</a>)<br /><br /><a href="../../downloads/pdf/2497847_1.pdf">Mayor Michael R. Bloomberg and Department of Design and Construction Sue Comptroller William Thompson to Compel Registration of Brooklyn House of Detention Design Contract 12/1/09</a> (in <a href="http://get.adobe.com/reader/">PDF</a>)<br />
+ <br /><a href="../../downloads/pdf/Willets%20Point%20Win%20-%20Eastern%20District.pdf">Federal District Court Dismisses Lawsuit Challenging the Lack of Development in Willets Point 11/25/09</a> (in <a href="http://get.adobe.com/reader/">PDF</a>)</p><p><a href="../../downloads/pdf/2490745_1.pdf">State Court Rejects Challenge to Mayor's Green Taxi Incentives Program 11/20/09</a> (in <a href="http://get.adobe.com/reader/">PDF</a>)</p><p><a href="../../downloads/pdf/Hoax%20Bomb%20Arrest%20Win.pdf">Jury Sides with City in Excessive Force Lawsuit Filed by Man Arrested Over Suspected Bomb Device 11/19/09</a> (in <a href="http://get.adobe.com/reader/">PDF</a>) </p><p><span class="bodytext"><span class="bodytext"><a href="../../downloads/pdf/Fifth_Ave_Parade_Win_2nd_Circuit.pdf">City's Prohibition of New Parades Along Fifth Avenue Found Consistent with the First Amendment 11/17/09</a></span> (in <a href="http://get.adobe.com/reader/">PDF</a>)</span></p><p><span class="bodytext"><a href="http://www.nyc.gov/portal/site/nycgov/menuitem.c0935b9a57bb4ef3daf2f1c701c789a0/index.jsp?pageID=mayor_press_release&amp;catID=1194&amp;doc_name=http%3A%2F%2Fwww.nyc.gov%2Fhtml%2Fom%2Fhtml%2F2009b%2Fpr489-09.html&amp;cc=unused1978&amp;rc=1194&amp;ndi=1">Statements of Mayor Michael Bloomberg and Corporation Counsel Cardozo on Passage of Bill by State Legislature to Present Double Dipping of Public Funds 11/10/09</a></span></p><p><a href="../../downloads/pdf/2476258_1.pdf">Man Who Claims That He Was On The S.I. Ferry During The Tragic 2003 Crash - And Whom The City Alleges Wasn't - Loses Lawsuit; This Victory is an Example of How The City's Law Department and Department of Investigation Aggressively Pursue Fraudulent Cases 11/4/09</a> (in <a href="http://get.adobe.com/reader/">PDF</a>)<br />
+ <br /><a href="../../downloads/pdf/2470889_1.pdf">Inspired By Their Respective Mayors, New York City Corporation Counsel Michael A. Cardozo and Philadelphia City Solicitor Shelley R. Smith Make Friendly Wager on the 2009 Yankees-Phillies World Series 10/28/09</a>&#160;(in <a href="http://get.adobe.com/reader/">PDF</a>)<br />
+&#160;<br /><a href="../../downloads/pdf/Exxon%20MTBE%20Win.pdf">ExxonMobil Found Liable for $105 Million for Contaminating New York City's Groundwater 10/19/09</a> (in <a href="http://get.adobe.com/reader/">PDF</a>)<br /><br /><span><span><span><span><span><span><span class="bodytext"><span><span><span><span><span><span><span><span><span><span><span><span><span class="bodytext"><span><span><span><span><span><span><span><span><span><span><span><span><span class="bodytext"><span><span><span><span><span><span><span><span><span><span><span><span><span class="bodytext"><span><span><span><span><span><span><a href="../../downloads/pdf/2456347_1.pdf">Federal Appeals Court Declines to Stop Injunction Against Illegal Cigarettes 10/14/09</a> (in <a href="http://get.adobe.com/reader/">PDF</a>)</span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span>&#160;</p><p><span><span><span><span><span><span><span class="bodytext"><span><span><span><span><span><span><span><span><span><span><span><span><span class="bodytext"><span><span><span><span><span><span><span><span><span><span><span><span><span class="bodytext"><span><span><span><span><span><span><span><span><span><span><span><span><span class="bodytext"><span><span><span><span><span><span><a href="../../downloads/pdf/2549652_1.pdf">U.S. Supreme Court Rules 9-0 in New York City's Favor in Tax Matter; Win is First Unanimous Ruling for the City at the Nation's Highest Court in More Than 20 Years 6/8/09</a> (in <a href="http://get.adobe.com/reader/">PDF</a>)</span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span>&#160;</p><p><span><span><span><span><span><span><span class="bodytext"><span><span><span><span><span><span><span><span><span><span><span><span><span class="bodytext"><span><span><span><span><span><span><span><span><span><span><span><span><span class="bodytext"><span><span><span><span><span><span><span><span><span><span><span><span><span class="bodytext"><span><span><span><span><span><span><a href="../../downloads/pdf/Celotex.pdf">New York City Awarded an Additional $1.5 Million in Celotex Asbestos Bankruptcy 6/5/09</a> (in <a href="http://get.adobe.com/reader/">PDF</a>)</span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span>&#160;</p><p><span><span><span><span><span><span><span class="bodytext"><span><span><span><span><span><span><span><span><span><span><span><span><span class="bodytext"><span><span><span><span><span><span><a href="../../downloads/pdf/Novello_Medicaid_Win.pdf">Appeals Court Determines the State Must Pay $28.6 Million in Medicaid Reimbursement to the City of New York 6/4/09</a> (in <a href="http://get.adobe.com/reader/">PDF</a>)</span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span>&#160;</p><p><span><span><span><span><span><span><span class="bodytext"><span><span><span><span><span><span><a href="../../downloads/pdf/2326471_1.pdf">City Receives Record $1.1 Million Settlement Payment Over Owners' Failure to Maintain the Landmarked Windermere Apartment Complex on Manhattan's Upper West Side 5/21/09</a> (in <a href="http://get.adobe.com/reader/">PDF</a>)</span></span></span></span></span></span></span></span></span></span></span></span></span>&#160;</p><p><span><span><span><span><span><span><span class="bodytext"><span><span><span><span><span><span><a href="../../downloads/pdf/2306633_1%20(2).pdf">State's Highest Court Clarifies the Rights of Non-Custodial Parents Regarding Educational Decision-Making 4/30/09</a> (in <a href="http://get.adobe.com/reader/">PDF</a>)</span></span></span></span></span></span></span></span></span></span></span></span></span>&#160;</p><p><span><span><span><span><span><span><span class="bodytext"><span><span><span><span><span><span><a href="../../downloads/pdf/2304275_1%20(2).pdf">Federal Appeals Court Unanimously Backs Lower Court in Term Limits Case 4/28/09</a> (in <a href="http://get.adobe.com/reader/">PDF</a>)</span></span></span></span></span></span></span></span></span></span></span></span></span>&#160;</p><p><span><span><span><span><span><span><span class="bodytext"><span><span><span><span><span><span><a href="../../downloads/pdf/2299308_1.pdf">State Supreme Court Affirms City's Choice of Downtown Heliport Manager 4/22/09</a> (in <a href="http://get.adobe.com/reader/">PDF</a>)</span></span></span></span></span></span></span></span></span></span></span></span></span>&#160;</p><p><span><span><span><span><span><span><span class="bodytext"><span><span><span><span><span><span><a href="../../downloads/pdf/2282927_1%20(2).pdf">Michael A. Cardozo Sets Record as Longest-Serving Corporation Counsel in New York City's History 4/3/09</a> (in <a href="http://get.adobe.com/reader/">PDF</a>)</span></span></span></span></span></span></span></span></span></span></span></span></span>&#160;</p><p><span><span><span><span><span><span><span class="bodytext"><span><span><span><span><span><span><a href="../../downloads/pdf/2279274_1.pdf">City Regulation of Outdoor Advertising Deemed Constitutional 3/31/09</a> (in <a href="http://get.adobe.com/reader/">PDF</a>)</span></span></span></span></span></span></span></span></span></span></span></span></span>&#160;</p><p><span><span><span><span><span><span><span class="bodytext"><span><span><span><span><span><span><a href="../../downloads/pdf/MAC%20PR%20March%202009.pdf">Statement of New York City Corporation Counsel Michael A. Cardozo with Respect to His Congressional Testimony Today Urging a Reopening of the Victim Compensation Fund 3/31/09</a> (in <a href="http://get.adobe.com/reader/">PDF</a>).</span></span></span></span></span></span></span></span></span></span></span></span></span></p><p><a href="../../downloads/pdf/Michael%20Cardozo%20testimony%203-31-09.pdf">Testimony of Michael A. Cardozo, Corporation Counsel of the City of New York, Before The House Committee on the Judiciary, Subcommittee on Immigration, Citizenship, Refugees, Border Security, and International Law And Subcommittee on the Constitution, Civil Rights, and Civil Liberties, On H.R. 847, The James Zadroga 9/11 Health and Compensation Act of 2009 (3/31/09)</a> (in <a href="http://get.adobe.com/reader/">PDF</a>)</p><p><span><span><a href="../../downloads/pdf/2276328_1%20(2).pdf">Judge Rules That New York City Can Proceed with Renovation and Rehabilitation of Union Square Park 3/30/09</a> (in <a href="http://get.adobe.com/reader/">PDF</a>)</span></span>&#160;</p><p><span><span><a href="../../downloads/pdf/Preclearance%20Approval%20(3%2017%2009).pdf">U.S. Department of Justice (DOJ) Approves Term Limits Law, DOJ Agrees That Local Law 51 Will Not Diminish Minority Voting Opportunities 3/17/09</a> (in <a href="http://get.adobe.com/reader/">PDF</a>)</span></span>&#160;</p><p><span><span><a href="../../downloads/pdf/DOJLetter.pdf">Letter from U.S. Department of Justice&#160;"Preclearing" Term Limits Law (Local Law 51), Issued March 17, 2009</a> (in <a href="http://get.adobe.com/reader/">PDF</a>)</span></span>&#160;</p><p><span><span><a href="../../downloads/pdf/pr031109.pdf">Statement by Michael A. Cardozo, Corporation Counsel, New York City Law Department - Responding to Press Inquiries on Stuyvesant Town Legal Matters 3/11/09</a> (in <a href="http://get.adobe.com/reader/">PDF</a>)&#160;</span></span>&#160;</p><p><span><a href="../../downloads/pdf/Calorie_Case%20_%20Appeals_Win.pdf">Federal Appeals Court Upholds New York City's Landmark Health Code Provision Requiring Certain Chain Restaurants to Post Calorie Information on Menus and Menu Boards 2/17/09</a> (in <a href="http://get.adobe.com/reader/">PDF</a>)&#160;</span>&#160;</p><p><a href="http://www.nyc.gov/portal/site/nycgov/menuitem.c0935b9a57bb4ef3daf2f1c701c789a0/index.jsp?pageID=mayor_press_release&amp;catID=1194&amp;doc_name=http%3A%2F%2Fwww.nyc.gov%2Fhtml%2Fom%2Fhtml%2F2009a%2Fpr049-09.html&amp;cc=unused1978&amp;rc=1194&amp;ndi=1">Mayor Bloomberg Announces the The Philippines Agrees to Pay $9 Million in Back Property Taxes and Interest to the City (<em>released in conjunction with the Office of the Mayor</em>) 1/29/09</a>&#160;(in <a href="http://get.adobe.com/reader/">PDF</a>)</p><p dir="ltr"></p><a href="../../downloads/pdf/JudicialSelectionTestimony.pdf">Corporation Counsel Michael A. Cardozo Testifies Before State Senate Judiciary Committee; Makes Procedural Recommendations to Strengthen New York's Judicial Selection Process 1/27/09</a> (in <a href="http://get.adobe.com/reader/">PDF</a>) 
+
+<p dir="ltr"><a href="../../downloads/pdf/2195869_1.pdf">City Attorneys File "Preclearance Submission" with the U.S. Department of Justice for Term Limits Law</a> (in <a href="http://get.adobe.com/reader/">PDF</a>)</p><p dir="ltr">Term Limits Preclearance Items (Submitted to U.S. Department of Justice)</p><blockquote dir="ltr"><p dir="ltr"><a href="../../downloads/pdf/CitysSection5PreclearanceSubmission_LL_51_Jan152009_Legal2195986.PDF">Main Submission</a><br /><br /><a href="../../downloads/pdf/Appendix1_%20Legal2195508.PDF">Appendix 1</a><br /><br /></p><table width="589"><tbody><tr><td><p><a href="../../downloads/pdf/Exhibit_1_Legal2193623.PDF">Exhibit 1</a><br /><a href="../../downloads/pdf/Exhibit_2_Legal2192875.PDF">Exhibit 2</a><br /><a href="../../downloads/pdf/Exhibits_3_8_Legal2192983.PDF">Exhibits 3-8</a><br /><a href="../../downloads/pdf/Exhibit_9_Legal2192695.PDF">Exhibit 9</a><br /><a href="../../downloads/pdf/Exhibit_10_Legal2192656.PDF">Exhibit 10</a><br /><a href="../../downloads/pdf/Exhibit_11_Legal2192662.PDF">Exhibit 11</a><br /><a href="../../downloads/pdf/Exhibit_12_Legal2192667.PDF">Exhibit 12</a><br /><a href="../../downloads/pdf/Exhibit_13_Legal2192658.PDF">Exhibit 13</a></p></td><td><p><a href="../../downloads/pdf/Exhibits_14_17_Legal2193386.PDF">Exhibits 14-17</a><br /><a href="../../downloads/pdf/Exhibit_18_Legal2193106.PDF">Exhibit 18</a><br /><a href="../../downloads/pdf/Exhibit_19_Legal2193108.PDF">Exhibit 19</a><br /><a href="../../downloads/pdf/Exhibits_20_23_Legal2192907.PDF">Exhibits 20-23</a><br /><a href="../../downloads/pdf/Exhibit20A_Legal2194632.PDF">Exhibit 20A</a><br /><a href="../../downloads/pdf/Exhibit_24_Legal2193026.PDF">Exhibit 24</a><br /><a href="../../downloads/pdf/Exhibit_25_Legal2193034.PDF">Exhibit 25</a><br /></p></td></tr></tbody></table></blockquote><p dir="ltr"><br /><a href="../../downloads/pdf/2192197_1.pdf">Law Department's Workers' Comp. Chief is Elected Chairman of New York Self Insurers Association 1/15/09</a> (in <a href="http://get.adobe.com/reader/">PDF</a>)</p><p><a href="../../downloads/pdf/TermLimitsWin.pdf">City Prevails In Term Limits Case, With Federal Court Judge Issuing A Swift Ruling That Allows Voters To Decide Who Should Be The Next Mayor 1/13/09</a> (in <a href="http://get.adobe.com/reader/">PDF</a>)</p></span>
+										
+								
+						
+
+					
+
+					 
+					   
+						
+					 
+					 
+					
+					</td><td align="left" bgcolor="" valign="top" width="60"><img src="../../includes/site_images/spacers/spacer_60_30.gif" alt="" width="60" height="30" border="0"></td></tr>
+
+					
+
+					  
+				   
+					  
+						<tr><td colspan="3" align="left" valign="top" bgcolor="" width="589">
+							
+							</td></tr>
+						
+					
+						<tr><td align="left" bgcolor="" valign="top" width="30"><img src="../../includes/site_images/spacers/spacer_30_30.gif" alt="" width="30" height="30" border="0">
+						</td><td align="left" bgcolor="" valign="top" width="499"><img src="../../includes/site_images/spacers/spacer_499_15.gif" alt="" width="499" height="15" border="0"><br>
+					  
+							
+						
+					  
+							
+							<span class="headline"><a name="2008"></a>2008 Press Releases<br>
+								</span>
+								
+							
+									
+									
+											<span class="bodytext">  
+
+<p style="MARGIN-top: 0in"><a href="../../downloads/pdf/2176146_1.pdf">Appellate Court Reinstates Campaign Finance Board&#8217;s Determination in its Entirety Against the Espada 2001 Campaign, Candidate Pedro Espada, Jr., and Treasurer Kenneth Brennan 12/31/08</a>&#160;(in <a href="http://get.adobe.com/reader/">PDF</a>)</p><p><span><span><a href="../../downloads/pdf/bigapplemaps.pdf">State's Highest Court Rules that &#8221;Big Apple Maps" Must Be Specific and Clear in Providing Prior Written Notice to City on Sidewalks and Road Defects 12/18/08</a>&#160;(in <a href="http://get.adobe.com/reader/">PDF</a>)</span></span></p><p class="ForImmediateRelease" align="left"><span><span><a href="../../downloads/pdf/legalbriefs.pdf">Legal Briefs in Mayoral Term Limit Case 12/12/08</a> (in <a href="http://get.adobe.com/reader/">PDF</a>)</span></span></p><p><span><span><a href="../../downloads/pdf/pr121108.pdf">Court Dismisses Developer's Third Lawsuit to Erect a 19-Story Dormitory at the Site of a Landmarked Building 12/11/08</a>&#160;(in <a href="http://get.adobe.com/reader/">PDF</a>)</span></span></p><p><span><span><a href="../../downloads/pdf/labor-wins.pdf">&#8220;Tireless&#8221; Labor &amp; Employment Law Division Scores Four Victories In Four Cases In One Week; Decisions Will Save The City Hundreds Of Millions Of Dollars 12/4/08</a>&#160;(in <a href="http://get.adobe.com/reader/">PDF</a>)&#160;</span></span></p><p class="ForImmediateRelease" align="left"><span><span><a href="../../downloads/pdf/pr120308.pdf">Mayor Michael R. Bloomberg Honors Law Department Staff at 27th Annual Awards Ceremony 12/03/08</a> (in <a href="http://get.adobe.com/reader/">PDF</a>)</span></span></p><p class="ForImmediateRelease" align="left"><span><a href="../../downloads/pdf/PS%2064%20Landmarks%20Facade%20Win.pdf">State Supreme Court Upholds City&#8217;s Landmark Designation of Deliberately Altered Former East Village Public School 11/17/08</a>&#160;<em>(released in conjunction with the Landmarks Preservation Commission)</em> (in <a href="http://get.adobe.com/reader/">PDF</a>)&#160;</span></p><p><a href="../../downloads/pdf/pr102808.pdf">State&#8217;s Highest Court Unanimously Reverses Two Lower Courts and Rules in the City&#8217;s Favor in an Eminent Domain case, the First Decision of its Kind in 40 years 10/28/08</a> (in <a href="http://www.adobe.com/products/acrobat/readstep2.html">PDF</a> )</p><p><a href="../../downloads/pdf/101608.pdf">Testimony of Bloomberg Administration Officials Anthony Crowell and Michael Cardozo on Intro. 845-A Before The New York City Council Committee on Governmental Operations Concerning the Extension of Term Limits 10/16/08</a>&#160;<em>(released in conjunction with the NYC Office of the Mayor)</em> (in <a href="http://www.adobe.com/products/acrobat/readstep2.html">PDF</a> )</p><p><a href="../../downloads/pdf/pr92908.pdf">Mayor Bloomberg and Corporation Counsel Cardozo Sue To Stop Illegal Cigarette Sales At Eight Long Island Indian Smoke Shops That Have Cost New York Taxpayers $720 Million In Lost Revenue 9/29/08</a>&#160;<em>(released in conjunction with the NYC Office of the Mayor)</em> (in <a href="http://www.adobe.com/products/acrobat/readstep2.html">PDF</a> )</p><p><a href="../../downloads/pdf/92608.pdf">Judge Upholds City&#8217;s Plan To Revitalize West Harlem And Allow Columbia University to Develop a New, Mixed-Use Academic Campus 9/26/08</a> (in <a href="http://www.adobe.com/products/acrobat/readstep2.html">PDF</a> )</p><p><a href="../../downloads/pdf/pr92308.pdf">Mayor Bloomberg Announces Final Settlement in Groundbreaking Litigation Against Gun Dealers Caught Selling in Apparent Violation of Federal Law 9/23/08</a>&#160;<em>(released in conjunction with the NYC Office of the Mayor)</em> (in <a href="http://www.adobe.com/products/acrobat/readstep2.html">PDF</a> )</p><p align="left"><a href="../../downloads/pdf/pr9082008.pdf">Mayor Bloomberg Announces Settlement With The Legal Aid Society Ending 25-Year Litigation And Court Oversight Of Homeless Family Services System 9/17/08</a>&#160;<em>(released in conjunction with the NYC Office of the Mayor)</em>&#160;<span class="bodytext">(in <a href="http://www.adobe.com/products/acrobat/readstep2.html">PDF</a> )</span></p><p align="left"><span class="bodytext">Final Judgements and Administrative Procedure in the Homeless Family Services Settlement:</span></p><ul><li><span class="bodytext"><a href="../../downloads/pdf/BOSTON%20FINAL%20JUDGMENT%209%2017%2008%20%20FINAL%20AT%20CITY%20HALL.pdf">Ebony Boston, et al.</a>&#160;</span></li><li><div align="left"><span class="bodytext"><a href="../../downloads/pdf/McCAIN-LAMBOY%20FINAL%20JUDGMENT%20%209%2017%2008%20%20FINAL%20AT%20CITY%20HALL!.pdf">Yvonne McCain, et al.</a></span>&#160;</div><div align="left"></div></li><li><span class="bodytext"><a href="../../downloads/pdf/SLADE%20FINAL%20JUDGMENT%20%209%2017%2008%20%20FINAL%20CITY%20HALL!.pdf">Karen Slade, et al.</a>&#160;</span><div></div></li><li><div align="left"><span class="bodytext"><a href="../../downloads/pdf/COSENTINO%20FINAL%20JUDGMENT%20%20FINAL%209%2017%2008%20FINAL%20CITY%20HALL!.pdf">Katherine Cosentino, et al.</a></span></div><div></div><div></div><div align="left"></div></li><li><span class="bodytext"><a href="../../downloads/pdf/SLADE%20FINAL%20JUDGMENT%20%209%2017%2008%20%20FINAL%20CITY%20HALL!.pdf">Karen Slade, et al.</a>&#160;</span><div></div></li><li><div align="left"><span class="bodytext"><a href="../../downloads/pdf/COSENTINO%20FINAL%20JUDGMENT%20%20FINAL%209%2017%2008%20FINAL%20CITY%20HALL!.pdf">Katherine Cosentino, et al.</a></span></div><span class="bodytext"><a href="../../downloads/pdf/COSENTINO%20FINAL%20JUDGMENT%20%20FINAL%209%2017%2008%20FINAL%20CITY%20HALL!.pdf">Katherine Cosentino, et al.</a></span><div></div></li><li><div align="left"><span class="bodytext"><a href="../../downloads/pdf/Nelson91708.pdf">Ebony Boston, M.T. and Pamela Nelson</a>&#160;</span></div></li><li><div align="left"><span class="bodytext"><span class="bodytext"><span class="bodytext"><a href="../../downloads/pdf/PROCEDURE%20RE%20BOSTON%20FINAL%20JUDGMENT%20%209%2017%2008%20FINAL%20CITY%20HALL!.pdf">Administrative Procedure</a>&#160;</span></span></span></div><div></div></li></ul><p align="center"><span class="bodytext">* * *</span></p><p class="ForImmediateRelease" align="left"><a href="../../downloads/pdf/pr11909.pdf">Corporation Counsel Hails TWU&#8217;s Pledge To Not Conduct Future Illegal Strikes: City Agrees To Not Object To The Reinstatement of Dues Check-Offs 9/10/08</a> (in <a href="http://www.adobe.com/products/acrobat/readstep2.html">PDF</a> )</p><p><span><a href="../../downloads/pdf/pr%207-18-08.pdf">Celeste Koeleveld, Top Law Enforcement and Criminal Expert, Joins Law Department as Executive Assistant for Public Safety 7/18/08</a>&#160;<span class="bodytext">(in <a href="http://www.adobe.com/products/acrobat/readstep2.html">PDF</a> )</span></span></p><p><a href="../../downloads/pdf/pr71508.pdf">Bristol-Myers Squibb Settles Medicaid Fraud Suit for $40 Million,with NYC Allocated $7.5 Million &#8211; Almost the Full Value of Its Claims 7/15/08</a>&#160;<span class="bodytext">(in <a href="http://www.adobe.com/products/acrobat/readstep2.html">PDF</a> )</span></p><p><a href="../../downloads/pdf/70108.pdf">Waterfront Access Restored In Red Hook: City Wins Lawsuit To Remove 200-Foot Long Metal Fence Blocking Waterfront Access 7/1/08</a>&#160;<span class="bodytext">(in <a href="http://www.adobe.com/products/acrobat/readstep2.html">PDF</a> ) <a href="../../downloads/pdf/Quadrozzi%20001.jpg">See picture</a>&#160;</span></p><p><a href="../../downloads/pdf/pr6408.pdf">NYC Bar Association Announces Winners of the Third Annual Diversity Champion Award, Corp Counsel Michael Cardozo Recipient of the 2008 Diversity Champion Award 6/4/08</a>&#160;<span class="bodytext">(in <a href="http://www.adobe.com/products/acrobat/readstep2.html">PDF</a> )</span><br />
+*Joint Release between the NYC Law Dept and the NYC Bar Association</p><p><span><a href="../../downloads/pdf/pr6208.pdf">Gun Dealer Adventure Outdoors Defaults in Prominent Gun Case 6/2/08</a>&#160;<span class="bodytext">(in <a href="http://www.adobe.com/products/acrobat/readstep2.html">PDF</a> )</span></span></p><p><span><a href="../../downloads/pdf/pr53008.pdf">Law Department Police Expert &#8211; and &#8220;Legal Eagle&#8221; &#8211; Gail Donoghue Retires After 21 Years of Public Service 5/30/08</a>&#160;<span class="bodytext">(in <a href="http://www.adobe.com/products/acrobat/readstep2.html">PDF</a> )</span></span></p><p class="Default"><span><a href="../../downloads/pdf/pr52808t.pdf">The City, Several States and Local Governments File Lawsuit Against the EPA Seeking Stronger Safeguards Against Smog 5/28/08</a>&#160;<span class="bodytext">(in <a href="http://www.adobe.com/products/acrobat/readstep2.html">PDF</a> )</span></span></p><p class="Default"><span><a href="../../downloads/pdf/pr52008.pdf">Government Officials From Across The State Gather to Call for an End to Double Dipping of Public Funds: Loophole Costs Local Governments Millions A Year *Released in conjunction with the Coalition to End Double Dipping 5/20/08</a>&#160;<span class="bodytext">(in <a href="http://www.adobe.com/products/acrobat/readstep2.html">PDF</a> )</span></span></p><p><a href="../../downloads/pdf/Spanish%20Ray.pdf">City Prevails in Case of 30-year Smoker, &#8220;Spanish Raymond,&#8221; Who Sued the Department of Correction For Causing His Cancer; Matter Cited as an Example of Ridiculous Lawsuits 5/13/08</a>&#160;(in <a href="http://www.adobe.com/products/acrobat/readstep2.html">PDF</a>)</p><p><a href="../../downloads/pdf/Weekend%20Arraignments.pdf">Mayor Bloomberg Announces New Weekend Court Processing So Youth Who Present Low Risk To The Community Can Be Returned Home Swiftly 5/12/08</a>&#160;(in <a href="http://www.adobe.com/products/acrobat/readstep2.html">PDF</a>)</p><p><a href="../../downloads/pdf/Windermere.pdf">State Supreme Court Justice Orders Repairs To Landmarked Windermere Apartment Complex In West Midtown Manhattan 5/9/08</a>&#160;(in <a href="http://www.adobe.com/products/acrobat/readstep2.html">PDF</a>)</p><p><a href="../../downloads/pdf/Union%20Sq%20Park.pdf">City Given Green Light By Court To Rehabilitate Union Square Park 5/7/08</a>&#160;(in <a href="http://www.adobe.com/products/acrobat/readstep2.html">PDF</a>)</p><p><span><span><span><span><u><a href="../../downloads/pdf/pr512008.pdf">Federal Court Upholds Claims Under Federal Contraband Cigarette Trafficking Act Against Cigarette Wholesalers For Sales Of Untaxed Cigarettes 5/1/08</a></u> (in <a href="http://www.adobe.com/products/acrobat/readstep2.html">PDF</a>)</span></span></span></span></p><p align="left"><span><span><a href="../../downloads/pdf/pr042308.pdf">New York City Law Department Hosts its Sixth Annual "Take Our Daughters and Sons to Work Day" with Anticipated Record Turnout of over 230 Kids&#160;4/23/08</a>&#160;(in <a href="http://www.adobe.com/products/acrobat/readstep2.html">PDF</a>)</span></span></p><p class="Default" align="left"><span><a href="../../downloads/pdf/pr041608.pdf">Federal Court Upholds NYC Health Code Provision Requiring Certain Restaurants To Post Calorie Information On Menu And Menu Boards&#160;4/16/08</a>&#160;(in <a href="http://www.adobe.com/products/acrobat/readstep2.html">PDF</a>)</span></p><p class="Default" align="left"><u><a href="../../downloads/pdf/pr422008.pdf">New York City Petitions Court To Require The Environmental Protection Agency To Comply With Supreme Court Order 4/2/08</a></u> (in <a href="http://www.adobe.com/products/acrobat/readstep2.html">PDF</a>)</p><p><a href="../../downloads/pdf/pr032508.pdf">State&#8217;s Highest Court Unanimously Finds That City Acted Correctly In Requiring School Dorm Developer To Have Educational Affiliations&#160;3/25/08</a>&#160;(in <a href="http://www.adobe.com/products/acrobat/readstep2.html">PDF</a>)</p><p align="left"><span><a href="../../downloads/pdf/Windermere%20release.pdf">City&#8217;s Law Department and Landmarks Commission Announce Lawsuit to Save Historic Landmarked Apartment Building &#8211; The Windermere &#8211; Located at Gateway to Manhattan&#8217;s Upper West Side&#160;3/20/08</a> (in <a href="http://www.adobe.com/products/acrobat/readstep2.html">PDF</a>)</span></p><p align="left"><span><a href="../../downloads/pdf/Indiataxwin.pdf">Federal Court Awards NYC $57.6 Million in Property Tax Case Involving India, Mongolia and The Philippines&#160;3/18/08</a> (in <a href="http://www.adobe.com/products/acrobat/readstep2.html">PDF</a>)</span></p><p align="left"><a href="../../downloads/pdf/GPS_win_2008.pdf">Lawsuit Challenging Taxi GPS Requirements Withdrawn, Resulting in Complete Victory for the City 3/13/08</a>&#160;(in <a href="http://www.adobe.com/products/acrobat/readstep2.html">PDF</a>)</p><p><a href="../../downloads/pdf/pr020108.pdf">Federal Appeals Court Upholds Atlantic Yards Project&#160;2/1/08</a>&#160;(in <a href="http://www.adobe.com/products/acrobat/readstep2.html">PDF</a>)</p><p><a href="../../downloads/pdf/pr012808.pdf"><em>New York Law Journal</em> And New York City Law Department Announce Publication Of <em>"Fighting For The City"</em></a><u>&#160;1/28/08</u>&#160;(in <a href="http://www.adobe.com/products/acrobat/readstep2.html">PDF</a>)</p><p><a href="../../downloads/pdf/pr011708.pdf">New York City, Environmental Groups and Northeast States ChallengeWeak Energy Standards for Home Heating Appliances</a> *<em>Released in conjunction with Earthjustice 1/17/08</em> (in <a href="http://www.adobe.com/products/acrobat/readstep2.html">PDF</a>)</p><p><a href="../../downloads/pdf/pr011108.pdf">State Appellate Court Dismisses Challenge to City's Agreement with MTA to Transfer Operations of Private Bus Lines 1/11/08</a>&#160;(in <a href="http://www.adobe.com/products/acrobat/readstep2.html">PDF</a>)</p><p align="right">[<a href="#top">back to top</a>]</p></span>
+										
+								
+						
+
+					
+
+					 
+					   
+						
+					 
+					 
+					
+					</td><td align="left" bgcolor="" valign="top" width="60"><img src="../../includes/site_images/spacers/spacer_60_30.gif" alt="" width="60" height="30" border="0"></td></tr>
+
+					
+
+					  
+				   
+					  
+						<tr><td colspan="3" align="left" valign="top" bgcolor="" width="589">
+							
+							</td></tr>
+						
+					
+						<tr><td align="left" bgcolor="" valign="top" width="30"><img src="../../includes/site_images/spacers/spacer_30_30.gif" alt="" width="30" height="30" border="0">
+						</td><td align="left" bgcolor="" valign="top" width="499"><img src="../../includes/site_images/spacers/spacer_499_15.gif" alt="" width="499" height="15" border="0"><br>
+					  
+							
+						
+					  
+							
+							<span class="headline"><a name="2007"></a>2007 Press Releases<br>
+								</span>
+								
+							
+									
+									
+											<span class="bodytext"><a href="../../downloads/pdf/pr122807.pdf">City Prevails in Another Federal Case Involving Taxi GPS Systems 12/28/07</a> (in <a href="http://www.adobe.com/products/acrobat/readstep2.html">PDF</a>) 
+
+<p style="MARGIN-top: 0in"><a href="../../downloads/pdf/pr121307.pdf">Deputy Mayor Denis M. Walcott Honors Law Department Staff at 26th Annual Awards Ceremony 12/13/07</a> &#160;(in <a href="http://www.adobe.com/products/acrobat/readstep2.html">PDF</a>)</p>
+
+<p><a href="../../downloads/pdf/pr120507.pdf">NYC and Others Urge the Environmental Protection Agency to Curb Greenhouse Gases from Aircraft 12/5/07</a>&#160;(in <a href="http://www.adobe.com/products/acrobat/readstep2.html">PDF</a>)</p>
+
+<p><a href="../../downloads/pdf/pr120307.pdf">Judge Rules Washington Square Park Renovations Can Go Forward 12/3/07</a>&#160;(in <a href="http://www.adobe.com/products/acrobat/readstep2.html">PDF</a>)</p>
+
+<p><a href="../../downloads/pdf/pr103007.pdf">Mayor Bloomberg Announces Legal Victory In Order to Curb Illegal Hotels in New York City&#160; *Released in conjunction with City Hall 10/30/07</a>&#160;(in <a href="http://www.adobe.com/products/acrobat/readstep2.html">PDF</a>)</p>
+
+<p><a href="../../downloads/pdf/pr102607.pdf"><span>Mayor Michael R. Bloomberg Hosts Leading Law Firms at Gracie Mansion Event, Offering Thanks For Millions In Time And Legal Expertise Donated&#160;To New York City&#160;10/26/07</span></a> &#160;(in <a href="http://www.adobe.com/products/acrobat/readstep2.html">PDF</a>)</p>
+
+<p><a href="../../downloads/pdf/pr092807.pdf">Courts Rule Customer Service Enhancement Technology Can Be Used in Taxis</a><u>&#160;9/28/07</u>&#160;(in <a href="http://www.adobe.com/products/acrobat/readstep2.html">PDF</a>)</p>
+
+<p><a href="../../downloads/pdf/pr092007.pdf">Corporation Counsel Michael A. Cardozo to Present Oral Argument Tomorrow in Federal Case Against Irresponsible Gun Industry Practices; Efforts Are Part of City's Campaign to Rid New York City of Illegal Firearms</a><u>&#160;9/20/07</u>&#160;(in <a href="http://www.adobe.com/products/acrobat/readstep2.html">PDF</a>)</p>
+
+<p><a href="../../downloads/pdf/pr071607.pdf">Amicus Brief Submitted to U.S. Supreme Court Urging That The Current Judicial Selection System in New York State Be Struck Down</a><u>&#160;7/16/07</u>&#160;(in <a href="http://www.adobe.com/products/acrobat/readstep2.html">PDF</a>)</p>
+
+<p><a href="../../downloads/pdf/pr062007.pdf">Manhattan Judge Supports Environmental Review of Marine Waste Transfer Station at East 91st Street and the East River</a><u>&#160;6/20/07</u>&#160;(in <a href="http://www.adobe.com/products/acrobat/readstep2.html">PDF</a>)</p>
+
+<p><a href="../../downloads/pdf/pr061407a.pdf">India and Mongolia V. The City of New York - U.S. Supreme Court Case&#160;/ Legal Primer 6/14/07</a>&#160;(in <a href="http://www.adobe.com/products/acrobat/readstep2.html">PDF</a>)</p>
+
+<p><a href="../../downloads/pdf/pr061407.pdf">U.S. Supreme Court Decides in City's Favor and Allows Tax Claims Against India and Mongolia to Proceed 6/14/07</a>&#160;(in <a href="http://www.adobe.com/products/acrobat/readstep2.html">PDF</a>)</p>
+
+<p><a href="../../downloads/pdf/pr050107.pdf">In "Law Day" Address, Corporation Counsel Michael A. Cardozo Champions Mayor's Commitment to Judicial Pay Raises and Related Reforms&#160;5/01/07</a>&#160;(in <a href="http://www.adobe.com/products/acrobat/readstep2.html">PDF</a>)</p>
+
+<p><a href="../../downloads/pdf/pr042507.pdf">New York City Law Department Invites Children to Fifth Annual "Take Our Daughters &amp; Sons to Work Day" 4/25/07</a>&#160;(in <a href="http://www.adobe.com/products/acrobat/readstep2.html">PDF</a>)</p>
+
+<p><a href="../../downloads/pdf/pr042007a.pdf">City's Fight to Pursue Tax Claims Against India and Mongolia Moves to the U.S. Supreme Court This Tuesday; Corporation Counsel Michael A. Cardozo To Present Oral&#160;Argument 4/20/07</a>&#160;(in <a href="http://www.adobe.com/products/acrobat/readstep2.html">PDF</a>)</p>
+
+<p><a href="../../downloads/pdf/pr042007.pdf">India and Mongolia v. The City of New York - U.S. Supreme Court Case / Legal&#160;Primer&#160;4/20/07</a>&#160;(in <a href="http://www.adobe.com/products/acrobat/readstep2.html">PDF</a> )</p>
+
+<p><a href="../../downloads/pdf/pr041807.pdf">Court Upholds City's Efforts to Ensure Safe Bike Processions&#160;4/18/07</a>&#160;(in <a href="http://www.adobe.com/products/acrobat/readstep2.html">PDF</a> )</p>
+
+<p><a href="../../downloads/pdf/pr040207.pdf">New York City, Along with Several States and Environmental Organizations, Prevails in U.S. Supreme Court Global Warming Case 4/2/07</a>&#160;(in <a href="http://www.adobe.com/products/acrobat/readstep2.html">PDF</a> )</p>
+
+<p><a href="../../downloads/pdf/pr032007.pdf">Mayor Bloomberg Announces Three More Gun Dealers Named in New York City Lawsuits Have Settled with City&#160; *Released in conjunction with City Hall&#160;3/20/07</a>&#160;(in <a href="http://www.adobe.com/products/acrobat/readstep2.html">PDF</a> )</p>
+
+<p><a href="../../downloads/pdf/pr031407.pdf">NYPD Wins Lawsuit Brought by Burglar Who Posed as&#160;a City Inspector 3/14/07</a>&#160;(in <a href="http://www.adobe.com/products/acrobat/readstep2.html">PDF</a> )</p>
+
+<p align="left"><a href="../../downloads/pdf/pr030807a.pdf">Appeals Court Affirms City's Plan to Go Forward with Washington Square Park Improvements 3/8/07</a>&#160;(in <a href="http://www.adobe.com/products/acrobat/readstep2.html">PDF</a> )</p>
+
+<p align="left"><a href="../../downloads/pdf/pr030807.pdf">NYPD Prevails in Case Where A Man Trespassing After-Hours in a City Park Sues Over Broken&#160;Leg 3/8/07</a>&#160;(in <a href="http://www.adobe.com/products/acrobat/readstep2.html">PDF</a> )</p>
+
+<p align="left"><a href="../../downloads/pdf/pr022607.pdf">Judge Edward R. Korman's Ruling in the Limitation Proceeding Arising from the Staten Island Ferry Accident 2/26/07</a>&#160;(in <a href="http://www.adobe.com/products/acrobat/readstep2.html">PDF</a> )</p>
+
+<p align="left"><a href="../../downloads/pdf/pr022207.pdf">Court Upholds Constitutional Challenges to City's Cabaret Laws, Enabling City to Continue to Protect Quality of Life in Residential Areas 2/22/07</a>&#160;(in <a href="http://www.adobe.com/products/acrobat/readstep2.html">PDF</a> )</p>
+
+<p align="left"><a href="../../downloads/pdf/pr021507a.pdf">Mayor Bloomberg Announces That One-Third of Gun Dealers in New York City Lawsuits Have Settled with City&#160;* released in conjunction with City Hall&#160;2/15/07</a>&#160;(in <a href="http://www.adobe.com/products/acrobat/readstep2.html">PDF</a> )</p>
+
+<p align="left"><a href="../../downloads/pdf/pr021507.pdf">Court Upholds Denial of License to Private Carting Company Employing Mob-Connected Felon Who was Thrown Out of the Carting Industry&#160;2/15/07</a>&#160;(in <a href="http://www.adobe.com/products/acrobat/readstep2.html">PDF</a> )</p>
+
+<p align="left"><a href="../../downloads/pdf/pr021407.pdf">NYPD Prevails in Anti-War Protestor Case&#160;2/14/07</a>&#160;(in <a href="http://www.adobe.com/products/acrobat/readstep2.html">PDF</a> )</p>
+
+<p align="left"><a href="../../downloads/pdf/pr020207.pdf">Mayor Bloomberg Announces Lawsuit Against Public Employment Relations Board to Move PBA Arbitration Forward&#160;* released in conjunction with City Hall&#160;2/2/07</a>&#160;(in <a href="http://www.adobe.com/products/acrobat/readstep2.html">PDF</a> )</p>
+
+<p><a href="../../downloads/pdf/pr020107.pdf">Landmarks Preservation Commission and New York City Law Department Announce Settlement Over Illegal Rooftop Tent on Greenwich Village Restaurant * released in conjunction with&#160;Landmarks Preservation Commission 2/1/07</a>&#160;(in <a href="http://www.adobe.com/products/acrobat/readstep2.html">PDF</a>)</p>
+
+<p><a href="../../downloads/pdf/pr010807a.pdf">U.S. Supreme Court Takes Case Impacting City Programs Providing Long-Term Home Health Care&#160;1/8/07</a>&#160;(in <a href="http://www.adobe.com/products/acrobat/readstep2.html">PDF</a>)</p>
+
+<p><a href="../../downloads/pdf/pr010807.pdf">Corporation Counsel Michael A. Cardozo Renews Call for Judicial Selection Reform in Testimony Before the State Senate Judiciary Committee; Says the Issue is "One of the Top Priorities" of Mayor Michael R. Bloomberg&#160;1/8/07</a>&#160;(in <a href="http://www.adobe.com/products/acrobat/readstep2.html">PDF</a>)</p>
+
+<p align="right">[<a href="#top">back to top</a>]</p></span>
+										
+								
+						
+
+					
+
+					 
+					   
+						
+					 
+					 
+					
+					</td><td align="left" bgcolor="" valign="top" width="60"><img src="../../includes/site_images/spacers/spacer_60_30.gif" alt="" width="60" height="30" border="0"></td></tr>
+
+					
+
+					  
+				   
+					  
+						<tr><td colspan="3" align="left" valign="top" bgcolor="" width="589">
+							
+							</td></tr>
+						
+					
+						<tr><td align="left" bgcolor="" valign="top" width="30"><img src="../../includes/site_images/spacers/spacer_30_30.gif" alt="" width="30" height="30" border="0">
+						</td><td align="left" bgcolor="" valign="top" width="499"><img src="../../includes/site_images/spacers/spacer_499_15.gif" alt="" width="499" height="15" border="0"><br>
+					  
+							
+						
+					  
+							
+							<span class="headline"><a name="2006"></a>2006 Press Releases<br>
+								</span>
+								
+							
+									
+									
+											<span class="bodytext"><p style="MARGIN-top: 0in"><A href="../../downloads/pdf/pr122206.pdf">Mayor Bloomberg Announces First Settlement Resulting from Second Round of Gun Dealer Lawsuit&nbsp; *Released in conjunction with City Hall&nbsp;12/22/06</A>&nbsp;(in <a href="http://www.adobe.com/products/acrobat/readstep2.html">PDF</a>)</p>
+
+<p><A href="../../downloads/pdf/pr121906.pdf">Manhattan Judge Rejects Challenges to Street Furniture Franchise; Approves Franchise Agreement in All&nbsp;Aspects&nbsp;12/19/06</A>&nbsp;(in <a href="http://www.adobe.com/products/acrobat/readstep2.html">PDF</a>)</p>
+
+<p><A href="../../downloads/pdf/pr121806a.pdf">City Prevails in Case Against Demonstrators Claiming Unwritten Policy to Discriminate Against Protestors&nbsp;12/18/06</A>&nbsp;(in <a href="http://www.adobe.com/products/acrobat/readstep2.html">PDF</a>)</p>
+
+<p><A href="../../downloads/pdf/pr121806.pdf">New York City Law Department Joins NAMWOLF as a Public Entity Partner&nbsp; *Released in conjunction with&nbsp;The National Association of Minority &amp; Women Owned Law Firms&nbsp;12/18/06</A>&nbsp;(in <a href="http://www.adobe.com/products/acrobat/readstep2.html">PDF</a>)</p>
+
+<p><A href="../../downloads/pdf/pr120706.pdf">Mayor Bloomberg Announces the Filing of Second Federal Lawsuit Against Irresponsible Gun Dealers&nbsp; *Released in conjunction with City Hall&nbsp;12/07/06</A>&nbsp;(in <a href="http://www.adobe.com/products/acrobat/readstep2.html">PDF</a>)</p>
+
+<p><A href="../../downloads/pdf/pr112806.pdf">Supreme Court Judge Rejects Challenge to Brooklyn Bridge Park Development Project Slated&nbsp;for the Brooklyn Waterfront&nbsp;11/28/06</A>&nbsp;(in <a href="http://www.adobe.com/products/acrobat/readstep2.html">PDF</a>)</p>
+
+<p><A href="../../downloads/pdf/pr111706.pdf">Appellate Court Voids Condemnation of Land in Greenpoint / Williamsburg That a Power Company, TransGas, had Sought for Its Own Use 11/17/06</A>&nbsp;(in <a href="http://www.adobe.com/products/acrobat/readstep2.html">PDF</a>)</p>
+
+<p><A href="../../downloads/pdf/pr111506.pdf">New York and Chicago Law Departments Strategize on Tort and Other Municipal Legal Initiatives&nbsp; *Released in conjunction with Chicago Law Department 11/15/06</A>&nbsp;(in <a href="http://www.adobe.com/products/acrobat/readstep2.html">PDF</a>)</p>
+
+<p><A href="../../downloads/pdf/pr111306.pdf">New York City Sues HIP and GHI, Seeking to Enjoin the Two Health Insurance Companies from Merging&nbsp;11/13/06</A>&nbsp;(in <a href="http://www.adobe.com/products/acrobat/readstep2.html">PDF</a>)</p>
+
+<p><A href="../../downloads/pdf/pr111306a.pdf">Federal Energy Dept. to&nbsp;Improve Appliance Efficiency&nbsp; *Released in conjunction with&nbsp;the Attorney General's Office and 14 other states 11/13/06</A>&nbsp;(in <a href="http://www.adobe.com/products/acrobat/readstep2.html">PDF</a>)</p>
+
+<p><A href="../../downloads/pdf/pr110906.pdf">Appeals Court Rejects Lower Court Ruling in Hunts Point Market Case, Giving City Sweeping Win and Allowing City's Economic Development Corp. to Finalize Lease Negotiations with Baldor 11/9/06</A>&nbsp;(in <a href="http://www.adobe.com/products/acrobat/readstep2.html">PDF</a>)</p>
+
+<p><A href="../../downloads/pdf/pr110806.pdf">In Second - Largest Refund in City History, Internal Revenue Service Settles Social Security Tax Case Filed By New York City; City Employees and the City to Share Refund of Over $280 Million 11/8/06</A>&nbsp;(in <a href="http://www.adobe.com/products/acrobat/readstep2.html">PDF</a>)</p>
+
+<p><A href="../../downloads/pdf/pr092706.pdf">Manhattan Judge Rejects Challenge to Participation of Voluntary Hospital Ambulances in City's 911 EMS System 9/27/06</A>&nbsp;(in <a href="http://www.adobe.com/products/acrobat/readstep2.html">PDF</a>)</p>
+
+<p><A href="../../downloads/pdf/pr092206.pdf">Mayor Bloomberg Announces Groundbreaking Settlements with Three Additional Gun Dealers Named in New York City Lawsuit&nbsp; *Released in conjunction with City Hall&nbsp;9/22/06</A>&nbsp;(in <a href="http://www.adobe.com/products/acrobat/readstep2.html">PDF</a>)</p>
+
+<p><A href="../../downloads/pdf/pr091906.pdf">Manhattan Judge Rejects Challenge to Marine Waste Transfer Station at East 91st Street and the East River; Approves the Facility's Plan in All Aspects 9/19/06</A>&nbsp;(in <a href="http://www.adobe.com/products/acrobat/readstep2.html">PDF</a>)<br>
+<br>
+<A href="../../downloads/pdf/pr081506.pdf">Media Advisory on Obtaining CD of Additional Emergency and Dispatch Calls from Sept. 11th 8/15/06</A>&nbsp;(in <a href="http://www.adobe.com/products/acrobat/readstep2.html">PDF</a>)<br>
+<br>
+<A href="../../downloads/pdf/pr081106.pdf">Federal Appellate Court Upholds Subway Bag Inspections as Constitutional and Finds It is a Proper Balance Between Security and Civil Rights 8/11/06</A>&nbsp;(in <a href="http://www.adobe.com/products/acrobat/readstep2.html">PDF</a>)<br>
+<br>
+<A href="../../downloads/pdf/pr073106.pdf">Mayor Bloomberg Announces Unprecedented Settlement Granting Appointment of a Special Master to Oversee Two Georgia Gun Dealers Named in New York City Lawsuit&nbsp; *Released in conjunction with City Hall 7/31/06</A>&nbsp;(in <a href="http://www.adobe.com/products/acrobat/readstep2.html">PDF</a>)<br>
+<br>
+<A href="../../downloads/pdf/pr072406.pdf">New York City Files Suit Against Tobacco Wholesalers for Failure to Collect Cigarette Taxes&nbsp;7/24/06</A> (in <a href="http://www.adobe.com/products/acrobat/readstep2.html">PDF</a>)<br>
+<br>
+<A href="../../downloads/pdf/pr070606.pdf">"Legal Primer" on the Same-Sex Marriage Case 7/6/06</A> (in <a href="http://www.adobe.com/products/acrobat/readstep2.html">PDF</a>)</p>
+
+<p><A href="../../downloads/pdf/pr042706a.pdf">Second Circuit Upholds Termination of Cop and Firefighters who Participated in Racist Labor Day Float 4/27/06</A> (in <a href="http://www.adobe.com/products/acrobat/readstep2.html">PDF</a>)</p>
+
+<p><A href="../../downloads/pdf/pr042706.pdf">United States Court of Appeals Declares City Tax Case Against India and Mongolia can Proceed 4/27/06</A> (in <a href="http://www.adobe.com/products/acrobat/readstep2.html">PDF</a>)</p>
+
+<p><A href="../../downloads/pdf/pr042506.pdf">New York City Law Department Hosts its Fourth Annual "Take Our Daughters &amp; Sons to Work Day" 4/25/06</A> (in <a href="http://www.adobe.com/products/acrobat/readstep2.html">PDF</a>)<br>
+<br>
+<A href="../../downloads/pdf/pr040306.pdf">Court Rejects Constitutional Challenges to City's Cabaret Laws, Allowing City to Better Ensure Quality of Life Protections by Minimizing Noise Disruptions in Residential Neighborhoods 4/3/06</A> (in <a href="http://www.adobe.com/products/acrobat/readstep2.html">PDF</a>)<br>
+<br>
+<A href="../../downloads/pdf/pr033006.pdf">911 Tape Distribution Proceeding as Planned 3/30/06</A> (in <a href="http://www.adobe.com/products/acrobat/readstep2.html">PDF</a>)<br>
+<br>
+<A href="../../downloads/pdf/pr032906.pdf">Media Advisory on How to Obtain 911 Emergency Calls from September 11th 3/29/06</A> (in <a href="http://www.adobe.com/products/acrobat/readstep2.html">PDF</a>)<br>
+<br>
+<A href="../../downloads/pdf/pr032806.pdf">Court of Appeals Rules that All Police Are Reserved to the New York City Police Commissioner and Not Subject to Collective Bargaining 3/28/06</A> (in <a href="http://www.adobe.com/products/acrobat/readstep2.html">PDF</a>)<br>
+<br>
+<A href="../../downloads/pdf/pr032406.pdf">Citing a "Judicial Selection Crisis" in our City, Corporation Counsel Michael A. Cardozo Lays Out Two Key Reforms to Improve How State Judges Are Selected 3/24/06</A> (in <a href="http://www.adobe.com/products/acrobat/readstep2.html">PDF</a>)<br>
+<br>
+<A href="../../downloads/pdf/pr030806.pdf">Court Finds Several Businesses and Individuals Liable Under "Rico Act" for Defrauding City of Public Assistance Funds that Were to Be Used to Prevent Homelessness 3/8/06</A> (in <a href="http://www.adobe.com/products/acrobat/readstep2.html">PDF</a>)<br>
+<br>
+<A href="../../downloads/pdf/pr030706.pdf">Mayor Bloomberg, Finance Commissioner Stark and Corporation Counsel Cardozo Announce Largest Settlement in Ongoing Effort to Collect City Sales Taxes Owed on Internet Cigarette Purchases * released in conjunction with City Hall 3/7/06</A> (in <a href="http://www.adobe.com/products/acrobat/readstep2.html">PDF</a>)<br>
+<br>
+<A href="../../downloads/pdf/pr030206.pdf">"Deepest Concern" with Rushed Plan to Implement "Help American Vote Act" (HAVA) 3/2/06</A> (in <a href="http://www.adobe.com/products/acrobat/readstep2.html">PDF</a>)<br>
+<br>
+<A href="../../downloads/pdf/pr022206.pdf">Citing a "Severe Crisis in our Judiciary," Corporation Counsel Michael A. Cardozo Calls for Reforms to Improve How State Judges Are Selected 2/22/06</A> (in <a href="http://www.adobe.com/products/acrobat/readstep2.html">PDF</a>)<br>
+<br>
+<A href="../../downloads/pdf/pr020306.pdf">Appeals Court Upholds New York City Department of Education's Holiday Displays Policy 2/3/06</A> (in <a href="http://www.adobe.com/products/acrobat/readstep2.html">PDF</a>)<br>
+<br>
+<A href="../../downloads/pdf/pr013006.pdf">Corporation Counsel Applauds Federal Court Ruling Findings Unconstitutional the Manner in which Judicial Conventions are Conducted in New York 1/30/06</A> (in <a href="http://www.adobe.com/products/acrobat/readstep2.html">PDF</a>)<br>
+<br>
+<A href="../../downloads/pdf/pr011206.pdf">Judge Dismisses Claims Against New York City In 7 World Trade Center Case 1/12/06</A> (in <a href="http://www.adobe.com/products/acrobat/readstep2.html">PDF</a>)<br>
+<br>
+<A href="../../downloads/pdf/pr010606.pdf">Second Circuit Court of Appeals Rules that City May Require the Licensing of Street Vendors Who Sell Hand-Decorated Clothing 1/6/06</A> (in <a href="http://www.adobe.com/products/acrobat/readstep2.html">PDF</a>)<br>
+<br>
+<A href="../../downloads/pdf/pr010406.pdf">City Prevails In Efforts to Move Forward with Revitalization of 2 Columbus Circle 1/4/06</A> (in <a href="http://www.adobe.com/products/acrobat/readstep2.html">PDF</a>)</p>
+
+<p align="right">[<A href="#top">back to top</A>]</p></span>
+										
+								
+						
+
+					<br>
+
+					 
+					   
+						
+					 
+					 
+					
+					</td><td align="left" bgcolor="" valign="top" width="60"><img src="../../includes/site_images/spacers/spacer_60_30.gif" alt="" width="60" height="30" border="0"></td></tr>
+
+					
+
+					  
+						<tr><td colspan="3" align="left" bgcolor="" valign="top" width="589">
+							<img src="../../includes/site_images/misc/body_divider.gif" alt="" width="589" border="0"/></td></tr>
+						
+				   
+					  
+						<tr><td colspan="3" align="left" valign="top" bgcolor="" width="589">
+							
+							</td></tr>
+						
+					
+						<tr><td align="left" bgcolor="" valign="top" width="30"><img src="../../includes/site_images/spacers/spacer_30_30.gif" alt="" width="30" height="30" border="0">
+						</td><td align="left" bgcolor="" valign="top" width="499"><img src="../../includes/site_images/spacers/spacer_499_15.gif" alt="" width="499" height="15" border="0"><br>
+					  
+							
+						
+					  
+							
+							<span class="headline"><a name="2005"></a>2005 Press Releases<br>
+								</span>
+								
+							
+									
+									
+											<span class="bodytext"><A href="../../downloads/pdf/pr122105.pdf">City Files Legal Papers Seeking An Immediate Temporary Restraining Order (TRO) Against Transit Unions to Stop the Transit Strike; Unions and Individual Members Could Be Subject to Fines if They Do Not Obey 12/21/05</A> (in <a href="http://www.adobe.com/products/acrobat/readstep2.html">PDF</a>)<br>
+<br>
+<A href="../../downloads/pdf/pr121505.pdf">New York City Law Department Announces 24th Annual Staff Awards 12/15/05</A> (in <a href="http://www.adobe.com/products/acrobat/readstep2.html">PDF</a>)<br>
+<br>
+<A href="../../downloads/pdf/pr121305.pdf">City Files Separate Complaint Against Transit Unions Seeking Both Heavy Damages and an Injunction Preventing a Strike 12/13/05</A> (in <a href="http://www.adobe.com/products/acrobat/readstep2.html">PDF</a>)<br>
+<br>
+<A href="../../downloads/pdf/pr120905.pdf">City Prevails in Bronx False Arrest and Malicious Prosecution Case 12/9/05</A> (in <a href="http://www.adobe.com/products/acrobat/readstep2.html">PDF</a>)<br>
+<br>
+<A href="../../downloads/pdf/pr120705.pdf">Federal Appeals Court Upholds Verdict/Demolition of the "Thunderbolt" Caused No Economic Harm 12/7/05</A> (in <a href="http://www.adobe.com/products/acrobat/readstep2.html">PDF</a>)<br>
+<br>
+<A href="../../downloads/pdf/pr120105a.pdf">Federal Court Judge Allows City's Case Against Irresponsible Gun Industry Practices to Proceed 12/1/05</A> (in <a href="http://www.adobe.com/products/acrobat/readstep2.html">PDF</a>)<br>
+<br>
+<A href="../../downloads/pdf/pr120105.pdf">Federal Court Rules that Subway Bag Searches Are Constitutional 12/1/05</A> (in <a href="http://www.adobe.com/products/acrobat/readstep2.html">PDF</a>)<br>
+<br>
+<A href="../../downloads/pdf/pr113005.pdf">Jury Unanimously Finds that Retired NYPD Detective Was Not Sexually Harassed 11/30/05</A> (in <a href="http://www.adobe.com/products/acrobat/readstep2.html">PDF</a>)<br>
+<br>
+<A href="../../downloads/pdf/pr112105.pdf">Mayor's Task Force Calls on State Board of Elections to Rapidly Certify New Voting Machines 11/21/05</A> (in <a href="http://www.adobe.com/products/acrobat/readstep2.html">PDF</a>)<br>
+<br>
+<A href="../../downloads/pdf/pr111805.pdf">State's Highest Court Declines to Review Appellate Division Decision Upholding Closing of West Side Highway / 72nd Street Exit Ramp Closure 11/18/05</A> (in <a href="http://www.adobe.com/products/acrobat/readstep2.html">PDF</a>)<br>
+<br>
+<A href="../../downloads/pdf/pr102505.pdf">Gun Violence Prevention Group to Honor Leading Lawyers, Politicians and Advocates Fighting Against Illegal Firearms</A> (in <a href="http://www.adobe.com/products/acrobat/readstep2.html">PDF</a>) *released with New Yorkers Against Gun Violence 10/25/05<br>
+<br>
+<A href="../../downloads/pdf/pr101805.pdf">New York City Pension Funds Settle Securities Fraud Action Arising from the Collapse of WorldCom for $78.87 Million</A>&nbsp; *Released in conjunction with the NYC Comptroller's Office 
+10/18/05 (in <a href="http://www.adobe.com/products/acrobat/readstep2.html">PDF</a> )<br>
+<br>
+<A href="../../downloads/pdf/pr082605.pdf">Court Upholds City Law Authorizing Beautification of City Streets with New State-of-the Art Newsstands 08/26/05</A> (in <a href="http://www.adobe.com/products/acrobat/readstep2.html">PDF</a>)<br>
+<br>
+<A href="../../downloads/pdf/pr071505.pdf">Appellate Court Rules that City's Approval to Close the 72nd Street Exit Ramp Off the West Side Drive Was Proper and that No Further Environmental Review Is Required 07/15/05</A> (in <a href="http://www.adobe.com/products/acrobat/readstep2.html">PDF</a>)<br>
+<br>
+<A href="../../downloads/pdf/pr070705.pdf">Appeals Court Supports City's Right to Fire Staten Island School Dean for Drug Possession 07/7/05</A> (in <a href="http://www.adobe.com/products/acrobat/readstep2.html">PDF</a>)<br>
+<br>
+<A href="../../downloads/pdf/pr062805.pdf">City Bar Association Announces Winners of Municipal Affairs Awards</A>&nbsp; *Released in 
+conjunction with the Association of the City Bar of New York 6/28/05 (in <a href="http://www.adobe.com/products/acrobat/readstep2.html">PDF</a> )<br>
+<br>
+<A href="../../downloads/pdf/pr062105.pdf">Appellate Court Upholds Dismissal of Comptroller's Challenge to New York City / Snapple Beverage Corp. Vending Agreement 6/21/05</A> (in <a href="http://www.adobe.com/products/acrobat/readstep2.html">PDF</a>)<br>
+<br>
+<A href="../../downloads/pdf/pr060205.pdf">New York City Pension Funds Settle Securities Fraud Action Against Bristol-Myers Squibb for $17.3 Million 6/2/05</A> (in <a href="http://www.adobe.com/products/acrobat/readstep2.html">PDF</a>)<br>
+<br>
+<A href="../../downloads/pdf/pr052505.pdf">Court Rejects Latest Constitutional Challenges to City's and State's Smoking Laws 5/25/05</A> (in <a href="http://www.adobe.com/products/acrobat/readstep2.html">PDF</a>)<br>
+<br>
+<A href="../../downloads/pdf/pr051305.pdf">Court Allows New York City to Proceed with Construction of Croton Water Treatment Plant in the Bronx 5/13/05</A> (in <a href="http://www.adobe.com/products/acrobat/readstep2.html">PDF</a>)<br>
+<br>
+<A href="../../downloads/pdf/pr051205.pdf">State's Highest Court Says DEP Police Have Full Police Authority in NYC Watershed 5/10/05</A> (in <a href="http://www.adobe.com/products/acrobat/readstep2.html">PDF</a>)<br>
+<br>
+<A href="../../downloads/pdf/pr042705.pdf">New York City Law Department Hosts its Third Annual "Take Our Kids to Work Day" 4/27/05</A> (in <a href="http://www.adobe.com/products/acrobat/readstep2.html">PDF</a>)<br>
+<br>
+<A href="../../downloads/pdf/pr032405.pdf">New York Court of Appeals Holds That 911 Tapes of WTC Callers Should Remain Private Unless a Family Member Wants a Loved One's Call Disclosed 3/24/05</A> (in <a href="http://www.adobe.com/products/acrobat/readstep2.html">PDF</a>)<br>
+<br>
+<A href="../../downloads/pdf/pr022505.pdf">Appellate Court Unanimously Affirms City's Right to Move Forward with 2 Columbus Circle Development with the Museum of Arts and Design 2/25/05</A> (in <a href="http://www.adobe.com/products/acrobat/readstep2.html">PDF</a>)<br>
+<br>
+<A href="../../downloads/pdf/pr022205.pdf">State's Highest Court Unanimously Affirms Ruling that the New York City Civil Service Commission Does Not Have Jurisdiction to Hear Appeals from Disciplinary Determinations of the Fire Commissioner 2/22/05</A> (in <a href="http://www.adobe.com/products/acrobat/readstep2.html">PDF</a>)<br>
+<br>
+<A href="../../downloads/pdf/pr021805.pdf">Federal Jury Finds for Police Officers in Complex Shooting Case Where Suicidal Man Intentionally Pointed a Black Cell Phone at Police 2/18/05</A> (in <a href="http://www.adobe.com/products/acrobat/readstep2.html">PDF</a>)<br>
+<br>
+<A href="../../downloads/pdf/pr021405.pdf">Law Department Employee Wins Grammy Award for Best Salsa Album 2/14/05</A> (in <a href="http://www.adobe.com/products/acrobat/readstep2.html">PDF</a>)<br>
+<br>
+<A href="../../downloads/pdf/pr020905.pdf">Appellate Division Agrees with City and Makes Child Abuse Finding in Case Where Mother Directed 12-Year-Old Son to Rob a Bank 2/9/05</A> (in <a href="http://www.adobe.com/products/acrobat/readstep2.html">PDF</a>)<br>
+<br>
+<A href="../../downloads/pdf/pr012705.pdf">City Moves Forward with Legal Case Against Unscrupulous Internet Cigarette Dealers Under the Racketeering Statute 1/27/05</A> (in <a href="http://www.adobe.com/products/acrobat/readstep2.html">PDF</a>)<br>
+<br>
+<A href="../../downloads/pdf/pr010705.pdf">Assistant District Attorney Family Violence Expert Joins New York City Law Department as Family Court Chief; Other Office Promotions Also Announced 1/7/05</A> (in <a href="http://www.adobe.com/products/acrobat/readstep2.html">PDF</a>) 
+
+<p align="right" style="MARGIN-top: 0in">[<A href="#top">back to top</A>]</p></span>
+										
+								
+						
+
+					<br>
+
+					 
+					   
+						
+					 
+					 
+					
+					</td><td align="left" bgcolor="" valign="top" width="60"><img src="../../includes/site_images/spacers/spacer_60_30.gif" alt="" width="60" height="30" border="0"></td></tr>
+
+					
+
+					  
+						<tr><td colspan="3" align="left" bgcolor="" valign="top" width="589">
+							<img src="../../includes/site_images/misc/body_divider.gif" alt="" width="589" border="0"/></td></tr>
+						
+				   
+					  
+						<tr><td colspan="3" align="left" valign="top" bgcolor="" width="589">
+							
+							</td></tr>
+						
+					
+						<tr><td align="left" bgcolor="" valign="top" width="30"><img src="../../includes/site_images/spacers/spacer_30_30.gif" alt="" width="30" height="30" border="0">
+						</td><td align="left" bgcolor="" valign="top" width="499"><img src="../../includes/site_images/spacers/spacer_499_15.gif" alt="" width="499" height="15" border="0"><br>
+					  
+							
+						
+					  
+							
+							<span class="headline"><a name="2004"></a>2004 Press Releases<br>
+								</span>
+								
+							
+									
+									
+											<span class="bodytext"><A href="../../downloads/pdf/pr122204.pdf">In a Legal First, City Landmarked Building Is Saved from "Demolition Neglect" 12/22/04</A> (in <a href="http://www.adobe.com/products/acrobat/readstep2.html">PDF</a>)<br>
+<br>
+<A href="../../downloads/pdf/pr121304.pdf">Retiring Attorney Edith Spivack, 94, to be Honored Tonight at City Hall for 70 Years of Public Service to New York City 12/13/04</A> (in <a href="http://www.adobe.com/products/acrobat/readstep2.html">PDF</a>)<br>
+<br>
+<A href="../../downloads/pdf/pr113004.pdf">Court of Appeals Unanimously Affirms the Importance of Residency Requirements for City Employees 11/30/04</A> (in <a href="http://www.adobe.com/products/acrobat/readstep2.html">PDF</a>)<br>
+<br>
+<A href="../../downloads/pdf/pr112504c.pdf">State Court Strikes Down City Council Mandated Welfare Work Plan / Local Law 23 on Pre-Emption and Curtailment Grounds 11/25/04</A> (in <a href="http://www.adobe.com/products/acrobat/readstep2.html">PDF</a>)<br>
+<br>
+<A href="../../downloads/pdf/pr112504b.pdf">City's Bronx Tort Division Prevails in False Arrest Case Where Couple Had Kept Daughter Chained to a Radiator 11/25/04</A> (in <a href="http://www.adobe.com/products/acrobat/readstep2.html">PDF</a>)<br>
+<br>
+<A href="../../downloads/pdf/pr112504a.pdf">New York City Law Department Prevails in Two Bronx Trip and Fall Lawsuits 11/25/04</A> (in <a href="http://www.adobe.com/products/acrobat/readstep2.html">PDF</a>)<br>
+<br>
+<A href="../../downloads/pdf/pr111504.pdf">Court Rules in City's Favor and Reverses $5.2 Million Verdict in Bronx Car Crash 11/15/04</A> (in <a href="http://www.adobe.com/products/acrobat/readstep2.html">PDF</a>)<br>
+<br><A 
+href="../../downloads/pdf/2004_Press Releases_MTBE_Environmental_Law_Case.pdf">Federal 
+Court Recognizes Importance of a New York City Environmental Lawsuit over 
+Groundwater Contamination by Declaring it a "Focus Case" 10/29/04</A> (in <A 
+href="../../downloads/pdf/2004_Press Releases_MTBE_Environmental_Law_Case.pdf">PDF</A>)<br>
+<br>
+<A href="../../downloads/pdf/pr102904.pdf">Law Department's Tort Division Prevails in Case where Man Assaulted Wife For Refusing to Make Him Dinner, Then Sued the City when He Fell Down House Stairs Drunk after Being Arrested 10/29/04</A> (in <a href="http://www.adobe.com/products/acrobat/readstep2.html">PDF</a>)<br>
+<br>
+<A href="../../downloads/pdf/pr102704.pdf">Appellate Court Unanimously Upholds Taxi &amp; Limousine Commission's Authority to Require Livery Cab Companies to Provide On-Demand Wheelchair Accessible Transportation for Members of the Disabled Community 10/27/04</A> (in <a href="http://www.adobe.com/products/acrobat/readstep2.html">PDF</a>)<br>
+<br>
+<A href="../../downloads/pdf/pr102604.pdf">State's Highest Court Upholds City's Right to Intervene in Cases where Domestic Violence Makes Children Vulnerable 10/26/04</A> (in <a href="http://www.adobe.com/products/acrobat/readstep2.html">PDF</a>)<br>
+<br>
+<A href="../../downloads/pdf/pr101204.pdf">Thelen Reid &amp; Priest LLP Joins Forces with New York City in Major Firearms Case 10/12/04</A> (in <a href="http://www.adobe.com/products/acrobat/readstep2.html">PDF</a>)<br>
+<br>
+<A href="../../downloads/pdf/pr092104.pdf">State Supreme Court Allows Public Hearings to Move Forward on West Side Hudson Yards Redevelopment Project 9/21/04</A> (in <a href="http://www.adobe.com/products/acrobat/readstep2.html">PDF</a>)<br>
+<br>
+<A href="../../downloads/pdf/pr090904.pdf">Federal Court Finds No Free Speech Violation in New York City Landmarks Commission's Retention of Noted Soho Sculpture 9/09/04</A> (in <a href="http://www.adobe.com/products/acrobat/readstep2.html">PDF</a>)<br>
+<br>
+<A href="../../downloads/pdf/pr090704.pdf">New York City Attorney Receives MDA National Achievement Award</A>&nbsp; *Released in 
+conjunction with the Muscular Dystrophy Association 9/7/04 (in <a href="http://www.adobe.com/products/acrobat/readstep2.html">PDF</a> )<br>
+<br>
+<A href="../../downloads/pdf/pr082504c.pdf">State Supreme Court Backs New York City in United for Peace and Justice Case Involving Permit Request for Central Park Rally 8/25/04</A> (in <a href="http://www.adobe.com/products/acrobat/readstep2.html">PDF</a>)<br>
+<br>
+<A href="../../downloads/pdf/pr082504b.pdf">City Files Plan for Providing a "Sound Basic Education" for All its Students with Referees in Campaign for Fiscal Equity Case 8/25/04</A> (in <a href="http://www.adobe.com/products/acrobat/readstep2.html">PDF</a>)
+
+<br><br>
+<A href="../../downloads/pdf/pr082504a.pdf">U.S. District Court Denies Requests of Police and Other Service Unions' for Temporary Restraining Order Regarding Demonstration Tactics, Thereby Preserving the NYPD's Ability to Protect Public Safety 8/25/04</A> (in <a href="http://www.adobe.com/products/acrobat/readstep2.html">PDF</a>)<br>
+<br>
+<A href="../../downloads/pdf/pr082304.pdf">City Prevails in Federal Court Case Involving Central Park Republican National Convention Protest Requests 8/23/04</A> (in <a href="http://www.adobe.com/products/acrobat/readstep2.html">PDF</a>)<br>
+<br>
+<A href="../../downloads/pdf/pr081004.pdf">Federal Appeals Court Unanimously Holds that HRA May Exclude All But those Transacting Official Business From its Service Center Waiting Rooms 8/10/04</A> (in <a href="http://www.adobe.com/products/acrobat/readstep2.html">PDF</a>)<br>
+<br>
+<A href="../../downloads/pdf/pr080504.pdf">New York City Files Suit Against 44 Pharmaceutical Companies and their Subsidiaries for Fraudulent Schemes that Allegedly Inflated the Cost of Drugs to its Medicaid Program 8/5/04</A> (in <a href="http://www.adobe.com/products/acrobat/readstep2.html">PDF</a>)<br>
+<br>
+<A href="../../downloads/pdf/pr080304.pdf">Public Service Commission Recognizes New York City's Demand for Improved Con Edison Repair Program for Street Light and Traffic Signal Poles to Minimize Stray Voltage Problems</A>&nbsp; *Released in conjunction with City Hall 8/3/04 (in <a href="http://www.adobe.com/products/acrobat/readstep2.html">PDF</a> )<br>
+<br>
+<A href="../../downloads/pdf/pr072904.pdf">Court Dismisses Comptroller's Challenge to New York City / Snapple Beverage Corp. Vending Agreement 7/29/04</A> (in <a href="http://www.adobe.com/products/acrobat/readstep2.html">PDF</a>)<br>
+<br>
+<A href="../../downloads/pdf/pr072104.pdf">Eight States &amp; NYC Sue Top Five U.S. Global Warming Polluters&nbsp; *Released in conjunction with the state Attorneys General of California, Connecticut, Iowa, New Jersey, New York, Rhode Island, Vermont and Wisconsin 7/21/04</A> (in <a href="http://www.adobe.com/products/acrobat/readstep2.html">PDF</a>)<br>
+<br>
+<A href="../../downloads/pdf/pr071604.pdf">Appellate Court Holds Unanimously That Freedom of Information Law and Open Meetings Laws Do Not Apply to Hostos Community College Senate 7/16/04</A> (in <a href="http://www.adobe.com/products/acrobat/readstep2.html">PDF</a>)<br>
+<br>
+<A href="../../downloads/pdf/pr070904.pdf">City Prevails in Case where Man Claimed He Thought Purchasing a Car for $75 at Kennedy Airport Constituted a Normal Sale 7/9/04</A> (in <a href="http://www.adobe.com/products/acrobat/readstep2.html">PDF</a>)
+
+<br><br>
+<A href="../../downloads/pdf/pr070804.pdf">Appellate Court Orders the Wall Street Sauna Closed Based on Repeated Observations of Unsafe Sexual Activity 7/8/04</A> (in <a href="http://www.adobe.com/products/acrobat/readstep2.html">PDF</a>)
+
+<br><br>
+<A href="../../downloads/pdf/pr070204.pdf">NYC Pension Funds and Citibank Announce Agreement *released in conjunction with Citibank 7/1/04</A> (in <a href="http://www.adobe.com/products/acrobat/readstep2.html">PDF</a>)
+
+<br><br>
+<A href="../../downloads/pdf/pr063004.pdf">Queens Jury Exonerates Police Officers in Massage Parlor Raid 6/30/04</A> (in <a href="http://www.adobe.com/products/acrobat/readstep2.html">PDF</a>)
+
+<br><br>
+<A href="../../downloads/pdf/pr062804b.pdf">Court Upholds Rules for City Corporate Park and Directs the Removal of Advertising Billboard 6/28/04</A> (in <a href="http://www.adobe.com/products/acrobat/readstep2.html">PDF</a>)
+
+<br><br>
+<A href="../../downloads/pdf/pr062804a.pdf">New York City Law Department Prevails in Bronx Trip and Fall Case that Involved Disputed Testimony 6/28/04</A> (in <a href="http://www.adobe.com/products/acrobat/readstep2.html">PDF</a>)
+
+<br><br>
+<A href="../../downloads/pdf/pr062404.pdf">Bronx Jury Finds Two Police Officers Used Reasonable Force in Subduing Plaintiff After High-Speed Car Chase 6/24/04</A> (in <a href="http://www.adobe.com/products/acrobat/readstep2.html">PDF</a>)
+
+<br><br>
+<A href="../../downloads/pdf/pr062204.pdf">New York City Bar Announces Winners of Municipal Affairs Awards</A>&nbsp; *Released in 
+conjunction with the Association of the City Bar of New York 6/22/04 (in <a href="http://www.adobe.com/products/acrobat/readstep2.html">PDF</a> )
+
+<br><br>
+<A href="../../downloads/pdf/pr062104.pdf">Why Shouldn't Public Sector Law Attract and Retain Excellence?</A> (in <a href="http://www.adobe.com/products/acrobat/readstep2.html">PDF</a>) *Released in conjunction with New York State Assemblyman Brian McLaughlin 6/18/04
+
+<br><br>
+<A href="../../downloads/pdf/pr061104.pdf">New York City Law Department Provides On-Going Training Opportunities for Junior Lawyers Through its Annual Trial Advocacy Program 6/11/04</A> (in <a href="http://www.adobe.com/products/acrobat/readstep2.html">PDF</a>)
+
+<br><br>
+<A href="../../downloads/pdf/pr052404.pdf">Bronx Judge Dismisses Rikers Island Suit Brought by Inmates who Caused Self-Inflicted Gunshots in Order to Blame Correction Officers 5/24/04</A> (in <a href="http://www.adobe.com/products/acrobat/readstep2.html">PDF</a>)
+
+<br><br>
+<A href="../../downloads/pdf/pr052404.pdf">Court Allows Staten Island Botanical Gardens Projects to Proceed 5/24/04</A> (in <a href="http://www.adobe.com/products/acrobat/readstep2.html">PDF</a>)
+
+<br><br>
+<A href="../../downloads/pdf/pr052104.pdf">Federal Court Grants New York City Access to Firearms Tracing Database 5/21/04</A> (in <a href="http://www.adobe.com/products/acrobat/readstep2.html">PDF</a>)
+
+<br><br>
+<A href="../../downloads/pdf/pr051904.pdf">Testimony by Mayor Michael R. Bloomberg Before the National Commission on Terrorist Attacks upon the United States</A>&nbsp;&nbsp;*Released in conjunction with City 
+Hall 5/19/04 (in <a href="http://www.adobe.com/products/acrobat/readstep2.html">PDF</a> )
+
+<br><br>
+<A href="../../downloads/pdf/pr051804.pdf">New York City Files Two Suits Against GlaxoSmithKline for Antitrust Violations and Medicaid Fraud in Connection with the Antidepressant Paxil and the Antibiotic Augmentin 5/18/04</A> (in <a href="http://www.adobe.com/products/acrobat/readstep2.html">PDF</a>)
+
+<br><br>
+<A href="../../downloads/pdf/pr051104.pdf">State's Highest Court Backs City in Three New Legal Decisions, Including Two Police Cases and a Family Court Matter 5/11/04</A> (in <a href="http://www.adobe.com/products/acrobat/readstep2.html">PDF</a>)
+
+<br><br>
+<A href="../../downloads/pdf/pr050704.pdf">New York City Sues Purdue Pharma for Antitrust Violations and Medicaid Fraud in Connection with the Painkiller Oxycontin 5/7/04</A> (in <a href="http://www.adobe.com/products/acrobat/readstep2.html">PDF</a>)
+
+<br><br>
+<A href="../../downloads/pdf/pr050604.pdf">City Secures Several Wins in State's Highest Court, Including Victories in a Parks Lollapalooza Festival Case and a Police Case Involving the Puerto Rican Day Parade 5/6/04</A> (in <a href="http://www.adobe.com/products/acrobat/readstep2.html">PDF</a>)
+
+<br><br>
+<A href="../../downloads/pdf/pr042104.pdf">New York City Law Department Holds its Second Annual "Take Our Daughters &amp; Sons to Work Day" 4/21/04</A> (in <a href="http://www.adobe.com/products/acrobat/readstep2.html">PDF</a>)
+
+<br><br>
+<A href="../../downloads/pdf/pr041504.pdf">Court Dismisses Challenge to Museum of Arts and Design Project Planned for 2 Columbus Circle 4/15/04</A> (in <a href="http://www.adobe.com/products/acrobat/readstep2.html">PDF</a>)
+
+<br><br>
+<A href="../../downloads/pdf/pr041404.pdf">City Files Suit Against Illegal Seller of Merchandise Bearing Police and Fire Department Logos 4/13/04</A> (in <a href="http://www.adobe.com/products/acrobat/readstep2.html">PDF</a>)
+
+<br><br>
+<A href="../../downloads/pdf/pr040804.pdf">Court Rejects Constitutional Challenges to City's and State's Smoking Laws 4/8/04</A> (in <a href="http://www.adobe.com/products/acrobat/readstep2.html">PDF</a>)
+
+<br><br>
+<A href="../../downloads/pdf/pr040204.pdf">New York State Supreme Court Upholds City's Permit to Memorial Sloan-Kettering Cancer Center for Construction of a Cancer Research Lab on Manhattan's Upper East Side 4/2/04</A> (in <a href="http://www.adobe.com/products/acrobat/readstep2.html">PDF</a>)
+
+<br><br>
+<A href="../../downloads/pdf/pr032504a.pdf">New York State's Highest Court Unanimously Dismisses Neighborhood Group's Challenge to New Residential Building in Carnegie Hill Historic District in New York City 3/25/04</A> (in <a href="http://www.adobe.com/products/acrobat/readstep2.html">PDF</a>)
+
+<br><br>
+<A href="../../downloads/pdf/pr031504.pdf">Court Orders State to Pay City and HHC Almost $16 Million Plus Interest for Care of Mentally Retarded and Developmentally Disabled Foster Care Children 3/15/04</A> (in <a href="http://www.adobe.com/products/acrobat/readstep2.html">PDF</a>)
+
+<br><br>
+<A href="../../downloads/pdf/pr022404.pdf">New York Court Upholds Water Board Regulation Imposing Surcharges on Buildings which Failed to Install Water Meters 2/24/04</A> (in <a href="http://www.adobe.com/products/acrobat/readstep2.html">PDF</a>)
+
+<br><br>
+<A href="../../downloads/pdf/pr021804.pdf">New York Court of Appeals Unanimously Upholds Kendra's Law 2/17/04</A> (in <a href="http://www.adobe.com/products/acrobat/readstep2.html">PDF</a>)
+
+<br><br>
+<A href="../../downloads/pdf/pr013104.pdf">New York City Police Department Announces Settlement with Latino Officers Association 1/31/04</A> (in <a href="http://www.adobe.com/products/acrobat/readstep2.html">PDF</a>)
+
+<br><br>
+<A href="../../downloads/pdf/pr012904.pdf">New York City Announces Lawsuit Against New York State Arising Out of Years-Long Delays in Providing Care to Mentally Retarded and Developmentally Disabled Children in Foster Care 01/29/04</A> (in <a href="http://www.adobe.com/products/acrobat/readstep2.html">PDF</a>)
+
+<br><br>
+<A href="../../downloads/pdf/pr012604a.pdf">Comprehensive Statewide Anti-Predatory Lending Law Is Held by Manhattan State Supreme Court to Preempt City Council Law 1/26/04</A> (in <a href="http://www.adobe.com/products/acrobat/readstep2.html">PDF</a>)
+
+<br><br>
+<A href="../../downloads/pdf/pr012604.pdf">Two Top Law Department Executives are Named New York State Bar Association Award Winners For Excellence in Public Service 1/26/04</A> (in <a href="http://www.adobe.com/products/acrobat/readstep2.html">PDF</a>)
+
+<br><br>
+<A href="../../downloads/pdf/pr012204.pdf">Federal Court Dismisses New York State Restaurant Association Challenge to City Health Department's Inspection Procedures 1/22/04</A> (in <a href="http://www.adobe.com/products/acrobat/readstep2.html">PDF</a>)
+
+<br><br>
+<A href="../../downloads/pdf/pr011304.pdf">Appellate Court Unanimously Upholds Taxi &amp; Limousine Commission's Authority to Revoke Drivers' Licenses For Refusing Service 1/13/04</A> (in <a href="http://www.adobe.com/products/acrobat/readstep2.html">PDF</a>)
+
+<br><br>
+<A href="../../downloads/pdf/pr010204.pdf">New York City Law Department Announces 22nd Annual Staff Awards 1/2/04</A> (in <a href="http://www.adobe.com/products/acrobat/readstep2.html">PDF</a>)
+
+<p align="right" style="MARGIN-top: 0in">[<A href="#top">back to top</A>]</p></span>
+										
+								
+						
+
+					<br>
+
+					 
+					   
+						
+					 
+					 
+					
+					</td><td align="left" bgcolor="" valign="top" width="60"><img src="../../includes/site_images/spacers/spacer_60_30.gif" alt="" width="60" height="30" border="0"></td></tr>
+
+					
+
+					  
+						<tr><td colspan="3" align="left" bgcolor="" valign="top" width="589">
+							<img src="../../includes/site_images/misc/body_divider.gif" alt="" width="589" border="0"/></td></tr>
+						
+				   
+					  
+						<tr><td colspan="3" align="left" valign="top" bgcolor="" width="589">
+							
+							</td></tr>
+						
+					
+						<tr><td align="left" bgcolor="" valign="top" width="30"><img src="../../includes/site_images/spacers/spacer_30_30.gif" alt="" width="30" height="30" border="0">
+						</td><td align="left" bgcolor="" valign="top" width="499"><img src="../../includes/site_images/spacers/spacer_499_15.gif" alt="" width="499" height="15" border="0"><br>
+					  
+							
+						
+					  
+							
+							<span class="headline"><a name="2003"></a>2003 Press Releases<br>
+								</span>
+								
+							
+									
+									
+											<span class="bodytext"><A href="../../downloads/pdf/pr122903.pdf">Republic of Turkey Makes Final Payment for a Half-Million Dollars in Back Taxes Settlement Two Months Ahead of Schedule</A>&nbsp; *Released in conjunction with the NYC Department of Finance 
+and NYC Commission for the United Nations, Consular Corps and Protocol 12/29/03 
+ (in <a href="http://www.adobe.com/products/acrobat/readstep2.html">PDF</a> )<br><br>
+<A href="../../downloads/pdf/pr120403.pdf">Court Upholds City's Workfare Program and Rejects Municipal Union's Challenge that the Program Has Resulted in the Displacement of Regular City Workers 12/4/03</A> (in <a href="http://www.adobe.com/products/acrobat/readstep2.html">PDF</a>)<br><br>
+<A href="../../downloads/pdf/pr120303.pdf">New York City and Federal 9/11 Commission Reach Agreement on September 11th Tapes and Transcripts</A> (in <a href="http://www.adobe.com/products/acrobat/readstep2.html">PDF</a>) * released in conjunction with City Hall 12/3/03<br><br>
+<A href="../../downloads/pdf/pr120103.pdf">New York City Files Federal Petition Regarding SI Ferry Claims; Also Encourages Injured Parties to Seek Settlements with the Comptroller</A>&nbsp; *Released in conjunction with the NYC 
+Comptroller 12/01/03 (in <a href="http://www.adobe.com/products/acrobat/readstep2.html">PDF</a> ) <br><br>
+<A href="../../downloads/pdf/pr111203.pdf">Settlement Announced in Legal Case Involving Compensation Paid to 18(b) Private Assigned Counsel</A>&nbsp; *Released in conjunction with the NY County Lawyers' 
+Association &amp; NYS Attorney General's Office 11/12/03 (in <a href="http://www.adobe.com/products/acrobat/readstep2.html">PDF</a> ) <br><br>
+<A href="../../downloads/pdf/pr102303.pdf">New York City Files Suit Challenging the EPA's Refusal to Regulate Greenhouse Gas Emissions 10/23/03</A> (in <a href="http://www.adobe.com/products/acrobat/readstep2.html">PDF</a>)<br><br>
+<A href="../../downloads/pdf/pr101703.pdf">City Expands Internet Cigarette Suits with Action Against Illegal Shipments into New York City 10/17/03</A> (in <a href="http://www.adobe.com/products/acrobat/readstep2.html">PDF</a>)<br><br>
+<A href="../../downloads/pdf/pr101603.pdf">New York Mets Settle with City Over Rent Payments 10/16/03</A> (in <a href="http://www.adobe.com/products/acrobat/readstep2.html">PDF</a>)<br><br>
+<A href="../../downloads/pdf/pr100203.pdf">Plaintiff in "Dirty 30" Police Case Admits to Making False Statements in an Effort to Collect Money from City in a Civil Suit 10/2/03</A> (in <a href="http://www.adobe.com/products/acrobat/readstep2.html">PDF</a>)<br><br>
+<A href="../../downloads/pdf/pr093003.pdf">New York City Announces Settlement with the Republic of Turkey for Payment of $5.05 Million in Real Estate Taxes and Interest Due 9/30/03</A> (in <a href="http://www.adobe.com/products/acrobat/readstep2.html">PDF</a>)<br><br>
+<A href="../../downloads/pdf/pr091803.pdf">NYPD Announces Settlement in Daniels Class Action "Stop-And-Frisk" Lawsuit 9/18/03</A> (in <a href="http://www.adobe.com/products/acrobat/readstep2.html">PDF</a>)<br><br>
+<A href="../../downloads/pdf/pr091603a.pdf">New York Supreme Court Upholds Deletion of 48 Hour Rule from PBA Contract 9/16/03</A> (in <a href="http://www.adobe.com/products/acrobat/readstep2.html">PDF</a>)<br><br>
+<A href="../../downloads/pdf/pr091603.pdf">Mayor Michael R. Bloomberg Delivers Testimony Before the Commission to Promote Public Confidence in Judicial Elections</A>&nbsp; *Released in conjunction with City 
+Hall 9/16/03 (in <a href="http://www.adobe.com/products/acrobat/readstep2.html">PDF</a> ) <br><br>
+<A href="../../downloads/pdf/pr091503.pdf">Mayor Michael R. Bloomberg Announces Appointments to the New York Sports Commission and Sports Development Corporation</A>&nbsp; *Released in conjunction with City 
+Hall 9/15/03 (in <a href="http://www.adobe.com/products/acrobat/readstep2.html">PDF</a> ) <br><br>
+<A href="../../downloads/pdf/pr090503.pdf">Federal Court Upholds Use of Certification Exams that Seek to Guarantee Qualified Candidates for Positions as Teachers 9/5/03</A> (in <a href="http://www.adobe.com/products/acrobat/readstep2.html">PDF</a>)<br><br>
+<A href="../../downloads/pdf/pr082803.pdf">Federal Court Dismisses Deutsche Bank's Sept. 11th-Related Claims Against the City 8/28/03</A> (in <a href="http://www.adobe.com/products/acrobat/readstep2.html">PDF</a>)<br><br>
+<A href="../../downloads/pdf/pr080903.pdf">New York City Water Board Wins Case Upholding Its Calculation of the Quantity of Water Upstate Customers Are Entitled to Take 8/9/03</A> (in <a href="http://www.adobe.com/products/acrobat/readstep2.html">PDF</a>)<br><br>
+<A href="../../downloads/pdf/pr073003.pdf">In Unanimous Decision, Appellate Court Dismisses $10 Million Verdict Against New York City, Finding that a Police Officer on Traffic Detail Acted Responsibly in Carrying out His Duties 7/30/03</A> (in <a href="http://www.adobe.com/products/acrobat/readstep2.html">PDF</a>)<br><br>
+<A href="../../downloads/pdf/pr072103.pdf">Florida Bankruptcy Court Orders Celotex Asbestos Trust to Pay New York City for Asbestos Claims 7/21/03</A> (in <a href="http://www.adobe.com/products/acrobat/readstep2.html">PDF</a>)<br><br>
+<A href="../../downloads/pdf/pr071803.pdf">Federal Court of Appeals Rules Unanimously in Favor of the Department of Education in Melzer "NAMBLA" Case 7/18/03</A> (in <a href="http://www.adobe.com/products/acrobat/readstep2.html">PDF</a>)<br><br>
+<A href="../../downloads/pdf/pr071603.pdf">Mayor Michael R. Bloomberg Signs Tort Reform Legislation</A>&nbsp; *Released in 
+conjunction with City Hall 7/16/03 (in <a href="http://www.adobe.com/products/acrobat/readstep2.html">PDF</a> )<br><br>
+<A href="../../downloads/pdf/pr071003.pdf">New York City Law Department Commences Suit Against Federal Government Seeking FICA Tax Refunds in Excess of $100 Million for the City &amp; for Police, Fire, Correction &amp; Sanitation Employees 7/10/03</A> (in <a href="http://www.adobe.com/products/acrobat/readstep2.html">PDF</a>)<br><br>
+<A href="../../downloads/pdf/pr070203.pdf">New York Supreme Court Voids State's Disallowance of $23 Million from City for Medicaid Expenses 7/02/03</A> (in <a href="http://www.adobe.com/products/acrobat/readstep2.html">PDF</a>)<br><br>
+<A href="../../downloads/pdf/pr062603.pdf">Court Dismisses Lawsuit Brought Against Department of Education under the "No Child Left Behind" Act 6/26/03</A> (in <a href="http://www.adobe.com/products/acrobat/readstep2.html">PDF</a>)<br><br>
+<A href="../../downloads/pdf/pr061203.pdf">Supreme Court, Appellate Division, Rules Unanimously in Favor of City in Gallagher v. F.D.N.Y 6/12/03</A> (in <a href="http://www.adobe.com/products/acrobat/readstep2.html">PDF</a>)<br><br>
+<A href="../../downloads/pdf/pr061003.pdf">Mayor Michael R. Bloomberg and Homeless Commissioner Linda Gibbs Announce Court Victory for City's Homeless&nbsp; *Released in conjunction with City Hall and the Department of Homeless Services 6/10/03</A> (in <a href="http://www.adobe.com/products/acrobat/readstep2.html">PDF</a>)<br><br>
+<A href="../../downloads/pdf/pr050903.pdf">State Supreme Court Strikes Down Local Law 14 on Transitional Employment, Declaring it Invalid 5/9/03</A> (in <a href="http://www.adobe.com/products/acrobat/readstep2.html">PDF</a>)<br><br>
+<A href="../../downloads/pdf/pr041803.pdf">Federal Court Judge Dismisses Rights Violations Case Brought by "100 Blacks in Law Enforcement" Against N.Y.P.D. 4/18/03</A> (in <a href="http://www.adobe.com/products/acrobat/readstep2.html">PDF</a>)<br><br>
+<A href="../../downloads/pdf/pr041603.pdf">City Awarded $1.2 Million in Product Defect Claim, Reflecting Aggressive Efforts to Protect Contract Rights and City Budget Expenditures 4/16/03</A> (in <a href="http://www.adobe.com/products/acrobat/readstep2.html">PDF</a>)<br><br>
+<A href="../../downloads/pdf/pr040903.pdf">New York City Commences Suits to Collect $100 Million from Foreign Governments in Unpaid Real Estate Taxes</A>&nbsp; *Released in conjunction with City Hall 4/9/03 (in <a href="http://www.adobe.com/products/acrobat/readstep2.html">PDF</a> )<br><br>
+<A href="../../downloads/pdf/pr040103.pdf">Statewide Coalition of More Than 280 Public Entities and Officials Calls for the End of Taxpayer-Funded, Double-Dipping Windfalls Against Public Employers</A>&nbsp; 
+*Released in conjunction with Collateral Source Coalition 04/01/03 (in <a href="http://www.adobe.com/products/acrobat/readstep2.html">PDF</a> )<br><br>
+<A href="../../downloads/pdf/pr040103a.pdf">New York City and Homeless Advocacy Group Reach Legal Settlement on Police Policies 4/1/03</A> (in <a href="http://www.adobe.com/products/acrobat/readstep2.html">PDF</a>)<br><br>
+<A href="../../downloads/pdf/pr032603.pdf">New York City Law Department Announces Conclusion of WTC Expedited Death Certificate Program on April 30th 3/26/03</A> (in <a href="http://www.adobe.com/products/acrobat/readstep2.html">PDF</a>)<br><br>
+<A href="../../downloads/pdf/pr030303.pdf">New York City Files Suit Challenging the EPA's Clean Air Act Rules 3/3/03</A> (in <a href="http://www.adobe.com/products/acrobat/readstep2.html">PDF</a>)<br><br>
+<A href="../../downloads/pdf/pr022503.pdf">City Files Motion and a Proposed Amici Curiae Brief Supporting the Plaintiffs/Appellants in the Campaign for Fiscal Equity Case in New York Court of Appeals 2/25/03</A> (in <a href="http://www.adobe.com/products/acrobat/readstep2.html">PDF</a>)<br><br>
+<A href="../../downloads/pdf/pr021403.pdf">New York City Law Department Prevails in Sexual Harassment Case Against Police Department 2/14/03</A> (in <a href="http://www.adobe.com/products/acrobat/readstep2.html">PDF</a>)<br><br>
+<A href="../../downloads/pdf/pr021303.pdf">New York City Law Department Wins $207 Million Reduction in Lawyer's Fees for Cendant Stockholders, Including City Pension Funds, Following Largest Class-Action Settlement Ever 2/13/03</A> (in <a href="http://www.adobe.com/products/acrobat/readstep2.html">PDF</a>)<br><br>
+<A href="../../downloads/pdf/pr021103.pdf">U.S. District Court Grants City's Request to Modify the Handschu Decree Granting NYPD Much-Needed Latitude in the Fight Against Terrorism 2/11/03</A> (in <a href="http://www.adobe.com/products/acrobat/readstep2.html">PDF</a>)<br><br>
+<A href="../../downloads/pdf/pr011703a.pdf">City Plans to File Amici Brief Supporting the Plaintiffs/Appellants in Campaign for Fiscal Equity, Inc. v. State of New York in the New York Court of Appeals 1/17/03</A> (in <a href="http://www.adobe.com/products/acrobat/readstep2.html">PDF</a>)<br><br>
+<A href="../../downloads/pdf/pr011703.pdf">New York City Commences Suit Against Internet Cigarette under the Federal Racketeering Statute, Seek to Recover in Excess of $15 Million 1/17/03</A> (in <a href="http://www.adobe.com/products/acrobat/readstep2.html">PDF</a>)<br><br>
+<A href="../../downloads/pdf/pr010803.pdf">New York City Law Department Announces Signing of Landmark Mental Health Agreement for Released Inmates 1/08/03</A> (in <a href="http://www.adobe.com/products/acrobat/readstep2.html">PDF</a>) 
+
+<p align="right" style="MARGIN-top: 0in">[<A href="#top">back to top</A>]</p></span>
+										
+								
+						
+
+					<br>
+
+					 
+					   
+						
+					 
+					 
+					
+					</td><td align="left" bgcolor="" valign="top" width="60"><img src="../../includes/site_images/spacers/spacer_60_30.gif" alt="" width="60" height="30" border="0"></td></tr>
+
+					
+
+					  
+						<tr><td colspan="3" align="left" bgcolor="" valign="top" width="589">
+							<img src="../../includes/site_images/misc/body_divider.gif" alt="" width="589" border="0"/></td></tr>
+						
+				   
+					  
+						<tr><td colspan="3" align="left" valign="top" bgcolor="" width="589">
+							
+							</td></tr>
+						
+					
+						<tr><td align="left" bgcolor="" valign="top" width="30"><img src="../../includes/site_images/spacers/spacer_30_30.gif" alt="" width="30" height="30" border="0">
+						</td><td align="left" bgcolor="" valign="top" width="499"><img src="../../includes/site_images/spacers/spacer_499_15.gif" alt="" width="499" height="15" border="0"><br>
+					  
+							
+						
+					  
+							
+							<span class="headline"><a name="2002"></a>2002 Press Releases<br>
+								</span>
+								
+							
+									
+									
+											<span class="bodytext"><a href="../../downloads/pdf/pr121602.pdf">New York City Law Department and Private Firms Continue to Yield Benefits from Public Service Initiative 12/16/02</a> (in <a href="http://www.adobe.com/products/acrobat/readstep2.html">PDF</a>)<br /><br /><a href="../../downloads/pdf/pr120502.pdf">New York State Supreme Court Judge Finds that City May Close Topless Bars Without Also Banning All Nudity in Theatres 12/5/02</a> (in <a href="http://www.adobe.com/products/acrobat/readstep2.html">PDF</a>)<br /><br /><a href="../../downloads/pdf/pr120402.pdf">Former District 29 Superintendent, Four Other Individuals and Five Corporations Sentenced in Scheme to Defraud Southeast Queens School District 12/4/02</a> (in <a href="http://www.adobe.com/products/acrobat/readstep2.html">PDF</a>)<br /><br /><a href="../../downloads/pdf/pr120202.pdf">U.S. District Court Dismisses Lawsuit Challenging New York City's Efforts to Control the West Nile Virus 12/2/02</a> (in <a href="http://www.adobe.com/products/acrobat/readstep2.html">PDF</a>)<br /><br /><a href="../../downloads/pdf/pr112202.pdf">New York City Law Department Victorious in Bankers Trust Case as Appellate Court Unanimously Reverses Lower Court's Decision 11/22/02</a> (in <a href="http://www.adobe.com/products/acrobat/readstep2.html">PDF</a>)<br /><br /><a href="../../downloads/pdf/pr111202.pdf">Corporation Counsel Michael A. Cardozo Addresses Key Tort Reform Legislation Today Before City Council 11/12/02</a> (in <a href="http://www.adobe.com/products/acrobat/readstep2.html">PDF</a>)<br /><br /><a href="../../downloads/pdf/pr110102.pdf">NYC Law Department Appoints Legal Tech Expert to New Chief Information Officer Position 11/1/02</a> (in <a href="http://www.adobe.com/products/acrobat/readstep2.html">PDF</a>)<br /><br /><a href="../../downloads/pdf/pr102202.pdf">NYS Court of Appeals Unanimously Affirms Lower Court's Dismissal in Cable Television Renewal Agreement Case 10/22/02</a> (in <a href="http://www.adobe.com/products/acrobat/readstep2.html">PDF</a>)<br /><br /><a href="../../downloads/pdf/pr101802.pdf">Former District 29 Superintendent, Four Other Individuals and Five Corporations Plead Guilty in Scheme to Defraud Southeast Queens School District 10/18/02</a> (in <a href="http://www.adobe.com/products/acrobat/readstep2.html">PDF</a>)<br /><br /><a href="../../downloads/pdf/pr092302.pdf">Federal Judge Reverses City Councilman's Verdict and Grants NYC's Motion to Dismiss 9/23/02</a> (in <a href="http://www.adobe.com/products/acrobat/readstep2.html">PDF</a>)<br /><br /><a href="../../downloads/pdf/pr091102.pdf">NYC Law Dept. Announces Agreement to Complete Installation of Pedestrian Ramps throughout the City 9/11/02</a> (in <a href="http://www.adobe.com/products/acrobat/readstep2.html">PDF</a>)<br /><br /><a href="../../downloads/pdf/pr090902.pdf">New York City Law Department Creates Special World Trade Center Unit in Response to Sept. 11th Notice of Claims 9/9/02</a> (in <a href="http://www.adobe.com/products/acrobat/readstep2.html">PDF</a>)<br /><br /><a href="../../downloads/pdf/pr071902.pdf">Appeals Division, First Department Vacates Arbitration Award as Improperly Interfering with School's Duty to Maintain Educational Standards 7/19/02</a> (in <a href="http://www.adobe.com/products/acrobat/readstep2.html">PDF</a>)<br /><br /><a href="../../downloads/pdf/pr071702a.pdf">New York City Law Department Prevails in Two Cases Involving Officers Dismissed for Drinking with Police Officer Joseph Gray 7/17/02</a> (in <a href="http://www.adobe.com/products/acrobat/readstep2.html">PDF</a>)<br /><br /><a href="../../downloads/pdf/pr071702.pdf">U.S. Southern District Judge Terminates Stipulation of Settlement Governing Department of Correction's Central Punitive Segregation Unit 7/17/02</a> (in <a href="http://www.adobe.com/products/acrobat/readstep2.html">PDF</a>)<br /><br /><a href="../../downloads/pdf/pr071202.pdf">New York State Supreme Court Judge Upholds Administrative Code Sterilization Requirement for Dogs Released from Shelter System 7/12/02</a> (in <a href="http://www.adobe.com/products/acrobat/readstep2.html">PDF</a>)<br /><br /><a href="../../downloads/pdf/pr071102.pdf">Appellate Division Grants New Trial in Case Where Police Officer Shot Plaintiff who Had Fired a Semi Automatic Gun at Him 7/11/02</a> (in <a href="http://www.adobe.com/products/acrobat/readstep2.html">PDF</a>)<br /><br /><a href="../../downloads/pdf/pr062102.pdf">NYS Supreme Court Judge Upholds Health Code Prohibition Against the Possession of Ferrets within New York City 6/21/02</a> (in <a href="http://www.adobe.com/products/acrobat/readstep2.html">PDF</a>)<br /><br /><a href="../../downloads/pdf/pr061902.pdf">Federal District Court Rules that HRA May Limit Access to Job Centers to Only Those Involved in its Official Business 6/19/02</a> (in <a href="http://www.adobe.com/products/acrobat/readstep2.html">PDF</a>)<br /><br /><a href="../../downloads/pdf/pr061702.pdf">NYC Bar Announces Winners of Municipal Affairs Award</a>&#160;&#160;*Released in conjunction with the Association of the Bar of the City of New York 6/17/02 (in <a href="http://www.adobe.com/products/acrobat/readstep2.html">PDF</a> )<br /><br /><a href="../../downloads/pdf/pr051702.pdf">Mayor Michael R. Bloomberg and NYC Law Department Launch Innovative Corporate / Public Service Pro Bono Initiative 5/17/02</a>&#160;(in <a href="http://www.adobe.com/products/acrobat/readstep2.html">PDF</a>)<br /><br /><a href="../../downloads/pdf/pr051402.pdf">Second Circuit Court of Appeals Upholds District Court's Decision to Dismiss Police Officer's Civil Rights Action 5/14/02</a>&#160;(in <a href="http://www.adobe.com/products/acrobat/readstep2.html">PDF</a>)<br /><br /><a href="../../downloads/pdf/pr051302a.pdf">NYC Law Dept. Creates New Legal Division and Announces Several Promotions Reflecting Diversity and Longstanding Public Service Commitment of Staff 5/13/02</a> (in <a href="http://www.adobe.com/products/acrobat/readstep2.html">PDF</a>)<br /><br /><a href="../../downloads/pdf/pr051302.pdf">NYC Law Department Wins Victory in Emilio R. Adoption Case 5/13/02</a> (in <a href="http://www.adobe.com/products/acrobat/readstep2.html">PDF</a>)<br /><br /><a href="../../downloads/pdf/pr050602.pdf">Mayor Michael R. Bloomberg Proposes Comprehensive Tort Reform Legislation</a> *Released in conjunction with the City Hall 5/6/02 (in <a href="http://www.adobe.com/products/acrobat/readstep2.html">PDF</a> ) <br /><br /><a href="../../downloads/pdf/pr042902.pdf">Second Circuit Court of Appeal Grants NYC's Request for a Stay on Construction Projects at Pretrial Detention Facilities 4/29/02</a>&#160;(in <a href="http://www.adobe.com/products/acrobat/readstep2.html">PDF</a>)<br /><br /><a href="../../downloads/pdf/pr042302.pdf">NYC's Corporation Counsel Addresses Need for Tort Reform with Albany Legislators 4/23/02</a> (in <a href="http://www.adobe.com/products/acrobat/readstep2.html">PDF</a>)<br /><br /><a href="../../downloads/pdf/pr042202.pdf">State Supreme Court Agrees that City-Owned Lots with Temporary Community Gardens May Be Developed by NYC 4/22/02</a> (in <a href="http://www.adobe.com/products/acrobat/readstep2.html">PDF</a>)<br /><br /><a href="../../downloads/pdf/pr041202.pdf">NYC Law Department Returns to 100 Church St. Following Major Displacements After Sept. 11th 4/12/02</a> (in <a href="http://www.adobe.com/products/acrobat/readstep2.html">PDF</a>) 
+
+<p align="right" style="MARGIN-top: 0in">[<a href="#top">back to top</a>]</p></span>
+										
+								
+						
+
+					
+
+					 
+					   
+						
+					 
+					 
+					
+					</td><td align="left" bgcolor="" valign="top" width="60"><img src="../../includes/site_images/spacers/spacer_60_30.gif" alt="" width="60" height="30" border="0"></td></tr>
+
+					
+
+					  
+				   
+				</table>
+				<!-- END of PRIMARY FEATURE SECTION -->
+
+				<!-- START of SECONDARY FEATURE SECTION -->
+
+				<table width="589" border="0" cellspacing="0" cellpadding="0">
+				  
+					  
+						<tr><td colspan="4" align="left" valign="top" bgcolor="" width="589">
+							
+							</td></tr>
+						
+					
+
+					  </table>
+
+				<!-- END of SECONDARY FEATURE SECTION -->
+
+				<!-- START of TERTIARY FEATURE SECTION -->
+				<table width="589" border="0" cellspacing="0" cellpadding="0">
+				  
+					  
+						<tr><td colspan="3" align="left" valign="top" bgcolor="" width="589">
+							
+							</td></tr>
+						
+					
+					  
+				   
+				</table>
+				<!-- END of TERTIARY FEATURE SECTION -->
+				<!-- END_PRINT_PAGE -->
+				
+
+			<!-- START of nycgov_footer.inc-->
+<!-- old table width=589;  499 for middle td -->
+<!-- expanded table width=769;  619 for middle td -->
+<!-- <table width="589" border="0" cellspacing="0" cellpadding="0">
+	<tr>
+		<td align="left" valign="top" width="30"><img src="../../includes/site_images/spacers/spacer_30_30.gif" alt="" width="30" height="30" border="0"></td>
+		<td align="left" valign="top" width="499"><img src="../..//includes/site_images/spacers/spacer_499_15.gif" alt="" width="499" height="15" border="0"><img src="../../includes/site_images/footer_divider.gif" alt="" width="499" height="1" border="0"><br>
+			<span class="footer_header">Footer header goes here<br>
+			</span><span class="footer_text">Footer text description goes here. It is optional and the max is about 300 characters which is approximately 3-4 lines of text. Footer text description goes here. It is optional and the max is about 300 characters which is approximately 3-4 lines of text.<br>
+			</span></td>
+		<td align="left" valign="top" width="60"><img src="../..//includes/site_images/spacers/spacer_60_30.gif" alt="" width="60" height="30" border="0"><br>
+			<br>
+		</td>
+	</tr>
+</table> -->
+<!-- END of default_footer.inc -->
+
+
+					
+	<!-- BEGIN_PRINT_PAGE -->				
+					<span class="footer_text"><br></span></td>
+				<!-- END of CENTER column -->
+			</tr>
+	<!-- END_PRINT_PAGE -->
+			<tr height="25">
+				<td colspan="2" align="left" valign="top" width="769" height="25"> 
+
+					
+
+
+
+<!-- START of nycgov_footer.inc-->
+<style type="text/css">
+<!--
+	.footer_links {font-family: Verdana, Arial, Helvetica, sans-serif;
+		font-size: 10px;
+		color: #F9D053;
+	}
+
+	.footer_copyright {font-family: Verdana, Arial, Helvetica, sans-serif;
+		font-size: 10px;
+		color: #C4C4B2;
+	}
+-->
+</style>
+<TABLE cellSpacing=0 cellPadding=0 width=769 bgColor=#494B4C border=0>
+	<TBODY>
+	<TR><TD width=13><IMG height=24 src="../../includes/site_images/spacers/spacer.gif" width=13></TD>
+          <TD width=287><SPAN class=footer_copyright>Copyright 2013 The City of New York</SPAN></TD>
+          <TD align=right width=444><SPAN class=footer_links><A class=footer_links href="/contact">Contact Us</A> | <A class=footer_links href="/faqs">FAQs</A> | <A class=footer_links href="/privacy">Privacy Policy</A> | <A class=footer_links href="http://www.nyc.gov/html/misc/html/tou.html">Terms of Use</A> | <A class=footer_links href="/sitemap">Site Map</A></SPAN></TD>
+          <TD align=right width=25><IMG height=24 src="../../includes/site_images/spacers/spacer.gif" width=25></TD></TR>
+        </TBODY>
+</TABLE>
+<!-- Privacy Policy updated on 03/08/2011 -->
+<!--  nycgov Webtrends code, added on 02/16/2011 -->
+<script src="/html/misc/scripts/nycwebtrends.js" type="text/javascript"></script>
+<script type="text/javascript">
+//<![CDATA[
+var _nyctag=new WebTrends();
+_nyctag.dcsInit();
+_nyctag.dcsGetId();
+//]]>>
+</script>
+<script type="text/javascript">
+//<![CDATA[
+_nyctag.dcsCollect();
+//]]>>
+</script>
+
+<!-- PROD noscript section -->
+<noscript>
+<div><img alt="DCSIMG" id="DCSIMG" width="1" height="1" src="http://a858-sdc.nyc.gov/dcslfpea2000008i7geu3pdky_5v8x/njs.gif?dcsuri=/nojavascript&WT.js=No&WT.tv=8.6.2"/></div>
+</noscript>
+<!--  END OF nycgov Webtrends code, added on 02/16/2011 -->
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-9518673-1");
+pageTracker._trackPageview();
+} catch(err) {}
+</script>
+<!-- END of nycgov_footer.inc-->
+
+				</td>
+			</tr>
+<!-- BEGIN_PRINT_PAGE -->			
+		</table>
+	<!-- END_PRINT_PAGE -->
+	</body>
+</html>
+

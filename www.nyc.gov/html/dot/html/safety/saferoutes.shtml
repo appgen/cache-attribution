@@ -1,0 +1,233 @@
+<!doctype html>
+<!--[if lt IE 7]><html class="lt-ie9 lt-ie8 lt-ie7" lang="en"><![endif]-->
+<!--[if IE 7]><html class="lt-ie9 lt-ie8" lang="en"><![endif]-->
+<!--[if IE 8]><html class="lt-ie9" lang="en"><![endif]-->
+<!--[if gt IE 8]><!--><html lang="en"><!--<![endif]-->
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <meta name="viewport" content="width=device-width, initial-scale=1"/>
+  <link rel="stylesheet" href="../../css/style.css">
+  
+  <!--[if lt IE 9]>
+  <script src="../../scripts/modernizr.custom.2.6.2.js"></script>
+  <link rel="stylesheet" href="../../css/ie.css">
+  <![endif]-->
+
+  <script src="../../scripts/jquery/jquery-1.7.2.min.js"></script>
+  <script src="../../scripts/bootstrap.min.js"></script>
+  <script src="../../scripts/helpers.min.js"></script>
+
+  <title>NYC DOT - Safe Routes to Schools</title>
+    <meta http-equiv="refresh" content="0;URL='../pedestrians/saferoutes.shtml'">
+    <script type="text/javascript">
+      window.location ='../pedestrians/saferoutes.shtml';
+    </script>
+</head>
+<body id="body" lang="en">
+  <div class="banner-nycgov right-margin">
+   <span id="skiplink"><a href="#_content">Skip past navigation</a>.</span>
+   <div class="banner-nycgov-top">
+    <a id="nycgov-home" href="http://www.nyc.gov/" name="nycgov-home">NYC.gov</a>
+   </div>
+   <div class="banner-nycgov-bottom">
+    <ul class="banner-nycgov-links right-margin-inline">
+     <li><a id="nycgov-res" class="nycgov-link" href="http://nyc.gov/residents" name="nycgov-res">Residents</a></li>
+     <li><a id="nycgov-biz" class="nycgov-link" href="http://nyc.gov/business" name="nycgov-biz">Business</a></li>
+     <li><a id="nycgov-vis" class="nycgov-link" href="http://nyc.gov/visitors" name="nycgov-vis">Visitors</a></li>
+     <li><a id="nycgov-gov" class="nycgov-link" href="http://nyc.gov/government" name="nycgov-gov">Government</a></li>
+     <li><a id="nycgov-mayor" class="nycgov-link" href="http://nyc.gov/mayor" name="nycgov-mayor">Office of the Mayor</a></li>
+    </ul>
+   </div>
+  </div>
+  <div id="banner-agency" class="right-margin">
+   <div id="banner-agency-logo"><a href="http://nyc.gov/dot"></a></div>
+    <ul id="banner-links" class="right-margin-inline">
+      <li><a id="signup" href="../contact/email_signup.shtml" title="Sign-up for Email Updates"><span class="icon icon-envelope-alt icon-large"></span></a></li>
+      <li><a class="connect" href="../contact/connect.shtml" title="Facebook"><span class="icon icon-facebook-sign icon-large"></span></a></li>
+      <li><a class="connect" href="../contact/connect.shtml" title="Twitter"><span class="icon icon-twitter-sign icon-large"></span></a></li>
+   </ul>
+  </div>
+
+<div class="agency-wrapper">
+  <section>
+    <div role="main" class="agency-content agency-module" id="_content">
+<p><a href="../pedestrians/saferoutes.shtml">This page has moved. You are being redirected its the new location</a>.</p>
+    </div>
+  <nav>
+  <div class="agency-nav agency-module">
+    <ul id="nav-list">
+      <li class="nav-item" id="nav-home"><a class="nav-item-link" href="../home/home.shtml">Home</a></li>
+
+      <li class="nav-item" id="nav-about">
+        <a class="nav-item-link" href="../about/about.shtml">About DOT</a>
+
+        <ul class="nav-sub">
+          <li><a class="nav-sub-item" href="../about/stratplan.shtml">Strategic Plan</a></li>
+
+          <li><a class="nav-sub-item" href="http://a841-tfpweb.nyc.gov/dotpress/">Press Releases</a></li>
+
+          <li><a class="nav-sub-item" href="http://www.nyc.gov/portal/site/nycgov/menuitem.e2d70d4cd03b6dd1d3e3711042289da0">Events Calendar</a></li>
+
+          <li><a class="nav-sub-item" href="../about/employ.shtml">Employment</a></li>
+
+          <li><a class="nav-sub-item" href="../about/currentproj.shtml">Current Projects</a></li>
+
+          <li><a class="nav-sub-item" href="../about/dotlibrary.shtml">DOT Library</a></li>
+
+          <li><a class="nav-sub-item" href="../about/safety-education.shtml">Safety Education</a></li>
+
+          <li><a class="nav-sub-item" href="../about/doing-business.html">Doing Business with DOT</a></li>
+
+          <li><a class="nav-sub-item" href="../about/datafeeds.shtml">Data Feeds</a></li>
+
+          <li><a class="nav-sub-item" href="../about/dot_lap.shtml">Language Access Plan</a></li>
+
+          <li><a class="nav-sub-item" href="../about/mou_dot.shtml">Interagency MOUs</a></li>
+
+          <li><a class="nav-sub-item" href="../sitemap/sitemap.shtml">Sitemap</a></li>
+        </ul>
+      </li>
+
+      <li class="nav-item" id="nav-pedestrians">
+        <a class="nav-item-link" href="../pedestrians/pedestrians.shtml">Pedestrians</a>
+
+        <ul class="nav-sub">
+
+          <li><a class="nav-sub-item" href="../pedestrians/publicplaza.shtml">NYC Plaza Program</a></li>
+
+          <li><a href="../pedestrians/pedestrian_projects.shtml" class="nav-sub-item">Pedestrian Network</a></li>
+         
+          <li><a class="nav-sub-item" href="../pedestrians/streetseats.shtml">Street Seats</a></li>
+
+          <li><a href="../pedestrians/citybench.shtml" class="nav-sub-item">CityBench</a></li>
+
+          <li><a href="../pedestrians/urbanart.shtml" class="nav-sub-item">Urban Art</a></li>
+
+          <li><a href="../pedestrians/safeseniors.shtml" class="nav-sub-item">Safe Streets for Seniors</a></li>
+        </ul>
+      </li>
+
+      <li class="nav-item" id="nav-bicyclists">
+        <a class="nav-item-link" href="../bicyclists/bicyclists.shtml">Bicyclists</a>
+
+        <ul class="nav-sub">
+          <li><a class="nav-sub-item" href="../bicyclists/bikemaps.shtml">Bike Maps</a></li>
+
+          <li><a class="nav-sub-item" href="../bicyclists/biketips.shtml">Bike Safety</a></li>
+
+          <li><a class="nav-sub-item" href="../bicyclists/bicycleparking.shtml">Bike Parking</a></li>
+
+          <li><a class="nav-sub-item" href="../bicyclists/bikestats.shtml">Bike Network &amp; Stats</a></li>
+        </ul>
+      </li>
+
+      <li class="nav-item" id="nav-ferries">
+        <a class="nav-item-link" href="../ferrybus/ferrybus.shtml">Ferries &amp; Buses</a>
+
+        <ul class="nav-sub">
+          <li><a class="nav-sub-item" href="http://www.nyc.gov/brt">Bus Rapid Transit</a></li>
+
+          <li><a class="nav-sub-item" href="../ferrybus/staten-island-ferry.shtml">Staten Island Ferry</a></li>
+
+          <li><a class="nav-sub-item" href="../ferrybus/ferintro.shtml">Private Ferries</a></li>
+        </ul>
+      </li>
+
+      <li class="nav-item" id="nav-motorists">
+        <a class="nav-item-link" href="../motorist/motorist.shtml">Motorists &amp; Parking</a>
+
+        <ul class="nav-sub">
+          <li><a class="nav-sub-item" href="../motorist/alternate-side-parking.shtml">Alternate Side Parking</a></li>
+
+          <li><a class="nav-sub-item" href="../motorist/parking-rates.shtml">Parking Rates and Rules</a></li>
+
+          <li><a class="nav-sub-item" href="../motorist/weektraf.shtml">Weekly Traffic Advisories</a></li>
+
+          <li><a class="nav-sub-item" href="../motorist/atis.shtml">Real Time Traffic Cameras</a></li>
+
+          <li><a class="nav-sub-item" href="../motorist/trucks.shtml">Trucks</a></li>
+
+
+          <li><a class="nav-sub-item" href="../motorist/parkinglist.shtml">Municipal Parking Lots</a></li>
+
+
+          <li><a class="nav-sub-item" href="../motorist/slowzones.shtml">Neighborhood Slow Zones</a></li>
+
+        </ul>
+      </li>
+
+      <li class="nav-item" id="nav-infrastructure">
+        <a class="nav-item-link" href="../infrastructure/infrastructure.shtml">Infrastructure</a>
+
+        <ul class="nav-sub">
+          <li><a class="nav-sub-item" href="../infrastructure/bridges.shtml">Bridges</a></li>
+
+          <li><a class="nav-sub-item" href="../infrastructure/permits.shtml">Street Works Permits</a></li>
+
+          <li><a class="nav-sub-item" href="../infrastructure/sidewalkintro.shtml">Sidewalk Maintenance &amp; Repair</a></li>
+
+          <li><a href="../infrastructure/custom-signs.shtml" class="nav-sub-item">Custom Signs</a></li>
+
+          <li><a class="nav-sub-item" href="../infrastructure/signals.shtml">Traffic Signals</a></li>
+
+          <li><a class="nav-sub-item" href="../infrastructure/streetlights.shtml">Street Lights</a></li>
+
+          <li><a class="nav-sub-item" href="../infrastructure/revconif.shtml">Revocable Consents &amp; Franchises</a></li>
+
+        </ul>
+      </li>
+      <li class="nav-item" id="nav-contact">
+        <a class="nav-item-link" href="../contact/contact.shtml">Contact DOT</a>
+        <ul class="nav-sub">
+          <li><a class="nav-sub-item" href="../contact/customer-service.shtml">Customer Service</a></li>
+
+          <li><a class="nav-sub-item" href="../contact/connect.shtml">Social Media</a></li>
+        </ul>
+
+      </li>
+    </ul>
+
+    <ul class="agency-nav-helpers">
+      <li class="nav-item nav-undecorated search">
+        <form name="gs" method="get" action="http://search1.nyc.gov/search?" class="form-search form-inline">
+          <input value="xml_no_dtd" name="output" type="hidden"> <input value="default_collection" name="site" type="hidden"> <input value="agency_frontend" name="proxystylesheet" type="hidden"> <input value="agency_frontend" name="client" type="hidden"> <input value="www.nyc.gov/html/dot" name="sitesearch" type="hidden">
+
+          <div class="input-append">
+            <input name="q" type="text" class="search-query" placeholder="Search"><button type="submit" class="btn" id="search" name="search">Go</button>
+          </div>
+        </form>
+      </li>
+
+      <li id="translate-nav" class="nav-item nav-undecorated">
+        <a class="nav-item-link translate-toggle">Translate Page</a>
+
+        <div id="google_translate_element"></div>
+        <script type="text/javascript">//<!--
+        function googleTranslateElementInit() {new google.translate.TranslateElement({pageLanguage: 'en', autoDisplay: false, gaTrack: true, gaId: 'UA-9518673-1', layout: google.translate.TranslateElement.InlineLayout.SIMPLE },'google_translate_element');} //-->
+        </script>
+        <script src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit" type="text/javascript"></script>
+      </li>
+    </ul>
+  </div>
+</nav>
+
+  </section>
+ </div>
+<footer>
+  <div id="footer" class="right-margin">
+    <div class="right-margin-inline">
+      <span class="footer-copyright">Copyright 2013 The City of New York</span> | <span id="footer-links"><a class="footer-links" href="/privacy">Privacy Policy</a> | <a class="footer-links" href="http://www.nyc.gov/html/misc/html/tou.html">Terms of Use</a></span>
+    </div>
+  </div>
+</footer>
+
+<script>
+  var _gaq=[['_setAccount','UA-9518673-1'],['_trackPageview']];
+  (function(d,t){var g=d.createElement(t),s=d.getElementsByTagName(t)[0];
+  g.src=('https:'==location.protocol?'//ssl':'//www')+'.google-analytics.com/ga.js';
+  s.parentNode.insertBefore(g,s)}(document,'script'));
+</script>
+
+</body>
+</html>

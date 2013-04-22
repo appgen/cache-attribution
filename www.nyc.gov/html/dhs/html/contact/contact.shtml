@@ -1,0 +1,537 @@
+
+
+
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+	<head>
+		<meta http-equiv="content-type" content="text/html;charset=UTF-8">
+		<meta name="tp-name" content="homepage_2col">
+
+		
+		
+
+		
+				<title>DHS - Contact DHS</title>
+			
+		
+				
+			
+		<link href="../../includes/css/rollout.css" rel="stylesheet">
+	</head>
+
+<body  background="../../includes/site_images/misc/bg.gif"
+  bgcolor="#ffffff" leftmargin="0" marginheight="0" marginwidth="0" topmargin="0">
+
+	<!-- BEGIN_PRINT_PAGE -->
+		<table width="999" border="0" cellspacing="0" cellpadding="0" height="100%">
+	<!-- END_PRINT_PAGE -->	
+			<tr><td colspan="2" align="left" valign="top" width="999">
+					<!-- START of nycgov_header.inc -->
+<table width="999" border="0" cellspacing="0" cellpadding="0" height="51">
+	<tr>
+		<td><img src="../../includes/site_images/nyc_gov/nycgov_banner_wide.gif" alt="" width="999" height="51" border="0" usemap="#TopNav"></td>
+	</tr>
+</table>
+<map name="TopNav">
+  <area shape="rect" coords="787,6,825,19" href="/search" alt="Search">
+  <area shape="rect" coords="840,6,915,19" href="/portal/register.jsp" alt="Email Updates">
+  <area shape="rect" coords="929,6,988,19" href="/contact" alt="Contact Us">
+  <area shape="rect" coords="563,31,625,46" href="/residents" alt="Residents">
+  <area shape="rect" coords="641,31,698,46" href="/business" alt="Business">
+  <area shape="rect" coords="711,31,761,46" href="/visitors" alt="Visitors">
+  <area shape="rect" coords="776,31,855,46" href="/government" alt="Government">
+  <area shape="rect" coords="868,31,988,46" href="/mayor" alt="Office of the Mayor">
+  <area shape="rect" coords="3,3,48,46" href="/home.html" alt="NYC.gov always open">
+</map>
+<!-- END of nycgov_header.inc -->
+					
+							<script type="text/javascript" src="../../includes/scripts/misc.js"></script>
+<script language="JavaScript" src="../../includes/scripts/change_text.js"></script>
+<script language="JavaScript" src="../../includes/scripts/translate.js"></script>
+<table cellspacing="0" cellpadding="0" border="0" width="999">
+  <tr>
+    <td class="banner"><table cellspacing="0" cellpadding="0" border="0" width="100%">
+        <tr>
+          <td class="logo_search"><table cellspacing="0" cellpadding="0" border="0" width="100%">
+              <tr>
+                <Td class="logo"><a href="../../html/home/home.shtml"><img src="../../includes/site_images/branding/logo.png" width="287" height="44" border="0" alt="NYC Department of Homeless Services"></a></Td>
+                <td class="search"><form action="http://search1.nyc.gov/search?" method="GET" name="gs" style="margin: 0px;">
+                    <input value="xml_no_dtd" name="output" type="hidden">
+                    <input value="default_collection" name="site" type="hidden">
+                    <input value="agency_frontend" name="proxystylesheet" type="hidden">
+                    <input value="agency_frontend" name="client" type="hidden">
+                    <input value="www.nyc.gov/html/dhs" name="sitesearch" type="hidden">
+                    <Table cellspacing="0" cellpadding="0" border="0">
+                      <tr>
+                        <Td class="search_field"><input name="q" id="search_nycgov" type="text" class="searchfield" style="width:180px;"></Td>
+                        <td class="search_button"><input name="go" type="image" id="go" src="../../includes/site_images/branding/search_0.png" width="55" height="23" border="0" alt="Go" onMouseOver="swapImage('go','search_1.png')" onMouseOut="restoreImage('go')"></td>
+                      </tr>
+                    </Table>
+                  </form></td>
+              </tr>
+            </table></td>
+        </tr>
+        <tr>
+          <td class="tools"><table cellspacing="0" cellpadding="0" border="0">
+              <tr>
+                <td class="tools_item"><a href="http://www.nyc.gov/cgi-bin/misc/pfprinter.cgi?action=print&amp;sitename=dhs">Printer Friendly</a></td>
+                <td class="tools_item" id="translate_button"><a href="javascript:showTranslate();">Translate This Page</a></td>
+                <td class="tools_text_size"><table cellspacing="0" cellpadding="0" border="0">
+                    <tr>
+                      <td class="text_size">Text Size:</td>
+                      <td class="text_sizes"><a class="text_size_small" id="small" href="javascript:switchStyle('1');">A</a> <a class="text_size_med" id="med" href="javascript:switchStyle('2');">A</a> <a class="text_size_large" id="large" href="javascript:switchStyle('3');">A</a></td>
+                    </tr>
+                  </table></td>
+              </tr>
+            </table></td>
+        </tr>
+      </table></td>
+  </tr>
+</table>
+<script language="Javascript">
+if(GetCookie(fontSizeCookie) == "2"){
+	document.getElementById('med').className="text_size_med_active";	
+}else if(GetCookie(fontSizeCookie) == "3"){
+	document.getElementById('large').className="text_size_large_active";	
+}else{
+	document.getElementById('small').className="text_size_small_active";	
+}
+</script>
+<iframe scrolling='no' frameborder='0' class='shim' name='shim' id='shim'></iframe>
+<div id="translate_popup" class="popup">
+  <table cellspacing="0" cellpadding="0" border="0" width="323">
+    <tr>
+      <td class="popup_table"><table cellspacing="0" cellpadding="0" border="0" width="284">
+          <tr>
+            <Td colspan="2"><img src="../../includes/site_images/misc/translate_popup.gif" width="284" height="39" alt="Translate this Page" border="0"></Td>
+          </tr>
+          <tr>
+            <td class="popup_label" width="123">Select a Language</td>
+            <td class="popup_field" width="147"><select name="tl" id="tl" style="width:147px">
+                <option value="">- Select -</option>
+                <option value="af">Afrikaans</option>
+                <option value="sq">Albanian</option>
+                <option value="ar">Arabic</option>
+                <option value="be">Belarusian</option>
+                <option value="bg">Bulgarian</option>
+                <option value="ca">Catalan</option>
+                <option value="zh">Chinese</option>
+                <option value="zh-CN">Chinese (Simplified)</option>
+                <option value="zh-TW">Chinese (Traditional)</option>
+                <option value="hr">Croatian</option>
+                <option value="cs">Czech</option>
+                <option value="da">Danish</option>
+                <option value="nl">Dutch</option>
+                <option value="en">English</option>
+                <option value="et">Estonian</option>
+                <option value="tl">Filipino</option>
+                <option value="fi">Finnish</option>
+                <option value="fr">French</option>
+                <option value="gl">Galician</option>
+                <option value="de">German</option>
+                <option value="el">Greek</option>
+                <option value="ht">Haitian Creole</option>
+                <option value="iw">Hebrew</option>
+                <option value="hi">Hindi</option>
+                <option value="hu">Hungarian</option>
+                <option value="is">Icelandic</option>
+                <option value="id">Indonesian</option>
+                <option value="ga">Irish</option>
+                <option value="it">Italian</option>
+                <option value="pa">Japanese</option>
+                <option value="ko">Korean</option>
+                <option value="lv">Latvian</option>
+                <option value="lt">Lithuanian</option>
+                <option value="mk">Macedonian</option>
+                <option value="ms">Malay</option>
+                <option value="mt">Maltese</option>
+                <option value="no">Norwegian</option>
+                <option value="fa">Persian</option>
+                <option value="pl">Polish</option>
+                <option value="pt">Portuguese</option>
+                <option value="pt-PT">Portuguese (Portugal)</option>
+                <option value="ro">Romanian</option>
+                <option value="ru">Russian</option>
+                <option value="sr">Serbian</option>
+                <option value="sk">Slovak</option>
+                <option value="sl">Slovenian</option>
+                <option value="es">Spanish</option>
+                <option value="sw">Swahili</option>
+                <option value="sv">Swedish</option>
+                <option value="tl">Tagalog</option>
+                <option value="th">Thai</option>
+                <option value="tr">Turkish</option>
+                <option value="uk">Ukrainian</option>
+                <option value="vi">Vietnamese</option>
+                <option value="cy">Welsh</option>
+                <option value="yi">Yiddish</option>
+              </select>
+            </td>
+          </tr>
+          <tr>
+            <td class="buttons" colspan="2"><input type="button" class="yellow_button" style="width:78px;" value="Translate" onClick="setLanguage(document.getElementById('tl').options[document.getElementById('tl').selectedIndex].value)" />
+              <input type="button" class="yellow_button" style="width:56px;" value="Cancel" onClick="hideTranslate()" /></td>
+          </tr>
+        </table></td>
+  </table>
+</div>
+<div style="display:none; position:absolute; top:0px; left:0px;">
+  <div id="google_translate_element"></div>
+  <script>
+function googleTranslateElementInit() {
+  new google.translate.TranslateElement({
+    pageLanguage: 'en',
+    layout: google.translate.TranslateElement.InlineLayout.SIMPLE
+  }, 'google_translate_element');
+}
+</script>
+  <script src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+</div>
+
+						
+			</td></tr>
+
+		
+		<!-- BEGIN_PRINT_PAGE -->
+		<tr>
+		<!-- END_PRINT_PAGE -->
+		<td align="left" valign="top" width="220" height="100%">
+					
+							
+							 
+								  <table cellspacing="0" cellpadding="0" border="0" width="220">
+  <tr>
+    <Td><script language="Javascript" src="../../includes/scripts/nav_nodes.js"></script>
+      <script language="Javascript" src="../../includes/scripts/nav_code.js"></script>
+      <noscript>
+      <a href="../../html/home/home.shtml" class="nav_section">Home</a><br>
+      <a href="../../html/about/about.shtml" class="nav_section">About DHS</a><br>
+      <span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/about/commissioner.shtml" class="nav_subsection">Meet the Commissioner</a><br>
+      <span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/about/history.shtml" class="nav_subsection">DHS History</a><br>
+      <span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/about/diversity.shtml" class="nav_subsection">Diversity & Equal Opportunity Affairs</a><br>
+      <span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/about/contracts.shtml" class="nav_subsection">Contracts & Procurement</a><br>
+      <span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/about/mous.shtml" class="nav_subsection">Interagency MOUs</a><br>
+      <span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/about/ll73.shtml" class="nav_subsection">Local Law 73</a><br>
+      <span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/about/lap.shtml" class="nav_subsection">Language Access Plan</a><br>
+      <span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/about/work.shtml" class="nav_subsection">Work for DHS</a><br>
+      <a href="../../html/housing/housing.shtml" class="nav_section">Temporary Housing Assistance</a><br>
+      <span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/housing/adult.shtml" class="nav_subsection">Adult Families</a><br>
+      <span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/housing/families.shtml" class="nav_subsection">Families with Children</a><br>
+      <span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/housing/single.shtml" class="nav_subsection">Single Adults</a><br>
+      <a href="../../html/outreach/outreach.shtml" class="nav_section">Street Homelessness & Outreach</a><br>
+      <a href="../../html/prevention/prevention.shtml" class="nav_section">Prevention</a><br>
+      <span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/prevention/homebase.shtml" class="nav_subsection">Homebase</a><br>
+      <span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/prevention/violence.shtml" class="nav_subsection">Domestic Violence</a><br>
+      <span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/prevention/rent.shtml" class="nav_subsection">Rent Issues</a><br>
+      <span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/prevention/building.shtml" class="nav_subsection">Reporting Building Conditions</a><br>
+      <a href="../../html/advocacy/advocacy.shtml" class="nav_section">Client Advocacy Services</a><br>
+      <a href="../../html/veterans/veterans.shtml" class="nav_section">Veterans</a><br>
+      <a href="../../html/help/help.shtml" class="nav_section">How You Can Help</a><br>
+      <span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/help/donations.shtml" class="nav_subsection">Donations</a><br>
+      <span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/help/giving.shtml" class="nav_subsection">Giving</a><br>
+      <span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/help/hope.shtml" class="nav_subsection">HOPE</a><br>
+      <a href="../../html/communications/communications.shtml" class="nav_section">Communications</a><br>
+      <span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/communications/news.shtml" class="nav_subsection">News</a><br>
+      <span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/communications/pr.shtml" class="nav_subsection">Press Releases</a><br>
+      <span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/communications/media.shtml" class="nav_subsection">Media Kit</a><br>
+      <span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/communications/gallery.shtml" class="nav_subsection">Special Events Gallery</a><br>
+      <span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/communications/events.shtml" class="nav_subsection">Special Events</a><br>
+      <span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/communications/testimony.shtml" class="nav_subsection">Testimony</a><br>
+      <span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/communications/stats.shtml" class="nav_subsection">Stats & Reports</a><br>
+      <a href="../../html/faq/faq.shtml" class="nav_section">Frequently Asked Questions</a><br>
+      <span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/faq/advantage.shtml" class="nav_subsection">Advantage Frequently Asked Questions</a><br>
+      <a href="../../html/contact/contact.shtml" class="nav_section">Contact DHS</a><br>
+      <span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/contact/email.shtml" class="nav_subsection">Email DHS</a><br>
+      <span class="nav_subsection">&nbsp;-&nbsp;</span><a href="http://www.nyc.gov/html/mail/html/maildhs.html" class="nav_subsection">Email the Commissioner</a><br>
+      </noscript>
+    </Td>
+  </tr>
+</table><img src="../../includes/site_images/spacers/spacer.gif" width="1" height="19"><table width="182" border="0" cellspacing="0" cellpadding="0" align="center" style="border: 1px solid #e2e2e2;" bgcolor="#FFFFFF">
+  <tr>
+    <td align="center" class="social_title">Follow Us On</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="../../includes/site_images/nav/social_divider.gif" width="180" height="2"></td>
+  </tr>
+  <tr>
+    <td align="center" style="padding-top: 16px;"><a href="http://www.nyc.gov/cgi-bin/exit.pl?url=http://www.facebook.com/pages/NYC-HOPE/168242716599326"><img src="../../includes/site_images/nav/fb.gif" width="31" height="32" border="0" style="margin: 0px 4px 0px 4px;"></a><a href="http://www.nyc.gov/cgi-bin/exit.pl?url=http://twitter.com/nycdhs"><img src="../../includes/site_images/nav/tw.gif" width="30" height="32" border="0" style="margin: 0px 4px 0px 4px;"></a><a href="http://www.nyc.gov/cgi-bin/exit.pl?url=http://www.youtube.com/user/NYCHomelessServices"><img src="../../includes/site_images/nav/yt.gif" width="30" height="32" border="0" style="margin: 0px 4px 0px 4px;"></a><a href="http://www.nyc.gov/cgi-bin/exit.pl?url=http://www.flickr.com/photos/81356426@N05/sets/"><img src="../../includes/site_images/nav/fl.gif" width="30" height="32" border="0" style="margin: 0px 4px 0px 4px;"></a></td>
+  </tr>
+   <tr>
+    <td>&nbsp;</td>
+  </tr>
+</table><img src="../../includes/site_images/spacers/spacer.gif" width="1" height="12"><table width="182" border="0" cellspacing="0" cellpadding="0" align="center" style="border: 1px solid #e2e2e2;" bgcolor="#FFFFFF">
+  <tr>
+    <td align="center" class="social_title">Helpful Links</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="../../includes/site_images/nav/social_divider.gif" width="180" height="2"></td>
+  </tr>
+  <tr>
+    <td align="center" style="padding: 9px 0px 16px 0px;" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+        <tr valign="top"> 
+          <td width="27" align="right"><img src="../../includes/site_images/nav/nav_arrow.gif"></td>
+          <td><a href="../../downloads/pdf/amended_housing_referral_rule.pdf" class="nav_link">Notice of Public Hearing</a></td>
+        </tr><tr valign="top"> 
+          <td width="27" align="right"><img src="../../includes/site_images/nav/nav_arrow.gif"></td>
+          <td><a href="http://www.nyc.gov/html/hra/html/home/home.shtml" class="nav_link">NYC 
+            Human Resources Administration</a></td>
+        </tr>
+        <tr valign="top"> 
+          <td width="27" align="right"><img src="../../includes/site_images/nav/nav_arrow.gif"></td>
+          <td><a href="http://www.nyc.gov/html/hra/nycdads/html/home/home.shtml" class="nav_link">NYC 
+            Dads</a></td>
+        </tr>
+        <tr valign="top"> 
+          <td width="27" align="right"><img src="../../includes/site_images/nav/nav_arrow.gif"></td>
+          <td><a href="http://www.nyc.gov/html/media/informnyc/informnyc_home.html#3" class="nav_link">Inform 
+            NYC</a></td>
+        </tr>
+        <tr valign="top"> 
+          <td width="27" align="right"><img src="../../includes/site_images/nav/nav_arrow.gif"></td>
+          <td><a href="http://www.nyc.gov/html/id/html/home/home.shtml" class="nav_link">Get 
+            Your ID</a></td>
+        </tr>
+        <tr valign="top"> 
+          <td width="27" align="right"><img src="../../includes/site_images/nav/nav_arrow.gif"></td>
+          <td><a href="http://www.nyc.gov/cgi-bin/exit.pl?url=https://a858-ihss.nyc.gov/ihss1/en_US/IHSS_homePage.do" class="nav_link">ACCESSNYC</a></td>
+        </tr>
+      </table>
+</td>
+</table>
+
+								 
+						
+				</td>
+				<!-- START of CENTER column -->
+				<!-- BEGIN_PRINT_PAGE -->
+				<td id="main_content" align="left" valign="top" width="779">
+				<!-- START of PRIMARY FEATURE SECTION -->
+				<table width="779" border="0" cellspacing="0" cellpadding="0">
+				  
+					  
+						<tr><td colspan="3" align="left" valign="top" bgcolor="" width="779">
+							
+							</td></tr>
+						
+					
+						<tr><td align="left" bgcolor="" valign="top" width="25"><img src="../../includes/site_images/misc/spacer.gif" alt="" width="25" height="30" border="0">
+						</td><td align="left" bgcolor="" valign="top" width="649"><img src="../../includes/site_images/misc/spacer.gif" alt="" width="649" height="15" border="0"><br>
+					  
+							
+						
+					  
+							
+							
+									
+											<span class="bodytext"><!-- END_PRINT_PAGE --><div class="inside_top_image"><img src="../../images/features/top_contact.jpg" width="777" height="183" border="0" alt="Contact DHS"></div>
+<img src="../../includes/site_images/misc/spacer.gif" width="509" height="168" border="0" alt=""><!-- BEGIN_PRINT_PAGE --></span>
+											
+										
+									
+								
+						
+
+					
+
+					 
+					   
+						
+					 
+					 
+					
+					</td><td align="left" bgcolor="" valign="top" width="105"><img src="../../includes/site_images/misc/spacer.gif" alt="" width="105" height="30" border="0"></td></tr>
+
+					
+
+					  
+				   
+					  
+						<tr><td colspan="3" align="left" valign="top" bgcolor="" width="779">
+							
+								<img src="../../includes/site_images/misc/spacer.gif" alt="" width="25" height="30" border="0"/><span class="area_header">Contact DHS<br/></span>
+								
+							</td></tr>
+						
+					
+						<tr><td align="left" bgcolor="" valign="top" width="25"><img src="../../includes/site_images/misc/spacer.gif" alt="" width="25" height="30" border="0">
+						</td><td align="left" bgcolor="" valign="top" width="649"><img src="../../includes/site_images/misc/spacer.gif" alt="" width="649" height="15" border="0"><br>
+					  
+							
+						
+					  
+							
+							
+									
+											<span class="bodytext"></span>
+											
+										
+									
+											<span class="bodytext"><p style="MARGIN-top: 0px"><b>Dial 311 to report an individual who is living on the streets, or to find prevention/shelter programs near you.</b><br /><br /><b>DHS Main Number</b><br />
+(212) 361-8000<br />
+Please call the main number to be directed to the appropriate office.<br /><br /><b>Office of the Commissioner</b><br />
+33 Beaver Street, 17th Floor<br />
+New York, NY 10004<br />
+(212) 361-8000<br /><a href="http://www.nyc.gov/html/mail/html/maildhs.html">Send an email to the Commissioner</a><br /><br /><b>Office of Client Advocacy</b><br />
+33 Beaver Street, 20th Floor<br />
+New York, NY 10004<br />
+1-800-994-6494<br /><a href="../../html/advocacy/advocacy.shtml">Learn more about the Office of Client Advocacy</a><br /><br /><b>Office of Communications and External Affairs</b><br />
+33 Beaver Street, 17th Floor<br />
+New York, NY 10004<br /><br /><strong>Press Office<br /></strong>(212) 361-7973<br /><a href="../../html/contact/email.shtml?4">Send an email</a><br /><br /><strong>Community Relations &amp; Government Affairs Unit<br /></strong>(212) 361-7900<br /><a href="../../html/contact/email.shtml?5">Send an email</a><br /><br /><b>Office of Diversity &amp; Equal Opportunity Affairs</b><br />
+33 Beaver Street, 17th Floor<br />
+New York, NY 10004<br />
+(212) 361-7914<br /><a href="../../html/contact/email.shtml?6">Send an email</a></p><p><b>Legal Affairs</b><br />
+33 Beaver Street, 17th Floor<br />
+New York, NY 10004<br />
+(212) 361-7996<br /><br /><b>Freedom of Information Law (FOIL) Requests</b><br />
+Please direct all Freedom of Information Law (FOIL) records requests to:<br />
+Cynthia Stallard, FOIL Officer<br />
+33 Beaver Street, 17th Floor<br />
+New York, NY 10004<br /><a href="../../html/contact/email.shtml?7">Send an email</a></p><p>FOIL records are available for inspection and copying Monday through Friday, from 9 a.m. to 4:30 p.m., by appointment only. Questions regarding the Freedom of Information Law itself may be directed to the <a href="http://www.nyc.gov/cgi-bin/exit.pl?url=http://www.dos.state.ny.us/coog/index.html">Committee on Open Government</a>.<br /><br />
+All other requests for information or documents, including subpoenas, should be directed to:<br /><br />
+Kim Bruno, Records Access Officer<br />
+33 Beaver Street, 17th Floor<br />
+New York, NY 10004<br />
+(212) 607-5236<br /><a href="../../html/contact/email.shtml?8">Send an email</a></p></span>
+										
+								
+						
+
+					
+
+					 
+					   
+						
+					 
+					 
+					
+					</td><td align="left" bgcolor="" valign="top" width="105"><img src="../../includes/site_images/misc/spacer.gif" alt="" width="105" height="30" border="0"></td></tr>
+
+					
+
+					  
+				   
+				</table>
+				<!-- END of PRIMARY FEATURE SECTION -->
+
+				<!-- START of SECONDARY FEATURE SECTION -->
+
+				<table width="779" border="0" cellspacing="0" cellpadding="0">
+				  
+					  
+						<tr><td colspan="4" align="left" valign="top" bgcolor="" width="779">
+							
+							</td></tr>
+						
+					
+
+					  </table>
+
+				<!-- END of SECONDARY FEATURE SECTION -->
+
+				<!-- START of TERTIARY FEATURE SECTION -->
+				<table width="779" border="0" cellspacing="0" cellpadding="0">
+				  
+					  
+						<tr><td colspan="3" align="left" valign="top" bgcolor="" width="779">
+							
+							</td></tr>
+						
+					
+					  
+				   
+				</table>
+				<!-- END of TERTIARY FEATURE SECTION -->
+				<!-- END_PRINT_PAGE -->
+				
+
+			<script type="text/javascript">
+	setSecondAreas();
+</script>
+
+					
+	<!-- BEGIN_PRINT_PAGE -->				
+					<span class="footer_text"><br></span></td>
+				<!-- END of CENTER column -->
+			</tr>
+	<!-- END_PRINT_PAGE -->
+			<tr height="25">
+				<td colspan="2" align="left" valign="top" width="999" height="25"> 
+
+					<table width="999" border="0" cellspacing="0" cellpadding="0">
+	<tr><td><img src="../../includes/site_images/misc/bottom_branding.gif" border="0"></td></tr>
+</table>
+
+
+
+
+<!-- START of nycgov_footer.inc-->
+<style type="text/css">
+<!--
+.footer_links {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	color: #F9D053;
+	text-align:right;
+}
+.footer_copyright {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	color: #C4C4B2;
+}
+.footer_bg {
+	background-color:#494B4C;
+	padding:6px 25px 6px 13px;
+}
+-->
+</style>
+<TABLE cellSpacing="0" cellPadding="0" width="999" border="0">
+  <TR>
+    <td class="footer_bg"><Table cellspacing="0" cellpadding="0" border="0" width="961">
+        <tr>
+          <td width="50%" class="footer_copyright">Copyright 2013 The City of New York</td>
+          <td width="50%" class="footer_links"><A class=footer_links href="/contact">Contact Us</A> | <A class=footer_links href="/faqs">FAQs</A> | <A class=footer_links href="/privacy">Privacy Statement</A> | <A class=footer_links href="http://www.nyc.gov/html/misc/html/tou.html">Terms of Use</A> | <A class=footer_links href="/sitemap">Site Map</A></td>
+        </tr>
+      </Table></td>
+  </TR>
+</TABLE>
+<!--  nycgov Webtrends code, added on 02/16/2011 -->
+<script src="/html/misc/scripts/nycwebtrends.js" type="text/javascript"></script>
+<script type="text/javascript">
+//<![CDATA[
+var _nyctag=new WebTrends();
+_nyctag.dcsInit();
+_nyctag.dcsGetId();
+//]]>>
+</script>
+<script type="text/javascript">
+//<![CDATA[
+_nyctag.dcsCollect();
+//]]>>
+</script>
+
+<!-- PROD noscript section -->
+<noscript>
+<div><img alt="DCSIMG" id="DCSIMG" width="1" height="1" src="http://a858-sdc.nyc.gov/dcslfpea2000008i7geu3pdky_5v8x/njs.gif?dcsuri=/nojavascript&WT.js=No&WT.tv=8.6.2"/></div>
+</noscript>
+<!--  END OF nycgov Webtrends code, added on 02/16/2011 -->
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-9518673-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+<!-- END of nycgov_footer.inc-->
+
+				</td>
+			</tr>
+<!-- BEGIN_PRINT_PAGE -->			
+		</table>
+	<!-- END_PRINT_PAGE -->
+	</body>
+</html>
+

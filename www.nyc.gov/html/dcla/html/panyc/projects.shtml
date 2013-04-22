@@ -1,0 +1,440 @@
+
+
+
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+	<head>
+		<meta http-equiv="content-type" content="text/html;charset=UTF-8">
+		<meta name="tp-name" content="homepage_2col">
+
+		
+		
+
+		
+				<title>Projects - NYC Department of Cultural Affairs</title>
+			
+		
+				
+			
+		<link href="../../includes/css/rollout.css" rel="stylesheet">
+	</head>
+
+<body  background="../../includes/site_images/misc/bg_2col.gif"
+  bgcolor="#ffffff" leftmargin="0" marginheight="0" marginwidth="0" topmargin="0">
+
+	<!-- BEGIN_PRINT_PAGE -->
+		<table width="769" border="0" cellspacing="0" cellpadding="0" height="100%">
+	<!-- END_PRINT_PAGE -->	
+			<tr><td colspan="2" align="left" valign="top" width="769">
+					<!-- START of nycgov_header.inc -->
+<table width="769" border="0" cellspacing="0" cellpadding="0" height="51">
+	<tr>
+		<td><img src="../../includes/site_images/nyc_gov/nycgov_banner.gif" alt="" width="769" height="51" border="0" usemap="#TopNav"></td>
+	</tr>
+</table>
+<map name="TopNav">
+  <area shape="rect" coords="554,1,599,25" href="/search" alt="Search">
+  <area shape="rect" coords="607,1,688,25" href="/portal/register.jsp" alt="Email Updates">
+  <area shape="rect" coords="698,1,762,25" href="/contact" alt="Contact Us">
+  <area shape="rect" coords="328,27,399,50" href="/residents" alt="Residents">
+  <area shape="rect" coords="408,27,471,50" href="/business" alt="Business">
+  <area shape="rect" coords="478,27,535,50" href="/visitors" alt="Visitors">
+  <area shape="rect" coords="544,27,628,50" href="/government" alt="Government">
+  <area shape="rect" coords="635,27,764,50" href="/mayor" alt="Office of the Mayor">
+  <area shape="rect" coords="3,3,49,48" href="/home.html" alt="NYC.gov always open">
+</map>
+<!-- END of nycgov_header.inc -->
+					
+							<script language="JavaScript" src="../../includes/scripts/change_text.js"></script>
+<script language="JavaScript" src="../../includes/scripts/arrays.js"></script>
+<table cellspacing="0" cellpadding="0" border="0" width="769">
+  <tr> 
+    <td width="206"><img src="../../includes/site_images/branding/banner-left.gif" width="206" height="90" usemap="#banner_map" border="0"></td>
+    <td width="563"><table cellspacing="0" cellpadding="0" border="0" width="563">
+        <tr> 
+          <td><img src="../../includes/site_images/branding/banner-top.gif" width="563" height="41" border="0"></td>
+        </tr>
+        <tr> 
+          <td><table cellspacing="0" cellpadding="0" border="0" width="563" class="banner_bg">
+              <tr>
+              <td width="138"><img src="../../includes/site_images/spacers/spacer.gif" width="138" height="14" alt=""></td>
+               
+                <td width="86"><a onMouseOver="MM_swapImage('eaf','','../../includes/site_images/branding/email_1.gif',0)" onMouseOut="MM_swapImgRestore()" target="_blank" onclick="this.href = '/j2ee/emailafriend/EAFEntry?' + Date.parse(new Date()); return true;" href="/j2ee/emailafriend/EAFEntry"><img src="../../includes/site_images/branding/email_0.gif" name="eaf" width="86" height="14" alt="Email a Friend" border="0"></a></td>
+                <td width="9"><img src="../../includes/site_images/spacers/spacer.gif" width="9" height="14" alt=""></td>
+                <td width="1"><img src="../../includes/site_images/branding/dots.gif" width="1" height="14" alt=""></td>
+                <!--<td width="8"><img src="../../includes/site_images/spacers/spacer.gif" width="8" height="14" alt=""></td>
+                <td width="120"><a onMouseOver="MM_swapImage('news','','../../includes/site_images/branding/newsletter_1.gif',0)" onMouseOut="MM_swapImgRestore()" href="#"><img src="../../includes/site_images/branding/newsletter_0.gif" name="news" width="120" height="14" alt="Newsletter Sign-Up" border="0"></a></td>
+                <td width="9"><img src="../../includes/site_images/spacers/spacer.gif" width="9" height="14" alt=""></td>
+                <td width="1"><img src="../../includes/site_images/branding/dots.gif" width="1" height="14" alt=""></td>-->
+                <td width="8"><img src="../../includes/site_images/spacers/spacer.gif" width="8" height="14" alt=""></td>
+                <td width="152"><a onMouseOver="MM_swapImage('print','','../../includes/site_images/branding/printer_1.gif',0)" onMouseOut="MM_swapImgRestore()" href="/cgi-bin/misc/pfprinter.cgi?action=print&sitename=DCLA"><img src="../../includes/site_images/branding/printer_0.gif" width="152" height="14" alt="Printer Friendly Format" border="0" name="print"></a></td>
+                <td width="11"><img src="../../includes/site_images/spacers/spacer.gif" width="11" height="14" alt=""></td>
+                <td width="1"><img src="../../includes/site_images/branding/dots.gif" width="1" height="14" alt=""></td>
+                <td width="8"><img src="../../includes/site_images/spacers/spacer.gif" width="8" height="14" alt=""></td>
+                <td width="59"><img src="../../includes/site_images/branding/text_size.gif" width="59" height="14" alt="Text Size:"></td>
+                <td width="14"><img src="../../includes/site_images/spacers/spacer.gif" width="14" height="14" alt=""></td>
+                <td width="8"><a onMouseOver="MM_swapImage('small','','../../includes/site_images/branding/small_1.gif',0)" onMouseOut="MM_swapImgRestore()" href="javascript:SetCookie(nameOfCookie,'1');doRefresh();"><img src="../../includes/site_images/branding/small_0.gif" border=0 alt="Sm" name="small" width="8" height="14" align="top"></a></td>
+                <td width="12"><img src="../../includes/site_images/spacers/spacer.gif" width="12" height="14" alt=""></td>
+                <td width="12"><a onMouseOver="MM_swapImage('med','','../../includes/site_images/branding/med_1.gif',0)" onMouseOut="MM_swapImgRestore()" href="javascript:SetCookie(nameOfCookie,'2');doRefresh();"><img src="../../includes/site_images/branding/med_0.gif" border=0 alt="Med" name="med" width="12" height="14" align="top"></a></td>
+                <td width="11"><img src="../../includes/site_images/spacers/spacer.gif" width="11" height="14" alt=""></td>
+                <td width="13"><a onMouseOver="MM_swapImage('large','','../../includes/site_images/branding/large_1.gif',0)" onMouseOut="MM_swapImgRestore()" href="javascript:SetCookie(nameOfCookie,'3');doRefresh();"><img src="../../includes/site_images/branding/large_0.gif" border=0 alt="Lg" name="large" width="13" height="14" align="top"></a></td>
+                <td width="20"><img src="../../includes/site_images/spacers/spacer.gif" width="20" height="14" alt=""></td>
+              </tr>
+            </table></td>
+        </tr>
+        <tr> 
+          <td><img src="../../includes/site_images/branding/banner-bottom.gif" width="563" height="35" border="0"></td>
+        </tr>
+      </table></td>
+  </tr>
+</table>
+<map name="banner_map">
+  <area shape="circle" coords="45,43,37" href="../../html/home/home.shtml" alt="Department of Cultural Affairs NYCulture City of New York">
+  <area shape="poly" coords="70,39,165,39,165,57,144,57,144,67,70,67" href="../../html/home/home.shtml" alt="Department of Cultural Affairs NYCulture City of New York">
+</map>
+<script language="JavaScript">
+<!--
+if(GetCookie(nameOfCookie) == "1"){	
+		document.small.src='../../includes/site_images/branding/small_1.gif';	
+	}else if(GetCookie(nameOfCookie) == "2"){	
+		document.med.src='../../includes/site_images/branding/med_1.gif';	
+	}else if(GetCookie(nameOfCookie) == "3"){
+		document.large.src='../../includes/site_images/branding/large_1.gif';	
+	}else{
+		document.small.src='../../includes/site_images/branding/small_1.gif';	
+}
+MM_preloadImages('../../includes/site_images/branding/small_1.gif','../../includes/site_images/branding/med_1.gif','../../includes/site_images/branding/large_1.gif','../../includes/site_images/branding/email_1.gif','../../includes/site_images/branding/printer_1.gif','../../includes/site_images/branding/newsletter_1.gif');
+//-->
+</script>
+
+						
+			</td></tr>
+
+		
+		<!-- BEGIN_PRINT_PAGE -->
+		<tr>
+		<!-- END_PRINT_PAGE -->
+		<td align="left" valign="top" width="180" height="100%">
+					
+							
+							 
+								  <!-- file tree1_nodes.js will be recreated-->
+<!-- START of leftnav_js.html -->
+<table width="180" border="0" cellspacing="0" cellpadding="0">
+  <tr> 
+    <td><table cellspacing="0" cellpadding="0" border="0" width="180" class="nav_search">
+        <form action="http://search1.nyc.gov/search?" method="GET" name="gs" style="margin-bottom: 0px;">
+          <input value="xml_no_dtd" name="output" type="hidden">
+          <input value="default_collection" name="site" type="hidden">
+          <input value="agency_frontend" name="proxystylesheet" type="hidden">
+          <input value="agency_frontend" name="client" type="hidden">
+          <input value="www.nyc.gov/html/dcla" name="sitesearch" type="hidden">
+          <tr> 
+            <td><table cellspacing="0" cellpadding="0" border="0" width="180">
+                <tr> 
+                  <td colspan="4"><img src="../../includes/site_images/spacers/spacer.gif" alt="" width="180" height="17"></td>
+                </tr>
+                <tr> 
+                  <td><img src="../../includes/site_images/spacers/spacer.gif" width="15" height="20"></td>
+                  <td><input name="q" id="search_nycgov" type="text" style="width:124px;height:22px"></td>
+                  <td><input name="go" type="image" id="go" src="../../includes/site_images/nav/go_0.gif" alt="Go" align="middle" width="26" height="22" border="0" onMouseOver="MM_swapImage('go','','../../includes/site_images/nav/go_1.gif',1)" onMouseOut="MM_swapImgRestore()"></td>
+                  <td><img src="../../includes/site_images/spacers/spacer.gif" width="15" height="20"></td>
+                </tr>
+                <tr> 
+                  <td colspan="4"><img src="../../includes/site_images/spacers/spacer.gif" width="180" height="12"></td>
+                </tr>
+              </table></td>
+          </tr>
+        </form>
+      </table></td>
+  </tr>
+  <tr> 
+    <td align="left" bgcolor="" valign="top" width="180"><script language="Javascript" src="../../includes/scripts/nav_nodes.js"></script> 
+      <script language="Javascript" src="../../includes/scripts/nav_code.js"></script> 
+      <noscript>
+<a href="../../html/home/home.shtml" class="nav_section">Home</a><br>
+<a href="../../html/about/about.shtml" class="nav_section">About Cultural Affairs</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/about/history.shtml" class="nav_subsection">History</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/about/message.shtml" class="nav_subsection">Commissioner's Message</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/about/advisory.shtml" class="nav_subsection">Advisory Commission</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/about/artist.shtml" class="nav_subsection">Artist Certification</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/about/staff.shtml" class="nav_subsection">Staff List</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/about/employment.shtml" class="nav_subsection">Employment Opportunities</a><br>
+<a href="../../html/funding/funding.shtml" class="nav_section">Funding for Cultural Organizations</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/funding/program.shtml" class="nav_subsection">Program Funding</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/funding/institutions.shtml" class="nav_subsection">City-Owned Institutions</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/funding/capital.shtml" class="nav_subsection">Capital Funding</a><br>
+<a href="../../html/calendar/event.shtml" class="nav_section">Submit an Event</a><br>
+<a href="../../html/materials/materials.shtml" class="nav_section">Materials for the Arts</a><br>
+<a href="../../html/panyc/panyc.shtml" class="nav_section">Percent for Art</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/panyc/projects.shtml" class="nav_subsection">Projects</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/panyc/form.shtml" class="nav_subsection">Image Registry Form</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/panyc/faq.shtml" class="nav_subsection">FAQ</a><br>
+<a href="../../html/find/find.shtml" class="nav_section">Find a Cultural Organization</a><br>
+<a href="../../html/resources/resources.shtml" class="nav_section">Resources</a><br>
+<a href="../../html/pr/pr.shtml" class="nav_section">News and Press Releases</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/pr/archive.shtml" class="nav_subsection">Archive News</a><br>
+<a href="../../html/contact/contact.shtml" class="nav_section">Contact Cultural Affairs</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="http://www.nyc.gov/html/mail/html/maildcla.html" class="nav_subsection">Email the  Commissioner</a><br>
+</noscript></td>
+  </tr>
+</table><br><br><br><br><br><br><br><br><br><br>
+<!-- END of leftnav_js.html -->
+
+								 
+						
+				</td>
+				<!-- START of CENTER column -->
+				<!-- BEGIN_PRINT_PAGE -->
+				<td id="main_content" align="left" valign="top" width="589">
+				<!-- START of PRIMARY FEATURE SECTION -->
+				<table width="589" border="0" cellspacing="0" cellpadding="0">
+				  
+					  
+						<tr><td colspan="3" align="left" valign="top" bgcolor="" width="589">
+							
+							
+								<img src="../../includes/site_images/titles/percent_2col.gif"
+								alt="Percent for Art" width="589" border="0" /></td></tr>
+						
+					
+						<tr><td align="left" bgcolor="" valign="top" width="30"><img src="../../includes/site_images/spacers/spacer_30_30.gif" alt="" width="30" height="30" border="0">
+						</td><td align="left" bgcolor="" valign="top" width="499"><img src="../../includes/site_images/spacers/spacer_499_15.gif" alt="" width="499" height="15" border="0"><br>
+					  
+							
+						
+					  
+							
+							<span class="headline">Projects<br>
+								</span>
+								
+							
+									
+											<span class="bodytext"><script language="JavaScript" src="../../includes/scripts/panyc.js"></script> 
+<script language="JavaScript" src="../../includes/scripts/panyc_code.js"></script> 
+
+</span>
+											
+										
+									
+								
+						
+
+					
+
+					 
+					   
+						
+					 
+					 
+					
+					</td><td align="left" bgcolor="" valign="top" width="60"><img src="../../includes/site_images/spacers/spacer_60_30.gif" alt="" width="60" height="30" border="0"></td></tr>
+
+					
+
+					  
+				   
+					  
+						<tr><td colspan="3" align="left" valign="top" bgcolor="" width="589">
+							
+							</td></tr>
+						
+					
+						<tr><td align="left" bgcolor="" valign="top" width="30"><img src="../../includes/site_images/spacers/spacer_30_30.gif" alt="" width="30" height="30" border="0">
+						</td><td align="left" bgcolor="" valign="top" width="499"><img src="../../includes/site_images/spacers/spacer_499_15.gif" alt="" width="499" height="15" border="0"><br>
+					  
+							
+						
+					  
+							
+							
+									
+											<span class="bodytext"></span>
+											
+										
+									
+											<span class="bodytext"><span class="grey_text"><span class="grey_text">Select the letter of the artist&#8217;s last name below:<br /></span><a href="javascript:panycReset()">Reset all selections</a><br /><br /></span><table border="0" cellspacing="0" cellpadding="0" width="369"><tbody><tr><td width="27"><a onmouseover="swapImage('a')" onmouseout="restoreImage('a')" href="javascript:filterThumbs('a');"><img id="filter_a" border="0" name="filter_a" alt="A" src="../../includes/site_images/panyc/a_0.gif" width="27" height="21" /></a></td><td width="2"><img border="0" alt="" src="../../includes/site_images/spacers/spacer.gif" width="2" height="21" /></td><td width="26"><a onmouseover="swapImage('b')" onmouseout="restoreImage('b')" href="javascript:filterThumbs('b');"><img id="filter_b" border="0" name="filter_b" alt="B" src="../../includes/site_images/panyc/b_0.gif" width="26" height="21" /></a></td><td width="2"><img border="0" alt="" src="../../includes/site_images/spacers/spacer.gif" width="2" height="21" /></td><td width="27"><a onmouseover="swapImage('c')" onmouseout="restoreImage('c')" href="javascript:filterThumbs('c');"><img id="filter_c" border="0" name="filter_c" alt="C" src="../../includes/site_images/panyc/c_0.gif" width="27" height="21" /></a></td><td width="2"><img border="0" alt="" src="../../includes/site_images/spacers/spacer.gif" width="2" height="21" /></td><td width="27"><a onmouseover="swapImage('d')" onmouseout="restoreImage('d')" href="javascript:filterThumbs('d');"><img id="filter_d" border="0" name="filter_d" alt="D" src="../../includes/site_images/panyc/d_0.gif" width="27" height="21" /></a></td><td width="2"><img border="0" alt="" src="../../includes/site_images/spacers/spacer.gif" width="2" height="21" /></td><td width="27"><a onmouseover="swapImage('e')" onmouseout="restoreImage('e')" href="javascript:filterThumbs('e');"><img id="filter_e" border="0" name="filter_e" alt="E" src="../../includes/site_images/panyc/e_0.gif" width="27" height="21" /></a></td><td width="2"><img border="0" alt="" src="../../includes/site_images/spacers/spacer.gif" width="2" height="21" /></td><td width="26"><a onmouseover="swapImage('f')" onmouseout="restoreImage('f')" href="javascript:filterThumbs('f');"><img id="filter_f" border="0" name="filter_f" alt="F" src="../../includes/site_images/panyc/f_0.gif" width="26" height="21" /></a></td><td width="2"><img border="0" alt="" src="../../includes/site_images/spacers/spacer.gif" width="2" height="21" /></td><td width="26"><a onmouseover="swapImage('g')" onmouseout="restoreImage('g')" href="javascript:filterThumbs('g');"><img id="filter_g" border="0" name="filter_g" alt="G" src="../../includes/site_images/panyc/g_0.gif" width="26" height="21" /></a></td><td width="2"><img border="0" alt="" src="../../includes/site_images/spacers/spacer.gif" width="2" height="21" /></td><td width="26"><a onmouseover="swapImage('h')" onmouseout="restoreImage('h')" href="javascript:filterThumbs('h');"><img id="filter_h" border="0" name="filter_h" alt="H" src="../../includes/site_images/panyc/h_0.gif" width="26" height="21" /></a></td><td width="2"><img border="0" alt="" src="../../includes/site_images/spacers/spacer.gif" width="2" height="21" /></td><td width="26"><a onmouseover="swapImage('i')" onmouseout="restoreImage('i')" href="javascript:filterThumbs('i');"><img id="filter_i" border="0" name="filter_i" alt="I" src="../../includes/site_images/panyc/i_0.gif" width="26" height="21" /></a></td><td width="2"><img border="0" alt="" src="../../includes/site_images/spacers/spacer.gif" width="2" height="21" /></td><td width="27"><a onmouseover="swapImage('j')" onmouseout="restoreImage('j')" href="javascript:filterThumbs('j');"><img id="filter_j" border="0" name="filter_j" alt="J" src="../../includes/site_images/panyc/j_0.gif" width="27" height="21" /></a></td><td width="2"><img border="0" alt="" src="../../includes/site_images/spacers/spacer.gif" width="2" height="21" /></td><td width="27"><a onmouseover="swapImage('k')" onmouseout="restoreImage('k')" href="javascript:filterThumbs('k');"><img id="filter_k" border="0" name="filter_k" alt="K" src="../../includes/site_images/panyc/k_0.gif" width="27" height="21" /></a></td><td width="2"><img border="0" alt="" src="../../includes/site_images/spacers/spacer.gif" width="2" height="21" /></td><td width="26"><a onmouseover="swapImage('l')" onmouseout="restoreImage('l')" href="javascript:filterThumbs('l');"><img id="filter_l" border="0" name="filter_l" alt="L" src="../../includes/site_images/panyc/l_0.gif" width="26" height="21" /></a></td><td width="2"><img border="0" alt="" src="../../includes/site_images/spacers/spacer.gif" width="2" height="21" /></td><td width="27"><a onmouseover="swapImage('m')" onmouseout="restoreImage('m')" href="javascript:filterThumbs('m');"><img id="filter_m" border="0" name="filter_m" alt="M" src="../../includes/site_images/panyc/m_0.gif" width="27" height="21" /></a></td></tr><tr><td colspan="25"><img border="0" alt="" src="../../includes/site_images/spacers/spacer.gif" width="369" height="2" /></td></tr><tr><td width="27"><a onmouseover="swapImage('n')" onmouseout="restoreImage('n')" href="javascript:filterThumbs('n');"><img id="filter_n" border="0" name="filter_n" alt="N" src="../../includes/site_images/panyc/n_0.gif" width="27" height="21" /></a></td><td width="2"><img border="0" alt="" src="../../includes/site_images/spacers/spacer.gif" width="2" height="21" /></td><td width="26"><a onmouseover="swapImage('o')" onmouseout="restoreImage('o')" href="javascript:filterThumbs('o');"><img id="filter_o" border="0" name="filter_o" alt="O" src="../../includes/site_images/panyc/o_0.gif" width="26" height="21" /></a></td><td width="2"><img border="0" alt="" src="../../includes/site_images/spacers/spacer.gif" width="2" height="21" /></td><td width="27"><a onmouseover="swapImage('p')" onmouseout="restoreImage('p')" href="javascript:filterThumbs('p');"><img id="filter_p" border="0" name="filter_p" alt="P" src="../../includes/site_images/panyc/p_0.gif" width="27" height="21" /></a></td><td width="2"><img border="0" alt="" src="../../includes/site_images/spacers/spacer.gif" width="2" height="21" /></td><td width="27"><a onmouseover="swapImage('q')" onmouseout="restoreImage('q')" href="javascript:filterThumbs('q');"><img id="filter_q" border="0" name="filter_q" alt="Q" src="../../includes/site_images/panyc/q_0.gif" width="27" height="21" /></a></td><td width="2"><img border="0" alt="" src="../../includes/site_images/spacers/spacer.gif" width="2" height="21" /></td><td width="27"><a onmouseover="swapImage('r')" onmouseout="restoreImage('r')" href="javascript:filterThumbs('r');"><img id="filter_r" border="0" name="filter_r" alt="R" src="../../includes/site_images/panyc/r_0.gif" width="27" height="21" /></a></td><td width="2"><img border="0" alt="" src="../../includes/site_images/spacers/spacer.gif" width="2" height="21" /></td><td width="26"><a onmouseover="swapImage('s')" onmouseout="restoreImage('s')" href="javascript:filterThumbs('s');"><img id="filter_s" border="0" name="filter_s" alt="S" src="../../includes/site_images/panyc/s_0.gif" width="26" height="21" /></a></td><td width="2"><img border="0" alt="" src="../../includes/site_images/spacers/spacer.gif" width="2" height="21" /></td><td width="26"><a onmouseover="swapImage('t')" onmouseout="restoreImage('t')" href="javascript:filterThumbs('t');"><img id="filter_t" border="0" name="filter_t" alt="T" src="../../includes/site_images/panyc/t_0.gif" width="26" height="21" /></a></td><td width="2"><img border="0" alt="" src="../../includes/site_images/spacers/spacer.gif" width="2" height="21" /></td><td width="26"><a onmouseover="swapImage('u')" onmouseout="restoreImage('u')" href="javascript:filterThumbs('u');"><img id="filter_u" border="0" name="filter_u" alt="U" src="../../includes/site_images/panyc/u_0.gif" width="26" height="21" /></a></td><td width="2"><img border="0" alt="" src="../../includes/site_images/spacers/spacer.gif" width="2" height="21" /></td><td width="26"><a onmouseover="swapImage('v')" onmouseout="restoreImage('v')" href="javascript:filterThumbs('v');"><img id="filter_v" border="0" name="filter_v" alt="V" src="../../includes/site_images/panyc/v_0.gif" width="26" height="21" /></a></td><td width="2"><img border="0" alt="" src="../../includes/site_images/spacers/spacer.gif" width="2" height="21" /></td><td width="27"><a onmouseover="swapImage('w')" onmouseout="restoreImage('w')" href="javascript:filterThumbs('w');"><img id="filter_w" border="0" name="filter_w" alt="W" src="../../includes/site_images/panyc/w_0.gif" width="27" height="21" /></a></td><td width="2"><img border="0" alt="" src="../../includes/site_images/spacers/spacer.gif" width="2" height="21" /></td><td width="27"><a onmouseover="swapImage('x')" onmouseout="restoreImage('x')" href="javascript:filterThumbs('x');"><img id="filter_x" border="0" name="filter_x" alt="X" src="../../includes/site_images/panyc/x_0.gif" width="27" height="21" /></a></td><td width="2"><img border="0" alt="" src="../../includes/site_images/spacers/spacer.gif" width="2" height="21" /></td><td width="26"><a onmouseover="swapImage('y')" onmouseout="restoreImage('y')" href="javascript:filterThumbs('y');"><img id="filter_y" border="0" name="filter_y" alt="Y" src="../../includes/site_images/panyc/y_0.gif" width="26" height="21" /></a></td><td width="2"><img border="0" alt="" src="../../includes/site_images/spacers/spacer.gif" width="2" height="21" /></td><td width="27"><a onmouseover="swapImage('z')" onmouseout="restoreImage('z')" href="javascript:filterThumbs('z');"><img id="filter_z" border="0" name="filter_z" alt="Z" src="../../includes/site_images/panyc/z_0.gif" width="27" height="21" /></a></td></tr></tbody></table></span>
+										
+								
+						
+
+					<br>
+
+					 
+					   
+						
+					 
+					 
+					
+					</td><td align="left" bgcolor="" valign="top" width="60"><img src="../../includes/site_images/spacers/spacer_60_30.gif" alt="" width="60" height="30" border="0"></td></tr>
+
+					
+
+					  
+						<tr><td colspan="3" align="left" bgcolor="" valign="top" width="589">
+							<img src="../../includes/site_images/misc/content_divider2.gif" alt="" width="589" border="0"/></td></tr>
+						
+				   
+					  
+						<tr><td colspan="3" align="left" valign="top" bgcolor="" width="589">
+							
+							</td></tr>
+						
+					
+						<tr><td align="left" bgcolor="" valign="top" width="30"><img src="../../includes/site_images/spacers/spacer_30_30.gif" alt="" width="30" height="30" border="0">
+						</td><td align="left" bgcolor="" valign="top" width="499"><img src="../../includes/site_images/spacers/spacer_499_15.gif" alt="" width="499" height="15" border="0"><br>
+					  
+							
+						
+					  
+							
+							
+									
+											<span class="bodytext">Select the sponsor agency, and/or a borough from the drop down menus below:
+<script language="JavaScript"><!--
+writeDropdowns();
+//--></script></span>
+											
+										
+									
+								
+						
+
+					
+
+					 
+					   
+						
+					 
+					 
+					
+					</td><td align="left" bgcolor="" valign="top" width="60"><img src="../../includes/site_images/spacers/spacer_60_30.gif" alt="" width="60" height="30" border="0"></td></tr>
+
+					
+
+					  
+				   
+				</table>
+				<!-- END of PRIMARY FEATURE SECTION -->
+
+				<!-- START of SECONDARY FEATURE SECTION -->
+
+				<table width="589" border="0" cellspacing="0" cellpadding="0">
+				  
+					  
+						<tr><td colspan="4" align="left" valign="top" bgcolor="" width="589">
+							
+							</td></tr>
+						
+					
+
+					  </table>
+
+				<!-- END of SECONDARY FEATURE SECTION -->
+
+				<!-- START of TERTIARY FEATURE SECTION -->
+				<table width="589" border="0" cellspacing="0" cellpadding="0">
+				  
+					  
+						<tr><td colspan="3" align="left" valign="top" bgcolor="" width="589">
+							
+							</td></tr>
+						
+					
+					  
+				   
+				</table>
+				<!-- END of TERTIARY FEATURE SECTION -->
+				<!-- END_PRINT_PAGE -->
+				
+
+			<!-- START of Footer -->
+<br>
+<br>
+<script language="JavaScript"><!--
+	writeThumbs();
+//--></script>
+<!-- END of default_footer.inc -->
+
+					
+	<!-- BEGIN_PRINT_PAGE -->				
+					<span class="footer_text"><br></span></td>
+				<!-- END of CENTER column -->
+			</tr>
+	<!-- END_PRINT_PAGE -->
+			<tr height="25">
+				<td colspan="2" align="left" valign="top" width="769" height="25"> 
+
+					<table width="769" border="0" cellspacing="0" cellpadding="0">
+	<tr><td><img src="../../includes/site_images/misc/bottom_branding.gif" border="0"></td></tr>
+</table>
+
+
+
+
+<!-- START of nycgov_footer.inc-->
+<style type="text/css">
+<!--
+	.footer_links {font-family: Verdana, Arial, Helvetica, sans-serif;
+		font-size: 10px;
+		color: #F9D053;
+	}
+
+	.footer_copyright {font-family: Verdana, Arial, Helvetica, sans-serif;
+		font-size: 10px;
+		color: #C4C4B2;
+	}
+-->
+</style>
+<TABLE cellSpacing=0 cellPadding=0 width=769 bgColor=#494B4C border=0>
+	<TBODY>
+	<TR><TD width=13><IMG height=24 src="../../includes/site_images/spacers/spacer.gif" width=13></TD>
+          <TD width=287><SPAN class=footer_copyright>Copyright 2013 The City of New York</SPAN></TD>
+          <TD align=right width=444><SPAN class=footer_links><A class=footer_links href="/contact">Contact Us</A> | <A class=footer_links href="/faqs">FAQs</A> | <A class=footer_links href="/privacy">Privacy Policy</A> | <A class=footer_links href="http://www.nyc.gov/html/misc/html/tou.html">Terms of Use</A> | <A class=footer_links href="/sitemap">Site Map</A></SPAN></TD>
+          <TD align=right width=25><IMG height=24 src="../../includes/site_images/spacers/spacer.gif" width=25></TD></TR>
+        </TBODY>
+</TABLE>
+<!-- Privacy Policy updated on 03/08/2011 -->
+<!--  nycgov Webtrends code, added on 02/16/2011 -->
+<script src="/html/misc/scripts/nycwebtrends.js" type="text/javascript"></script>
+<script type="text/javascript">
+//<![CDATA[
+var _nyctag=new WebTrends();
+_nyctag.dcsInit();
+_nyctag.dcsGetId();
+//]]>>
+</script>
+<script type="text/javascript">
+//<![CDATA[
+_nyctag.dcsCollect();
+//]]>>
+</script>
+
+<!-- PROD noscript section -->
+<noscript>
+<div><img alt="DCSIMG" id="DCSIMG" width="1" height="1" src="http://a858-sdc.nyc.gov/dcslfpea2000008i7geu3pdky_5v8x/njs.gif?dcsuri=/nojavascript&WT.js=No&WT.tv=8.6.2"/></div>
+</noscript>
+<!--  END OF nycgov Webtrends code, added on 02/16/2011 -->
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-9518673-1");
+pageTracker._trackPageview();
+} catch(err) {}
+</script>
+<!-- END of nycgov_footer.inc-->
+
+				</td>
+			</tr>
+<!-- BEGIN_PRINT_PAGE -->			
+		</table>
+	<!-- END_PRINT_PAGE -->
+	</body>
+</html>
+

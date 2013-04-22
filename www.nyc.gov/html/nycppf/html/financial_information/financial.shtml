@@ -1,0 +1,456 @@
+
+
+
+		
+	
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+	<head>
+		<meta http-equiv="content-type" content="text/html;charset=UTF-8">
+		<meta name="tp-name" content="homepage_2col">
+
+		
+		
+
+		
+				<title>Financial Information - New York City Police Pension Fund</title>
+			
+		
+				
+			
+		<link href="../../includes/css/rollout.css" rel="stylesheet">
+	</head>
+
+<body  background="../../includes/site_images/misc/bg.gif"
+  bgcolor="#ffffff" leftmargin="0" marginheight="0" marginwidth="0" topmargin="0">
+
+	<!-- BEGIN_PRINT_PAGE -->
+		<table width="769" border="0" cellspacing="0" cellpadding="0" height="100%">
+	<!-- END_PRINT_PAGE -->	
+			<tr><td colspan="2" align="left" valign="top" width="769">
+					<!-- START of nycgov_header.inc -->
+<table width="769" border="0" cellspacing="0" cellpadding="0" height="51">
+	<tr>
+		<td><img src="../../includes/site_images/nyc_gov/nycgov_banner.gif" alt="" width="769" height="51" border="0" usemap="#TopNav"></td>
+	</tr>
+</table>
+<map name="TopNav">
+  <area shape="rect" coords="554,1,599,25" href="/search" alt="Search">
+  <area shape="rect" coords="607,1,688,25" href="/portal/register.jsp" alt="Email Updates">
+  <area shape="rect" coords="698,1,762,25" href="/contact" alt="Contact Us">
+  <area shape="rect" coords="328,27,399,50" href="/residents" alt="Residents">
+  <area shape="rect" coords="408,27,471,50" href="/business" alt="Business">
+  <area shape="rect" coords="478,27,535,50" href="/visitors" alt="Visitors">
+  <area shape="rect" coords="544,27,628,50" href="/government" alt="Government">
+  <area shape="rect" coords="635,27,764,50" href="/mayor" alt="Office of the Mayor">
+  <area shape="rect" coords="3,3,49,48" href="/home.html" alt="NYC.gov always open">
+</map>
+<!-- END of nycgov_header.inc -->
+					
+							<script language="Javascript"><!--
+
+var standardStyle = '1'; 
+var nameOfCookie = 'mancb3_font_size'; 
+var cssPath = '../../includes/css/';
+
+var css1 = 'rollout.css';
+var css2 = 'rollout_2.css';
+var css3 = 'rollout_3.css';
+
+
+function switchStyle(){
+	var fontSize = GetCookie(nameOfCookie);
+	if (fontSize == null) {
+		fontSize = standardStyle;
+	}
+
+	if (fontSize == "1") { 
+	document.write('<link rel="stylesheet" type"text/css" href="' + cssPath + ' ' + css1 + '">'); }
+	
+	if (fontSize == "2") { 
+	document.write('<link rel="stylesheet" type"text/css" href="' + cssPath + css2 + '">'); }
+	
+	if (fontSize == "3") { 
+	document.write('<link rel="stylesheet" type"text/css" href="' + cssPath + css3 + '">'); }
+	
+	var fontSize = "";
+	return fontSize;
+}
+
+function getCookieVal (offset) {
+	var endstr = document.cookie.indexOf (";", offset);
+	if (endstr == -1)
+	endstr = document.cookie.length;
+	return unescape(document.cookie.substring(offset, endstr));
+}
+
+function GetCookie (name) {
+	var arg = name + "=";
+	var alen = arg.length;
+	var clen = document.cookie.length;
+	var i = 0;
+	while (i < clen) {
+		var j = i + alen;
+		if (document.cookie.substring(i, j) == arg)
+		return getCookieVal (j);
+		i = document.cookie.indexOf(" ", i) + 1;
+		if (i == 0) break;
+	}
+	return null;
+}
+
+function SetCookie (name, value) {
+	document.cookie = name + "=" + escape (value) + '; path=/';
+}
+
+function DeleteCookie (name) {
+	var exp = new Date();
+	exp.setTime (exp.getTime() - 1);
+	var cval = GetCookie (name);
+	document.cookie = name + "=" + cval + "; expires=" + exp.toGMTString();
+}
+
+
+function doRefresh(){
+	location.reload();
+}
+
+window.onload = switchStyle();
+//--></script>
+<!--
+<table width="769" cellspacing="0" cellpadding="0" border="0">
+  <tr>
+    <td height="149"><a href="../../html/home/home.shtml"><img src="../../includes/site_images/branding/agency_banner.gif" width="769" height="149" border="0" alt="Mayor's Office of Veterans Affairs"></a></td>
+  </tr>
+</table>
+<div class="text_3a">TEXT SIZE:<a onMouseOver="MM_swapImage('small','','../../includes/site_images/misc/a_small_over.gif',0)" onMouseOut="MM_swapImgRestore()" href="javascript:SetCookie(nameOfCookie,'1');doRefresh();"><img src="../../includes/site_images/misc/a_small.gif" border=0 alt="Small Font" name="small" align="absmiddle"></a><a onMouseOver="MM_swapImage('medium','','../../includes/site_images/misc/a_medium_over.gif',0)" onMouseOut="MM_swapImgRestore()" href="javascript:SetCookie(nameOfCookie,'2');doRefresh();"><img src="../../includes/site_images/misc/a_medium.gif" border=0 alt="medium Font" name="medium" align="absmiddle"></a><a 
+	onMouseOver="MM_swapImage('large','','../../includes/site_images/misc/a_large_over.gif',0)" onMouseOut="MM_swapImgRestore()" href="javascript:SetCookie(nameOfCookie,'3');doRefresh();"><img src="../../includes/site_images/misc/a_large.gif" border=0 alt="Large Font" name="large" align="absmiddle"></a></div>
+<script language="Javascript">
+if(GetCookie(nameOfCookie) == "1"){	
+	document.small.src='../../includes/site_images/misc/a_small_over.gif';	
+	}else if(GetCookie(nameOfCookie) == "2"){	
+	document.medium.src='../../includes/site_images/misc/a_medium_over.gif';	
+	}else if(GetCookie(nameOfCookie) == "3"){
+	document.large.src='../../includes/site_images/misc/a_large_over.gif';	
+	}else{	document.small.src='../../includes/site_images/misc/a_small_over.gif';	
+}
+</script>-->
+<script language="JavaScript" type="text/JavaScript">
+<!--
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+//-->
+</script>
+
+<body onLoad="MM_preloadImages('../../includes/site_images/branding/banner_signup_over.gif','../../includes/site_images/branding/banner_printer_over.gif')">
+<table width="769" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td><a href="../../html/home/home.shtml"><img src="../../includes/site_images/branding/agency_banner.jpg" width="769" border="0" alt="New York City Police Pension Fund"></a></td>
+  </tr>
+</table><table width="769" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td><div class="banner_all"><div class="banner_left">
+          <div class="banner_left"><a href="/nycppfnews" onMouseOver="MM_swapImage('signup','','../../includes/site_images/branding/banner_signup_over.gif',1)" onMouseOut="MM_swapImgRestore()"><img src="../../includes/site_images/branding/banner_signup.gif" alt="Sign-up For Adult Education News" name="signup" border="0" id="signup"></a><a href="/cgi-bin/misc/pfprinter.cgi?action=print&sitename=NYCPPF" 
+	onClick="this.href = '/cgi-bin/misc/pfprinter.cgi?action=print&sitename=NYCPPF&p=' + Date.parse(new Date()); return true;" onMouseOver="MM_swapImage('printer','','../../includes/site_images/branding/banner_printer_over.gif',1)" onMouseOut="MM_swapImgRestore()"><img src="../../includes/site_images/branding/banner_printer.gif" alt="Printer Friendly Format" name="printer" border="0" id="printer"></a><img src="../../includes/site_images/branding/banner_bg.gif" width="328" height="29"><img src="../../includes/site_images/branding/text_size.gif" border="0" ></div>
+          <div class="banner_right"><a onMouseOver="MM_swapImage('small','','../../includes/site_images/misc/a_small_over.gif',0)" 
+	onMouseOut="MM_swapImgRestore()" href="javascript:SetCookie(nameOfCookie,'1');doRefresh();"><img src="../../includes/site_images/misc/a_small.gif" border=0 alt="Small Font" name="small" align="absmiddle"></a><a onMouseOver="MM_swapImage('midium','','../../includes/site_images/misc/a_midium_over.gif',0)" onMouseOut="MM_swapImgRestore()" href="javascript:SetCookie(nameOfCookie,'2');doRefresh();"><img src="../../includes/site_images/misc/a_midium.gif" border=0 alt="midium Font" name="midium" align="absmiddle"></a><a 
+	onMouseOver="MM_swapImage('large','','../../includes/site_images/misc/a_large_over.gif',0)" onMouseOut="MM_swapImgRestore()" href="javascript:SetCookie(nameOfCookie,'3');doRefresh();"><img src="../../includes/site_images/misc/a_large.gif" border=0 alt="Large Font" name="large" align="absmiddle"></a></div>
+        </div></div></td>
+<script language="Javascript">
+if(GetCookie(nameOfCookie) == "1"){	
+	document.small.src='../../includes/site_images/misc/a_small_over.gif';	
+	}else if(GetCookie(nameOfCookie) == "2"){	
+	document.midium.src='../../includes/site_images/misc/a_midium_over.gif';	
+	}else if(GetCookie(nameOfCookie) == "3"){
+	document.large.src='../../includes/site_images/misc/a_large_over.gif';	
+	}else{	document.small.src='../../includes/site_images/misc/a_small_over.gif';	
+}
+
+	</script></td></tr></table><table width="769" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td><img src="../../includes/site_images/branding/banner_bg2.gif" width="769" height="13"></td>
+  </tr>
+</table>
+
+
+
+						
+			</td></tr>
+
+		
+		<!-- BEGIN_PRINT_PAGE -->
+		<tr>
+		<!-- END_PRINT_PAGE -->
+		<td align="left" valign="top" width="180" height="100%">
+					
+							
+							 
+								  <!-- file tree1_nodes.js will be recreated--><!-- START of leftnav_js.html -->
+<table width="180" border="0" cellspacing="0" cellpadding="0">
+  
+<tr><td align="left" bgcolor="" valign="top" width="165">
+    <script language="Javascript" src="../../includes/scripts/nav_nodes.js"></script>
+    <script language="Javascript" src="../../includes/scripts/nav_code.js"></script>
+    <noscript>
+<a href="../../html/home/home.shtml" class="nav_section">Home</a><br>
+<a href="../../html/about_ppf/about.shtml" class="nav_section">About PPF</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/about_ppf/ppf_history.shtml" class="nav_subsection">PPF History</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/about_ppf/mission.shtml" class="nav_subsection">Mission Statement</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/about_ppf/board.shtml" class="nav_subsection">Board of Trustees</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/about_ppf/credits.shtml" class="nav_subsection">Credits</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/about_ppf/award.shtml" class="nav_subsection">IT Award</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/about_ppf/new.shtml" class="nav_subsection">What's New</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/about_ppf/index.shtml" class="nav_subsection">Site Index</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/about_ppf/faq.shtml" class="nav_subsection">Frequently Asked Questions</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/about_ppf/career.shtml" class="nav_subsection">Career Opportunities</a><br>
+<a href="../../html/financial_information/financial.shtml" class="nav_section">Financial Information</a><br>
+<a href="../../html/loan_services/loan.shtml" class="nav_section">Loan Services</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/loan_services/deferred.shtml" class="nav_subsection">Deferred Comp Loans</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/loan_services/taxable.shtml" class="nav_subsection">Taxable Loan for Residence</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/loan_services/dates.shtml" class="nav_subsection">Cut Off Dates</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/loan_services/final.shtml" class="nav_subsection">Final Retirement Loans</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/loan_services/ramifications.shtml" class="nav_subsection">Ramifications of Final Loan</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/loan_services/liability.shtml" class="nav_subsection">Taxable Liability-Final Loan</a><br>
+<a href="../../html/retirement_services/retirement.shtml" class="nav_section">Retirement Services</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/retirement_services/instructions.shtml" class="nav_subsection">Retirement Instructions</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/retirement_services/benefits.shtml" class="nav_subsection">Retirement Benefits</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/retirement_services/limits.shtml" class="nav_subsection">Retiree Employment Limits</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/retirement_services/death.shtml" class="nav_subsection">Retiree Death Information</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/retirement_services/return.shtml" class="nav_subsection">Return to Service</a><br>
+<a href="../../html/membership_services/membership.shtml" class="nav_section">Membership Services</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/membership_services/credited.shtml" class="nav_subsection">Credited Service</a><br>
+<a href="../../html/contributions/contributions.shtml" class="nav_section">Contributions</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/contributions/voluntary.shtml" class="nav_subsection">Voluntary Contributions</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/contributions/ithp.shtml" class="nav_subsection">ITHP Contributions</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/contributions/reduced.shtml" class="nav_subsection">Reduced Contributions</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/contributions/excess.shtml" class="nav_subsection">Excess Contributions</a><br>
+<a href="../../html/taxes/taxes.shtml" class="nav_section">Taxes</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/taxes/act.shtml" class="nav_subsection">Pension Protection Act</a><br>
+<a href="../../html/forms_and_publications/forms_and_publications.shtml" class="nav_section">Forms and Publications</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/forms_and_publications/press.shtml" class="nav_subsection">The Pension Press</a><br>
+<a href="../../html/links/links.shtml" class="nav_section">Links</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/links/1013.shtml" class="nav_subsection">10-13 Club</a><br>
+<a href="../../html/important_dates/important_dates.shtml" class="nav_section">Important Dates</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/important_dates/cutoff.shtml" class="nav_subsection">Loan Cut Off Dates</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/important_dates/blackout.shtml" class="nav_subsection">Loan Blackout Dates</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/important_dates/disability_board.shtml" class="nav_subsection">Disability and Pension Investment Meeting Schedule</a><br>
+<a href="../../html/wtc_information/wtc_information.shtml" class="nav_section">WTC Information</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/wtc_information/application.shtml" class="nav_subsection">2007 WTC Application</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/wtc_information/registry.shtml" class="nav_subsection">WTC Health Registry</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/wtc_information/screening.shtml" class="nav_subsection">WTC Health Screening</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/wtc_information/911.shtml" class="nav_subsection">9/11 Health Communication</a><br>
+<a href="../../html/legal_information/legal_information.shtml" class="nav_section">Legal Information</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/legal_information/dro.shtml" class="nav_subsection">DRO - Frequently Asked Questions</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/legal_information/pension.shtml" class="nav_subsection">Pension Valuation</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/legal_information/power_of.shtml" class="nav_subsection">Power of Attorney</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/legal_information/child.shtml" class="nav_subsection">Child Support</a><br>
+<a href="../../html/items_of_interest/items_of_interest.shtml" class="nav_section">Items of Interest</a><br>
+<a href="../../html/contact_ppf/contact.shtml" class="nav_section">Contact PPF</a><br>
+</noscript>
+    </td></tr>
+  
+</table><br><span class="caption"></span> <!-- END of leftnav_js.html -->
+
+								 
+						
+				</td>
+				<!-- START of CENTER column -->
+				<!-- BEGIN_PRINT_PAGE -->
+				<td id="main_content" align="left" valign="top" width="589">
+				<!-- START of PRIMARY FEATURE SECTION -->
+				<table width="589" border="0" cellspacing="0" cellpadding="0">
+				  
+					  
+						<tr><td colspan="3" align="left" valign="top" bgcolor="" width="589">
+							
+							
+								<img src="../../includes/site_images/titles/title_fin_info.gif"
+								alt="Financial Information" width="589" border="0" /></td></tr>
+						
+					
+						<tr><td align="left" bgcolor="" valign="top" width="30"><img src="../../includes/site_images/spacers/spacer_30_30.gif" alt="" width="30" height="30" border="0">
+						</td><td align="left" bgcolor="" valign="top" width="499"><img src="../../includes/site_images/spacers/spacer_499_15.gif" alt="" width="499" height="15" border="0"><br>
+					  
+							
+						
+					  
+							
+							
+									
+											<span class="bodytext"></span>
+											
+										
+									
+											<span class="bodytext"><table style="HEIGHT: 1046px" border="0" cellspacing="0" cellpadding="0" width="439"><tbody><tr><td width="25%" align="center"><span class="style10"><strong>Fiscal Year</strong></span></td><td>&#160;&#160;&#160;</td><td><span class="style10"><strong>Report Name</strong></span>&#160;</td></tr><tr><td align="center">2012</td><td>&#160;</td><td><a href="../../downloads/pdf/cafr2012.pdf" target="_self">Comprehensive Annual Financial Report</a></td></tr><tr><td align="center">2012</td><td>&#160;</td><td><a href="../../downloads/pdf/vposf2012.pdf" target="_self">Police Officers' Variable Supplement Fund</a></td></tr><tr><td align="center">2012</td><td>&#160;</td><td><a href="../../downloads/pdf/vsfpo2012.pdf" target="_self">Superior Officers' Variable Supplement Fund</a></td></tr><tr><td align="center">2011</td><td>&#160;</td><td><a href="../../downloads/pdf/cafr2011.pdf">Comprehensive Annual Financial Report</a></td></tr><tr><td align="center">2011</td><td>&#160;</td><td><a href="../../downloads/pdf/vposf2011.pdf">Police Officers' Variable Supplement Fund</a></td></tr><tr><td align="center">2011</td><td>&#160;</td><td><a href="../../downloads/pdf/vsfpo2011.pdf">Superior Officers' Variable Supplement Fund</a></td></tr><tr><td align="center">2010</td><td>&#160;</td><td><a href="../../downloads/pdf/cafr2010.pdf">Comprehensive Annual Financial Report</a></td></tr><tr><td align="center">2010</td><td>&#160;</td><td><a href="../../downloads/pdf/vposf2010.pdf">Police Officers' Variable Supplement Fund</a></td></tr><tr><td align="center">2010</td><td>&#160;</td><td><a href="../../downloads/pdf/vsfpo2010.pdf">Superior Officers' Variable Supplement Fund</a></td></tr><tr><td align="center">2009</td><td>&#160;</td><td><a href="../../downloads/pdf/cafr2009.pdf">Comprehensive Annual Financial Report</a></td></tr><tr><td align="center">2009</td><td>&#160;</td><td><a href="../../downloads/pdf/vposf2009.pdf">Police Officers' Variable Supplement Fund</a></td></tr><tr><td align="center">2009</td><td>&#160;</td><td><a href="../../downloads/pdf/vsfpo2009.pdf">Superior Officers' Variable Supplement Fund</a></td></tr><tr><td align="center">2008</td><td>&#160;</td><td><a href="../../downloads/pdf/cafr2008.pdf">Comprehensive Annual Financial Report</a></td></tr><tr><td align="center">2008</td><td>&#160;</td><td><a href="../../downloads/pdf/vposf2008.pdf">Police Officers' Variable Supplement Fund</a></td></tr><tr><td align="center">2008</td><td>&#160;</td><td><a href="../../downloads/pdf/vsfpo2008.pdf">Superior Officers' Variable Supplement Fund</a></td></tr><tr><td align="center">2007</td><td>&#160;</td><td><a href="../../downloads/pdf/cafr2007.pdf">Comprehensive Annual Financial Report</a></td></tr><tr><td align="center">2007</td><td>&#160;</td><td><a href="../../downloads/pdf/vposf2007.pdf">Police Officers' Variable Supplement Fund</a></td></tr><tr><td align="center">2007</td><td>&#160;</td><td><a href="../../downloads/pdf/vsfpo2007.pdf">Superior Officers' Variable Supplement Fund</a></td></tr><tr><td align="center">2006</td><td>&#160;</td><td><a href="../../downloads/pdf/cafr2006.pdf">Comprehensive Annual Financial Report</a></td></tr><tr><td align="center">2006</td><td>&#160;</td><td><a href="../../downloads/pdf/vposf2006.pdf">Police Officers' Variable Supplement Fund</a></td></tr><tr><td align="center">2006</td><td>&#160;</td><td><a href="../../downloads/pdf/vsfpo2006.pdf">Superior Officers' Variable Supplement Fund</a></td></tr><tr><td align="center">2005</td><td>&#160;</td><td><a href="../../downloads/pdf/cafr2005.pdf">Comprehensive Annual Financial Report</a></td></tr><tr><td align="center">2005</td><td>&#160;</td><td><a href="../../downloads/pdf/vposf2005.pdf">Police Officers' Variable Supplement Fund</a></td></tr><tr><td align="center">2005</td><td>&#160;</td><td><a href="../../downloads/pdf/vsfpo2005.pdf">Superior Officers' Variable Supplement Fund</a></td></tr><tr><td align="center">2004</td><td>&#160;</td><td><a href="../../downloads/pdf/cafr2004.pdf">Comprehensive Annual Financial Report</a></td></tr><tr><td align="center">2004</td><td>&#160;</td><td><a href="../../downloads/pdf/vsfpo2004.pdf">Police Officers' Variable Supplement Fund</a></td></tr><tr><td align="center">2004</td><td>&#160;</td><td><a href="../../downloads/pdf/vsfsup2004.pdf">Superior Officers' Variable Supplement Fund</a></td></tr><tr><td align="center">2003</td><td>&#160;</td><td><a href="../../downloads/pdf/fin2003.pdf">Comprehensive Annual Financial Report</a>&#160;</td></tr><tr><td align="center">2003</td><td>&#160;</td><td><a href="../../downloads/pdf/vsfpo2002.pdf">Police Officers' Variable Supplement Fund</a></td></tr><tr><td align="center">2003</td><td>&#160;</td><td><a href="../../downloads/pdf/vsfsup2002.pdf">Superior Officers' Variable Supplement Fund</a></td></tr><tr><td align="center">2002</td><td>&#160;</td><td><a href="../../downloads/pdf/fin.pdf">Comprehensive Annual Financial Report</a></td></tr><tr><td align="center">2001</td><td>&#160;</td><td><a href="../../downloads/pdf/cafr2001.pdf">Comprehensive Annual Financial Report</a></td></tr><tr><td align="center">2000</td><td>&#160;</td><td><a href="../../downloads/pdf/cafr2000.pdf">Comprehensive Annual Financial Report</a></td></tr><tr><td align="center">1999</td><td>&#160;</td><td><a href="../../downloads/pdf/cafr1999.pdf">Comprehensive Annual Financial Report</a></td></tr><tr><td align="center">1998</td><td>&#160;</td><td><a href="../../downloads/pdf/cafr1998.pdf">Comprehensive Annual Financial Report</a></td></tr><tr><td align="center">1997</td><td>&#160;</td><td><a href="../../downloads/pdf/cafr1997.pdf">Comprehensive Annual Financial Report</a></td></tr><tr><td align="center">1996</td><td>&#160;</td><td><a href="../../downloads/pdf/cafr1996.pdf">Comprehensive Annual Financial Report</a></td></tr><tr><td align="center">1995</td><td>&#160;</td><td><a href="../../downloads/pdf/cafr1995.pdf">Comprehensive Annual Financial Report</a></td></tr><tr><td align="center">1994</td><td>&#160;</td><td><a href="../../downloads/pdf/cafr1994.pdf">Comprehensive Annual Financial Report</a></td></tr><tr><td align="center">1993</td><td>&#160;</td><td><a href="../../downloads/pdf/cafr1993.pdf">Comprehensive Annual Financial Report</a></td></tr><tr><td align="center">1992</td><td>&#160;</td><td><a href="../../downloads/pdf/cafr1992.pdf">Comprehensive Annual Financial Report</a></td></tr><tr><td align="center">1991</td><td>&#160;</td><td><a href="../../downloads/pdf/cafr1991.pdf">Comprehensive Annual Financial Report</a></td></tr><tr><td align="center">1990</td><td>&#160;</td><td><p style="MARGIN-top: 0in"><a href="../../downloads/pdf/cafr1990.pdf">Comprehensive Annual Financial Report</a></p></td></tr></tbody></table></span>
+										
+								
+						
+
+					
+
+					 
+					   
+						
+					 
+					 
+					
+					</td><td align="left" bgcolor="" valign="top" width="60"><img src="../../includes/site_images/spacers/spacer_60_30.gif" alt="" width="60" height="30" border="0"></td></tr>
+
+					
+
+					  
+				   
+				</table>
+				<!-- END of PRIMARY FEATURE SECTION -->
+
+				<!-- START of SECONDARY FEATURE SECTION -->
+
+				<table width="589" border="0" cellspacing="0" cellpadding="0">
+				  
+					  
+						<tr><td colspan="4" align="left" valign="top" bgcolor="" width="589">
+							
+							</td></tr>
+						
+					
+
+					  </table>
+
+				<!-- END of SECONDARY FEATURE SECTION -->
+
+				<!-- START of TERTIARY FEATURE SECTION -->
+				<table width="589" border="0" cellspacing="0" cellpadding="0">
+				  
+					  
+						<tr><td colspan="3" align="left" valign="top" bgcolor="" width="589">
+							
+							</td></tr>
+						
+					
+					  
+				   
+				</table>
+				<!-- END of TERTIARY FEATURE SECTION -->
+				<!-- END_PRINT_PAGE -->
+				
+
+			<!-- START of nycgov_footer.inc-->
+<!-- old table width=589;  499 for middle td -->
+<!-- expanded table width=769;  619 for middle td -->
+<!-- <table width="589" border="0" cellspacing="0" cellpadding="0">
+	<tr>
+		<td align="left" valign="top" width="30"><img src="../../includes/site_images/spacers/spacer_30_30.gif" alt="" width="30" height="30" border="0"></td>
+		<td align="left" valign="top" width="499"><img src="../..//includes/site_images/spacers/spacer_499_15.gif" alt="" width="499" height="15" border="0"><img src="../../includes/site_images/footer_divider.gif" alt="" width="499" height="1" border="0"><br>
+			<span class="footer_header">Footer header goes here<br>
+			</span><span class="footer_text">Footer text description goes here. It is optional and the max is about 300 characters which is approximately 3-4 lines of text. Footer text description goes here. It is optional and the max is about 300 characters which is approximately 3-4 lines of text.<br>
+			</span></td>
+		<td align="left" valign="top" width="60"><img src="../..//includes/site_images/spacers/spacer_60_30.gif" alt="" width="60" height="30" border="0"><br>
+			<br>
+		</td>
+	</tr>
+</table> -->
+<!-- END of default_footer.inc -->
+
+
+					
+	<!-- BEGIN_PRINT_PAGE -->				
+					<span class="footer_text"><br></span></td>
+				<!-- END of CENTER column -->
+			</tr>
+	<!-- END_PRINT_PAGE -->
+			<tr height="25">
+				<td colspan="2" align="left" valign="top" width="769" height="25"> 
+
+					<table width="769" border="0" cellspacing="0" cellpadding="0">
+	<tr><td><img src="../../includes/site_images/misc/bottom_branding.gif" border="0"></td></tr>
+</table>
+
+
+
+
+<!-- START of nycgov_footer.inc-->
+<style type="text/css">
+<!--
+	.footer_links {font-family: Verdana, Arial, Helvetica, sans-serif;
+		font-size: 10px;
+		color: #F9D053;
+	}
+
+	.footer_copyright {font-family: Verdana, Arial, Helvetica, sans-serif;
+		font-size: 10px;
+		color: #C4C4B2;
+	}
+-->
+</style>
+<TABLE cellSpacing=0 cellPadding=0 width=769 bgColor=#494B4C border=0>
+	<TBODY>
+	<TR><TD width=13><IMG height=24 src="../../includes/site_images/spacers/spacer.gif" width=13></TD>
+          <TD width=287><SPAN class=footer_copyright>Copyright 2013 The City of New York</SPAN></TD>
+          <TD align=right width=444><SPAN class=footer_links><A class=footer_links href="/contact">Contact Us</A> | <A class=footer_links href="/faqs">FAQs</A> | <A class=footer_links href="/privacy">Privacy Policy</A> | <A class=footer_links href="http://www.nyc.gov/html/misc/html/tou.html">Terms of Use</A> | <A class=footer_links href="/sitemap">Site Map</A></SPAN></TD>
+          <TD align=right width=25><IMG height=24 src="../../includes/site_images/spacers/spacer.gif" width=25></TD></TR>
+        </TBODY>
+</TABLE>
+<!-- Privacy Policy updated on 03/08/2011 -->
+<!--  nycgov Webtrends code, added on 02/16/2011 -->
+<script src="/html/misc/scripts/nycwebtrends.js" type="text/javascript"></script>
+<script type="text/javascript">
+//<![CDATA[
+var _nyctag=new WebTrends();
+_nyctag.dcsInit();
+_nyctag.dcsGetId();
+//]]>>
+</script>
+<script type="text/javascript">
+//<![CDATA[
+_nyctag.dcsCollect();
+//]]>>
+</script>
+
+<!-- PROD noscript section -->
+<noscript>
+<div><img alt="DCSIMG" id="DCSIMG" width="1" height="1" src="http://a858-sdc.nyc.gov/dcslfpea2000008i7geu3pdky_5v8x/njs.gif?dcsuri=/nojavascript&WT.js=No&WT.tv=8.6.2"/></div>
+</noscript>
+<!--  END OF nycgov Webtrends code, added on 02/16/2011 -->
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-9518673-1");
+pageTracker._trackPageview();
+} catch(err) {}
+</script>
+<!-- END of nycgov_footer.inc-->
+
+				</td>
+			</tr>
+<!-- BEGIN_PRINT_PAGE -->			
+		</table>
+	<!-- END_PRINT_PAGE -->
+	</body>
+</html>
+

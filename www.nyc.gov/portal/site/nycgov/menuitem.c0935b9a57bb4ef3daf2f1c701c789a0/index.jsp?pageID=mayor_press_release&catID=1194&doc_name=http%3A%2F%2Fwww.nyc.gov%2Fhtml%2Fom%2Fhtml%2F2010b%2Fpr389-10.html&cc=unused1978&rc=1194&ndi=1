@@ -1,0 +1,1381 @@
+
+
+
+
+
+
+
+
+
+
+<!-- Epicentric Foundation Server -->
+
+<html>
+<head>
+	<link href="/portal/css/nycgov.css" rel="stylesheet" type="text/css">
+	
+			<title>NYC.gov </title>
+		
+
+<base target="_top">
+</head>
+<script language="JavaScript">
+<!--
+
+function WM_netscapeCssFix() {
+  /*
+    Source: Webmonkey Code Library
+    (http://www.hotwired.com/webmonkey/javascript/code_library/)
+
+    Author: Taylor
+    Author Email: taylor@wired.com
+    Author URL: http://www.taylor.org/
+    It was added for Islide menu applet to show the applet as empty
+    */
+
+  // This part was inspired by Matthew_Baird@wayfarer.com
+  // It gets around another unfortunate bug whereby Netscape
+  // fires a resize event when the scrollbars pop up. This
+  // checks to make sure that the window's available size
+  // has actually changed.
+  if (document.WM.WM_netscapeCssFix.initWindowWidth != window.innerWidth || document.WM.WM_netscapeCssFix.initWindowHeight != window.innerHeight) {
+    document.location = document.location;
+  }
+}
+
+function WM_netscapeCssFixCheckIn() {
+  // This function checks to make sure the version of Netscape
+  // in use contains the bug; if so, it records the window's
+  // width and height and sets all resize events to be handled
+  // by the WM_netscapeCssFix() function.
+  if ((navigator.appName == 'Netscape') && (parseInt(navigator.appVersion) == 4)) {
+    if (typeof document.WM == 'undefined'){
+      document.WM = new Object;
+    }
+    if (typeof document.WM.WM_scaleFont == 'undefined') {
+      document.WM.WM_netscapeCssFix = new Object;
+      document.WM.WM_netscapeCssFix.initWindowWidth = window.innerWidth;
+      document.WM.WM_netscapeCssFix.initWindowHeight = window.innerHeight;
+    }
+    window.onresize = WM_netscapeCssFix;
+  }
+}
+
+WM_netscapeCssFixCheckIn()
+
+
+// -->
+
+</script>
+<body background="/portal/images/mayor_new/m_bg_pr.gif" bgcolor="#ffffff" text="#333333" link="#333333" vlink="#4c4c4c" alink="#660000" leftmargin="0" marginheight="0" marginwidth="0" topmargin="0">
+
+<table border=0 cellPadding=0 cellSpacing=0 width="769">
+<tr><td valign="top"  width="769">
+	<table border=0 cellPadding=0 cellSpacing=0 width="769">
+ 	<tr>
+		<td width="769" >
+		
+<epi_html:checkTicket/>
+<epi_html:portalHttpRoot />
+
+
+
+
+
+
+
+
+<map name="Map">
+  <area shape="rect" coords="16,3,83,64" href="http://www.nyc.gov/portal/index.jsp?epi_menuItemID=9ccf24b9bedd2ae6a62fa24601c789a0&epi_menuID=27579af732d48f86a62fa24601c789a0&epi_baseMenuID=27579af732d48f86a62fa24601c789a0" alt="NYC.gov Always Open">
+</map>
+<table width="770" border="0" cellspacing="0" cellpadding="0" height="68">
+  <tr>
+     <td height="68"><img
+     	src="http://www.nyc.gov/portal/images/headers/nycgov/banner_si_maritime.jpg" alt="Noble Maritime Collection, Staten Island" width="769" height="68" border="0" usemap="#Map"></td>
+  </tr>
+</table>
+
+  		</td>
+	</tr>
+
+	<tr>
+		<td width="769">
+			<!-- Begin horizontal navigation -->
+			
+
+
+
+
+
+
+<table width="769" border="0" cellspacing="0" cellpadding="0" height="25">
+<tr height="10">
+  <td  colspan="3" align="right" bgcolor="#91A6B4" height="25">
+
+						<a href="/residents"><img src="http://www.nyc.gov/portal/images/banners/nycgov/button_residents.gif" alt="Residents" width="66" height="25" border="0"></a>
+		<img src='http://www.nyc.gov/portal/images/banners/nycgov/button_divider.gif' alt='' width='10' height='25' border='0'>
+						<a href="/business"><img src="http://www.nyc.gov/portal/images/banners/nycgov/button_business.gif" alt="Business" width="64" height="25" border="0"></a>
+		<img src='http://www.nyc.gov/portal/images/banners/nycgov/button_divider.gif' alt='' width='10' height='25' border='0'>
+						<a href="/visitors"><img src="http://www.nyc.gov/portal/images/banners/nycgov/button_visitors.gif" alt="Visitors" width="55" height="25" border="0"></a>
+		<img src='http://www.nyc.gov/portal/images/banners/nycgov/button_divider.gif' alt='' width='10' height='25' border='0'>
+						<a href="/government"><img src="http://www.nyc.gov/portal/images/banners/nycgov/button_government.gif" alt="Government" width="82" height="25" border="0"></a>
+		<img src='http://www.nyc.gov/portal/images/banners/nycgov/button_divider.gif' alt='' width='10' height='25' border='0'>
+						<a href="/mayor"><img src="http://www.nyc.gov/portal/images/banners/nycgov/button_office_of_mayor_blk.gif" alt="Office of the Mayor" width="137" height="25" border="0"></a>
+		
+		</td>
+	</tr>
+	  <tr>
+		        <td colspan="3"><img src="http://www.nyc.gov/portal/images/navigation/nycgov/top_horizontal_blk_line.gif" width="769" height="1"></td>
+	  </tr>
+</table>
+
+			
+
+			<!-- End horizontal navigation -->
+		</td>
+	</tr>
+	<tr>
+		<td border='0'  cellpadding='0' cellspacing='0' width="769">
+			<!-- Begin pageContent -->
+			
+
+
+
+
+
+
+
+
+
+
+
+		
+
+
+<!-- module layout - begins -->
+<a name="mainContent"></a>
+<table border="0" cellspacing="0" cellpadding="0" width='100%'>
+
+	<tr>
+
+		<td width=187 valign="top" align="left">
+		
+
+			<table cellspacing="0" cellpadding="0" border="0" width="100%" >
+<tr>
+<td width=187>
+
+					<!-- layout cell - begins -->
+<table cellspacing='0' cellpadding='0' border='0'  width='100%'><tr>
+<td width=187>
+
+
+
+
+
+
+
+
+
+
+		 <table width="186" border="0" cellspacing="0" cellpadding="0" bgcolor="white" height="6">
+						<tr height="6">
+							<td colspan="4" align="left" valign="top" width="187" height="6"><img src="/portal/images/spacers/search_topline.gif" alt="" width="187" height="100%" border="0"></td>
+						</tr>
+</table>
+
+
+
+
+
+</td></tr></table><table cellspacing='0' cellpadding='0' border='0'  width='100%'><tr>
+<td width=187>
+<!-- nyc_general module chrome style - begins -->
+
+
+
+
+
+
+
+
+<script type="text/javascript"><!--
+function changeBtnImages(obj, imgPath) {
+        obj.src=imgPath;
+}
+--></script>
+ <form action="http://search1.nyc.gov/search?" method="GET" name="gs">
+            <table border="0" cellpadding="0" cellspacing="0" width=186 height=41 align=left>
+                <tr>
+		<td width=7><img src="/portal/images/spacer.gif" alt="" width=7></td>
+		  <td bgcolor=#000000 width=1><img src="/portal/images/spacer.gif" alt="" width=1></td>
+		<td bgcolor=#102141 rowspan=2 width=4><img src="/portal/images/spacer.gif" alt="" width=4></td>
+                  <td valign=top align=left bgcolor="#102141">
+                    <!--input type="hidden" name="beanID" value="100"-->
+                    <!--input type="hidden" name="eng" value="ultraseek"-->
+                    <!--input type=hidden name=col value="testnew"-->
+                    <!--input type=hidden name=bookmark value="no"-->
+				 	<input value="xml_no_dtd" name="output" type="hidden">
+				 	<input value="default_collection" name="site" type="hidden">
+					 <input value="default_frontend" name="proxystylesheet" type="hidden">
+                     <input value="default_frontend" name="client" type="hidden">
+
+                    <label for="mayor_search"><input type="text" name="q" size="13"  value="" style="width:118; height:21" id="mayor_search"></label>
+		  </td>
+                   <td valign=center align=left bgcolor="#102141">
+                   <input type=image name=submit222 value=Search border=0 src="/portal/images/newdesign/m_search_0.gif" alt="Search" align="middle" onmousedown="changeBtnImages(this, '/portal/images/newdesign/m_search_1.gif');return true" onmouseup="changeBtnImages( this,'/portal/images/newdesign/m_search_0.gif');return true" onmouseout="changeBtnImages(this,'/portal/images/newdesign/m_search_0.gif');return true">
+
+
+	</td>
+
+</tr>
+<tr>
+		<td width=7 height=13><img src="/portal/images/spacer.gif" width=7 height=1 alt="" ></td>
+		  <td bgcolor=#000000 height=13><img src="/portal/images/spacer.gif" width=1 alt=""></td>
+<td bgcolor=#102141 colspan=2 height=13>
+					     <a href="http://search1.nyc.gov/search?access=p&output=xml_no_dtd&sort=date%3AD%3AL%3Ad1&site=default_collection&ie=UTF-8&client=default_frontend&oe=UTF-8&proxystylesheet=default_frontend&q=&proxycustom=<ADVANCED/>"><img alt="Advanced Search" src=/portal/images/newdesign/m_advanced_search_0.gif border=0 onmousedown="changeBtnImages(this,'/portal/images/newdesign/m_advanced_search_1.gif');return true" onmouseup="changeBtnImages(this,'/portal/images/newdesign/m_advanced_search_0.gif');return true" onmouseout="changeBtnImages(this,'/portal/images/newdesign/m_advanced_search_0.gif');return true"></a></td>
+</tr>
+<tr>
+<td width=7 height=1><img src="/portal/images/spacer.gif" width=7 height=1 alt="" ></td>
+<td height=1 bgcolor=000000 colspan=4><img src=/portal/images/spacer.gif height=1 alt="" ></td>
+</tr>
+</table>
+</form>
+<!-- nyc_general module chrome style - ends -->
+
+</td></tr></table><table cellspacing='0' cellpadding='0' border='0'  width='100%'><tr>
+<td width=187>
+
+
+
+
+
+
+
+
+
+
+
+	<!-- Begin Nav-Vert Area -->
+	<table border="0" cellspacing="0" cellpadding="0" width="180">
+	<tr valign="top"><td colspan="3"><img src="/portal/images/spacers/spacer.gif" alt="" width="180" height="7"></td></tr>
+
+
+
+		<tr valign="top">
+
+
+			 <td width="10" valign="top"><img src="/portal/images/spacers/spacer.gif" border="0" alt="" width="10" height="15" /></td>
+			 <td width="160" >
+			 <a href="/portal/site/nycgov/menuitem.beb0d8fdaa9e1607a62fa24601c789a0"  class="left_links">   Home Page</a>
+			 </td>
+			 <td width="10"><img src="/portal/images/spacers/spacer.gif" border="0" alt="" width="10" height="15" /></td>
+			 </tr>
+
+				<tr valign="top">
+					<td colspan="3" ><img src="/portal/images/dividers/left_nav_line_var2.gif" alt="" width="180" height="16"></td>
+				</tr>
+
+
+
+		<tr valign="top">
+
+
+			 <td width="10" valign="top"><img src="/portal/images/arrows/arrow_blue_nav.gif" border="0" alt="" width="10" height="15" /></td>
+			 <td width="160" >
+			 <a href="/portal/site/nycgov/menuitem.b270a4a1d51bb3017bce0ed101c789a0/index.jsp?doc_name=/html/om/html/recent_events.html"  class="left_links_bold">   News and Press Releases</a>
+			 </td>
+			 <td width="10"><img src="/portal/images/spacers/spacer.gif" border="0" alt="" width="10" height="15" /></td>
+			 </tr>
+
+
+
+		<tr valign="top">
+
+
+
+				<td width="10" height="15"><img src="/portal/images/spacers/spacer.gif" border="0" alt="" width="10" height="10" /></td>
+				<td width="160" height="10">
+				&nbsp;-&nbsp;<a href="/portal/site/nycgov/menuitem.b270a4a1d51bb3017bce0ed101c789a0/index.jsp?doc_name=/html/om/html/recent_events.html"  class="left_links">Recent Events</a>
+				</td>
+				<td width="10" height="15"><img src="/portal/images/spacers/spacer.gif" border="0" alt="" width="10" height="10" /></td>
+				</tr>
+
+
+
+		<tr valign="top">
+
+
+
+				<td width="10" height="15"><img src="/portal/images/spacers/spacer.gif" border="0" alt="" width="10" height="10" /></td>
+				<td width="160" height="10">
+				&nbsp;-&nbsp;<a href="/portal/site/nycgov/menuitem.b270a4a1d51bb3017bce0ed101c789a0/index.jsp?doc_name=/html/om/html/2013a/events_04.html"  class="left_links">April 2013</a>
+				</td>
+				<td width="10" height="15"><img src="/portal/images/spacers/spacer.gif" border="0" alt="" width="10" height="10" /></td>
+				</tr>
+
+
+
+		<tr valign="top">
+
+
+
+				<td width="10" height="15"><img src="/portal/images/spacers/spacer.gif" border="0" alt="" width="10" height="10" /></td>
+				<td width="160" height="10">
+				&nbsp;-&nbsp;<a href="/portal/site/nycgov/menuitem.b270a4a1d51bb3017bce0ed101c789a0/index.jsp?doc_name=/html/om/html/2013a/events_03.html"  class="left_links">March 2013</a>
+				</td>
+				<td width="10" height="15"><img src="/portal/images/spacers/spacer.gif" border="0" alt="" width="10" height="10" /></td>
+				</tr>
+
+
+
+		<tr valign="top">
+
+
+
+				<td width="10" height="15"><img src="/portal/images/spacers/spacer.gif" border="0" alt="" width="10" height="10" /></td>
+				<td width="160" height="10">
+				&nbsp;-&nbsp;<a href="/portal/site/nycgov/menuitem.b270a4a1d51bb3017bce0ed101c789a0/index.jsp?doc_name=/html/om/html/2013a/events_02.html"  class="left_links">February 2013</a>
+				</td>
+				<td width="10" height="15"><img src="/portal/images/spacers/spacer.gif" border="0" alt="" width="10" height="10" /></td>
+				</tr>
+
+
+
+		<tr valign="top">
+
+
+
+				<td width="10" height="15"><img src="/portal/images/spacers/spacer.gif" border="0" alt="" width="10" height="10" /></td>
+				<td width="160" height="10">
+				&nbsp;-&nbsp;<a href="/portal/site/nycgov/menuitem.b270a4a1d51bb3017bce0ed101c789a0/index.jsp?doc_name=/html/om/html/2013a/events_01.html"  class="left_links">January 2013</a>
+				</td>
+				<td width="10" height="15"><img src="/portal/images/spacers/spacer.gif" border="0" alt="" width="10" height="10" /></td>
+				</tr>
+
+
+
+		<tr valign="top">
+
+
+
+				<td width="10" height="15"><img src="/portal/images/spacers/spacer.gif" border="0" alt="" width="10" height="10" /></td>
+				<td width="160" height="10">
+				&nbsp;-&nbsp;<a href="/portal/site/nycgov/menuitem.b270a4a1d51bb3017bce0ed101c789a0/index.jsp?doc_name=/html/om/html/archive_2012.html"  class="left_links">2012 Events</a>
+				</td>
+				<td width="10" height="15"><img src="/portal/images/spacers/spacer.gif" border="0" alt="" width="10" height="10" /></td>
+				</tr>
+
+
+
+		<tr valign="top">
+
+
+
+				<td width="10" height="15"><img src="/portal/images/spacers/spacer.gif" border="0" alt="" width="10" height="10" /></td>
+				<td width="160" height="10">
+				&nbsp;-&nbsp;<a href="/portal/site/nycgov/menuitem.b270a4a1d51bb3017bce0ed101c789a0/index.jsp?doc_name=/html/om/html/archive_2011.html"  class="left_links">2011 Events</a>
+				</td>
+				<td width="10" height="15"><img src="/portal/images/spacers/spacer.gif" border="0" alt="" width="10" height="10" /></td>
+				</tr>
+
+
+
+		<tr valign="top">
+
+
+
+				<td width="10" height="15"><img src="/portal/images/spacers/spacer.gif" border="0" alt="" width="10" height="10" /></td>
+				<td width="160" height="10">
+				&nbsp;-&nbsp;<a href="/portal/site/nycgov/menuitem.b270a4a1d51bb3017bce0ed101c789a0/index.jsp?doc_name=/html/om/html/archive_2010.html"  class="left_links">2010 Events</a>
+				</td>
+				<td width="10" height="15"><img src="/portal/images/spacers/spacer.gif" border="0" alt="" width="10" height="10" /></td>
+				</tr>
+
+
+
+		<tr valign="top">
+
+
+
+				<td width="10" height="15"><img src="/portal/images/spacers/spacer.gif" border="0" alt="" width="10" height="10" /></td>
+				<td width="160" height="10">
+				&nbsp;-&nbsp;<a href="/portal/site/nycgov/menuitem.b270a4a1d51bb3017bce0ed101c789a0/index.jsp?doc_name=/html/om/html/archive_2009.html"  class="left_links">2009 Events</a>
+				</td>
+				<td width="10" height="15"><img src="/portal/images/spacers/spacer.gif" border="0" alt="" width="10" height="10" /></td>
+				</tr>
+
+
+
+		<tr valign="top">
+
+
+
+				<td width="10" height="15"><img src="/portal/images/spacers/spacer.gif" border="0" alt="" width="10" height="10" /></td>
+				<td width="160" height="10">
+				&nbsp;-&nbsp;<a href="/portal/site/nycgov/menuitem.b270a4a1d51bb3017bce0ed101c789a0/index.jsp?doc_name=/html/om/html/archive_2008.html"  class="left_links">2008 Events</a>
+				</td>
+				<td width="10" height="15"><img src="/portal/images/spacers/spacer.gif" border="0" alt="" width="10" height="10" /></td>
+				</tr>
+
+
+
+		<tr valign="top">
+
+
+
+				<td width="10" height="15"><img src="/portal/images/spacers/spacer.gif" border="0" alt="" width="10" height="10" /></td>
+				<td width="160" height="10">
+				&nbsp;-&nbsp;<a href="/portal/site/nycgov/menuitem.b270a4a1d51bb3017bce0ed101c789a0/index.jsp?doc_name=/html/om/html/archive_2007.html"  class="left_links">2007 Events</a>
+				</td>
+				<td width="10" height="15"><img src="/portal/images/spacers/spacer.gif" border="0" alt="" width="10" height="10" /></td>
+				</tr>
+
+
+
+		<tr valign="top">
+
+
+
+				<td width="10" height="15"><img src="/portal/images/spacers/spacer.gif" border="0" alt="" width="10" height="10" /></td>
+				<td width="160" height="10">
+				&nbsp;-&nbsp;<a href="/portal/site/nycgov/menuitem.b270a4a1d51bb3017bce0ed101c789a0/index.jsp?doc_name=/html/om/html/archive_2006.html"  class="left_links">2006 Events</a>
+				</td>
+				<td width="10" height="15"><img src="/portal/images/spacers/spacer.gif" border="0" alt="" width="10" height="10" /></td>
+				</tr>
+
+
+
+		<tr valign="top">
+
+
+
+				<td width="10" height="15"><img src="/portal/images/spacers/spacer.gif" border="0" alt="" width="10" height="10" /></td>
+				<td width="160" height="10">
+				&nbsp;-&nbsp;<a href="/portal/site/nycgov/menuitem.b270a4a1d51bb3017bce0ed101c789a0/index.jsp?doc_name=/html/om/html/archive_2005.html"  class="left_links">2005 Events</a>
+				</td>
+				<td width="10" height="15"><img src="/portal/images/spacers/spacer.gif" border="0" alt="" width="10" height="10" /></td>
+				</tr>
+
+
+
+		<tr valign="top">
+
+
+
+				<td width="10" height="15"><img src="/portal/images/spacers/spacer.gif" border="0" alt="" width="10" height="10" /></td>
+				<td width="160" height="10">
+				&nbsp;-&nbsp;<a href="/portal/site/nycgov/menuitem.b270a4a1d51bb3017bce0ed101c789a0/index.jsp?doc_name=/html/om/html/archive_2004.html"  class="left_links">2004 Events</a>
+				</td>
+				<td width="10" height="15"><img src="/portal/images/spacers/spacer.gif" border="0" alt="" width="10" height="10" /></td>
+				</tr>
+
+
+
+		<tr valign="top">
+
+
+
+				<td width="10" height="15"><img src="/portal/images/spacers/spacer.gif" border="0" alt="" width="10" height="10" /></td>
+				<td width="160" height="10">
+				&nbsp;-&nbsp;<a href="/portal/site/nycgov/menuitem.b270a4a1d51bb3017bce0ed101c789a0/index.jsp?doc_name=/html/om/html/archive_2003.html"  class="left_links">2003 Events</a>
+				</td>
+				<td width="10" height="15"><img src="/portal/images/spacers/spacer.gif" border="0" alt="" width="10" height="10" /></td>
+				</tr>
+
+
+
+		<tr valign="top">
+
+
+
+				<td width="10" height="15"><img src="/portal/images/spacers/spacer.gif" border="0" alt="" width="10" height="10" /></td>
+				<td width="160" height="10">
+				&nbsp;-&nbsp;<a href="/portal/site/nycgov/menuitem.b270a4a1d51bb3017bce0ed101c789a0/index.jsp?doc_name=/html/om/html/archive_2002.html"  class="left_links">2002 Events</a>
+				</td>
+				<td width="10" height="15"><img src="/portal/images/spacers/spacer.gif" border="0" alt="" width="10" height="10" /></td>
+				</tr>
+
+
+
+		<tr valign="top">
+
+
+
+
+		<tr valign="top">
+
+
+							<tr valign="top">
+							<td colspan="3" ><img src="/portal/images/dividers/left_nav_line_var2.gif" alt="" width="180" height="16"></td>
+							</tr>
+				
+
+
+		<tr valign="top">
+
+
+			 <td width="10" valign="top"><img src="/portal/images/spacers/spacer.gif" border="0" alt="" width="10" height="15" /></td>
+			 <td width="160" >
+			 <a href="/portal/site/nycgov/menuitem.db6d44f040275edd6bce0ed101c789a0"  class="left_links">   Mayoral and City Agencies</a>
+			 </td>
+			 <td width="10"><img src="/portal/images/spacers/spacer.gif" border="0" alt="" width="10" height="15" /></td>
+			 </tr>
+
+				<tr valign="top">
+					<td colspan="3" ><img src="/portal/images/dividers/left_nav_line_var2.gif" alt="" width="180" height="16"></td>
+				</tr>
+
+
+
+		<tr valign="top">
+
+
+			 <td width="10" valign="top"><img src="/portal/images/spacers/spacer.gif" border="0" alt="" width="10" height="15" /></td>
+			 <td width="160" >
+			 <a href="/portal/site/nycgov/menuitem.42729010dddb3b4a4bba9b1042289da0/"  class="left_links">   Executive Orders</a>
+			 </td>
+			 <td width="10"><img src="/portal/images/spacers/spacer.gif" border="0" alt="" width="10" height="15" /></td>
+			 </tr>
+
+				<tr valign="top">
+					<td colspan="3" ><img src="/portal/images/dividers/left_nav_line_var2.gif" alt="" width="180" height="16"></td>
+				</tr>
+
+
+
+		<tr valign="top">
+
+
+			 <td width="10" valign="top"><img src="/portal/images/spacers/spacer.gif" border="0" alt="" width="10" height="15" /></td>
+			 <td width="160" >
+			 <a href="/portal/site/nycgov/menuitem.53459261fb6a2fb3f7393cd401c789a0/"  class="left_links">   Photo Gallery</a>
+			 </td>
+			 <td width="10"><img src="/portal/images/spacers/spacer.gif" border="0" alt="" width="10" height="15" /></td>
+			 </tr>
+
+				<tr valign="top">
+					<td colspan="3" ><img src="/portal/images/dividers/left_nav_line_var2.gif" alt="" width="180" height="16"></td>
+				</tr>
+
+
+
+		<tr valign="top">
+
+
+			 <td width="10" valign="top"><img src="/portal/images/spacers/spacer.gif" border="0" alt="" width="10" height="15" /></td>
+			 <td width="160" >
+			 <a href="/portal/site/nycgov/menuitem.e985cf5219821bc3f7393cd401c789a0/"  class="left_links">   Biography</a>
+			 </td>
+			 <td width="10"><img src="/portal/images/spacers/spacer.gif" border="0" alt="" width="10" height="15" /></td>
+			 </tr>
+
+				<tr valign="top">
+					<td colspan="3" ><img src="/portal/images/dividers/left_nav_line_var2.gif" alt="" width="180" height="16"></td>
+				</tr>
+
+
+
+		<tr valign="top">
+
+
+
+
+		<tr valign="top">
+
+
+			 <td width="10" valign="top"><img src="/portal/images/spacers/spacer.gif" border="0" alt="" width="10" height="15" /></td>
+			 <td width="160" >
+			 <a href="/portal/site/nycgov/menuitem.be742bcd124767301828711061c789a0"  class="left_links">   En español</a>
+			 </td>
+			 <td width="10"><img src="/portal/images/spacers/spacer.gif" border="0" alt="" width="10" height="15" /></td>
+			 </tr>
+
+				<tr valign="top">
+					<td colspan="3" ><img src="/portal/images/spacers/spacer.gif" alt="" width="180" height="10"></td>
+				</tr>
+
+	</table>
+	<!-- End Nav-Vert Area -->
+
+</td></tr></table></td></tr>
+
+			<!-- layout cell - ends -->
+
+			</table>
+		</td>
+
+		<!-- horizontal spacer between div/column layouts - begins -->
+			
+		<!-- horizontal spacer between div/column layouts - ends -->
+
+		<td width=583 valign="top" align="left">
+		
+
+			<table cellspacing="0" cellpadding="0" border="0" width="100%" >
+<tr>
+<td width=583>
+
+					<!-- layout cell - begins -->
+<table cellspacing='0' cellpadding='0' border='0'  width='100%'><tr>
+<td width=583>
+
+
+
+
+
+
+
+
+
+
+		<table width="582" height="47" border="0" cellspacing="0" cellpadding="0">
+        <tr>
+          
+    <td><img src="/portal/images/mayor_new/m_pagetitle_blueroom_pr.gif" width="582" height="47" alt="News from the Blue Room"></td>
+        </tr>
+      </table>
+
+
+
+
+
+</td></tr></table><table cellspacing='0' cellpadding='0' border='0'  width='100%'><tr>
+<td width=583>
+									
+
+
+
+
+
+
+
+
+
+
+
+
+<!---- primary font size is      --->
+<!-- NYC-Chrome module chrome style - begins -->
+<table border="0" cellspacing="0" cellpadding="0"  width=100%>
+	<tr>
+		<td>
+		
+
+
+			<table border="0" cellspacing="0" cellpadding="0" width="100%">
+				<tr >
+					<td >
+		<!-- press module chrome style - begins -->
+
+
+
+
+
+
+
+
+  <table width=100% border=0 cellpadding=0 cellspacing=0>
+    <tr>
+	<td colspan=3 height=7><img src="/portal/images/newdesign/spacer.gif" border=0 width=7 height=7></td>
+    </tr>
+    <tr>
+	<td width=14><img src="/portal/images/newdesign/spacer_14_14.gif"></td>
+        <td>
+
+
+
+		
+	
+
+
+
+
+
+<!-- creates a mobile version just containing the description -->
+<!-- /iwmnt/production/main/NYC_gov/om/WORKAREA/content/html/om/html/2010b/pr389-10_mobile.html, /iwmnt/production/main/NYC_gov/om/WORKAREA/ -->
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+	<head>
+		<meta http-equiv="content-type" content="text/html;charset=UTF-8">
+		
+		
+		<title>Press Release&nbsp;
+    		
+		&nbsp;- Mayor Michael R. Bloomberg</title>
+		
+		<link href="/portal/css/nycgov.css" rel="stylesheet" type="text/css">
+			<script type="text/javascript">
+			<!--
+			
+		      	var prefixURL=document.location.protocol+"//"+document.location.host+"/portal/press_release_redirect.jsp?pageID=mayor_press_release&catID=1194&doc_name=";
+		      
+		      
+    			var currentURL =document.location.href;
+    			if(currentURL.search("WORKAREA") == -1 && currentURL.search("/portal") == -1){
+        			currentURL=escape(currentURL);
+        			currentURL=currentURL.replace(/\//gi, "%2F");
+        			var newURL=prefixURL+currentURL+"&cc=unused1978&rc=1194&ndi=1";
+        			location.replace(newURL);
+    			}
+			//-->
+			</script>
+			<script type="text/javascript">
+			<!--
+				function newImage(arg) {
+					if (document.images) {
+						rslt = new Image();
+						rslt.src = arg;
+						return rslt;
+					}
+				}
+				function changeImages() {
+					if (document.images && (preloadFlag == true)) {
+						for (var i=0; i<changeImages.arguments.length; i+=2) {
+							document[changeImages.arguments[i]].src = changeImages.arguments[i+1];
+						}
+					}
+				}
+
+				var preloadFlag = false;
+				function preloadImages() {
+					if (document.images) {
+						down_search_2 = newImage(/*URL*/'/html/om/gif/pr/search_1.gif');
+						down_go_button_0 = newImage(/*URL*/'/html/om/gif/pr/go_button_1.gif');
+						preloadFlag = true;
+					}
+				}
+			// -->
+			</script>
+<style type="text/css">
+.share_table {
+	border:1px solid #000000;
+	padding:10px;
+	background-color:#ffffff;
+}
+a.share_links {
+	text-decoration:none;
+}
+a.share_links:hover {
+	color:#0066cc;
+	text-decoration:none;
+}
+.share_icon {
+	padding-right:4px;
+	padding-bottom:4px;
+}
+.share_td {
+	padding-bottom:4px;
+}
+</style>
+<script language="javascript"><!--
+	var theDateString = "3EA58F34-BF67-11DF-BF98-A3B59DBB3541";
+	var theTitle=encodeURIComponent("MAYOR BLOOMBERG AND POLICE COMMISSIONER KELLY ANNOUNCE NEW YORK CITY REMAINS THE SAFEST BIG CITY IN AMERICA ACCORDING TO FBI UNIFORM CRIME REPORT");
+	var theEmailText = "Email a Friend";
+--></script>
+<script language="javascript" src="/html/om/scripts/share_button.js"></script>
+	</head>
+
+<body onload="preloadImages();" bgcolor="#ffffff" text="#333333" link="#333333" vlink="#333333" alink="#660000" leftmargin="0" marginheight="0" marginwidth="0" topmargin="0">
+
+
+	<!--EAFTITLE="Mayor Bloomberg and Police Commissioner Kelly Announce New York City Remains the Safest Big City in America According to FBI Uniform Crime Report"-->
+<!--EAFDATE="September 13, 2010"-->
+
+
+
+<table width="568" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td align="left" valign="top" width="0"><img src="/html/om/gif/pr/spacer_14_14.gif" width="0" border="0"></td>
+    <td width="390" align="left" valign="top"> <img src="/html/om/gif/pr/spacer_139_10.gif" width="139" height="10">
+
+	<map name="pf">
+	<area shape="rect" coords="3,0,172,25" href="/cgi-bin/misc/pfprinter.cgi?action=print&sitename=OM" onClick="this.href = '/cgi-bin/misc/pfprinter.cgi?action=print&sitename=OM&p=' + Date.parse(new Date()); return true;" alt="Printer Friendly Format" target="_blank">
+	          <area shape="rect" coords="261,1,322,22" href="javascript:show_share();" alt="Share">
+</map>
+
+<img src="/html/om/gif/pr/pf_sm.gif" border="0" width="390" height="32" usemap="#pf">
+        <div id="sm_table" style="position:absolute; z-index:10; left:466px; top:202px;display:none;" class="share_table">
+          <table cellspacing="0" cellpadding="0" border="0">
+            <tr>
+              <td colspan="3" align="right" class="share_icon"><a href="javascript:hide_share();"><img src="/html/om/gif/pr/icon_close.gif" width="12" height="12" border="0" alt="Close"></a></td>
+            </tr>
+            <tr valign="top">
+              <td width="47%"><table cellspacing="0" cellpadding="0" border="0">
+                  <tr>
+                    <Td width="16" class="share_icon"><img src="/html/om/gif/pr/icon_mail.gif" width="16" height="16" border="0" alt="Email a Friend"></Td>
+                    <td class="share_td" id="email_link" nowrap>Email a Friend</td>
+                  </tr>
+                  <tr>
+                    <Td width="16" class="share_icon"><img src="/html/om/gif/pr/icon_facebook.gif" width="16" height="16" border="0" alt="facebook"></Td>
+                    <td class="share_td" id="facebook_link" nowrap>facebook</td>
+                  </tr>
+                  <tr>
+                    <Td width="16" class="share_icon"><img src="/html/om/gif/pr/icon_delicious.gif" width="16" height="16" border="0" alt="delicious"></Td>
+                    <td class="share_td" id="delicious_link" nowrap>delicious</td>
+                  </tr>
+                  <tr>
+                    <Td width="16" class="share_icon"><img src="/html/om/gif/pr/icon_linkedin.gif" width="16" height="16" border="0" alt="LinkedIn"></Td>
+                    <td class="share_td" id="linkedin_link" nowrap>LinkedIn</td>
+                  </tr>
+                  <tr>
+                    <Td width="16" class="share_icon"><img src="/html/om/gif/pr/icon_myspace.gif" width="16" height="16" border="0" alt="myspace"></Td>
+                    <td class="share_td" id="myspace_link" nowrap>myspace</td>
+                  </tr>
+                </table></td>
+              <td width="6%">&nbsp;</td>
+              <td width="47%"><table cellspacing="0" cellpadding="0" border="0">
+                  <tr>
+                    <Td width="16" class="share_icon"><img src="/html/om/gif/pr/icon_digg.gif" width="16" height="16" border="0" alt="digg"></Td>
+                    <td class="share_td" id="digg_link" nowrap>digg</td>
+                  </tr>
+                  <tr>
+                    <Td width="16" class="share_icon"><img src="/html/om/gif/pr/icon_twitter.gif" width="16" height="16" border="0" alt="twitter"></Td>
+                    <td class="share_td" id="twitter_link" nowrap>twitter</td>
+                  </tr>
+                  <tr>
+                    <Td width="16" class="share_icon"><img src="/html/om/gif/pr/icon_reddit.gif" width="16" height="16" border="0" alt="reddit"></Td>
+                    <td class="share_td" id="reddit_link" nowrap>reddit</td>
+                  </tr>
+                  <tr>
+                    <Td width="16" class="share_icon"><img src="/html/om/gif/pr/icon_stumbleupon.gif" width="16" height="16" border="0" alt="StumbleUpon"></Td>
+                    <td class="share_td" id="stumbleupon_link" nowrap>StumbleUpon</td>
+                  </tr>
+                </table></td>
+            </tr>
+          </table>
+          <script language="javascript"><!--
+write_share_links();
+//--></script>
+        </div>
+        <br>
+
+
+
+      <br><br><!-- BEGIN_PRINT_PAGE --><span class="ltblue_11pt_bold">
+
+      
+      	FOR IMMEDIATE RELEASE
+      
+
+      <br>
+	  
+      PR-
+      389-10<br>
+	  September 13, 2010<br>
+      
+      </span>
+	  <br><span class="grey_11pt_bold">
+	  MAYOR BLOOMBERG AND POLICE COMMISSIONER KELLY ANNOUNCE NEW YORK CITY REMAINS THE SAFEST BIG CITY IN AMERICA ACCORDING TO FBI UNIFORM CRIME REPORT
+	  
+	  <br></span><br>
+	
+	
+	
+	  <!-- Paragraphs -->
+	  
+	  
+	  
+	  
+	  <span class="ltgrey_11pt">
+	  
+	  <p>Mayor Michael R. Bloomberg and Police Commissioner Raymond W. Kelly today announced that New York City remains the safest big city in America, according to an analysis of crime data released by the FBI in its <i><span>Crime in the United States,</span></i> theUniform Crime Report for 2009. The report shows that total crime decreased by 5.1 percent in New York City during 2009, outpacing national trends.&nbsp; Murders fell by 9.9 percent, compared to 7.2 percent nationwide. According to NYPD Compstat data, crime is down an additional 1.5 percent citywide for the first eight months of the year when compared to 2009 levels.</p>
+
+<p><span>&#8220;The men and women of the NYPD have found new ways to further drive down crime, even when faced with tough economic times and the threat of terrorism,&#8221; said Mayor Bloomberg. &#8220;We will continue doing everything possible to keep making the safest big city in the country even safer.&#8221;</span></p>
+
+<p><span>&#8220;The data reflects in no small measure the dedication and hard work of New York City Police officers, and the Mayor&#8217;s commitment to keeping New Yorkers safe, year after year,&#8221; said Commissioner Kelly.</span></p>
+
+<p><span>According to an analysis of crime data released by the FBI, of the 25 largest cities in the country New York City again recorded the lowest Index Crime rate, ranking safest. Of the 266 U.S. cities with populations larger than 100,000 that reported data to the FBI, New York&#8217;s crime rate ranked 248th, placing it between Garden Grove, California and Sunnyvale, California. No other City with more than 262,000 people ranked safer than New York City.</span></p>
+
+<p align="center"><i><span>Percentage Change in Index Crime from 2008 &#8211; 2009, According to FBI Data</span></i></p>
+
+<p></p>
+
+<table cellspacing="0" cellpadding="0" border="1">
+<tr>
+<td valign="top" width="170">
+<p align="center"><b><span>Nationwide</span></b></p>
+</td>
+<td valign="top" width="213">
+<p align="center"><b><span>Crime</span></b></p>
+</td>
+<td valign="top" width="170">
+<p align="center"><b><span>New York City</span></b></p>
+</td>
+</tr>
+
+<tr>
+<td valign="top" width="170">
+<p align="center"><span>-7.3%</span></p>
+</td>
+<td valign="top" width="213">
+<p align="center"><span>Murder</span></p>
+</td>
+<td valign="top" width="170">
+<p align="center"><span>-9.9%</span></p>
+</td>
+</tr>
+
+<tr>
+<td valign="top" width="170">
+<p align="center"><span>-2.6%</span></p>
+</td>
+<td valign="top" width="213">
+<p align="center"><span>Rape</span></p>
+</td>
+<td valign="top" width="170">
+<p align="center"><span>-6.5%</span></p>
+</td>
+</tr>
+
+<tr>
+<td valign="top" width="170">
+<p align="center"><span>-8.0%</span></p>
+</td>
+<td valign="top" width="213">
+<p align="center"><span>Robbery</span></p>
+</td>
+<td valign="top" width="170">
+<p align="center"><span>-16.2%</span></p>
+</td>
+</tr>
+
+<tr>
+<td valign="top" width="170">
+<p align="center"><span>-4.2%</span></p>
+</td>
+<td valign="top" width="213">
+<p align="center"><span>Assault</span></p>
+</td>
+<td valign="top" width="170">
+<p align="center"><span>6.5%</span></p>
+</td>
+</tr>
+
+<tr>
+<td valign="top" width="170">
+<p align="center"><span>-5.3%</span></p>
+</td>
+<td valign="top" width="213">
+<p align="center"><i><span>Violent Crime</span></i></p>
+</td>
+<td valign="top" width="170">
+<p align="center"><span>-4.3%</span></p>
+</td>
+</tr>
+
+<tr>
+<td valign="top" width="170">
+<p align="center"><span>-1.3%</span></p>
+</td>
+<td valign="top" width="213">
+<p align="center"><span>Burglary</span></p>
+</td>
+<td valign="top" width="170">
+<p align="center"><span>-5.5%</span></p>
+</td>
+</tr>
+
+<tr>
+<td valign="top" width="170">
+<p align="center"><span>-4.0%</span></p>
+</td>
+<td valign="top" width="213">
+<p align="center"><span>Larceny Theft</span></p>
+</td>
+<td valign="top" width="170">
+<p align="center"><span>-4.4%</span></p>
+</td>
+</tr>
+
+<tr>
+<td valign="top" width="170">
+<p align="center"><span>-17.1%</span></p>
+</td>
+<td valign="top" width="213">
+<p align="center"><span>Motor Vehicle Theft</span></p>
+</td>
+<td valign="top" width="170">
+<p align="center"><span>-14.0%</span></p>
+</td>
+</tr>
+
+<tr>
+<td valign="top" width="170">
+<p align="center"><span>-4.6%</span></p>
+</td>
+<td valign="top" width="213">
+<p align="center"><i><span>Property Crime</span></i></p>
+</td>
+<td valign="top" width="170">
+<p align="center"><span>-5.3%</span></p>
+</td>
+</tr>
+
+<tr>
+<td valign="top" width="170">
+<p align="center"><span>-4.7%</span></p>
+</td>
+<td valign="top" width="213">
+<p align=center><b>TOTAL INDEX</b></p>
+</td>
+<td valign="top" width="170">
+<p align="center">-5.1%</p>
+</td>
+</tr>
+</table>
+
+<p align="center"><i><span>Total Crime Index for the Nation&#8217;s Largest Cities, According to FBI Data</span></i></p>
+
+<p></p>
+
+<table cellspacing="0" cellpadding="0" border="1">
+<tr>
+<td valign="top" width="161">
+<p align="center"><b><span>Year End 2009</span></b></p>
+</td>
+<td valign="top" width="199">
+<p align="center"><b><span>City</span></b></p>
+</td>
+<td valign="top" width="168">
+<p align="center"><b><span>Rate</span></b></p>
+</td>
+</tr>
+
+<tr>
+<td valign="top" width="161">
+<p align="center"><b><span>1</span></b></p>
+</td>
+<td valign="top" width="199">
+<p align="center"><b><span>New York</span></b></p>
+</td>
+<td valign="top" width="168">
+<p align="center"><b><span>2,242.1</span></b></p>
+</td>
+</tr>
+
+<tr>
+<td valign="top" width="161">
+<p align="center"><span>2</span></p>
+</td>
+<td valign="top" width="199">
+<p align="center"><span>San Jose</span></p>
+</td>
+<td valign="top" width="168">
+<p align="center"><span>2,745.7</span></p>
+</td>
+</tr>
+
+<tr>
+<td valign="top" width="161">
+<p align="center"><span>3</span></p>
+</td>
+<td valign="top" width="199">
+<p align="center"><span>San Diego</span></p>
+</td>
+<td valign="top" width="168">
+<p align="center"><span>2,903.7</span></p>
+</td>
+</tr>
+
+<tr>
+<td valign="top" width="161">
+<p align="center"><span>4</span></p>
+</td>
+<td valign="top" width="199">
+<p align="center"><span>Los Angeles</span></p>
+</td>
+<td valign="top" width="168">
+<p align="center"><span>3,074.0</span></p>
+</td>
+</tr>
+
+<tr>
+<td valign="top" width="161">
+<p align="center"><span>5</span></p>
+</td>
+<td valign="top" width="199">
+<p align="center"><span>Las Vegas</span></p>
+</td>
+<td valign="top" width="168">
+<p align="center"><span>4,407.7</span></p>
+</td>
+</tr>
+
+<tr>
+<td valign="top" width="161">
+<p align="center"><span>6</span></p>
+</td>
+<td valign="top" width="199">
+<p align="center"><span>Phoenix</span></p>
+</td>
+<td valign="top" width="168">
+<p align="center"><span>4,654.3</span></p>
+</td>
+</tr>
+
+<tr>
+<td valign="top" width="161">
+<p align="center"><span>7</span></p>
+</td>
+<td valign="top" width="199">
+<p align="center"><span>Philadelphia</span></p>
+</td>
+<td valign="top" width="168">
+<p align="center"><span>4,849.5</span></p>
+</td>
+</tr>
+
+<tr>
+<td valign="top" width="161">
+<p align="center"><span>8</span></p>
+</td>
+<td valign="top" width="199">
+<p align="center"><span>Dallas</span></p>
+</td>
+<td valign="top" width="168">
+<p align="center"><span>4,407.7</span></p>
+</td>
+</tr>
+
+<tr>
+<td valign="top" width="161">
+<p align="center"><span>9</span></p>
+</td>
+<td valign="top" width="199">
+<p align="center"><span>Houston</span></p>
+</td>
+<td valign="top" width="168">
+<p align="center"><span>6,444.2</span></p>
+</td>
+</tr>
+
+<tr>
+<td valign="top" width="161">
+<p align="center"><span>10</span></p>
+</td>
+<td valign="top" width="199">
+<p align="center"><span>San Antonio</span></p>
+</td>
+<td valign="top" width="168">
+<p align="center"><span>7,241.6</span></p>
+</td>
+</tr>
+</table>
+
+<p class="aSubTitle" align="left">&nbsp;</p>
+	  
+	  </span><br><br>
+	  
+	  
+	  
+	  <!-- End Paragraphs -->
+
+      <img src="/html/om/gif/pr/m_divider.gif" width="389" height="1"><br><br>
+      <span class="ltblue_11pt_bold">
+
+
+      
+	  
+	  
+      		<br><br>MEDIA CONTACT:
+	  
+      
+
+      </span><br>
+	  <!-- Contacts -->
+	  <span class="grey_10pt"><br>
+	  
+	  
+	  
+	  Stu Loeser / Jason Post  &nbsp;
+	  
+	  
+	  
+	  (212) 788-2958<br/><br/>
+	  
+	  
+	  
+	  Paul Browne (NYPD) &nbsp;
+	  
+	  
+	  
+	  (646) 610-6700<br/><br/>
+	  
+	  
+
+      
+
+	  
+      
+      <br><br>
+	  <!-- General Contacts -->
+	  
+	  
+	  
+	  
+	  
+
+	  
+<!-- End The Date value gets pulled into the presentation template from the dcr -->
+<!-- END_PRINT_PAGE -->
+      <br>
+      </span>
+	<!-- End Contacts -->
+	</td>
+    <td width="14" align="left" valign="top"><img src="/html/om/gif/pr/spacer_14_14.gif" width="14" height="0" border="0"></td>
+    <td width="12" align="left" valign="top"><img src="/html/om/gif/pr/m_header_resources_1.gif" width="12" border=0 height="20"></td>
+    <td width="139" align="left" valign="top">
+
+      
+      	<img src="/html/om/gif/pr/m_header_resources_2.gif" width="139" height="20" alt="More Resources"><br>
+      
+
+	  
+
+	  
+
+	  
+	  
+	  
+
+	  
+	  
+	  
+	  
+
+	  
+	  <br>
+	  <img src="/html/om/gif/pr/spacer_139_10.gif" alt="" width="139" height="10" border="0" vspace="0" hspace="0"><br>
+	  <img src="/html/om/gif/pr/spacer_139_10.gif" alt="" width="139" height="10" border="0" vspace="0" hspace="0"><br>
+      <br>
+	  
+	  
+	  
+	  
+	  <br/><br/>
+	  
+	  
+      <br>
+    </td>
+    <td width="13" align="left" valign="top"><img src="/html/om/gif/pr/m_header_resources_3.gif" width="13" height="20"></td>
+  </tr>
+</table>
+</body>
+</html>
+
+
+
+	</td>
+	<td width=14><img src="/portal/images/newdesign/spacer_14_14.gif"></td>
+    </tr>
+  </table>
+
+
+<!-- press module chrome style - ends -->
+
+					</td>
+				</tr>
+			</table>
+
+
+		</td>
+	</tr>
+</table>
+<br>
+
+<!-- NYC-Chrome module chrome style - ends -->
+</td></tr></table></td></tr>
+
+			<!-- layout cell - ends -->
+
+			</table>
+		</td>
+
+	</tr>
+
+
+
+</table>
+<!-- module layout - ends -->
+
+
+
+
+
+			<!-- End pageContent -->
+		</td>
+	</tr>
+	</table>
+</td>
+</tr>
+<tr>
+	<td valign="bottom"  width="769">
+		
+
+
+
+
+
+
+<table width="769" border="0" cellspacing="0" cellpadding="0" bgcolor="#494B4C" class="footer">
+        <tr>
+          <td width="13"><img src="/portal/images/spacers/spacer.gif" alt="" width="13" height="24"></td>
+          <td width="287"><span class="footer_copyright">Copyright 2013 The City of New York</span></td>
+          <td width="444" align="right" class="footer_links"><span class="footer_links">
+		  <a href="/contact" class="footer_links">Contact Us</a> <span class="footer_links">|</span> <a href="/faqs" class="footer_links">FAQs</a> |
+		  <a href="/privacy" class="footer_links">Privacy Policy</a> | <a href="/html/misc/html/tou.html" class="footer_links">Terms of Use</a> | <a href="/sitemap" class="footer_links">Site Map</a></span></td>
+          <td width="25" align="right"><img src="/portal/images/spacers/spacer.gif" alt="" width="25" height="24"></td>
+        </tr>
+</table>
+
+<script src="/html/misc/scripts/nycwebtrends.js" type="text/javascript"></script>
+<script type="text/javascript">
+//<![CDATA[
+var _nyctag=new WebTrends();
+_nyctag.dcsid = 'dcsoefh637etzufoc8owh61i1_9m6s';
+_nyctag.dcsInit();
+_nyctag.dcsGetId();
+//]]>>
+</script>
+<script type="text/javascript">
+//<![CDATA[
+_nyctag.dcsCollect();
+//]]>>
+</script>
+<noscript>
+<div><img alt="DCSIMG" id="DCSIMG" width="1" height="1" src="http://a858-sdc.nyc.gov/dcsoefh637etzufoc8owh61i1_9m6s/njs.gif?dcsuri=/nojavascript&WT.js=No&WT.tv=8.6.2"/></div>
+</noscript>
+
+<script type="text/javascript">
+
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+
+</script>
+
+<script type="text/javascript">
+
+try {
+
+var pageTracker = _gat._getTracker("UA-9518673-1");
+
+pageTracker._trackPageview();
+
+} catch(err) {}</script>
+
+
+
+
+
+
+	</td>
+</tr>
+</table>
+
+</body>
+
+</html>

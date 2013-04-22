@@ -1,0 +1,439 @@
+
+
+
+		
+	
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+	<head>
+		<meta http-equiv="content-type" content="text/html;charset=UTF-8">
+		<meta name="tp-name" content="homepage_2col">
+
+		
+		
+
+		
+				<title>Neighborhood Development - Business Improvement District Directory</title>
+			
+		
+				
+			
+		<link href="../../includes/css/rollout.css" rel="stylesheet">
+	</head>
+
+<body  background="../../includes/site_images/misc/NDD_background.jpg"
+  bgcolor="#ffffff" leftmargin="0" marginheight="0" marginwidth="0" topmargin="0">
+
+	<!-- BEGIN_PRINT_PAGE -->
+		<table width="769" border="0" cellspacing="0" cellpadding="0" height="100%">
+	<!-- END_PRINT_PAGE -->	
+			<tr><td colspan="2" align="left" valign="top" width="769">
+					<!-- START of nycgov_header.inc -->
+<table width="769" border="0" cellspacing="0" cellpadding="0" height="51">
+	<tr>
+		<td><img src="../../includes/site_images/nyc_gov/nycgov_banner.gif" alt="" width="769" height="51" border="0" usemap="#TopNav"></td>
+	</tr>
+</table>
+<map name="TopNav">
+  <area shape="rect" coords="554,1,599,25" href="/search" alt="Search">
+  <area shape="rect" coords="607,1,688,25" href="/portal/register.jsp" alt="Email Updates">
+  <area shape="rect" coords="698,1,762,25" href="/contact" alt="Contact Us">
+  <area shape="rect" coords="328,27,399,50" href="/residents" alt="Residents">
+  <area shape="rect" coords="408,27,471,50" href="/business" alt="Business">
+  <area shape="rect" coords="478,27,535,50" href="/visitors" alt="Visitors">
+  <area shape="rect" coords="544,27,628,50" href="/government" alt="Government">
+  <area shape="rect" coords="635,27,764,50" href="/mayor" alt="Office of the Mayor">
+  <area shape="rect" coords="3,3,49,48" href="/home.html" alt="NYC.gov always open">
+</map>
+<!-- END of nycgov_header.inc -->
+					
+							<!-- START of neighborhood header -->
+<script type="text/javascript">
+//fix for trailing slash issue
+var pagePath = document.location.href;
+if ((pagePath.substring(pagePath.length -6, pagePath.length)) == "shtml/" ) {
+	document.location.replace(pagePath.substring(0,pagePath.length-1));
+}
+</script>
+<script type="text/javascript" src="../../includes/scripts/cookies.js"></script>
+<iframe scrolling='no' frameborder='0' class='shim' name='shim' id='shim'></iframe>
+<div id="translate_popup" class="popup">
+  <table cellspacing="0" cellpadding="0" border="0" width="323">
+    <tr>
+      <td class="popup_table"><table cellspacing="0" cellpadding="0" border="0" width="284">
+          <tr>
+            <Td colspan="2"><img src="../../includes/site_images/misc/translate_popup.gif" width="284" height="39" alt="Translate this Page" border="0"></Td>
+          </tr>
+          <tr>
+            <td class="popup_label" width="123">Select a Language</td>
+            <td class="popup_field" width="147"><select name="tl" id="tl" style="width:147px">
+                <option value="">- Select -</option>
+                <option value="ar">Arabic</option>
+                <option value="bg">Bulgarian</option>
+                <option value="ca">Catalan</option>
+                <option value="zh-CN">Chinese (Simplified)</option>
+                <option value="zh-TW">Chinese (Traditional)</option>
+                <option value="hr">Croatian</option>
+                <option value="cs">Czech</option>
+                <option value="da">Danish</option>
+                <option value="nl">Dutch</option>
+                <option value="tl">Filipino</option>
+                <option value="fi">Finnish</option>
+                <option value="fr">French</option>
+                <option value="de">German</option>
+                <option value="el">Greek</option>
+                <option value="iw">Hebrew</option>
+                <option value="hi">Hindi</option>
+                <option value="id">Indonesian</option>
+                <option value="it">Italian</option>
+                <option value="ja">Japanese</option>
+                <option value="ko">Korean</option>
+                <option value="lv">Latvian</option>
+                <option value="lt">Lithuanian</option>
+                <option value="no">Norwegian</option>
+                <option value="pl">Polish</option>
+                <option value="pt">Portuguese</option>
+                <option value="ro">Romanian</option>
+                <option value="ru">Russian</option>
+                <option value="sr">Serbian</option>
+                <option value="sk">Slovak</option>
+                <option value="sl">Slovenian</option>
+                <option value="es">Spanish</option>
+                <option value="sv">Swedish</option>
+                <option value="uk">Ukrainian</option>
+                <option value="vi">Vietnamese</option>
+              </select>
+            </td>
+          </tr>
+          <tr>
+            <td class="buttons" colspan="2"><input type="button" class="yellow_button" style="width:78px;" value="Translate" onClick="setLanguage(document.getElementById('tl').options[document.getElementById('tl').selectedIndex].value)" />
+              <input type="button" class="yellow_button" style="width:56px;" value="Cancel" onClick="hideTranslate()" /></td>
+          </tr>
+        </table></td>
+  </table>
+</div>
+<script type="text/javascript" src="../../includes/scripts/translate.js"></script>
+<script type="text/javascript" src="../../includes/scripts/cookies_tr.js"></script>
+<script language="JavaScript" src="../../includes/scripts/change_text.js"></script>
+<table width="769" border="0" cellspacing="0" cellpadding="0">
+	<tr>   
+		<td align="left" valign="top" width="769"><a href="../../html/neighborhood_development/home.shtml"><img src="../../includes/site_images/branding/NDD_banner.jpg" alt="Neighborhood Development" width="769" height="100" border="0" usemap="#Map"></a></td>
+  </tr>
+	<tr>   
+		<td align="right" valign="top" width="769" background="../../includes/site_images/branding/ndd_bar.jpg">
+        	<a onMouseOver="MM_swapImage('pff','','../../includes/site_images/branding/printer_friendly_2.png',0)" onMouseOut="MM_swapImgRestore()" href="/cgi-bin/misc/pfprinter.cgi?action=print&sitename=SBS"><img src="../../includes/site_images/branding/printer_friendly_1.png" width="96" height="30" name="pff" id="pff" alt="Printer Friendly" border="0"></a>
+            <a onMouseOver="MM_swapImage('ttp','','../../includes/site_images/branding/translate_2.png',0)" onMouseOut="MM_swapImgRestore()" href="javascript:showTranslate();"><img src="../../includes/site_images/branding/translate_1.png" width="124" height="30" name="ttp" id="ttp" alt="Translate this Page" border="0"></a>
+            <a onMouseOver="MM_swapImage('small','','../../includes/site_images/branding/small_2.png',0)" onMouseOut="MM_swapImgRestore()" href="javascript:SetCookie(fontSizeCookie,'1');doRefresh();"><img src="../../includes/site_images/branding/small_1.png" border=0 alt="Sm" name="small" width="12" height="30"></a>
+            <a onMouseOver="MM_swapImage('medium','','../../includes/site_images/branding/medium_2.png',0)" onMouseOut="MM_swapImgRestore()" href="javascript:SetCookie(fontSizeCookie,'2');doRefresh();"><img src="../../includes/site_images/branding/medium_1.png" border=0 alt="Med" name="medium" width="12" height="30"></a>
+            <a onMouseOver="MM_swapImage('large','','../../includes/site_images/branding/large_2.png',0)" onMouseOut="MM_swapImgRestore()" href="javascript:SetCookie(fontSizeCookie,'3');doRefresh();"><img src="../../includes/site_images/branding/large_1.png" border=0 alt="Lg" name="large" width="14" height="30"></a>
+
+	  </td>
+  </tr>
+  
+
+</table>
+<map name="bannermap">
+  <area shape="poly" coords="14,14,308,14,308,38,243,38,243,62,14,62" href="../../html/home/home.shtml" alt="NYC Small Business Services">
+</map>
+<script language="Javascript">
+<!--
+if(GetCookie(fontSizeCookie) == "1"){	
+	document.small.src='../../includes/site_images/branding/small_2.png';	
+	}else if(GetCookie(fontSizeCookie) == "2"){	
+	document.medium.src='../../includes/site_images/branding/medium_2.png';	
+	}else if(GetCookie(fontSizeCookie) == "3"){
+	document.large.src='../../includes/site_images/branding/large_2.png';	
+	}else{	document.small.src='../../includes/site_images/branding/small_2.png';	
+}
+//-->
+</script>
+<!-- Header Code -->
+
+<script type="text/javascript">
+//<![CDATA[
+
+	var PageConfig = {};
+	PageConfig.dcsid = "dcsn77wf910000w8s4czertdx_1p2i";
+	PageConfig.onsitere = /^(www\.)?(nyc\.gov|(ci\.)?nyc\.ny\.us){1}(\/)(html)?(\/)?sbs.*/i;
+	
+	var PageArray = {};
+	PageArray.PageLoad = [];
+	PageArray.PageLoad[0] = 'DCSext.o_agcy';
+	PageArray.PageLoad[1] = 'SBS';
+
+	//]]>>
+</script>
+<!-- in neighborhood_branding.html to prevent sidenav repeat -->
+<style type="text/css">
+	body{
+		background-repeat: no-repeat;
+	}
+</style>
+
+<!-- END of neighborhood header --> 
+<map name="Banner" id="Banner"><area shape="rect" coords="2,1,563,99" href="#" target="../../html/neighborhood" alt="Neighborhood Development" />
+</map>
+<map name="Map" id="Map"><area shape="rect" coords="547,38,766,94" href="http://nyc.gov/sbs" alt="SBS Home" />
+</map>
+						
+			</td></tr>
+
+		
+		<!-- BEGIN_PRINT_PAGE -->
+		<tr>
+		<!-- END_PRINT_PAGE -->
+		<td align="left" valign="top" width="180" height="100%">
+					
+						<script language="Javascript" src="../../includes/scripts/rollover.js"></script>
+
+<table width="180" border="0" cellspacing="0" cellpadding="0">
+  <tr valign="top"> 
+    <td width="10">&nbsp;</td>
+	<td width="150"><img src="../../includes/site_images/spacers/spacer.gif" width="10" height="1" border="0"><a class="nav_section_active" href="../../html/neighborhood_development/home.shtml" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('home','','../../includes/site_images/nav/ndd_home_2.png',1)"><img src="../../includes/site_images/nav/ndd_home_1.png" alt="Home" name="home" width="150" height="29" border="0"></a></td>
+  </tr>
+  <tr valign="top"> 
+    <td width="10">&nbsp;</td>
+	<td width="150"><img src="../../includes/site_images/spacers/spacer.gif" width="10" height="1" border="0"><a class="nav_section_active" href="../../html/neighborhood_development/about.shtml" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('about','','../../includes/site_images/nav/ndd_about_2.png',1)"><img src="../../includes/site_images/nav/ndd_about_1.png" alt="About NDD" name="about" width="150" height="30" border="0"></a></td>
+  </tr>
+  <tr valign="top"> 
+    <td width="10">&nbsp;</td>
+	<td width="150"><img src="../../includes/site_images/spacers/spacer.gif" width="10" height="1" border="0"><a class="nav_section_active" href="../../html/neighborhood_development/bids.shtml"><img src="../../includes/site_images/nav/ndd_bids_3.png" alt="Business Improvement Districts" name="bid" width="150" height="68" border="0"></a></td>
+  </tr>
+  <tr valign="top"> 
+    <td width="10">&nbsp;</td>
+	<td width="150"><img src="../../includes/site_images/spacers/spacer.gif" width="10" height="1" border="0"><a class="nav_section_active" href="../../html/neighborhood_development/bid_directory.shtml" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('biddirectory','','../../includes/site_images/nav/ndd_biddirectory_2.png',1)"><img src="../../includes/site_images/nav/ndd_biddirectory_1.png" alt="BID Directory" name="biddirectory" width="150" height="17" border="0"></a></td>
+  </tr>
+  <tr valign="top"> 
+    <td width="10">&nbsp;</td>
+	<td width="150"><img src="../../includes/site_images/spacers/spacer.gif" width="10" height="1" border="0"><a class="nav_section_active" href="../../html/neighborhood_development/bid_challenge.shtml" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('bidchallenge','','../../includes/site_images/nav/ndd_bidchallenge_2.png',1)"><img src="../../includes/site_images/nav/ndd_bidchallenge_1.png" alt="BID Challenge" name="bidchallenge" width="150" height="17" border="0"></a></td>
+  </tr>
+  <tr valign="top"> 
+    <td width="10">&nbsp;</td>
+	<td width="150"><img src="../../includes/site_images/spacers/spacer.gif" width="10" height="1" border="0"><a class="nav_section_active" href="../../html/neighborhood_development/bid_express.shtml" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('bidexpress','','../../includes/site_images/nav/ndd_bidexpress_2.png',1)"><img src="../../includes/site_images/nav/ndd_bidexpress_1.png" alt="BID Express" name="bidexpress" width="150" height="22" border="0"></a></td>
+  </tr>  
+  <tr valign="top"> 
+    <td width="10">&nbsp;</td>
+	<td width="150"><img src="../../includes/site_images/spacers/spacer.gif" width="10" height="1" border="0"><a class="nav_section_active" href="../../html/neighborhood_development/avenue_nyc.shtml" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('avenuenyc','','../../includes/site_images/nav/ndd_avenuenyc_2.png',1)"><img src="../../includes/site_images/nav/ndd_avenuenyc_1.png" alt="Avenue NYC" name="avenuenyc" width="150" height="30" border="0"></a></td>
+  </tr>
+  <tr valign="top"> 
+    <td width="10">&nbsp;</td>
+	<td width="150"><img src="../../includes/site_images/spacers/spacer.gif" width="10" height="1" border="0"><a class="nav_section_active" href="../../html/neighborhood_development/neighborhood_leadership_program_ndd.shtml" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('leadership','','../../includes/site_images/nav/ndd_leadership_2.png',1)"><img src="../../includes/site_images/nav/ndd_leadership_1.png" alt="Neighborhood Leadership Program" name="leadership" width="150" height="49" border="0"></a></td>
+  </tr>
+  <tr valign="top"> 
+    <td width="10">&nbsp;</td>
+	<td width="150"><img src="../../includes/site_images/spacers/spacer.gif" width="10" height="1" border="0"><a class="nav_section_active" href="../../html/neighborhood_development/workshops_techassist.shtml" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('workshops','','../../includes/site_images/nav/ndd_workshops_2.png',1)"><img src="../../includes/site_images/nav/ndd_workshops_1.png" alt="Workshops & Technical Assistance" name="workshops" width="150" height="49" border="0"></a></td>
+  </tr>
+  <tr valign="top"> 
+    <td width="10">&nbsp;</td>
+	<td width="150"><img src="../../includes/site_images/spacers/spacer.gif" width="10" height="1" border="0"><a class="nav_section_active" href="../../html/neighborhood_development/library.shtml" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('library','','../../includes/site_images/nav/ndd_library_2.png',1)"><img src="../../includes/site_images/nav/ndd_library_1.png" alt="Resource Library " name="library" width="150" height="30" border="0"></a></td>
+  </tr>
+  <tr valign="top"> 
+    <td width="10">&nbsp;</td>
+	<td width="150"><img src="../../includes/site_images/spacers/spacer.gif" width="10" height="1" border="0"><a class="nav_section_active" href="http://www.nyc.gov/portal/site/nycgov/menuitem.be5ea66bc744a34d10c5521012289da0" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('calendar','','../../includes/site_images/nav/ndd_calendar_2.png',1)"><img src="../../includes/site_images/nav/ndd_calendar_1.png" alt="Calendar" name="calendar" width="150" height="30" border="0"></a></td>
+  </tr>    
+  <tr valign="top"> 
+    <td width="10">&nbsp;</td>
+	<td width="150"><img src="../../includes/site_images/spacers/spacer.gif" width="10" height="1" border="0"><a class="nav_section_active" href="../../html/neighborhood_development/contact.shtml" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('ndd_contact','','../../includes/site_images/nav/ndd_contact_2.png',1)"><img src="../../includes/site_images/nav/ndd_contact_1.png" alt="Contact" name="contact" width="150" height="30" border="0"></a></td>
+  </tr>
+  <tr valign="top"> 
+	<td colspan="2" align="center"><img src="../../includes/site_images/spacers/spacer.gif" width="10" height="100" border="0"><br /><a class="nav_section_active" href="http://www.nyc.gov/cgi-bin/exit.pl?url=http://nycneighborhoods.tumblr.com" target="_blank"  onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('blog','','../../includes/site_images/nav/ndd_visitourblog_2.png',1)"><img src="../../includes/site_images/nav/ndd_visitourblog_1.png" alt="Visit Our Blog" name="blog" width="103" height="33" border="0"></a></td>
+  </tr>  
+</table>
+						
+				</td>
+				<!-- START of CENTER column -->
+				<!-- BEGIN_PRINT_PAGE -->
+				<td id="main_content" align="left" valign="top" width="589">
+				<!-- START of PRIMARY FEATURE SECTION -->
+				<table width="589" border="0" cellspacing="0" cellpadding="0">
+				  
+					  
+						<tr><td colspan="3" align="left" valign="top" bgcolor="" width="589">
+							
+							</td></tr>
+						
+					
+						<tr><td align="left" bgcolor="" valign="top" width="30"><img src="../../includes/site_images/spacers/spacer_30_30.gif" alt="" width="30" height="30" border="0">
+						</td><td align="left" bgcolor="" valign="top" width="499"><img src="../../includes/site_images/spacers/spacer_499_15.gif" alt="" width="499" height="15" border="0"><br>
+					  
+							
+						
+					  
+							
+							<span class="headline">BID Directory<br>
+								</span>
+								
+							
+									
+									
+											<span class="bodytext"><script language="JavaScript" src="js/detect.js" type="text/javascript"><!--
+
+//-->
+</script><a href="?show=all">All BIDs</a> | <a href="?show=boro">BIDs by Borough</a> | <a onclick="showSearchBids(); return false;" href="#">Search BIDs</a><br>
+<br>
+<div id="searchBids" style="VISIBILITY: hidden; POSITION: absolute">
+<form name="bidSearchForm" onsubmit="location.href='?search=' + document.bidSearchForm.search.value; return false;"><input name="search"> <input type="submit" value="Search" name="searchButton"></form>
+</div>
+
+<div id="bids" style="VISIBILITY: visible; POSITION: relative"><b>Loading, please wait...</b></div>
+
+<script language="JavaScript" src="js/xmlhttprequest.js" type="text/javascript"><!--
+
+//-->
+</script><script language="JavaScript" src="js/bids.js" type="text/javascript"><!--
+
+//-->
+</script>
+<br><i>This application requires Javascript to be enabled and the lastest version of Internet Explorer, Netscape/Mozilla/Firefox, or Safari.</i> </span>
+										
+								
+						
+
+					
+
+					 
+					   
+						
+					 
+					 
+					
+					</td><td align="left" bgcolor="" valign="top" width="60"><img src="../../includes/site_images/spacers/spacer_60_30.gif" alt="" width="60" height="30" border="0"></td></tr>
+
+					
+
+					  
+				   
+				</table>
+				<!-- END of PRIMARY FEATURE SECTION -->
+
+				<!-- START of SECONDARY FEATURE SECTION -->
+
+				<table width="589" border="0" cellspacing="0" cellpadding="0">
+				  
+					  
+						<tr><td colspan="4" align="left" valign="top" bgcolor="" width="589">
+							
+							</td></tr>
+						
+					
+
+					  </table>
+
+				<!-- END of SECONDARY FEATURE SECTION -->
+
+				<!-- START of TERTIARY FEATURE SECTION -->
+				<table width="589" border="0" cellspacing="0" cellpadding="0">
+				  
+					  
+						<tr><td colspan="3" align="left" valign="top" bgcolor="" width="589">
+							
+							</td></tr>
+						
+					
+					  
+				   
+				</table>
+				<!-- END of TERTIARY FEATURE SECTION -->
+				<!-- END_PRINT_PAGE -->
+				
+
+			<!-- START of nycgov_footer.inc-->
+<!-- old table width=589;  499 for middle td -->
+<!-- expanded table width=769;  619 for middle td -->
+<!-- <table width="589" border="0" cellspacing="0" cellpadding="0">
+	<tr>
+		<td align="left" valign="top" width="30"><img src="../../includes/site_images/spacers/spacer_30_30.gif" alt="" width="30" height="30" border="0"></td>
+		<td align="left" valign="top" width="499"><img src="../..//includes/site_images/spacers/spacer_499_15.gif" alt="" width="499" height="15" border="0"><img src="../../includes/site_images/footer_divider.gif" alt="" width="499" height="1" border="0"><br>
+			<span class="footer_header">Footer header goes here<br>
+			</span><span class="footer_text">Footer text description goes here. It is optional and the max is about 300 characters which is approximately 3-4 lines of text. Footer text description goes here. It is optional and the max is about 300 characters which is approximately 3-4 lines of text.<br>
+			</span></td>
+		<td align="left" valign="top" width="60"><img src="../..//includes/site_images/spacers/spacer_60_30.gif" alt="" width="60" height="30" border="0"><br>
+			<br>
+		</td>
+	</tr>
+</table> -->
+<!-- END of default_footer.inc -->
+
+
+					
+	<!-- BEGIN_PRINT_PAGE -->				
+					<span class="footer_text"><br></span></td>
+				<!-- END of CENTER column -->
+			</tr>
+	<!-- END_PRINT_PAGE -->
+			<tr height="25">
+				<td colspan="2" align="left" valign="top" width="769" height="25"> 
+
+					<table width="769" border="0" cellspacing="0" cellpadding="0">
+	<tr><td><img src="../../includes/site_images/misc/bottom_branding.gif" border="0"></td></tr>
+</table>
+
+
+
+
+<!-- START of nycgov_footer.inc-->
+<style type="text/css">
+<!--
+	.footer_links {font-family: Verdana, Arial, Helvetica, sans-serif;
+		font-size: 10px;
+		color: #F9D053;
+	}
+
+	.footer_copyright {font-family: Verdana, Arial, Helvetica, sans-serif;
+		font-size: 10px;
+		color: #C4C4B2;
+	}
+-->
+</style>
+<TABLE cellSpacing=0 cellPadding=0 width=769 bgColor=#494B4C border=0>
+	<TBODY>
+	<TR><TD width=13><IMG height=24 src="../../includes/site_images/spacers/spacer.gif" width=13></TD>
+          <TD width=287><SPAN class=footer_copyright>Copyright 2013 The City of New York</SPAN></TD>
+          <TD align=right width=444><SPAN class=footer_links><A class=footer_links href="/contact">Contact Us</A> | <A class=footer_links href="/faqs">FAQs</A> | <A class=footer_links href="/privacy">Privacy Policy</A> | <A class=footer_links href="http://www.nyc.gov/html/misc/html/tou.html">Terms of Use</A> | <A class=footer_links href="/sitemap">Site Map</A></SPAN></TD>
+          <TD align=right width=25><IMG height=24 src="../../includes/site_images/spacers/spacer.gif" width=25></TD></TR>
+        </TBODY>
+</TABLE>
+<!-- Privacy Policy updated on 03/08/2011 -->
+<!--  nycgov Webtrends code, added on 02/16/2011 -->
+<script src="/html/misc/scripts/nycwebtrends.js" type="text/javascript"></script>
+<script type="text/javascript">
+//<![CDATA[
+var _nyctag=new WebTrends();
+_nyctag.dcsInit();
+_nyctag.dcsGetId();
+//]]>>
+</script>
+<script type="text/javascript">
+//<![CDATA[
+_nyctag.dcsCollect();
+//]]>>
+</script>
+
+<!-- PROD noscript section -->
+<noscript>
+<div><img alt="DCSIMG" id="DCSIMG" width="1" height="1" src="http://a858-sdc.nyc.gov/dcslfpea2000008i7geu3pdky_5v8x/njs.gif?dcsuri=/nojavascript&WT.js=No&WT.tv=8.6.2"/></div>
+</noscript>
+<!--  END OF nycgov Webtrends code, added on 02/16/2011 -->
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-9518673-1");
+pageTracker._trackPageview();
+} catch(err) {}
+</script>
+<!-- END of nycgov_footer.inc-->
+
+				</td>
+			</tr>
+<!-- BEGIN_PRINT_PAGE -->			
+		</table>
+	<!-- END_PRINT_PAGE -->
+	</body>
+</html>
+

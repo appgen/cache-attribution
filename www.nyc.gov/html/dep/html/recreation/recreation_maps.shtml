@@ -1,0 +1,718 @@
+
+
+
+		
+	
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+	<head>
+		<meta http-equiv="content-type" content="text/html;charset=UTF-8">
+		<meta name="tp-name" content="homepage_2col">
+
+		
+		
+
+		
+				<title>List of Recreation Areas and Use Designations</title>
+			
+		
+				
+			
+		<link href="../../includes/css/rollout.css" rel="stylesheet">
+	</head>
+
+<body  background="../../images/misc/bg_tile_wide.gif"
+  bgcolor="#ffffff" leftmargin="0" marginheight="0" marginwidth="0" topmargin="0">
+
+	<!-- BEGIN_PRINT_PAGE -->
+		<table width="769" border="0" cellspacing="0" cellpadding="0" height="100%">
+	<!-- END_PRINT_PAGE -->	
+			<tr><td colspan="2" align="left" valign="top" width="769">
+					<!-- START of nycgov_header.inc -->
+<table width="769" border="0" cellspacing="0" cellpadding="0" height="51">
+	<tr>
+		<td><img src="../../includes/site_images/nyc_gov/nycgov_banner.gif" alt="" width="769" height="51" border="0" usemap="#TopNav"></td>
+	</tr>
+</table>
+<map name="TopNav">
+  <area shape="rect" coords="554,1,599,25" href="/search" alt="Search">
+  <area shape="rect" coords="607,1,688,25" href="/portal/register.jsp" alt="Email Updates">
+  <area shape="rect" coords="698,1,762,25" href="/contact" alt="Contact Us">
+  <area shape="rect" coords="328,27,399,50" href="/residents" alt="Residents">
+  <area shape="rect" coords="408,27,471,50" href="/business" alt="Business">
+  <area shape="rect" coords="478,27,535,50" href="/visitors" alt="Visitors">
+  <area shape="rect" coords="544,27,628,50" href="/government" alt="Government">
+  <area shape="rect" coords="635,27,764,50" href="/mayor" alt="Office of the Mayor">
+  <area shape="rect" coords="3,3,49,48" href="/home.html" alt="NYC.gov always open">
+</map>
+<!-- END of nycgov_header.inc -->
+					
+							<!-- Videobox -->
+<!-- <script type="text/javascript" src="../../includes/scripts/mootools.js"></script>
+<script type="text/javascript" src="../../includes/scripts/swfobject.js"></script>
+<script type="text/javascript" src="../../includes/scripts/videobox.js"></script> -->
+<!-- Random Header Module -->
+<script type="text/javascript"> 
+<!--
+function rand() {
+var rand = Math.floor(Math.random() * 4);
+return rand;
+}
+function display_headerpictures(num) {
+var headerpictures = new Array();
+headerpictures[0] = "<IMG SRC='../../images/branding/ff_cannonsville_header.jpg' ALT='Cannonsville is one of four reservoirs in the Delaware system and the newest in New York City water supply.' BORDER='0' WIDTH='769' HEIGHT='177' />";
+headerpictures[1] = "<IMG SRC='../../images/branding/ff_pepacton_header.jpg' ALT='Pepacton contributes more than 25 percent of the total daily water flow into New York City.' BORDER='0' WIDTH='769' HEIGHT='177' />";
+headerpictures[2] = "<IMG SRC='../../images/branding/ff_schoharie_header.jpg' ALT='Schoharie is northernmost reservoir in the entire Water Supply System.' BORDER='0' WIDTH='769' HEIGHT='177' />";
+headerpictures[3] = "<IMG SRC='../../images/branding/ff_ashokan_header.jpg' ALT='Ashokan supplies about 40 percent of the daily drinking water  for New York City.' BORDER='0' WIDTH='769' HEIGHT='177' />";
+document.write(headerpictures[num]);
+} // -->
+</script>
+<TABLE WIDTH="769" BORDER="0" CELLSPACING="0" CELLPADDING="0">
+  <TR>
+    <TD>
+		<script type="text/javascript"><!--
+		var random_number=rand();
+		display_headerpictures(random_number); // -->
+		</script>
+    </TD>
+  </TR>
+</TABLE>
+						
+			</td></tr>
+
+		
+		<!-- BEGIN_PRINT_PAGE -->
+		<tr>
+		<!-- END_PRINT_PAGE -->
+		<td align="left" valign="top" width="180" height="100%">
+					
+							
+							 
+								  <!-- file tree1_nodes.js will be recreated--><!-- START of leftnav_js.html -->
+<div id="search"><!--SEARCH MODULE--><FORM ACTION="http://search1.nyc.gov/search?" METHOD="GET" NAME="gs" TARGET="_top"><TABLE BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="180"><TR><TD WIDTH="15"><IMG SRC="../../images/legacy_images/spacer.gif" HEIGHT="1" WIDTH="15" /></TD><TD ALIGN="left" WIDTH="155"><IMG SRC="../../images/legacy_images/spacer.gif" HEIGHT="6" WIDTH="155"/><BR /><INPUT VALUE="xml_no_dtd" NAME="output" TYPE="hidden" /><INPUT VALUE="default_collection" NAME="site" TYPE="hidden" /><INPUT VALUE="agency_frontend" NAME="proxystylesheet" TYPE="hidden" /><INPUT VALUE="agency_frontend" NAME="client" TYPE="hidden" /><INPUT VALUE="www.nyc.gov/html/dep" NAME="sitesearch" TYPE="hidden" /><INPUT NAME="q" ID="search_nycgov" SIZE="13" STYLE="width: 155px; bgcolor: #cccccc; height: 20px;" TYPE="text" /></TD><TD WIDTH="10"><IMG SRC="../../images/legacy_images/spacer.gif" HEIGHT="1" WIDTH="10" /> </TD></TR><TR><TD WIDTH="15"><IMG SRC="../../images/legacy_images/spacer.gif" HEIGHT="1" WIDTH="15" /></TD><TD ALIGN="left" VALIGN="top" WIDTH="155"><IMG SRC="../../images/legacy_images/spacer.gif" BORDER="0" HEIGHT="5" WIDTH="5" /><BR /><TABLE WIDTH="155" BORDER="0" CELLSPACING="0" CELLPADDING="0"><TR><TD WIDTH="57"><INPUT TYPE="image" NAME="Submit" SRC="../../images/legacy_images/orange_search_button.gif" ALIGN=top /><IMG SRC="../../images/legacy_images/spacer.gif" BORDER="0" HEIGHT="1" WIDTH="5" /></TD><TD WIDTH="98"><A HREF="http://search1.nyc.gov/search?access=p&output=xml_no_dtd&sort=date%3AD%3AL%3Ad1&ie=UTF-8&client=agency_frontend&q=&sitesearch=www.nyc.gov%2Fhtml%2Fdoh&site=default_collection&y=0&oe=UTF-8&proxystylesheet=agency_frontend&ip=161.185.150.22&x=0&proxycustom=%3CADVANCED/%3E" CLASS="search_adv">Advanced Search</A></TD></TR></TABLE></TD><TD WIDTH="10"><IMG SRC="../../images/legacy_images/spacer.gif" HEIGHT="1" WIDTH="10" /></TD></TR></TABLE></FORM></div><!--END SEARCH MODULE--><!-- SOCIAL -->
+<!-- <div class="module-base"><h3 style="margin: 0px 0px 7px 0px; padding-top: 15px; padding-left: 15px; font-size: 12px; font-weight: bold; color: #666;">Stay Connected</h3><table width="180" cellpadding="0" cellspacing="0" border="0"><tr><td width="15">&nbsp;</td><td valign="top" align="left" width="32"><a href="http://www.facebook.com/nycwater"><img src="../../images/buttons/facebook.gif" alt="Facebook" width="32" height="32" border="0"></a></td><td width="10">&nbsp;</td><td valign="middle" align="left"><a href="http://www.flickr.com/photos/nycwater"><img src="../../images/buttons/flickr2.gif" alt="flickr" width="75" height="32" border="0"></a></td></tr></table></div> -->
+<div><a href="http://www.facebook.com/nycwater"><img src="../../images/nav/leftnav_facebook.gif" alt="NYC Water on facebook" border="0" width="179" height="28" /></a></div>
+<div><a href="http://www.flickr.com/photos/nycwater"><img src="../../images/nav/leftnav_flickr.gif" alt="NYC Environmental Protection on flickr" border="0" width="179" height="28" /></a></div>
+<div><a href="http://www.twitter.com/nycwater"><img src="../../images/nav/leftnav_twitter.gif" alt="NYC Environmental Protection on twitter" border="0" width="179" height="32" /></a></div><!-- END SOCIAL -->
+
+<table width="180" border="0" cellspacing="0" cellpadding="0" style="margin-top: -4px;"><tr><!-- 
+<td align="left" bgcolor="" valign="top" width="15"><img src="../../includes/site_images/spacers/spacer_15_15.gif" alt="" width="15" height="15" border="0" /></td> -->
+<!-- LEFT NAV MODULE BEGINS--><td align="left" bgcolor="" valign="top" width="180"><!-- Changed from a width of 165 -->
+
+<!-- New Navigation Functions -->
+<script language="javascript">
+<!--
+function getPath(thePath) {
+	if (thePath == null) { return -1; }
+	var startSlash = thePath.lastIndexOf("/");
+	startSlash = thePath.lastIndexOf("/",startSlash -1);
+
+	if (startSlash == -1) {
+		return -1;
+	} else {
+		return thePath.substr(startSlash, thePath.length - startSlash);
+	}
+}
+
+// Returns folder, else -1.
+// ex. /folder/
+function getFolder(thePath) {
+	if (thePath == null) { return -1; }
+	var startSlash = thePath.lastIndexOf("/");
+	startSlash2 = thePath.lastIndexOf("/",startSlash -1);
+
+	if(startSlash == startSlash2) { return -1; }
+	if (startSlash == -1 || startSlash2 == -1) {
+		return -1;
+	} else {
+		return thePath.substr(startSlash2, startSlash - startSlash2 + 1);
+	}
+}
+
+var currentFolder = getFolder(location.href);
+var currentURL = getPath(location.href);
+
+//if(currentURL == "/home/home.shtml") {
+//	document.header.src = "../../includes/site_images/branding/nypd_header_home.jpg";
+//} else if(currentURL == "/home/home_new.shtml") {
+//	document.header.src = "../../includes/site_images/branding/header.jpg";
+//}
+
+//alert("currentFolder: " + currentFolder + "\ncurrentURL: " + currentURL);
+
+//--></script>
+
+<div id="nav">
+<ul>
+	<li><a href="../../html/home/home.shtml">Home</a></li></ul>
+	
+<div><img src="../../images/nav/leftnav_services.gif" alt="Customer Services" border="0" width="179" height="33" /></div>
+<ul style="margin-top: -4px;">
+	<li><a href="../../html/water_and_sewer_bills/index.shtml">Ways to Pay Your Bill</a></li><script language="javascript"><!--
+	if(currentFolder == "/water_and_sewer_bills/") {
+		var str = "";
+		str += "<ul id='subnav'>";
+		str += "<li><a href='../../html/water_and_sewer_bills/bill_payment_online.shtml'>Pay Your Bill Online</a></li>";
+		str += "<li><a href='../../html/water_and_sewer_bills/bill_payment_phone.shtml'>Pay Your Bill by Phone</a></li>";
+		str += "<li><a href='../../html/water_and_sewer_bills/bill_payment_walk_in.shtml'>Pay Your Bill in Person</a></li>";
+		str += "<li><a href='../../html/water_and_sewer_bills/bill_payment_mail.shtml'>Pay Your Bill by Mail</a></li>";
+		str += "</ul>";
+		document.write(str);
+	}
+	//--></script><li><a href="../../html/customer_services/index.shtml">Account Information</a></li><script language="javascript"><!--
+	if(currentFolder == "/customer_services/") {
+		var str = "";
+		str += "<ul id='subnav'>";
+		str += "<li><a href='../../html/customer_services/meter.shtml'>How You Are Billed</a></li>";
+		str += "<li><a href='../../html/customer_services/meterread.shtml'>Meter Reading</a></li>";
+		str += "<li><a href='../../html/customer_services/amr_about.shtml'>About Automated Meter Reading</a></li>";
+		str += "</ul>";
+		document.write(str);
+	}
+	//--></script><li><a href="../../html/customer_assistance/index.shtml">Customer Assistance</a></li><script language="javascript"><!--
+	if(currentFolder == "/customer_assistance/") {
+		var str = "";
+		str += "<ul id='subnav'>";
+		str += "<li><a href='../../html/customer_assistance/customer_service.shtml'>Contact Customer Service</a></li>";
+		str += "<li><a href='../../html/customer_assistance/wsbillfaq.shtml'>FAQs</a></li>";
+		str += "<li><a href='../../html/customer_assistance/customer_forms.shtml'>Customer Forms</a></li>";
+		str += "<li><a href='../../html/customer_assistance/customer_assistance_programs.shtml'>Assistance Programs</a></li>";
+		str += "</ul>";
+		document.write(str);
+	}
+	//--></script><li><a href="../../html/service_line_protection/index.shtml">Service Line Protection</a></li><script language="javascript"><!--
+	if(currentFolder == "/service_line_protection/") {
+		var str = "";
+		str += "<ul id='subnav'>";
+		str += "<li><a href='../../html/service_line_protection/slp_faq.shtml'>Frequently Asked Questions</a></li>";
+		str += "</ul>";
+		document.write(str);
+	}
+	//--></script><li><a href="../../html/water_rates/index.shtml">Water Rates</a></li><li><a href="../../html/customer_managers/index.shtml">Property Managers and Trade Professionals</a></li></ul>
+
+<div><img src="../../images/nav/leftnav_utilities.gif" alt="Water Utilities" border="0" width="179" height="33" /></div>
+<ul style="margin-top: -4px;">
+	<li><a href="../../html/drinking_water/index.shtml">Drinking Water</a></li><script language="javascript"><!--
+	if(currentFolder == "/drinking_water/") {
+		var str = "";
+		str += "<ul id='subnav'>";
+		str += "<li><a href='../../html/drinking_water/wsstate.shtml'>Drinking Water Supply &amp; Quality Report</a></li>";
+		str += "<li><a href='../../html/drinking_water/maplevels_wide.shtml'>Reservoir Levels</a></li>";
+		str += "<li><a href='../../html/drinking_water/wotg.shtml'>Water-On-the-Go</a></li>";
+		str += "<li><a href='../../html/drinking_water/history.shtml'>History of New York City&rsquo;s Water Supply System</a></li>";
+		str += "</ul>";
+		document.write(str);
+	}
+	//--></script><li><a href="../../html/wastewater/index.shtml">Wastewater</a></li><script language="javascript"><!--
+	if(currentFolder == "/wastewater/") {
+		var str = "";
+		str += "<ul id='subnav'>";
+		str += "<li><a href='../../html/wastewater/wwsystem.shtml'>The Wastewater Treatment System</a></li>";
+		str += "<li><a href='../../html/wastewater/grease.shtml'>Preventing Fats, Oils, &amp; Grease Discharges Into Sewers</a></li>";
+		str += "<li><a href='../../html/wastewater/biohome.shtml'>Biosolids Management Program</a></li>";
+		str += "<li><a href='../../html/wastewater/snclist.shtml'>Significant Non-compliance List</a></li>";
+		str += "</ul>";
+		document.write(str);
+	}
+	//--></script><li><a href="../../html/stormwater/index.shtml">Stormwater</a></li><script language="javascript"><!--
+	if(currentFolder == "/stormwater/") {
+		var str = "";
+		str += "<ul id='subnav'>";
+		str += "<li><a href='../../html/stormwater/sewer_system_types.shtml'>Types of Sewer Drainage Areas in New York City</a></li>";
+		str += "<li><a href='../../html/stormwater/combined_sewer_overflow.shtml'>Combined Sewer Overflows</a></li>";
+		str += "<li><a href='../../html/stormwater/flooding_index.shtml'>Flooding in New York City</a></li>";
+		str += "<li><a href='../../html/stormwater/using_green_infra_to_manage_stormwater.shtml '>Using Green Infrastructure to Manage Stormwater</a></li>";
+		str += "<li><a href='../../html/stormwater/nyc_green_infrastructure_plan.shtml '>NYC Green Infrastructure Plan</a></li>";
+		str += "<li><a href='../../html/stormwater/other_investments.shtml '>Other Stormwater Management Investments</a></li>";
+		str += "</ul>";
+		document.write(str);
+	}
+	//--></script><li><a href="../../html/harborwater/index.shtml">Harbor Water</a></li><script language="javascript"><!--
+	if(currentFolder == "/harborwater/") {
+		var str = "";
+		str += "<ul id='subnav'>";
+		str += "<li><a href='../../html/harborwater/harbor_water_sampling_results.shtml'>Harbor Water Sampling Data</a></li>";
+		str += "<li><a href='../../html/harborwater/harborwater_quality_survey.shtml'>Harbor Water Quality Report</a></li>";
+		str += "<li><a href='../../html/harborwater/nyc_waterbody_advisory_program.shtml'>Current NYC Waterbody Advisories</a></li>";
+		str += "<li><a href='../../html/harborwater/superfund_listings.shtml'>EPA Superfund Listings</a></li>";		
+		str += "<li><a href='../../html/stormwater/combined_sewer_overflow.shtml'>Combined Sewer Overflows</a></li>";
+		str += "<li><a href='../../html/harborwater/nitrogen.shtml'>Nitrogen Control Program</a></li>";
+		str += "<li><a href='../../html/harborwater/jamaica_bay_watershed.shtml'>Jamaica Bay Watershed</a></li>";		
+		str += "<li><a href='../../html/harborwater/pumpout.shtml'>Pump Out Stations</a></li>";
+		str += "<li><a href='../../html/harborwater/float.shtml'>Floatables Reduction Program</a></li>";
+
+		str += "</ul>";
+		document.write(str);
+	}
+	//--></script><li><a href='../../html/cso_long_term_control_plan/index.shtml'>Long Term Control Plan (LTCP)
+</a></li></ul>
+	
+<div><img src="../../images/nav/leftnav_watershed.gif" alt="The Watershed" border="0" width="179" height="33" /></div>
+<ul style="margin-top: -4px;">
+	<li><a href="../../html/watershed_protection/index.shtml">Watershed Protection</a></li><script language="javascript"><!--
+	if(currentFolder == "/watershed_protection/") {
+		var str = "";
+		str += "<ul id='subnav'>";
+		str += "<li><a href='../../html/watershed_protection/information.shtml'>Information &amp; Resources</a></li>";
+		str += "<li><a href='../../html/watershed_protection/programs.shtml'>Programs for Landowners &amp; Homeowners</a></li>";
+		str += "<li><a href='../../html/watershed_protection/assistance.shtml'>Assistance for Communities &amp; Businesses</a></li>";
+		str += "<li><a href='../../html/watershed_protection/opportunities.shtml'>Opportunities on City Lands</a></li>";
+		str += "<li><a href='../../html/watershed_protection/science.shtml'>Science &amp; Research</a></li>";
+		str += "<li><a href='../../html/watershed_protection/regulatory.shtml'>Regulatory Information &amp; Assistance</a></li>";
+		str += "</ul>";
+		document.write(str);
+	}
+	//--></script><li><a href="../../html/recreation/index.shtml">Watershed Recreation</a></li><script language="javascript"><!--
+	if(currentFolder == "/recreation/") {
+		var str = "";
+		str += "<ul id='subnav'>";
+		str += "<li><a href='../../html/recreation/recreation_rules.shtml'>Recreation Rules &amp; Access Permits</a></li>";
+		str += "<li><a href='../../html/recreation/hiking.shtml'>Hiking</a></li>";
+		str += "<li><a href='../../html/recreation/hunting_and_trapping.shtml'>Hunting &amp; Trapping</a></li>";
+		str += "<li><a href='../../html/recreation/fishing.shtml'>Fishing</a></li>";
+		str += "<li><a href='../../html/recreation/boating.shtml'>Boating</a></li>";
+		str += "<li><a href='../../html/watershed_protection/agriculture_and_forestry.shtml'>Agriculture &amp; Forestry</a></li>";
+		str += "<li><a href='../../html/watershed_protection/land_use_permits.shtml'>Land Use Permits</a></li>";
+		str += "</ul>";
+		document.write(str);
+	}
+	//--></script></ul>
+
+<div><img src="../../images/nav/leftnav_programs.gif" alt="Citywide Initiatives" border="0" width="179" height="33" /></div>
+<ul style="margin-top: -4px;"><li><a href='../../html/regulatory_reform/regulatory_reform_index.shtml'>Regulatory Reform</a></li><li><a href="../../html/environmental_education/index.shtml">Environmental Education</a></li><script language="javascript"><!--
+	if(currentFolder == "/environmental_education/") {
+		var str = "";
+		str += "<ul id='subnav'>";
+		str += "<li><a href='../../html/environmental_education/artpoetry.shtml'>Water Resources Art & Poetry Contest</a></li>";
+		str += "<li><a href='../../html/environmental_education/newtown_visitors_center.shtml'>Visitor Center at Newtown Creek </a></li>";
+		str += "<li><a href='../../html/environmental_education/educres.shtml'>Educational Resources for Students &amp; Teachers</a></li>";
+		str += "<li><a href='../../html/environmental_education/watered.shtml'>Guide to Supplemental Water Education Programs</a></li>";
+		str += "<li><a href='../../html/environmental_education/edactivities.shtml'>Activities</a></li>";
+		str += "<li><a href='../../html/environmental_education/kidsbooks.shtml'>Great Books &amp; Web Sites</a></li>";
+		str += "<li><a href='../../html/environmental_education/workbook.shtml'>New York City Water Saver&rsquo;s Workbook</a></li>";
+		str += "<li><a href='../../html/environmental_education/wetlab.shtml'>Living Harbor Wet Lab</a></li>";
+		str += "<li><a href='../../html/environmental_education/celebrate.shtml'>Celebrating New York City&rsquo;s Clean Drinking Water</a></li>";
+		str += "</ul>";
+		document.write(str);
+	}
+	//--></script><li><a href="../../html/ways_to_save_water/index.shtml">Conservation Programs</a></li><script language="javascript"><!--
+	if(currentFolder == "/ways_to_save_water/") {
+		var str = "";
+		str += "<ul id='subnav'>";
+		str += "<li><a href='../../html/ways_to_save_water/dodont.shtml'>Dos &amp; Don&rsquo;ts of Water Conservation</a></li>";
+		str += "<li><a href='../../html/ways_to_save_water/waterleak_wide.shtml'>Leaks &amp; Their Cost Fact Sheet</a></li>";
+		str += "<li><a href='../../html/ways_to_save_water/xeris.shtml'>Seven Steps to a Water-Saving Garden</a></li>";
+		str += "<li><a href='../../html/ways_to_save_water/lawns.shtml'>Water Saving Tips For Lawns</a></li>";
+		str += "<li><a href='../../html/residents/waterrest_wide.shtml'>Water Use Restrictions</a></li>";
+		str += "</ul>";
+		document.write(str);
+	}
+	//--></script><li><a href="../../html/air/index.shtml">Air Pollution Control</a></li><li><a href="../../html/noise/index.shtml">Noise Codes &amp; Complaints</a></li></ul>
+
+<div><img src="../../images/nav/leftnav_professionals.gif" alt="Businesses & Professionals" border="0" width="179" height="33" /></div>
+<ul style="margin-top: -4px;">
+	<li><a href="../../html/forms_and_permits/index.shtml">Forms &amp; Permits</a></li><script language="javascript"><!--
+	if(currentFolder == "/forms_and_permits/") {
+		var str = "";
+		str += "<ul id='subnav'>";
+		str += "<li><a href='../../html/forms_and_permits/water_sewer.shtml'>Water &amp; Sewer Forms</a></li>";
+		str += "<li><a href='../../html/forms_and_permits/asbestosf.shtml'>Asbestos Forms</a></li>";
+		str += "</ul>";
+		document.write(str);
+	}
+	//--></script><li><a href="../../html/businesses/economic_development_unit.shtml">Economic Development Unit</a></li><li><a href="../../html/businesses/doingbiz.shtml">Doing Business with DEP</a></li><li><a href="../../html/asbestos/asbestos_abatement.shtml">Asbestos Abatement</a></li><script language="javascript"><!--
+	if(currentFolder == "/asbestos/") {
+		var str = "";
+		str += "<ul id='subnav'>";
+		str += "<li><a href='../../html/asbestos/asbestos.shtml'>Asbestos Rules</a></li>";
+str += "<li><a href='http://www.nyc.gov/dep/arts'>ARTS</a></li>";
+		str += "<li><a href='../../html/forms_and_permits/asbestosf.shtml'>Asbestos Forms</a></li>";
+		str += "<li><a href='../../html/asbestos/airfirms_wide.shtml#investigators'>Certified Asbestos Investigators</a></li>";
+		str += "<li><a href='../../html/asbestos/airfirms_wide.shtml#contractors'>Licensed Asbestos Contractors &amp; Air Monitors</a></li>";
+		str += "<li><a href='../../html/asbestos/airmonit_wide.shtml'>Air Monitoring in Lower Manhattan</a></li>";
+		str += "</ul>";
+		document.write(str);
+	}
+	//--></script><li><a href="../../html/construction_demolition_abatement/index.shtml">Construction, Demolition &amp; Abatement</a></li></ul>
+	
+
+<div><img src="../../images/nav/leftnav_about.gif" alt="About DEP" border="0" width="179" height="33" /></div>
+<ul style="margin-top: -4px;"><li><a href="../../html/about_dep/inside_dep_index.shtml">Inside DEP</a></li><script language="javascript"><!--
+	if(currentFolder == "/about_dep/") {
+		var str = "";
+		str += "<ul id='subnav'>";
+		str += "<li><a href='../../html/about_dep/mission_statement.shtml'>Mission Statement</a></li>";
+		str += "<li><a href='../../html/about_dep/dep_strategic_plan.shtml'>DEP Strategic Plan</a></li>";
+		str += "<li><a href='../../html/about_dep/bureaus.shtml'>DEP Offices</a></li>";
+		str += "<li><a href='../../html/about_dep/commissioner_bio.shtml'>The Commissioner</a></li>";		
+		str += "<li><a href='../../html/about_dep/pipeline.shtml'>Weekly Pipeline Newsletter</a></li>";
+		str += "<li><a href='../../html/about_dep/dep_alumni_form.shtml'>DEP Alumni Association</a></li>";
+		str += "<li><a href='../../html/about_dep/lap.shtml'>Language Access Plan</a></li>";
+		str += "</ul>";
+		document.write(str);
+	}
+	//--></script><li><a href="../../html/news/index.shtml">News</a></li><script language="javascript"><!--
+	if(currentFolder == "/news/") {
+		var str = "";
+		str += "<ul id='subnav'>";
+		/* str += "<li><a href='../../html/news/dep_featured_in.shtml'>DEP Featured In&hellip;</a></li>"; */
+		str += "<li><a href='../../html/news/hurricane_sandy_info.shtml'>Hurricane Sandy Recovery&nbsp;Info</a></li>";
+		str += "<li><a href='../../html/news/dep_stories_index.shtml'>Stories from DEP</a></li>";
+		str += "<li><a href='../../html/press_releases/index.shtml'>Press Releases</a></li>";
+		str += "<li><a href='../../html/public_notices/index.shtml'>Public Notices</a></li>";
+		str += "<li><a href='../../html/testimony/index.shtml'>Testimony and Public Comments</a></li>";
+		str += "</ul>";
+		document.write(str);
+	}
+	//--></script><script language="javascript"><!--
+	if(currentFolder == "/testimony/") {
+		var str = "";
+		str += "<ul id='subnav'>";
+		/* str += "<li><a href='../../html/news/dep_featured_in.shtml'>DEP Featured In&hellip;</a></li>"; */
+		str += "<li><a href='../../html/news/hurricane_sandy_info.shtml'>Hurricane Sandy Recovery&nbsp;Info</a></li>";
+		str += "<li><a href='../../html/news/dep_stories_index.shtml'>Stories from DEP</a></li>";
+		str += "<li><a href='../../html/press_releases/index.shtml'>Press Releases</a></li>";
+		str += "<li><a href='../../html/public_notices/index.shtml'>Public Notices</a></li>";
+		str += "<li><a href='../../html/testimony/index.shtml'>Testimony and Public Comments</a></li>";
+		str += "</ul>";
+		document.write(str);
+	}
+	//--></script><script language="javascript"><!--
+	if(currentFolder == "/public_notices/") {
+		var str = "";
+		str += "<ul id='subnav'>";
+		/* str += "<li><a href='../../html/news/dep_featured_in.shtml'>DEP Featured In&hellip;</a></li>"; */
+		str += "<li><a href='../../html/news/hurricane_sandy_info.shtml'>Hurricane Sandy Recovery&nbsp;Info</a></li>";
+		str += "<li><a href='../../html/news/dep_stories_index.shtml'>Stories from DEP</a></li>";
+		str += "<li><a href='../../html/press_releases/index.shtml'>Press Releases</a></li>";
+		str += "<li><a href='../../html/public_notices/index.shtml'>Public Notices</a></li>";
+		str += "<li><a href='../../html/testimony/index.shtml'>Testimony and Public Comments</a></li>";
+		str += "</ul>";
+		document.write(str);
+	}
+	//--></script><script language="javascript"><!--
+	if(currentFolder == "/press_releases/") {
+		var str = "";
+		str += "<ul id='subnav'>";
+		/* str += "<li><a href='../../html/news/dep_featured_in.shtml'>DEP Featured In&hellip;</a></li>"; */
+		str += "<li><a href='../../html/news/hurricane_sandy_info.shtml'>Hurricane Sandy Recovery&nbsp;Info</a></li>";
+		str += "<li><a href='../../html/news/dep_stories_index.shtml'>Stories from DEP</a></li>";
+		str += "<li><a href='../../html/press_releases/index.shtml'>Press Releases</a></li>";
+		str += "<li><a href='../../html/public_notices/index.shtml'>Public Notices</a></li>";
+		str += "<li><a href='../../html/testimony/index.shtml'>Testimony and Public Comments</a></li>";
+		str += "</ul>";
+		document.write(str);
+	}
+	//--></script><li><a href='../../html/dep_projects/cp_fees_at_work.shtml'>Capital Projects</a></li><li><a href="../../html/job_opportunities/careers.shtml">Careers at DEP</a></li><script language="javascript"><!--
+	if(currentFolder == "/job_opportunities/") {
+		var str = "";
+		str += "<ul id='subnav'>";
+		str += "<li><a href='../../html/job_opportunities/index_wide.shtml'>Job Opportunities</a></li>";
+		str += "<li><a href='../../html/job_opportunities/employee_benefits.shtml'>Employee Benefits</a></li>";
+		str += "<li><a href='../../html/job_opportunities/internships.shtml'>Internships</a></li>";
+		str += "<li><a href='../../html/job_opportunities/faces_index.shtml'>Faces of DEP</a></li>";
+		str += "</ul>";
+		document.write(str);
+	}
+	//--></script><li><a href='../../html/environmental_reviews/index.shtml'>Environmental Reviews</a></li><li><a href="../../html/about_dep/interagency_mou.shtml">Interagency MOUs</a></li><li><a href="../../html/a_to_z/index.shtml">A to Z Index</a></li><li><a href="../../html/contact_us/index.shtml">Contact Us</a></li></ul>
+</div>
+
+<!-- 
+<script language="Javascript" src="../../includes/scripts/nav_nodes.js"></script>
+<script language="Javascript" src="../../includes/scripts/nav_code.js"></script>
+<noscript>
+<a href="../../html/home/home.shtml" class="nav_section">Home</a><br />
+<a href="../../html/a_to_z/index.shtml" class="nav_section">A to Z Index</a><br />
+<a href="../../html/water_and_sewer_bills/index.shtml" class="nav_section">Water and Sewer Bills</a><br />
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/water_and_sewer_bills/meter.shtml" class="nav_subsection">How You Are Billed</a><br />
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/water_and_sewer_bills/meterread.shtml" class="nav_subsection">Meter Readings</a><br />
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/water_and_sewer_bills/accinfo.shtml" class="nav_subsection">Customer Account Information</a><br />
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/water_and_sewer_bills/wsbillfaq.shtml" class="nav_subsection">Frequently Asked Questions</a><br />
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/water_and_sewer_bills/propmgmt.shtml" class="nav_subsection">Property Management and Trade Professionals</a><br />
+<a href="../../html/ways_to_save_water/index.shtml" class="nav_section">Ways to Save Water</a><br />
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/ways_to_save_water/dodont.shtml" class="nav_subsection">Dos and Don'ts of Water Conservation</a><br />
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/ways_to_save_water/waterleak_wide.shtml" class="nav_subsection">Leaks and Their Cost Fact Sheet</a><br />
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/ways_to_save_water/xeris.shtml" class="nav_subsection">Seven Steps to a Water-Saving Garden</a><br />
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/ways_to_save_water/lawns.shtml" class="nav_subsection">Water Saving Tips For Lawns</a><br />
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/residents/waterrest_wide.shtml" class="nav_subsection">Water Use Restrictions</a><br />
+<a href="../../html/drinking_water/index.shtml" class="nav_section">Drinking Water</a><br />
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/drinking_water/maplevels_wide.shtml" class="nav_subsection">Reservoir Levels</a><br />
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/drinking_water/wsstate.shtml" class="nav_subsection">Drinking Water Supply and Quality Report</a><br />
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/drinking_water/groundwater.shtml" class="nav_subsection">Groundwater System</a><br />
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/drinking_water/pathogen.shtml" class="nav_subsection">Cryptosporidium and Giardia Background Information and Monitoring Program</a><br />
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/drinking_water/wdrap.shtml" class="nav_subsection">Waterborne Disease Risk Assessment Program (WDRAP)</a><br />
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/drinking_water/wsmaps_wide.shtml" class="nav_subsection">Water Supply System Maps</a><br />
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/drinking_water/sampling.shtml" class="nav_subsection">Drinking Water Sampling Stations</a><br />
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/drinking_water/history.shtml" class="nav_subsection">History of New York City's Water Supply System</a><br />
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/drinking_water/droughthist.shtml" class="nav_subsection">Drought and Water Consumption</a><br />
+<a href="../../html/harbor_water/index.shtml" class="nav_section">Harbor Water</a><br />
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/harbor_water/float.shtml" class="nav_subsection">Floatables Reduction Program</a><br />
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/harbor_water/nitrogen.shtml" class="nav_subsection">Nitrogen Control</a><br />
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/harbor_water/snclist.shtml" class="nav_subsection">Significant Noncompliance List</a><br />
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/harbor_water/grease.shtml" class="nav_subsection">Preventing Fats, Oils, and Grease Discharges Into Sewers</a><br />
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/harbor_water/pumpout.shtml" class="nav_subsection">Pump Out Stations</a><br />
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/harbor_water/protharb.shtml" class="nav_subsection">Protecting the Harbors</a><br />
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/harbor_water/northri.shtml" class="nav_subsection">North River Wastewater Treatment Plant</a><br />
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/harbor_water/biohome.shtml" class="nav_subsection">Biosolids Beneficial Use Program</a><br />
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/news/hwqs.shtml" class="nav_subsection">Harbor Water Quality Survey</a><br />
+<a href="../../html/air_and_noise/index.shtml" class="nav_section">Air and Noise</a><br />
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/air_and_noise/airmonit_wide.shtml" class="nav_subsection">Air Monitoring in Lower Manhattan</a><br />
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/air_and_noise/airfirms_wide.shtml" class="nav_subsection">Certified Asbestos Investigators, Asbestos Contractors, and Air Monitoring Firms</a><br />
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/air_and_noise/asbestos.shtml" class="nav_subsection">Asbestos Rules and Regulations</a><br />
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/forms_and_permits/asbestosf.shtml" class="nav_subsection">Asbestos Forms</a><br />
+<a href="../../html/watershed_protection/home.html" class="nav_section">Watershed Protection</a><br />
+<a href="../../html/environmental_education/index.shtml" class="nav_section">Environmental Education</a><br />
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/news/artpoetry.shtml" class="nav_subsection">Water Conservation Art &#38; Poetry Contest</a><br />
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/environmental_education/newtown.shtml" class="nav_subsection">Newtown Creek Nature Walk Scavenger Hunt</a><br />
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/environmental_education/educres.shtml" class="nav_subsection">Educational Resources for Students and Teachers</a><br />
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/environmental_education/watered.shtml" class="nav_subsection">Guide to Supplemental Water Education Programs</a><br />
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/environmental_education/edactivities.shtml" class="nav_subsection">Activities</a><br />
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/environmental_education/kidsbooks.shtml" class="nav_subsection">Great Books and Web Sites</a><br />
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/environmental_education/workbook.shtml" class="nav_subsection">New York City Water Saver's Workbook</a><br />
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/environmental_education/wetlab.shtml" class="nav_subsection">Living Harbor Wet Lab</a><br />
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/environmental_education/celebrate.shtml" class="nav_subsection">Celebrating New York City's Clean Drinking Water</a><br />
+<a href="../../html/job_opportunities/index_wide.shtml" class="nav_section">Job Opportunities</a><br />
+<a href="../../html/about_dep/index.shtml" class="nav_section">About DEP</a><br />
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/about_dep/commis.shtml" class="nav_subsection">Commissioner's Statement</a><br />
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/about_dep/bureaus.shtml" class="nav_subsection">Bureaus and Offices</a><br />
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/about_dep/caps.shtml" class="nav_subsection">Citywide Accountability Program</a><br />
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/dep_projects/index.shtml" class="nav_subsection">DEP Projects</a><br />
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/environmental_reviews/index.shtml" class="nav_subsection">Environmental Reviews</a><br />
+<a href="../../html/forms_and_permits/index.shtml" class="nav_section">Forms and Permits </a><br />
+<a href="../../html/news/index.shtml" class="nav_section">News</a><br />
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/press_releases/index.shtml" class="nav_subsection">Press Releases</a><br />
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/public_notices/index.shtml" class="nav_subsection">Public Notices</a><br />
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/news/news_archive.shtml" class="nav_subsection">News Archive</a><br />
+<a href="../../html/contact_us/index.shtml" class="nav_section">Contact Us</a><br />
+</noscript>
+</td>
+-->
+
+<!-- LEFT NAV MODULE ENDS-->
+</tr>
+<tr>
+<td colspan="2">
+<!--GET ACROBAT-->
+<!--
+<TABLE WIDTH="100%" BORDER="0" CELLSPACING="0" CELLPADDING="0">
+<TR>
+	<td width="15"><img src="../../includes/site_images/spacers/spacer_15_15.gif" alt="" width="15" height="15" border="0" /></td>
+  <TD WIDTH="165"><P><BR />
+      <A HREF="http://www.adobe.com/products/acrobat/readstep2.html"><IMG SRC="../../images/legacy_images/adobe_reader.gif" WIDTH="112" HEIGHT="33" BORDER="0" /></A></P>
+    <P>&nbsp;</P>
+    <P>&nbsp;</P>
+    <P>&nbsp;</P></TD>
+</TR>
+</TABLE>
+-->
+<!--GET ACROBAT END-->
+<!-- GOOGLE ANALYTICS -->
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  var pluginUrl = 
+   '//www.google-analytics.com/plugins/ga/inpage_linkid.js';
+  _gaq.push(['_require', 'inpage_linkid', pluginUrl]);
+  _gaq.push(['_setAccount', 'UA-3976516-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+<!-- GOOGLE ANALYTICS -->
+</td>
+</tr></table><br /><span class="caption"></span>
+<!-- END of leftnav_js.html -->
+
+								 
+						
+				</td>
+				<!-- START of CENTER column -->
+				<!-- BEGIN_PRINT_PAGE -->
+				<td id="main_content" align="left" valign="top" width="589">
+				<!-- START of PRIMARY FEATURE SECTION -->
+				<table width="589" border="0" cellspacing="0" cellpadding="0">
+				  
+					  
+						<tr><td colspan="3" align="left" valign="top" bgcolor="" width="589">
+							
+							</td></tr>
+						
+					
+						<tr><td align="left" bgcolor="" valign="top" width="30"><img src="../../includes/site_images/spacers/spacer_30_30.gif" alt="" width="30" height="30" border="0">
+						</td><td align="left" bgcolor="" valign="top" width="499"><img src="../../includes/site_images/spacers/spacer_499_15.gif" alt="" width="499" height="15" border="0"><br>
+					  
+							
+						
+					  
+							
+							
+									
+											<span class="bodytext"></span>
+											
+										
+									
+											<span class="bodytext"><h1>NYCDEP Recreation Area Maps</h1><p style="MARGIN-top: 0in">WMU = New York State Department of Environmental Conservation Wildlife Management Unit. Hunters should verify the WMU is correct.</p><table class="events" summary="List of Recreation Areas and Use Designations"><thead><tr><th>County</th><th>Recreation Unit</th><th>Town</th><th>WMU</th><th>Acres</th></tr></thead><tfoot><tr><td colspan="5">** Hunting by Bow only.<br />
+*** Hunting by Bow or Shotgun only.<br />
+**** Hunting for Deer only, and by Bow only.</td></tr></tfoot><tbody><tr><td>Delaware</td><td><a href="../../pdf/maps/Alpaca_Ridge.pdf" target="blank">Alpaca Ridge</a></td><td>Middletown</td><td>4P</td><td>514</td></tr><tr><td>Delaware</td><td><a href="../../pdf/maps/ArchieElliott_Rd.pdf" target="blank">Archie Elliot Road</a></td><td>Meredith</td><td>4O</td><td>141</td></tr><tr><td>Delaware</td><td><a href="../../pdf/maps/Arena.pdf" target="blank">Arena</a></td><td>Middletown</td><td>3A</td><td>360</td></tr><tr><td>Delaware</td><td><a href="../../pdf/maps/Barbour_Brook.pdf" target="blank">Barbour Brook</a></td><td>Tompkins</td><td>4O</td><td>417</td></tr><tr><td>Delaware</td><td><a href="../../pdf/maps/Barkaboom.pdf" target="blank">Barkaboom</a></td><td>Andes</td><td>4W</td><td>144</td></tr><tr><td>Delaware</td><td><a href="../../pdf/maps/Baxter_Brook.pdf" target="blank">Baxter Brook</a></td><td>Hancock</td><td>4W</td><td>8</td></tr><tr><td>Delaware</td><td><a href="../../pdf/maps/BearSpring.pdf" target="blank">Bear Spring</a></td><td>Walton</td><td>4W</td><td>197</td></tr><tr><td>Delaware</td><td><a href="../../pdf/maps/Beaverkill_West.pdf" target="blank">Beaverkill West</a></td><td>Colchester</td><td>4W</td><td>12</td></tr><tr><td>Delaware</td><td><a href="../../pdf/maps/Beech_Hill.pdf" target="blank">Beech Hill</a></td><td>Andes</td><td>4W</td><td>239</td></tr><tr><td>Delaware</td><td><a href="../../pdf/maps/Beerston.pdf" target="blank">Beerston</a></td><td>Walton</td><td>4W</td><td>871</td></tr><tr><td>Delaware</td><td><a href="../../pdf/maps/Bell_Hill.pdf" target="blank">Bell Hill</a></td><td>Delhi</td><td>4O</td><td>341</td></tr><tr><td>Delaware</td><td><a href="../../pdf/maps/Betty_Brook_Road.pdf" target="blank">Betty Brook Road</a></td><td>Kortright</td><td>4O</td><td>105</td></tr><tr><td>Delaware</td><td><a href="../../pdf/maps/Bloomville.pdf" target="blank">Bloomville</a></td><td>Kortright</td><td>4O</td><td>239</td></tr><tr><td>Delaware</td><td><a href="../../pdf/maps/Bobs_Brook.pdf" target="blank">Bobs Brook</a></td><td>Walton</td><td>4O</td><td>59</td></tr><tr><td>Delaware&#160;</td><td><a href="../../pdf/maps/Bramley_Mtn.pdf" target="blank">Bramley Mountain</a></td><td>Delhi</td><td>4P</td><td>1,221</td></tr><tr><td>Delaware</td><td><a href="../../pdf/maps/Brook_Road.pdf" target="blank">Brook Road</a></td><td>Middletown</td><td>4P</td><td>72</td></tr><tr><td>Delaware&#160;</td><td><a href="../../pdf/maps/Brush_Ridge.pdf" target="blank">Brush Ridge</a></td><td>Middletown</td><td>4R</td><td>66</td></tr><tr><td>Delaware&#160;</td><td><a href="../../pdf/maps/Bryants_Brook.pdf" target="blank">Bryants Brook</a></td><td>Andes</td><td>4P</td><td>93</td></tr><tr><td>Delaware&#160;</td><td><a href="../../pdf/maps/Buffalo_Hollow.pdf" target="blank">Buffalo Hollow</a></td><td>Roxbury</td><td>4R</td><td>90</td></tr><tr><td>Delaware</td><td><a href="../../pdf/maps/Bullet_Hole.pdf" target="blank">Bullet Hole</a></td><td>Delhi</td><td>4P</td><td>198</td></tr><tr><td>Delaware</td><td><a href="../../pdf/maps/Canada_Hollow.pdf">Canada Hollow</a>&#160;</td><td>Andes</td><td>4P</td><td>113</td></tr><tr><td>Delaware</td><td><a href="../../pdf/maps/Carey_Road.pdf" target="blank">Carey Road</a></td><td>Delhi</td><td>4P</td><td>242</td></tr><tr><td>Delaware</td><td><a href="../../pdf/maps/Carman_Road.pdf" target="blank">Carman Road</a></td><td>Hamden</td><td>4P</td><td>33</td></tr><tr><td>Delaware</td><td><a href="../../pdf/maps/Cat_Hollow.pdf" target="blank">Cat Hollow</a></td><td>Colchester</td><td>4W</td><td>175</td></tr><tr><td>Delaware</td><td><a href="../../pdf/maps/Chambers_Hollow.pdf">Chambers Hollow</a>&#160;</td><td>Walton</td><td>4O</td><td>113</td></tr><tr><td>Delaware</td><td><a href="../../pdf/maps/Chipmunk_Hollow.pdf" target="blank">Chipmunk Hollow</a></td><td>Walton</td><td>4O</td><td>101</td></tr><tr><td>Delaware</td><td><a href="../../pdf/maps/Churchill_Mtn.pdf" target="blank">Churchill Mountain</a></td><td>Stamford</td><td>4P</td><td>190</td></tr><tr><td>Delaware</td><td><a href="../../pdf/maps/Cole_Hill.pdf" target="blank">Cole Hill</a></td><td>Middletown</td><td>4P</td><td>241</td></tr><tr><td>Delaware</td><td><a href="../../pdf/maps/Coulter_Brook.pdf" target="blank">Coulter Brook</a></td><td>Bovina</td><td>4P</td><td>264</td></tr><tr><td>Delaware</td><td><a href="../../pdf/maps/Couse_Hill.pdf" target="blank">Couse Hill</a></td><td>Masonville</td><td>4O</td><td>100</td></tr><tr><td>Delaware</td><td><a href="../../pdf/maps/Covered_Bridge.pdf" target="blank">Covered Bridge</a></td><td>Delhi</td><td>4P</td><td>22</td></tr><tr><td>Delaware</td><td><a href="../../pdf/maps/Covert_Hollow.pdf" target="blank">Covert Hollow</a></td><td>Hamden</td><td>4O</td><td>428</td></tr><tr><td>Delaware</td><td><a href="../../pdf/maps/Covesville.pdf" target="blank">Covesville</a></td><td>Middletown</td><td>4R</td><td>56</td></tr><tr><td>Delaware</td><td><a href="../../pdf/maps/Cross_Road.pdf">Cross Road</a>&#160;</td><td>Tompkins</td><td>4O</td><td>37</td></tr><tr><td>Delaware</td><td><a href="../../pdf/maps/Crystal_Creek.pdf" target="blank">Crystal Creek</a></td><td>Hamden</td><td>4O</td><td>48</td></tr><tr><td>Delaware</td><td><a href="../../pdf/maps/Delaware_Head.pdf" target="blank">Delaware Headwaters</a></td><td>Roxbury</td><td>4P</td><td>599</td></tr><tr><td>Delaware</td><td><a href="../../pdf/maps/Dibble_Road.pdf" target="blank">Dibble Road</a></td><td>Andes</td><td>4P</td><td>104</td></tr><tr><td>Delaware</td><td><a href="../../pdf/maps/Dry_Brook.pdf" target="blank">Dry Brook</a></td><td>Meredith</td><td>4O</td><td>67</td></tr><tr><td>Delaware</td><td><a href="../../pdf/maps/Dryden_Brook.pdf" target="blank">Dryden Brook</a></td><td>Tompkins</td><td>4O</td><td>82</td></tr><tr><td>Delaware</td><td><a href="../../pdf/maps/Duggan_Hill.pdf" target="blank">Duggan Hill</a></td><td>Roxbury</td><td>4P</td><td>192</td></tr><tr><td>Delaware</td><td><a href="../../pdf/maps/Dunraven_North.pdf" target="blank">Dunraven North</a></td><td>Middletown</td><td>4P</td><td>202</td></tr><tr><td>Delaware</td><td><a href="../../pdf/maps/East_Brook.pdf" target="blank">East Brook</a></td><td>Franklin</td><td>4O</td><td>49</td></tr><tr><td>Delaware</td><td><a href="../../pdf/maps/East_Masonville.pdf" target="blank">East Masonville</a></td><td>Masonville</td><td>4O</td><td>136</td></tr><tr><td>Delaware</td><td><a href="../../pdf/maps/East_Platner.pdf" target="blank">East Platner Brook</a></td><td>Delhi</td><td>4O</td><td>453</td></tr><tr><td>Delaware</td><td><a href="../../pdf/maps/East_River.pdf" target="blank">East River Road</a></td><td>Hamden</td><td>4P</td><td>23</td></tr><tr><td>Delaware</td><td><a href="../../pdf/maps/EastTerryClove.pdf" target="blank">East Terry Clove</a></td><td>Delhi</td><td>4P</td><td>116</td></tr><tr><td>Delaware</td><td><a href="../../pdf/maps/Finch_Hollow.pdf" target="blank">Finch Hollow</a></td><td>Delhi</td><td>4O</td><td>49</td></tr><tr><td>Delaware</td><td><a href="../../pdf/maps/Fish_Brook.pdf" target="blank">Fish Brook</a></td><td>Walton</td><td>4O</td><td>411</td></tr><tr><td>Delaware</td><td><a href="../../pdf/maps/Fletcher_Hollow.pdf" target="blank">Fletcher Hollow</a></td><td>Tompkins</td><td>4O</td><td>358</td></tr><tr><td>Delaware</td><td><a href="../../pdf/maps/Flynn_Brook.pdf" target="blank">Flynn Brook</a></td><td>Andes</td><td>4P</td><td>2,200</td></tr><tr><td>Delaware</td><td><a href="../../pdf/maps/Freer_Hollow.pdf">Freer Hollow</a>&#160;</td><td>Walton</td><td>4O</td><td>81</td></tr><tr><td>Delaware</td><td><a href="../../pdf/maps/Hardscrabble_Road.pdf" target="blank">Hardscrabble Road</a></td><td>Roxbury</td><td>4P</td><td>47</td></tr><tr><td>Delaware</td><td><a href="../../pdf/maps/Hinkley.pdf" target="blank">Hinkley</a></td><td>Roxbury</td><td>4P</td><td>87</td></tr><tr><td>Delaware</td><td><a href="../../pdf/maps/Horton_Brook.pdf" target="blank">Horton Brook</a></td><td>Colchester</td><td>4W</td><td>7</td></tr><tr><td>Delaware</td><td><a href="../../pdf/maps/Huckleberry_Brook.pdf" target="blank">Huckleberry Brook</a></td><td>Middletown</td><td>3A</td><td>101</td></tr><tr><td>Delaware</td><td><a href="../../pdf/maps/Irish_Hill.pdf" target="blank">Irish Hill</a></td><td>Meredith</td><td>4O</td><td>156</td></tr><tr><td>Delaware</td><td><a href="../../pdf/maps/Irish_Mtn.pdf">Irish Mountain</a>&#160;</td><td>Roxbury</td><td>4R</td><td>259</td></tr><tr><td>Delaware</td><td><a href="../../pdf/maps/Johnny_Brook.pdf" target="blank">Johnny Brook</a></td><td>Deposit</td><td>4O</td><td>3,791</td></tr><tr><td>Delaware</td><td><a href="../../pdf/maps/Johnny_Cake.pdf">Johnny Cake Lane</a>&#160;</td><td>Middletown</td><td>4P</td><td>30</td></tr><tr><td>Delaware</td><td><a href="../../pdf/maps/Kiff_Brook.pdf">Kiff Brook</a>&#160;</td><td>Kortright</td><td>4O</td><td>356</td></tr><tr><td>Delaware</td><td><a href="../../pdf/maps/Kortright_Patent.pdf" target="blank">Kortright Patent</a></td><td>Kortright</td><td>4O</td><td>55</td></tr><tr><td>Delaware</td><td><a href="../../pdf/maps/Launt_Hollow.pdf" target="blank">Launt Hollow</a></td><td>Hamden</td><td>4O</td><td>57</td></tr><tr><td>Delaware</td><td><a href="../../pdf/maps/Little_Delaware.pdf" target="blank">Little Delaware</a></td><td>Bovina</td><td>4P</td><td>100</td></tr><tr><td>Delaware</td><td><a href="../../pdf/maps/MacDonald_Road.pdf" target="blank">MacDonald Road</a></td><td>Hamden</td><td>4P</td><td>34</td></tr><tr><td>Delaware</td><td><a href="../../pdf/maps/Mallory_Brook.pdf" target="blank">Mallory Brook</a></td><td>Hamden</td><td>4P</td><td>35</td></tr><tr><td>Delaware</td><td><a href="../../pdf/maps/McGregor_Mtn.pdf" target="blank">McGregor Mountain</a></td><td>Roxbury</td><td>4P</td><td>295</td></tr><tr><td>Delaware</td><td><a href="../../pdf/maps/Meekers_Hill.pdf" target="blank">Meekers Hill</a></td><td>Andes</td><td>4P</td><td>120</td></tr><tr><td>Delaware</td><td><a href="../../pdf/maps/Miller_Hollow.pdf" target="blank">Miller Hollow</a></td><td>Colchester</td><td>4W</td><td>19</td></tr><tr><td>Delaware</td><td><a href="../../pdf/maps/Miller_Road.pdf" target="blank">Miller Road</a></td><td>Middletown</td><td>4P</td><td>285</td></tr><tr><td>Delaware</td><td><a href="../../pdf/maps/Morris_Hill.pdf">Morris Hill</a>&#160;</td><td>Middletown</td><td>4R</td><td>266</td></tr><tr><td>Delaware</td><td><a href="../../pdf/maps/Mountain_Top.pdf" target="blank">Mountain Top</a></td><td>Tompkins</td><td>4O</td><td>36</td></tr><tr><td>Delaware</td><td><a href="../../pdf/maps/Mundale.pdf" target="blank">Mundale</a></td><td>Hamden</td><td>4O</td><td>216</td></tr><tr><td>Delaware</td><td><a href="../../pdf/maps/Murphy_Hill.pdf" target="blank">Murphy Hill</a></td><td>Andes</td><td>4P</td><td>520</td></tr><tr><td>Delaware</td><td><a href="../../pdf/maps/Narrow_Notch.pdf" target="blank">Narrow Notch</a></td><td>Stamford</td><td>4P</td><td>140</td></tr><tr><td>Delaware</td><td><a href="../../pdf/maps/New_Kingston.pdf" target="blank">New Kingston Mountain</a></td><td>Middletown</td><td>4P</td><td>282</td></tr><tr><td>Delaware</td><td><a href="../../pdf/maps/New_Road.pdf" target="blank">New Road</a></td><td>Bovina</td><td>4P</td><td>230</td></tr><tr><td>Delaware</td><td><a href="../../pdf/maps/Odell_Lake.pdf" target="blank">Odell Lake Road</a></td><td>Harpersfield</td><td>4O</td><td>45</td></tr><tr><td>Delaware</td><td><a href="../../pdf/maps/Palmer_Hill.pdf" target="blank">Palmer Hill</a></td><td>Andes</td><td>4P</td><td>235</td></tr><tr><td>Delaware</td><td><a href="../../pdf/maps/Peakes_Brook.pdf" target="blank">Peakes Brook</a></td><td>Delhi</td><td>4O</td><td>194</td></tr><tr><td>Delaware</td><td><a href="../../pdf/maps/Pepacton_Ledges.pdf" target="blank">Pepacton Ledges</a></td><td>Andes</td><td>4W</td><td>293</td></tr><tr><td>Delaware</td><td><a href="../../pdf/maps/Pink_Street.pdf" target="blank">Pink Street</a></td><td>Bovina</td><td>4P</td><td>309</td></tr><tr><td>Delaware</td><td><a href="../../pdf/maps/Platner_Brook.pdf" target="blank">Platner Brook</a></td><td>Delhi</td><td>4O</td><td>54</td></tr><tr><td>Delaware</td><td><a href="../../pdf/maps/Plattekill_Mtn.pdf" target="blank">Plattekill Mountain</a></td><td>Roxbury</td><td>4P</td><td>716</td></tr><tr><td>Delaware</td><td><a href="../../pdf/maps/Pleasant_Valley.pdf" target="blank">Pleasant Valley</a></td><td>Roxbury</td><td>4P</td><td>183</td></tr><tr><td>Delaware</td><td><a href="../../pdf/maps/Plymouth.pdf" target="blank">Plymouth</a></td><td>Franklin</td><td>4O</td><td>80</td></tr><tr><td>Delaware</td><td><a href="../../pdf/maps/Raynor_Brook.pdf" target="blank">Raynor Brook</a></td><td>Colchester</td><td>4P</td><td>360</td></tr><tr><td>Delaware</td><td><a href="../../pdf/maps/Read_Creek.pdf" target="blank">Read Creek</a></td><td>Tompkins</td><td>4W</td><td>13</td></tr><tr><td>Delaware</td><td><a href="../../pdf/maps/Red_Kill.pdf" target="blank">Red Kill</a></td><td>Middletown</td><td>4R</td><td>83</td></tr><tr><td>Delaware</td><td><a href="../../pdf/maps/Rehor_Road.pdf" target="blank">Rehor Road</a></td><td>Andes</td><td>3A</td><td>190</td></tr><tr><td>Delaware</td><td><a href="../../pdf/maps/ReubenToddRoad.pdf" target="blank">Reuben Todd Road</a></td><td>Delhi</td><td>4P</td><td>124</td></tr><tr><td>Delaware</td><td><a href="../../pdf/maps/River_Road.pdf" target="blank">River Road</a></td><td>Walton</td><td>4P</td><td>54</td></tr><tr><td>Delaware</td><td><a href="../../pdf/maps/Roods_Creek.pdf" target="blank">Roods Creek</a></td><td>Tompkins</td><td>4W</td><td>349</td></tr><tr><td>Delaware</td><td><a href="../../pdf/maps/Roses_Brook.pdf" target="blank">Roses Brook</a></td><td>Stamford</td><td>4P</td><td>83</td></tr><tr><td>Delaware</td><td><a href="../../pdf/maps/Sallys_Alley.pdf" target="blank">Sallys Alley</a></td><td>Roxbury</td><td>4R</td><td>257</td></tr><tr><td>Delaware</td><td><a href="../../pdf/maps/Sands_Creek.pdf" target="blank">Sands Creek</a></td><td>Tompkins</td><td>4W</td><td>1,608</td></tr><tr><td>Delaware</td><td><a href="../../pdf/maps/Shaver_Hollow.pdf" target="blank">Shaver Hollow</a></td><td>Andes</td><td>4P</td><td>33</td></tr><tr><td>Delaware</td><td><a href="../../pdf/maps/Shavertown_Bridge.pdf">Shavertown Bridge</a>&#160;</td><td>Andes</td><td>4P</td><td>305</td></tr><tr><td>Delaware</td><td><a href="../../pdf/maps/Shaw_Road.pdf" target="blank">Shaw Road</a></td><td>Kortright</td><td>4P</td><td>50</td></tr><tr><td>Delaware</td><td><a href="../../pdf/maps/South_Dunraven.pdf" target="blank">South Dunraven</a></td><td>Middletown</td><td>4P</td><td>76</td></tr><tr><td>Delaware</td><td><a href="../../pdf/maps/SouthRiverRoad.pdf" target="blank">South River Road</a></td><td>Walton</td><td>4W</td><td>62</td></tr><tr><td>Delaware</td><td><a href="../../pdf/maps/Speedwell_Mtn.pdf" target="blank">Speedwell Mountain</a></td><td>Tompkins</td><td>4O</td><td>3,908</td></tr><tr><td>Delaware</td><td><a href="../../pdf/maps/Spring_Valley.pdf" target="blank">Spring Valley</a></td><td>Meredith</td><td>4O</td><td>562</td></tr><tr><td>Delaware</td><td><a href="../../pdf/maps/Sutherland_Road.pdf" target="blank">Sutherland Road</a></td><td>Meredith</td><td>4O</td><td>36</td></tr><tr><td>Delaware</td><td><a href="../../pdf/maps/Swart_Road.pdf" target="blank">Swart Road</a></td><td>Middletown</td><td>4P</td><td>161</td></tr><tr><td>Delaware</td><td><a href="../../pdf/maps/Tower_Mtn.pdf" target="blank">Tower Mountain</a></td><td>Tompkins</td><td>4O</td><td>102</td></tr><tr><td>Delaware</td><td><a href="../../pdf/maps/Town_Brook.pdf" target="blank">Town Brook</a></td><td>Stamford</td><td>4P</td><td>30</td></tr><tr><td>Delaware</td><td><a href="../../pdf/maps/Township_Valley.pdf" target="blank">Township Valley</a></td><td>Stamford</td><td>4P</td><td>128</td></tr><tr><td>Delaware</td><td><a href="../../pdf/maps/Trow_Bridge.pdf" target="blank">Trow Bridge</a></td><td>Middletown</td><td>4P</td><td>12</td></tr><tr><td>Delaware</td><td><a href="../../pdf/maps/Utsayantha.pdf" target="blank">Utsayantha</a></td><td>Stamford</td><td>4P</td><td>30</td></tr><tr><td>Delaware</td><td><a href="../../pdf/maps/Vega_Mtn.pdf" target="blank">Vega Mountain</a></td><td>Roxbury</td><td>4R</td><td>45</td></tr><tr><td>Delaware</td><td><a href="../../pdf/maps/Vinci_Brook.pdf" target="blank">Vinci Brook</a></td><td>Colchester</td><td>4W</td><td>97</td></tr><tr><td>Delaware</td><td><a href="../../pdf/maps/Wagon_Wheel.pdf" target="blank">Wagon Wheel</a></td><td>Tompkins</td><td>4O</td><td>72</td></tr><tr><td>Delaware</td><td><a href="../../pdf/maps/Weaver_Hollow.pdf" target="blank">Weaver Hollow</a></td><td>Andes</td><td>4P</td><td>622</td></tr><tr><td>Delaware</td><td><a href="../../pdf/maps/West_Halcott.pdf" target="blank">West Halcott</a></td><td>Halcott &amp; Roxbury</td><td>4R</td><td>110</td></tr><tr><td>Delaware</td><td><a href="../../pdf/maps/West_Masonville.pdf" target="blank">West Masonville</a></td><td>Masonville</td><td>4O</td><td>44</td></tr><tr><td>Delaware</td><td><a href="../../pdf/maps/West_Platner.pdf" target="blank">West Platner Brook</a></td><td>Delhi</td><td>4O</td><td>80</td></tr><tr><td>Delaware</td><td><a href="../../pdf/maps/West_Schoharie.pdf" target="blank">West Schoharie</a></td><td>Roxbury</td><td>4R</td><td>330</td></tr><tr><td>Delaware</td><td><a href="../../pdf/maps/West_Settlement.pdf" target="blank">West Settlement</a></td><td>Roxbury</td><td>4P</td><td>1,849</td></tr><tr><td>Delaware</td><td><a href="../../pdf/maps/Whiskey_Hollow.pdf" target="blank">Whiskey Hollow</a></td><td>Harpersfield</td><td>4O</td><td>34</td></tr><tr><td>Dutchess</td><td><a href="../../pdf/maps/Alamar.pdf" target="blank">Alamar</a></td><td>East Fishkill</td><td>3N</td><td>87</td></tr><tr><td>Dutchess</td><td><a href="../../pdf/maps/East_Fishkill.pdf" target="blank">East Fishkill</a></td><td>East Fishkill</td><td>3N</td><td>807</td></tr><tr><td>Greene</td><td><a href="../../pdf/maps/Balsam_Mtn.pdf" target="blank">Balsam Mountain</a></td><td>Lexington</td><td>3A</td><td>772</td></tr><tr><td>Greene</td><td><a href="../../pdf/maps/Batavia.pdf" target="blank">Batavia</a></td><td>Ashland</td><td>4R</td><td>428</td></tr><tr><td>Greene</td><td><a href="../../pdf/maps/Beech_Ridge.pdf" target="blank">Beech Ridge</a></td><td>Lexington</td><td>4R</td><td>487</td></tr><tr><td>Greene</td><td><a href="../../pdf/maps/Brownell_Creek.pdf" target="blank">Brownell Creek</a></td><td>Halcott</td><td>4R</td><td>98</td></tr><tr><td>Greene</td><td><a href="../../pdf/maps/Camp_Meadowbrook.pdf" target="blank">Camp Meadowbrook</a></td><td>Hunter</td><td>3A</td><td>32</td></tr><tr><td>Greene</td><td><a href="../../pdf/maps/Campbell_Road.pdf" target="blank">Campbell Road</a></td><td>Ashland</td><td>4R</td><td>70</td></tr><tr><td>Greene</td><td><a href="../../pdf/maps/Case_Road.pdf">Case Road</a>&#160;</td><td>Ashland</td><td>4R</td><td>189</td></tr><tr><td>Greene</td><td><a href="../../pdf/maps/Cave_Mtn.pdf">Cave Mountain</a>&#160;</td><td>Jewett</td><td>4R</td><td>323</td></tr><tr><td>Greene</td><td><a href="../../pdf/maps/Center_Jewett.pdf" target="blank">Center Jewett</a></td><td>Jewett</td><td>4R</td><td>121</td></tr><tr><td>Greene</td><td><a href="../../pdf/maps/Cozy_Hollow.pdf" target="blank">Cozy Hollow</a></td><td>Prattsville</td><td>4R</td><td>78</td></tr><tr><td>Greene</td><td><a href="../../pdf/maps/Deer_Run.pdf" target="blank">Deer Run</a></td><td>Ashland</td><td>4R</td><td>121</td></tr><tr><td>Greene</td><td><a href="../../pdf/maps/Diamond_Notch.pdf" target="blank">Diamond Notch</a></td><td>Hunter</td><td>3A</td><td>86</td></tr><tr><td>Greene</td><td><a href="../../pdf/maps/Dog_Hill.pdf" target="blank">Dog Hill</a></td><td>Prattsville</td><td>4R</td><td>533</td></tr><tr><td>Greene</td><td><a href="../../pdf/maps/East_Windham.pdf" target="blank">East Windham</a></td><td>Windham</td><td>4R</td><td>27</td></tr><tr><td>Greene</td><td><a href="../../pdf/maps/Four_Corners.pdf" target="blank">Four Corners</a></td><td>Prattsville</td><td>4R</td><td>203</td></tr><tr><td>Greene</td><td><a href="../../pdf/maps/Halcott.pdf" target="blank">Halcott</a></td><td>Halcott</td><td>4R</td><td>116</td></tr><tr><td>Greene</td><td><a href="../../pdf/maps/High_Peak.pdf" target="blank">High Peak</a></td><td>Windham</td><td>3A</td><td>47</td></tr><tr><td>Greene</td><td><a href="../../pdf/maps/Huntersfield_Crk.pdf" target="blank">Huntersfield Creek</a></td><td>Prattsville</td><td>4R</td><td>393</td></tr><tr><td>Greene</td><td><a href="../../pdf/maps/Jennie_Notch.pdf" target="blank">Jennie Notch</a></td><td>Windham</td><td>4R</td><td>247</td></tr><tr><td>Greene</td><td><a href="../../pdf/maps/Katydid_Creek.pdf" target="blank">Katydid Creek</a></td><td>Jewett</td><td>3A</td><td>143</td></tr><tr><td>Greeene</td><td><a href="../../pdf/maps/Little_Westkill.pdf">Little Westkill</a>&#160;</td><td>Lexington</td><td>4R</td><td>83</td></tr><tr><td>Greene</td><td><a href="../../pdf/maps/Maben_Hill.pdf" target="blank">Maben Hill</a></td><td>Lexington</td><td>4R</td><td>149</td></tr><tr><td>Greene</td><td><a href="../../pdf/maps/Macumber_Rd.pdf" target="blank">Macumber Road</a></td><td>Conesville &amp; Prattsville</td><td>4R</td><td>142</td></tr><tr><td>Greene</td><td><a href="../../pdf/maps/Maplecrest.pdf" target="blank">Maplecrest</a></td><td>Windham</td><td>3A</td><td>632</td></tr><tr><td>Greene</td><td><a href="../../pdf/maps/Maplecrest_Road.pdf" target="blank">Maplecrest Road</a></td><td>Windham</td><td>3A</td><td>50</td></tr><tr><td>Greene</td><td><a href="../../pdf/maps/Mt_Hayden.pdf" target="blank">Mount Hayden</a></td><td>Windham</td><td>4R</td><td>804</td></tr><tr><td>Greene</td><td><a href="../../pdf/maps/North_Ashland.pdf" target="blank">North Ashland</a></td><td>Ashland</td><td>4R</td><td>137</td></tr><tr><td>Greene</td><td><a href="../../pdf/maps/North_Lexington.pdf" target="blank">North Lexington</a></td><td>Lexington</td><td>4R</td><td>147</td></tr><tr><td>Greene</td><td><a href="../../pdf/maps/Partridge_Road.pdf" target="blank">Partridge Road</a></td><td>Ashland</td><td>4R</td><td>63</td></tr><tr><td>Greene</td><td><a href="../../pdf/maps/Patterson_Ridge.pdf" target="blank">Patterson Ridge</a></td><td>Ashland</td><td>4R</td><td>294</td></tr><tr><td>Greene</td><td><a href="../../pdf/maps/Pinekill_Meadow.pdf">Pinekill Meadows</a>&#160;</td><td>Windham</td><td>3A</td><td>90</td></tr><tr><td>Greene</td><td><a href="../../pdf/maps/Railroad_Bend.pdf" target="blank">Railroad Bend</a></td><td>Hunter</td><td>3A</td><td>52</td></tr><tr><td>Greene</td><td><a href="../../pdf/maps/RedKill_Head.pdf" target="blank">Red Kill Headwaters</a></td><td>Halcott</td><td>4R</td><td>136</td></tr><tr><td>Greene</td><td><a href="../../pdf/maps/Richmond.pdf" target="blank">Richmond</a></td><td>Windham</td><td>4R</td><td>126</td></tr><tr><td>Greene</td><td><a href="../../pdf/maps/Roaring_Kill.pdf">Roaring Kill</a>&#160;</td><td>Hunter</td><td>3A</td><td>139</td></tr><tr><td>Greene</td><td><a href="../../pdf/maps/Roundtop_Mtn.pdf" target="blank">Roundtop Mountain</a></td><td>Hunter</td><td>3A</td><td>335</td></tr><tr><td>Greene</td><td><a href="../../pdf/maps/Schoharie_Creek.pdf" target="blank">Schoharie Creek</a></td><td>Prattsville</td><td>4R</td><td>58</td></tr><tr><td>Greene</td><td><a href="../../pdf/maps/Scribner_Hollow.pdf" target="blank">Scribner Hollow</a></td><td>Jewett</td><td>3A</td><td>219</td></tr><tr><td>Greene</td><td><a href="../../pdf/maps/Silas_Lake.pdf" target="blank">Silas Lake Road</a></td><td>Halcott</td><td>4R</td><td>48</td></tr><tr><td>Greene</td><td><a href="../../pdf/maps/Ski_Run.pdf">Ski Run Road</a>&#160;</td><td>Prattsville</td><td>4R</td><td>46</td></tr><tr><td>Greene</td><td><a href="../../pdf/maps/SouthMtn_Ext.pdf">South Mountain Extension</a>&#160;</td><td>Windham</td><td>4R</td><td>47</td></tr><tr><td>Greene</td><td><a href="../../pdf/maps/South_Roundtop.pdf" target="blank">South Roundtop</a></td><td>Hunter</td><td>3A</td><td>94</td></tr><tr><td>Greene</td><td><a href="../../pdf/maps/Spruceton.pdf" target="blank">Spruceton</a></td><td>Lexington</td><td>3A</td><td>7</td></tr><tr><td>Greene</td><td><a href="../../pdf/maps/Stony_Clove.pdf" target="blank">Stony Clove</a></td><td>Hunter</td><td>3A</td><td>97</td></tr><tr><td>Greene</td><td><a href="../../pdf/maps/Tap_Jam.pdf">Tap Jam</a>&#160;</td><td>Windham</td><td>4R</td><td>164</td></tr><tr><td>Greene</td><td><a href="../../pdf/maps/WarnerCreekNorth.pdf" target="blank">Warner Creek North</a></td><td>Hunter</td><td>3A</td><td>56</td></tr><tr><td>Greene</td><td><a href="../../pdf/maps/Washington_Street.pdf">Washington Street</a>&#160;</td><td>Prattsville</td><td>4R</td><td>31</td></tr><tr><td>Greene</td><td><a href="../../pdf/maps/West_Ashland.pdf" target="blank">West Ashland</a></td><td>Ashland</td><td>4R</td><td>198</td></tr><tr><td>Greene</td><td><a href="../../pdf/maps/West_Hollow.pdf" target="blank">West Hollow</a></td><td>Ashland</td><td>4R</td><td>88</td></tr><tr><td>Greene</td><td><a href="../../pdf/maps/Westkill.pdf" target="blank">Westkill</a></td><td>Lexington</td><td>4R</td><td>263</td></tr><tr><td>Putnam</td><td><a href="../../pdf/maps/Adams.pdf" target="blank">Adams</a></td><td>Kent</td><td>3N</td><td>178</td></tr><tr><td>Putnam</td><td><a href="../../pdf/maps/Boyds_Corner.pdf" target="blank">Boyds Corner North</a></td><td>Kent</td><td>3N</td><td>387</td></tr><tr><td>Putnam</td><td><a href="../../pdf/maps/Dean_Pond.pdf" target="blank">Dean Pond</a></td><td>Kent</td><td>3N</td><td>204</td></tr><tr><td>Putnam</td><td><a href="../../pdf/maps/Farmers_Mills.pdf" target="blank">Farmers Mills</a></td><td>Kent</td><td>3N</td><td>163</td></tr><tr><td>Putnam</td><td><a href="../../pdf/maps/Horse_Pound.pdf" target="blank">Horse Pound Brook</a></td><td>Kent</td><td>3N</td><td>1,085</td></tr><tr><td>Putnam</td><td><a href="../../pdf/maps/Kent_Cliffs.pdf" target="blank">Kent Cliffs</a></td><td>Kent</td><td>3N</td><td>380</td></tr><tr><td>Putnam</td><td><a href="../../pdf/maps/Kent_Hills.pdf" target="blank">Kent Hills</a></td><td>Kent</td><td>3N</td><td>118</td></tr><tr><td>Putnam</td><td><a href="../../pdf/maps/Knapp_Road.pdf" target="blank">Knapp Road</a></td><td>Kent</td><td>3N</td><td>187</td></tr><tr><td>Putnam</td><td><a href="../../pdf/maps/Lockwood.pdf" target="blank">Lockwood</a></td><td>Carmel</td><td>3N</td><td>488</td></tr><tr><td>Putnam</td><td><a href="../../pdf/maps/Long_Pond.pdf" target="blank">Long Pond</a></td><td>Carmel</td><td>3N</td><td>32</td></tr><tr><td>Putnam</td><td><a href="../../pdf/maps/Ludingtonville.pdf" target="blank">Ludingtonville</a></td><td>Kent</td><td>3N</td><td>169</td></tr><tr><td>Putnam</td><td><a href="../../pdf/maps/Mt_Nimham.pdf" target="blank">Mount Nimham</a></td><td>Kent</td><td>3N</td><td>81</td></tr><tr><td>Putnam</td><td><a href="../../pdf/maps/North_Putnam.pdf" target="blank">North Putnam</a></td><td>Kent</td><td>3N</td><td>42</td></tr><tr><td>Putnam</td><td><a href="../../pdf/maps/Richardsville.pdf" target="blank">Richardsville</a></td><td>Kent</td><td>3N</td><td>193</td></tr><tr><td>Putnam</td><td><a href="../../pdf/maps/Summit.pdf" target="blank">Summit</a></td><td>Kent</td><td>3N</td><td>57</td></tr><tr><td>Putnam</td><td><a href="../../pdf/maps/Taconic.pdf" target="blank">Taconic</a></td><td>Kent</td><td>3N</td><td>119</td></tr><tr><td>Putnam</td><td><a href="../../pdf/maps/WestBranch_Head.pdf" target="blank">West Branch Headwaters</a></td><td>Putnam Valley</td><td>3N</td><td>564</td></tr><tr><td>Putnam</td><td><a href="../../pdf/maps/White_Pond.pdf" target="blank">White Pond</a></td><td>Kent</td><td>3N</td><td>197</td></tr><tr><td>Schoharie</td><td><a href="../../pdf/maps/Bearkill.pdf" target="blank">Bearkill</a></td><td>Conesville</td><td>4G</td><td>115</td></tr><tr><td>Schoharie</td><td><a href="../../pdf/maps/Beaver_Hill.pdf">Beaver Hill</a>&#160;</td><td>Conesville</td><td>4R</td><td>172</td></tr><tr><td>Schoharie</td><td><a href="../../pdf/maps/Bluebird_Road.pdf" target="blank">Bluebird Road</a></td><td>Conesville</td><td>4R</td><td>222</td></tr><tr><td>Schoharie</td><td><a href="../../pdf/maps/Bull_Hill.pdf" target="blank">Bull Hill</a></td><td>Conesville</td><td>4G</td><td>90</td></tr><tr><td>Schoharie</td><td><a href="../../pdf/maps/HubbardHill_South.pdf" target="blank">Hubbard Hill South</a></td><td>Conesville</td><td>4G</td><td>110</td></tr><tr><td>Schoharie</td><td><a href="../../pdf/maps/Hubbard_Hill.pdf" target="blank">Hubbard Hill</a></td><td>Conesville</td><td>4G</td><td>367</td></tr><tr><td>Schoharie</td><td><a href="../../pdf/maps/Manorkill.pdf" target="blank">Manorkill</a></td><td>Conesville</td><td>4G</td><td>465</td></tr><tr><td>Schoharie</td><td><a href="../../pdf/maps/McGregorMtn_North.pdf" target="blank">McGregor Mountain North</a></td><td>Gilboa</td><td>4P</td><td>32</td></tr><tr><td>Schoharie</td><td><a href="../../pdf/maps/Mount_Royal.pdf" target="blank">Mount Royal</a></td><td>Conesville</td><td>4R</td><td>279</td></tr><tr><td>Schoharie</td><td><a href="../../pdf/maps/Pangman_Road.pdf" target="blank">Pangman Road</a></td><td>Conesville</td><td>4R</td><td>175</td></tr><tr><td>Schoharie</td><td><a href="../../pdf/maps/Pine_Mtn.pdf" target="blank">Pine Mountain</a></td><td>Gilboa</td><td>4R</td><td>897</td></tr><tr><td>Schoharie</td><td><a href="../../pdf/maps/West_Conesville.pdf" target="blank">West Conesville</a></td><td>Conesville</td><td>4G</td><td>245</td></tr><tr><td>Schoharie</td><td><a href="../../pdf/maps/Windy_Ridge.pdf" target="blank">Windy Ridge</a></td><td>Gilboa</td><td>4P</td><td>42</td></tr><tr><td>Sullivan</td><td><a href="../../pdf/maps/Blue_Hill.pdf" target="blank">Blue Hill</a></td><td>Neversink</td><td>3A</td><td>314</td></tr><tr><td>Sullivan</td><td><a href="../../pdf/maps/Bungalow_Brook.pdf" target="blank">Bungalow Brook</a></td><td>Neversink</td><td>3A</td><td>44</td></tr><tr><td>Sullivan</td><td><a href="../../pdf/maps/Chandler_Cove.pdf" target="blank">Chandler Cove</a>**</td><td>Neversink</td><td>3H</td><td>286</td></tr><tr><td>Sullivan</td><td><a href="../../pdf/maps/Chestnut_Creek.pdf" target="blank">Chestnut Creek</a></td><td>Neversink</td><td>3H</td><td>90</td></tr><tr><td>Sullivan</td><td><a href="../../pdf/maps/Conklin_Brook.pdf" target="blank">Conklin Brook</a></td><td>Neversink</td><td>3H</td><td>216</td></tr><tr><td>Sullivan</td><td><a href="../../pdf/maps/Denman_Mountain.pdf" target="blank">Denman Mountain</a></td><td>Neversink</td><td>3A</td><td>186</td></tr><tr><td>Sullivan</td><td><a href="../../pdf/maps/East_Neversink.pdf" target="blank">East Neversink</a></td><td>Neversink</td><td>3H</td><td>1,948</td></tr><tr><td>Sullivan</td><td><a href="../../pdf/maps/Lindholm_Road.pdf" target="blank">Lindholm Road</a>**</td><td>Neversink</td><td>3H</td><td>437</td></tr><tr><td>Sullivan</td><td><a href="../../pdf/maps/Moore_Hill.pdf" target="blank">Moore Hill</a></td><td>Neversink</td><td>3A</td><td>156</td></tr><tr><td>Sullivan</td><td><a href="../../pdf/maps/Myers_Road.pdf" target="blank">Myers Road</a>**</td><td>Neversink</td><td>3H</td><td>264</td></tr><tr><td>Sullivan</td><td><a href="../../pdf/maps/North_Side.pdf" target="blank">North Side</a></td><td>Neversink</td><td>3C</td><td>268</td></tr><tr><td>Sullivan</td><td><a href="../../pdf/maps/Pine_Patch.pdf" target="blank">Pine Patch</a></td><td>Neversink</td><td>3C</td><td>69</td></tr><tr><td>Sullivan</td><td><a href="../../pdf/maps/RedBrook_Head.pdf" target="blank">Red Brook Headwaters</a></td><td>Neversink</td><td>3H</td><td>369</td></tr><tr><td>Sullivan</td><td><a href="../../pdf/maps/Schumway_Road.pdf" target="blank">Schumway Road</a></td><td>Neversink</td><td>3H</td><td>171</td></tr><tr><td>Sullivan</td><td><a href="../../pdf/maps/Smith_Road.pdf" target="blank">Smith Road</a></td><td>Neversink</td><td>3H</td><td>100</td></tr><tr><td>Sullivan</td><td><a href="../../pdf/maps/South_Hill.pdf" target="blank">South Hill</a></td><td>Neversink</td><td>3H</td><td>427</td></tr><tr><td>Sullivan</td><td><a href="../../pdf/maps/Sugarloaf.pdf" target="blank">Sugarloaf</a></td><td>Neversink</td><td>3A</td><td>99</td></tr><tr><td>Sullivan</td><td><a href="../../pdf/maps/Sugarloaf_Mtn.pdf" target="blank">Sugarloaf Mountain</a></td><td>Neversink</td><td>3A</td><td>195</td></tr><tr><td>Sullivan</td><td><a href="../../pdf/maps/West_Neversink.pdf" target="blank">West Neversink</a></td><td>Neversink</td><td>3H</td><td>1,194</td></tr><tr><td>Ulster</td><td><a href="../../pdf/maps/Acorn_Hill.pdf" target="blank">Acorn Hill</a></td><td>Olive</td><td>3C</td><td>220</td></tr><tr><td>Ulster</td><td><a href="../../pdf/maps/Ashokan_North.pdf" target="blank">Ashokan North</a></td><td>Olive</td><td>3C</td><td>1,316</td></tr><tr><td>Ulster</td><td><a href="../../pdf/maps/Beaverkill.pdf" target="blank">Beaverkill</a></td><td>Woodstock</td><td>3A</td><td>418</td></tr><tr><td>Ulster</td><td><a href="../../pdf/maps/Beetree_Hill.pdf" target="blank">Beetree Hill</a></td><td>Woodstock</td><td>3A</td><td>621</td></tr><tr><td>Ulster</td><td><a href="../../pdf/maps/Big_Indian.pdf" target="blank">Big Indian Cluster</a></td><td>Shandaken</td><td>3A, 4R</td><td>272</td></tr><tr><td>Ulster</td><td><a href="../../pdf/maps/Birch_Creek.pdf" target="blank">Birch Creek</a></td><td>Shandaken</td><td>4R</td><td>257</td></tr><tr><td>Ulster</td><td><a href="../../pdf/maps/Black_Road.pdf" target="blank">Black Road</a></td><td>Olive</td><td>3A</td><td>85</td></tr><tr><td>Ulster</td><td><a href="../../pdf/maps/Boulevard_Road.pdf" target="blank">Boulevard Road</a>**</td><td>Hurley</td><td>3C</td><td>76</td></tr><tr><td>Ulster</td><td><a href="../../pdf/maps/Broadstreet_Hollow.pdf" target="blank">Broadstreet Hollow</a></td><td>Shandaken</td><td>3A</td><td>53</td></tr><tr><td>Ulster</td><td><a href="../../pdf/maps/Bushkill.pdf" target="blank">Bushkill</a>**</td><td>Olive</td><td>3A</td><td>440</td></tr><tr><td>Ulster</td><td><a href="../../pdf/maps/Bushkill_Fishing.pdf">Bushkill Fishing Area</a>&#160;</td><td>Olive</td><td>3C</td><td>18</td></tr><tr><td>Ulster</td><td><a href="../../pdf/maps/Chichester.pdf" target="blank">Chichester</a></td><td>Shandaken</td><td>3A</td><td>26</td></tr><tr><td>Ulster</td><td><a href="../../pdf/maps/DeerKill_Creek.pdf" target="blank">Deer Kill Creek</a></td><td>Wawarsing</td><td>3C</td><td>347</td></tr><tr><td>Ulster</td><td><a href="../../pdf/maps/Diamond_Road.pdf" target="blank">Diamond Road</a></td><td>Wawarsing</td><td>3H</td><td>146</td></tr><tr><td>Ulster</td><td><a href="../../pdf/maps/Dinch_Road.pdf" target="blank">Dinch Road</a></td><td>Denning</td><td>3A</td><td>75</td></tr><tr><td>Ulster</td><td><a href="../../pdf/maps/East_Mtn.pdf" target="blank">East Mountain</a></td><td>Wawarsing</td><td>3C</td><td>206</td></tr><tr><td>Ulster</td><td><a href="../../pdf/maps/Green_Eyes.pdf" target="blank">Green Eyes</a></td><td>Hurley</td><td>3C</td><td>172</td></tr><tr><td>Ulster</td><td><a href="../../pdf/maps/Herdman_Rd.pdf" target="blank">Herdman Road</a></td><td>Shandaken</td><td>3A</td><td>17</td></tr><tr><td>Ulster</td><td><a href="../../pdf/maps/Ladleton.pdf" target="blank">Ladleton</a></td><td>Denning</td><td>3A</td><td>500</td></tr><tr><td>Ulster</td><td><a href="../../pdf/maps/Lost_Clove.pdf" target="blank">Lost Clove</a></td><td>Shandaken</td><td>3A</td><td>162</td></tr><tr><td>Ulster</td><td><a href="../../pdf/maps/Mink_Hollow.pdf" target="blank">Mink Hollow</a></td><td>Woodstock</td><td>3A</td><td>618</td></tr><tr><td>Ulster</td><td><a href="../../pdf/maps/Oak_Ridge.pdf" target="blank">Oak Ridge</a></td><td>Olive</td><td>3A</td><td>25</td></tr><!--
+  <tr>
+    <td>&nbsp;</td>
+    <td><a href="../../pdf/maps/.pdf" target="blank">Dinch Road</a></td>
+    <td>Denning</td>
+    <td>3A</td>
+    <td>75</td>
+  </tr>
+--><tr><td>Ulster</td><td><a href="../../pdf/maps/Olderbark.pdf" target="blank">Olderbark</a></td><td>Woodstock</td><td>3A</td><td>188</td></tr><tr><td>Ulster</td><td><a href="../../pdf/maps/Oliverea.pdf" target="blank">Oliverea</a></td><td>Shandaken</td><td>3A</td><td>80</td></tr><tr><td>Ulster</td><td><a href="../../pdf/maps/Peck_Hollow.pdf" target="blank">Peck Hollow</a></td><td>Shandaken</td><td>3A</td><td>75</td></tr><tr><td>Ulster</td><td><a href="../../pdf/maps/Piney_Pt.pdf" target="blank">Piney Point Road</a></td><td>Olive</td><td>3C</td><td>369</td></tr><tr><td>Ulster</td><td><a href="../../pdf/maps/Red_Hill_Knolls.pdf" target="blank">Red Hill Knolls</a></td><td>Denning</td><td>3A</td><td>156</td></tr><tr><td>Ulster</td><td><a href="../../pdf/maps/Rochester.pdf" target="blank">Rochester</a></td><td>Rochester</td><td>3C</td><td>17</td></tr><tr><td>Ulster</td><td><a href="../../pdf/maps/Romer_Mtn.pdf" target="blank">Romer Mountain</a></td><td>Shandaken</td><td>3A</td><td>16</td></tr><tr><td>Ulster</td><td><a href="../../pdf/maps/Rose_Mtn.pdf" target="blank">Rose Mountain</a>**</td><td>Shandaken</td><td>4R</td><td>213</td></tr><tr><td>Ulster</td><td><a href="../../pdf/maps/Shandaken.pdf" target="blank">Shandaken</a></td><td>Shandaken</td><td>3A</td><td>42</td></tr><tr><td>Ulster</td><td><a href="../../pdf/maps/Sheridan_Mtn.pdf" target="blank">Sheridan Mountain</a></td><td>Shandaken</td><td>3A</td><td>107</td></tr><tr><td>Ulster</td><td><a href="../../pdf/maps/Sholam.pdf" target="blank">Sholam</a></td><td>Wawarsing</td><td>3C</td><td>240</td></tr><tr><td>Ulster</td><td><a href="../../pdf/maps/South_Hollow.pdf" target="blank">South Hollow</a></td><td>Olive</td><td>3C</td><td>79</td></tr><tr><td>Ulster</td><td><a href="../../pdf/maps/South_Mtn.pdf" target="blank">South Mountain</a></td><td>Olive</td><td>3C</td><td>351</td></tr><tr><td>Ulster</td><td><a href="../../pdf/maps/South_Rondout.pdf" target="blank">South Rondout</a></td><td>Wawarsing</td><td>3H</td><td>782</td></tr><tr><td>Ulster</td><td><a href="../../pdf/maps/Stone_Road.pdf" target="blank">Stone Road</a>**</td><td>Hurley</td><td>3C</td><td>397</td></tr><tr><td>Ulster</td><td><a href="../../pdf/maps/Sundown.pdf" target="blank">Sundown</a></td><td>Denning</td><td>3C</td><td>121</td></tr><tr><td>Ulster</td><td><a href="../../pdf/maps/Tebelt_Lane.pdf" target="blank">Tebelt Lane</a></td><td>Hurley</td><td>3C</td><td>22</td></tr><tr><td>Ulster</td><td><a href="../../pdf/maps/Traver_Hollow.pdf" target="blank">Traver Hollow</a></td><td>Olive</td><td>3A</td><td>142</td></tr><tr><td>Ulster</td><td><a href="../../pdf/maps/Trout_Creek.pdf" target="blank">Trout Creek</a></td><td>Wawarsing</td><td>3C</td><td>1,440</td></tr><tr><td>Ulster</td><td><a href="../../pdf/maps/Watson_Hollow.pdf" target="blank">Watson Hollow</a></td><td>Olive</td><td>3C</td><td>23</td></tr><tr><td>Ulster</td><td><a href="../../pdf/maps/WarnerCreek_South.pdf" target="blank">Warner Creek South</a></td><td>Woodstock</td><td>3A</td><td>156</td></tr><tr><td>Ulster</td><td><a href="../../pdf/maps/West_Shokan.pdf" target="blank">West Shokan</a></td><td>Olive</td><td>3C</td><td>117</td></tr><tr><td>Ulster</td><td><a href="../../pdf/maps/Wittenberg.pdf" target="blank">Wittenberg</a></td><td>Woodstock</td><td>3C</td><td>286</td></tr><tr><td>Ulster</td><td><a href="../../pdf/maps/Woodland_Valley.pdf" target="blank">Woodland Valley</a></td><td>Shandaken</td><td>3A</td><td>33</td></tr><tr><td>Ulster</td><td><a href="../../pdf/maps/Yagerville.pdf" target="blank">Yagerville</a></td><td>Denning</td><td>3C</td><td>538</td></tr><tr><td>Westchester</td><td><a href="../../pdf/maps/Angle_Fly.pdf" target="blank">Angle Fly</a>***</td><td>Somers</td><td>3S</td><td>269</td></tr><tr><td>Westchester</td><td><a href="../../pdf/maps/Big_Peninsula.pdf" target="blank">Big Peninsula</a>**</td><td>North Castle</td><td>3S</td><td>326</td></tr><tr><td>Westchester</td><td><a href="../../pdf/maps/Louden_Pt.pdf" target="blank">Louden Point</a>**</td><td>North Castle</td><td>3S</td><td>180</td></tr><tr><td>Westchester</td><td><a href="../../pdf/maps/Muscoot_East.pdf" target="blank">Muscoot East</a>***</td><td>Lewisboro</td><td>3S</td><td>160</td></tr><tr><td>Westchester</td><td><a href="../../pdf/maps/New_Croton.pdf" target="blank">New Croton</a>****</td><td>Yorktown</td><td>3S</td><td>210</td></tr><tr><td>Westchester</td><td><a href="../../pdf/maps/Stayback_Hill.pdf" target="blank">Stayback Hill</a>****</td><td>Yorktown</td><td>3S</td><td>142</td></tr><tr><td>Westchester</td><td><a href="../../pdf/maps/TurkeyMtn_E.pdf">Turkey Mountain East</a>**</td><td>Yorktown</td><td>3S</td><td>95</td></tr><tr><td>Westchester</td><td><a href="../../pdf/maps/TurkeyMtn_W.pdf">Turkey Mountain West</a>**</td><td>Yorktown</td><td>3S</td><td>185</td></tr><tr><td colspan="5"><a href="../../pdf/recreation/rec_use_by_county.pdf">Open Recreation Areas and Use Designations</a></td></tr></tbody></table></span>
+										
+								
+						
+
+					
+
+					 
+					   
+						
+					 
+					 
+					
+					</td><td align="left" bgcolor="" valign="top" width="60"><img src="../../includes/site_images/spacers/spacer_60_30.gif" alt="" width="60" height="30" border="0"></td></tr>
+
+					
+
+					  
+				   
+				</table>
+				<!-- END of PRIMARY FEATURE SECTION -->
+
+				<!-- START of SECONDARY FEATURE SECTION -->
+
+				<table width="589" border="0" cellspacing="0" cellpadding="0">
+				  
+					  
+						<tr><td colspan="4" align="left" valign="top" bgcolor="" width="589">
+							
+							</td></tr>
+						
+					
+
+					  </table>
+
+				<!-- END of SECONDARY FEATURE SECTION -->
+
+				<!-- START of TERTIARY FEATURE SECTION -->
+				<table width="589" border="0" cellspacing="0" cellpadding="0">
+				  
+					  
+						<tr><td colspan="3" align="left" valign="top" bgcolor="" width="589">
+							
+							</td></tr>
+						
+					
+					  
+				   
+				</table>
+				<!-- END of TERTIARY FEATURE SECTION -->
+				<!-- END_PRINT_PAGE -->
+				
+
+			<!-- START of nycgov_footer.inc-->
+<!-- old table width=589;  499 for middle td -->
+<!-- expanded table width=769;  619 for middle td -->
+<!-- <table width="589" border="0" cellspacing="0" cellpadding="0">
+	<tr>
+		<td align="left" valign="top" width="30"><img src="../../includes/site_images/spacers/spacer_30_30.gif" alt="" width="30" height="30" border="0"></td>
+		<td align="left" valign="top" width="499"><img src="../..//includes/site_images/spacers/spacer_499_15.gif" alt="" width="499" height="15" border="0"><img src="../../includes/site_images/footer_divider.gif" alt="" width="499" height="1" border="0"><br>
+			<span class="footer_header">Footer header goes here<br>
+			</span><span class="footer_text">Footer text description goes here. It is optional and the max is about 300 characters which is approximately 3-4 lines of text. Footer text description goes here. It is optional and the max is about 300 characters which is approximately 3-4 lines of text.<br>
+			</span></td>
+		<td align="left" valign="top" width="60"><img src="../..//includes/site_images/spacers/spacer_60_30.gif" alt="" width="60" height="30" border="0"><br>
+			<br>
+		</td>
+	</tr>
+</table> -->
+<!-- END of default_footer.inc -->
+
+
+					
+	<!-- BEGIN_PRINT_PAGE -->				
+					<span class="footer_text"><br></span></td>
+				<!-- END of CENTER column -->
+			</tr>
+	<!-- END_PRINT_PAGE -->
+			<tr height="25">
+				<td colspan="2" align="left" valign="top" width="769" height="25"> 
+
+					
+
+
+
+<!-- START of nycgov_footer.inc-->
+<style type="text/css">
+<!--
+	.footer_links {font-family: Verdana, Arial, Helvetica, sans-serif;
+		font-size: 10px;
+		color: #F9D053;
+	}
+
+	.footer_copyright {font-family: Verdana, Arial, Helvetica, sans-serif;
+		font-size: 10px;
+		color: #C4C4B2;
+	}
+-->
+</style>
+<TABLE cellSpacing=0 cellPadding=0 width=769 bgColor=#494B4C border=0>
+	<TBODY>
+	<TR><TD width=13><IMG height=24 src="../../includes/site_images/spacers/spacer.gif" width=13></TD>
+          <TD width=287><SPAN class=footer_copyright>Copyright 2013 The City of New York</SPAN></TD>
+          <TD align=right width=444><SPAN class=footer_links><A class=footer_links href="/contact">Contact Us</A> | <A class=footer_links href="/faqs">FAQs</A> | <A class=footer_links href="/privacy">Privacy Policy</A> | <A class=footer_links href="http://www.nyc.gov/html/misc/html/tou.html">Terms of Use</A> | <A class=footer_links href="/sitemap">Site Map</A></SPAN></TD>
+          <TD align=right width=25><IMG height=24 src="../../includes/site_images/spacers/spacer.gif" width=25></TD></TR>
+        </TBODY>
+</TABLE>
+<!-- Privacy Policy updated on 03/08/2011 -->
+<!--  nycgov Webtrends code, added on 02/16/2011 -->
+<script src="/html/misc/scripts/nycwebtrends.js" type="text/javascript"></script>
+<script type="text/javascript">
+//<![CDATA[
+var _nyctag=new WebTrends();
+_nyctag.dcsInit();
+_nyctag.dcsGetId();
+//]]>>
+</script>
+<script type="text/javascript">
+//<![CDATA[
+_nyctag.dcsCollect();
+//]]>>
+</script>
+
+<!-- PROD noscript section -->
+<noscript>
+<div><img alt="DCSIMG" id="DCSIMG" width="1" height="1" src="http://a858-sdc.nyc.gov/dcslfpea2000008i7geu3pdky_5v8x/njs.gif?dcsuri=/nojavascript&WT.js=No&WT.tv=8.6.2"/></div>
+</noscript>
+<!--  END OF nycgov Webtrends code, added on 02/16/2011 -->
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-9518673-1");
+pageTracker._trackPageview();
+} catch(err) {}
+</script>
+<!-- END of nycgov_footer.inc-->
+
+				</td>
+			</tr>
+<!-- BEGIN_PRINT_PAGE -->			
+		</table>
+	<!-- END_PRINT_PAGE -->
+	</body>
+</html>
+

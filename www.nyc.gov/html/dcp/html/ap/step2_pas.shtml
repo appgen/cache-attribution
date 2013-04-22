@@ -1,0 +1,647 @@
+<html>
+<head>
+<title>Applicant Portal - New York City Department of City Planning</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<link rel="stylesheet" href="../../extern/interface.css" type="text/css">
+<link rel="stylesheet" href="../../extern/common.css" type="text/css">
+<meta name="description" content="Applicant Portal">
+
+<script language="JavaScript" src="../../extern/commons.js"></script>
+<script language="javascript">
+var divNum = 5;
+	 
+	 //Function called when page loaded
+function keeptab() {
+			
+		 for (i=1; i<divNum+1; i++){
+			 if (document.getElementById('initial'+i).value==1) {
+			 showdiv(i);
+			 
+			 }
+			 
+		 }
+		 
+		 if (document.getElementById('showall').value==1) {
+			 document.getElementById('showBtn').innerHTML = '[Close All]';
+		 }
+		 
+	 }
+function showForms(elementid){
+if (document.getElementById(elementid).style.display == 'none'){
+document.getElementById(elementid).style.display = '';
+} else {
+document.getElementById(elementid).style.display = 'none';
+}
+} 
+
+</script>
+</head>
+<body background="../../gif/interface/dcp_bg.jpg" text="#000000" topmargin="0" marginheight="0" leftmargin="0" marginwidth="0" link="#999999" vlink="#999999" alink="#CCCCCC">
+<script language="javascript" src="../../extern/listforall.js"></script>
+
+<!--***************************************************************************************
+This window.onload function define what function need to be called when page onload-->
+
+<script language="javascript">
+
+window.onload=function(){
+	translateOnload1();
+	translateOnload2();
+	fillCd_all();
+}
+
+</script>
+
+<!--***************************************************************************************-->
+
+
+<a name="top"></a>
+<table width="769"  class="Table-Border-Gray" align="center" border="0" cellspacing="0" cellpadding="0">
+  <tr> 
+    <td> <table width="100%" border="0" cellpadding="0" cellspacing="0">
+      <tr>
+        <td colspan="2"><table width="100%" border="0" cellpadding="0" cellspacing="0" background="../../gif/interface/banner_r1_rep.gif">
+            <tr>
+              <td align="left"><img src="../../gif/interface/banner_r1_1.gif" alt="" width=3 height=18 border="0"></td><td><img src="../../gif/interface/banner_r1_2.gif" alt="" width="89" height="18"></td><td><a href="/residents"><img src="../../gif/interface/banner_r1_3.gif" alt="Residents" width="62" height="18" border="0"></a></td><td><a href="/business"><img src="../../gif/interface/banner_r1_4.gif" alt="Business" width="62" height="18" border="0"></a></td><td><a href="/visitors"><img src="../../gif/interface/banner_r1_5.gif" alt="Visitors" width="58" height="18" border="0"></a></td><td><a href="/government"><img src="../../gif/interface/banner_r1_6.gif" alt="Government" width="83" height="18" border="0"></a></td><td><a href="/mayor"><img src="../../gif/interface/banner_r1_7.gif" alt="Office of the Mayor" width="120" height="18" border="0"></a></td><td><a href="/search"><img src="../../gif/interface/banner_r1_8.gif" alt="Search NYC.gov" width="51" height="18" border="0"></a></td><td><a href="/register"><img src="../../gif/interface/banner_r1_9.gif" alt="Email Updates" width="91" height="18" border="0"></a></td><td><a href="/contact"><img src="../../gif/interface/banner_r1_10.gif" alt="Contact Us" width="66" height="18" border="0"></a></td>
+              <td align="right"><img src="../../gif/interface/banner_r1_right.gif" width=83 height=18 alt=""></td>
+            </tr>
+        </table></td>
+      </tr>
+      <tr>
+        <td colspan="2"><table width="100%" border="0" cellpadding="0" cellspacing="0" background="../../gif/interface/banner_r2_rep.gif">
+            <tr>
+              <td height="56"><a href="http://www.nyc.gov"><img src="../../gif/interface/banner_r2_1.gif" alt="NYC.gov - Always Open" width=92 height=56 border="0"></a><a href="../../home.html"><img src="../../gif/interface/banner_r2_2.gif" alt="NYC Department of City Planning" width="426" height="56" border="0"></a></td>
+              <td align="right"><a href="../../home.html"><img src="../../gif/interface/banner_r2_right.gif" alt="DCP Logo" width=83 height=56 border="0"></a></td>
+            </tr>
+        </table></td>
+      </tr>
+      <tr>
+        <td align="left" valign="top" background="../../gif/interface/banner_r3_rep.gif" bgcolor="#C6CFDE"><img src="../../gif/interface/banner_r3_1.gif" alt="" width="92" height="19"><a href="../../home.html"><img src="../../gif/interface/banner_r3_2.gif" alt="NYC.gov/planning" width="128" height="19" border="0"></a></td>
+        <td align="right" valign="middle" background="../../gif/interface/banner_r3_rep.gif">
+		<form action="http://search1.nyc.gov/search?" method="GET" name="gs">
+            <table border="0" align="right" cellpadding="0" cellspacing="0">
+              <tr>
+                <td align="right" class="Text_Black_10"><img src="../../gif/interface/banner_r3_3.gif" alt="Search DCP" width="68" height="19"></td>
+                <td align="right" class="Text_Black_10">&nbsp;&nbsp;&nbsp;</td>
+                <td align="right" valign="middle" class="Text_Black_10"><input name="bookmark" type="hidden" id="bookmark" value="no">
+				<input value="xml_no_dtd" name="output" type="hidden">
+				<input value="default_collection" name="site" type="hidden">
+				<input value="agency_frontend" name="proxystylesheet" type="hidden">
+				<input value="agency_frontend" name="client" type="hidden">
+				<input value="http://www.nyc.gov/html/dcp" name="sitesearch" type="hidden">
+				<input type="text" name="q" id="search_nycgov" class="search-box2"><br>
+                </td>
+                <td align="right" background="../../gif/interface/banner_r3_rep.gif" class="Text_Black_10">
+				<input type="image" src="../../gif/interface/banner_r3_go.gif" alt="Go" align="middle" width="29" height="19" border="0">
+                </td>
+                <td align="right" background="../../gif/interface/banner_r3_right.gif" class="Text_Black_10"><img src="../../gif/interface/banner_r3_right.gif" width="83" height="19"></td>
+              </tr>
+            </table>
+        </form></td>
+      </tr>
+      <tr align="right" valign="middle">
+        <td height="15" colspan="2" bgcolor="#C6CFDE"><span class="Text_Black_10">Department of City Planning - <i>&quot;Shaping the City's Future&quot;</i></span></td>
+      </tr>
+    </table></td>
+  </tr>
+  <tr> 
+    <td> 
+      <table width="100%" border="0" cellspacing="0" cellpadding="0" bgcolor="#C6CFDE">
+        <tr> 
+          <td width="1%" valign="top" align="left"><table border="0" cellspacing="0" cellpadding="0" width="150">
+            <tr>
+              <td valign="top" align="center" bgcolor="#003366"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <tr>
+                    <td width="11%" background="../../gif/interface/bg_header.gif" class="Text_White_12_Bold"><img src="../../gif/interface/motif.gif" border="0" alt=""></td>
+                    <td width="89%" height="30" background="../../gif/interface/bg_header.gif" class="Text_White_12_Bold">City Planning:</td>
+                  </tr>
+              </table></td>
+            </tr>
+            <tr>
+              <td bgcolor="#000000" valign="middle" align="center"><div id='MenuPos' style='position:relative; width:150; height:169;'>
+                <table width="100%" border="0" cellspacing="1" cellpadding="2">
+                  <tr>
+                    <td height="20" valign="top" bgcolor="#336699" ><a href="http://www.nyc.gov/html/dcp/home.html" class="Link_White_11_Bold_Menu">Home</a></td>
+                  </tr>
+                  <tr>
+                    <td height="20" valign="top" bgcolor="#336699"><a href="http://www.nyc.gov/html/dcp/html/subcats/about.shtml" class="Link_White_11_Bold_Menu">About Us</a></td>
+                  </tr>
+                  <tr>
+                    <td height="20" valign="top" bgcolor="#336699"><a href="http://www.nyc.gov/html/dcp/html/subcats/zoning.shtml" class="Link_White_11_Bold_Menu">Zoning</a></td>
+                  </tr>
+                  <tr>
+                    <td height="20" valign="top" bgcolor="#336699"><a href="http://www.nyc.gov/html/dcp/html/subcats/landuse.shtml" class="Link_White_11_Bold_Menu">Land Use Process</a></td>
+                  </tr>
+                  <tr>
+                    <td height="20" valign="top" bgcolor="#336699"><a href="http://www.nyc.gov/html/dcp/html/subcats/studies.shtml" class="Link_White_11_Bold_Menu">Projects/Proposals</a></td>
+                  </tr>
+                  <tr>
+                    <td height="20" valign="top" bgcolor="#336699"><a href="http://www.nyc.gov/html/dcp/html/subcats/resources.shtml" class="Link_White_11_Bold_Menu">Reference</a></td>
+                  </tr>
+                  <tr>
+                    <td height="20" valign="top" bgcolor="#336699"><a href="http://www.nyc.gov/html/dcp/html/subcats/products.shtml" class="Link_White_11_Bold_Menu">Products</a></td>
+                  </tr>
+                <tr>
+                    <td height="20" valign="top" bgcolor="#336699"><a href="http://www.nyc.gov/html/dcp/html/about/prarch.shtml" class="Link_White_11_Bold_Menu">News</a></td>
+                  </tr></table>
+              </div></td>
+            </tr>
+          
+                                  <tr>
+              <td class="Text_Black_12"><p>&nbsp;</p></td>
+            </tr>
+            <tr>
+              <td valign="top" align="center" bgcolor="#003366"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+                <tr>
+                  <td width="11%" background="../../gif/interface/bg_header.gif" class="Text_White_12_Bold"><img src="../../gif/interface/motif.gif"  border="0" alt=""></td>
+                  <td width="89%" height="30" background="../../gif/interface/bg_header.gif" class="Text_White_12_Bold">Stay Connected:</td>
+                </tr>
+              </table></td>
+            </tr>
+            <tr>
+              <td bgcolor="#000000" class="Text_Black_12" ><table width="100%" cellspacing="1" cellpadding="2" >
+                <tr bgcolor="#336699">
+                  <td><table width="140" border="0" cellspacing="0"  cellpadding="2" >
+                    <tr>
+                        <td width="18"><img src="../../gif/interface/twitter_icon.png" alt="Follow @NYCPlanning on Twitter" width="18" height="18" border="0"></td>
+                        <td width="130"> <a href="http://twitter.com/nycplanning" class="Link_White_11">Twitter</a></td>
+                      </tr>
+                  </table></td>
+                </tr>
+                <tr bgcolor="#336699">
+                      <td><table width="140" border="0" cellspacing="0" cellpadding="2" >
+                          <tr>
+                            <td width="18"><img src="../../gif/interface/rss_icon.png" alt="RSS" width="18" height="18" border="0"></td>
+                            <td width="130"><a href="../about/rss.shtml" class="Link_White_11">RSS Feed</a></td>
+                          </tr>
+                      </table></td>
+                    </tr>
+                
+                </table></td>
+            </tr><tr>
+              <td class="Text_Black_12"><p>&nbsp;</p></td>
+            </tr>
+            <tr>
+              <td bgcolor="#000000"><table width="100%" border="0" cellspacing="0" cellpadding="0" align="center">
+                  <tr>
+                    <td bgcolor="#003366"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+                        <tr>
+                          <td width="11%" background="../../gif/interface/bg_header.gif" class="Text_White_12_Bold"><img src="../../gif/interface/motif.gif" border="0" alt=""></td>
+                          <td width="89%" height="30" background="../../gif/interface/bg_header.gif" class="Text_White_12_Bold">Take me to...</td>
+                        </tr>
+                    </table></td>
+                  </tr>
+                  <tr>
+                    <td><table width="100%" border="0" cellspacing="1" cellpadding="4" align="center">
+  <tr>
+    <td bgcolor="#336699"><a href="../luproc/calbeg.shtml" class="Link_White_11">Commission
+        Meetings</a></td>
+  </tr>
+  <tr>
+    <td bgcolor="#336699"><a href="http://a030-cpc.nyc.gov/html/cpc/index.aspx" class="Link_White_11">Commission
+      Reports</a></td>
+  </tr>
+  <tr>
+    <td bgcolor="#336699"><a href="http://maps.nyc.gov/census" class="Link_White_11">Census FactFinder</a></td>
+  </tr>
+  <tr>
+    <td bgcolor="#336699"><a href="http://a030-lucats.nyc.gov/lucats/welcome.aspx " class="Link_White_11">LUCATS - Land Use<br>
+      Application Tracking</a></td>
+  </tr>
+  <tr>
+    <td bgcolor="#336699"><a href="http://gis.nyc.gov/doitt/nycitymap/template?applicationName=ZOLA" class="Link_White_11">ZoLa - Zoning and  Land Use Application</a></td>
+  </tr>
+  <tr>
+    <td bgcolor="#336699"><a href="../neigh_info/nhmap.shtml" class="Link_White_11">Community Data Portal </a></td>
+  </tr>
+  <tr>
+    <td bgcolor="#336699"><a href="../rezonings/rezonings.shtml" class="Link_White_11">DCP Rezonings</a></td>
+  </tr>
+  <tr>
+    <td bgcolor="#336699"><a href="../cwp/cw.shtml" class="Link_White_11">Waterfront Access Map</a></td>
+  </tr>
+  <tr>
+    <td bgcolor="#336699"><a href="../zone/zmf.shtml" class="Link_White_11">Zoning Map Finder</a></td>
+  </tr>
+  <tr>
+    <td bgcolor="#336699"><a href="../pub/publist.shtml" class="Link_White_11">Map &amp; Bookstore</a></td>
+  </tr>
+  <tr>
+    <td bgcolor="#336699"><a href="../about/joblist.shtml" class="Link_White_11">Job
+      Opportunities </a></td>
+  </tr>
+  <tr>
+    <td bgcolor="#336699"><a href="../about/prarch.shtml" class="Link_White_11">Press
+      Releases</a></td>
+  </tr>
+  <tr>
+    <td bgcolor="#336699" class="Text_Black_12"><a href="../../hometext.html#dcpsite" class="Link_White_11">DCP
+      Site Map</a></td>
+  </tr>
+  <tr>
+    <td bgcolor="#336699"><a href="../about/location.shtml" class="Link_White_11_Bold_Menu">Contact
+      DCP</a></td>
+  </tr>
+</table></td>
+                  </tr>
+              </table></td>
+            </tr>
+            <tr>
+              <td class="Text_Black_12"><p>&nbsp;</p></td>
+            </tr>
+            <tr>
+              <td> </td>
+            </tr>
+            <tr>
+              <td><table width="100%" border="0" cellpadding="0" cellspacing="0" class="Table-Border-Black">
+                <tr>
+                  <td align="center" height="30" class="Link_White_11_Bold_Menu" valign="middle" background="../../gif/interface/portal_title.jpg" ></td>
+                </tr>
+
+				<tr><td>
+              <table width="100%" border="0" cellpadding="0" cellspacing="0" >
+                
+                
+                 <tr>
+                   <td  class="Text_White_10_Bold"><table border="0" cellspacing="0" cellpadding="0" width="100%" align="left">
+                     <form name="drop_list_all" method="POST" >
+                       <tr align="left">
+                         <td height="100" align="center" valign="middle" bgcolor="#336699"><a name="back" id="back"></a>
+                             <table width="100%" border="0">
+                               <tr>
+                                 <td><div align="center">
+                                     <select class="search-box2"   name="Cd" id="Cd" onChange="SelectNeighbourhood_all();" style="font-size:xx-small; width: 110px" >
+                                                              <option value="N" selected="selected" >Borough</option></select>
+                                 </div></td>
+                               </tr>
+                             </table>
+                             <table width="100%" border="0">
+                               <tr>
+                                 <td height="21"> <div align="center">
+                                     <select name="Neighbourhood" class="search-box2"  id="Neighbourhood" style="width: 138px; "                          >
+                                       <option  value="N" style="height:auto">Your Neighborhood</option>
+                                     </select>  </div>                              </td>
+                               </tr>
+                               <tr></tr>
+                               <tr id="subfolder_go_standard">
+                                 <td height="21" align="center" class="Text_White_11"><a href="javascript:frompage('standard');"><img src='../../gif/interface/go.gif' alt='Click Once to Submit Query' border='0'></a></td>
+                               </tr>
+							    <tr style="display:none"  id="subfolder_go_translate">
+                                 <td  height="21" align="center" class="Text_White_11"><a href="javascript:frompage('translate');"><img src='../../gif/interface/go.gif' alt='Click Once to Submit Query' border='0'></a></td>
+                               </tr>
+                             </table>                             </td>
+                       </tr>
+                     </form>
+                   </table></td>
+                 </tr></table>
+              </td>
+				</tr>
+			<tr align="left"></tr>
+              </table></td>
+            </tr>
+            <tr>
+              <td class="Text_Black_12"><p>&nbsp;</p></td>
+            </tr>
+            
+            <tr>
+              <td class="Text_Black_12"><script type="text/javascript" src="../../extern/cookies.js" ></script>
+			  <script type="text/javascript" src="../../extern/translate.js"></script>
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+                <tr style="display:none" id="english_button">
+                <td><a onMouseOver="MM_swapImage('english','','../../gif/interface/english_over.gif',0)" onMouseOut="MM_swapImgRestore()" href="javascript:resetLang();"><img src="../../gif/interface/english.gif" border=0 alt="Back to English" name="english" width="150" height="25" id="eng"></a></td>
+              </tr>
+              <tr id="translate_button">
+                <td><a onMouseOver="MM_swapImage('translate','','../../gif/interface/translate_button_over.gif',0)" onMouseOut="MM_swapImgRestore()" href="javascript:showTranslate();"><img src="../../gif/interface/translate_button.gif" border=0 alt="Translate this page" name="translate" width="150" height="25"></a></td>
+              </tr>
+              </table></td>
+            </tr>
+            
+			  
+<tr>
+              <td class="Text_Black_12">
+			  <script language="Javascript">
+<!--
+if(this.location.href.indexOf("tl=")!=-1) {
+	document.getElementById("english_button").style.display='';
+	document.getElementById("translate_button").style.display = 'none';
+	document.getElementById("subfolder_go_translate").style.display='';
+	document.getElementById("subfolder_go_standard").style.display = 'none';
+}
+//-->
+</script>
+<iframe scrolling='no' frameborder='0' class='shim' name='shim' id='shim'></iframe>
+<div id="translate_popup" class="popup">
+  <table cellspacing="0" cellpadding="0" border="0" width="323">
+    <tr>
+      <td class="popup_table"><table cellspacing="0" cellpadding="0" border="0" width="284">
+          <tr>
+            <Td colspan="2"><img src="../../gif/interface/translate_popup.gif" width="284" height="39" alt="Translate this Page" border="0"></Td>
+          </tr>
+          <tr>
+            <td class="popup_label" width="123">Select a Language</td>
+            <td class="popup_field" width="147"><select name="tl" id="tl" style="width:147px">
+                <option value="">- Select -</option>
+                <option value="ar">Arabic</option>
+                <option value="bg">Bulgarian</option>
+                <option value="ca">Catalan</option>
+                <option value="zh-CN">Chinese (Simplified)</option>
+                <option value="zh-TW">Chinese (Traditional)</option>
+                <option value="hr">Croatian</option>
+                <option value="cs">Czech</option>
+                <option value="da">Danish</option>
+                <option value="nl">Dutch</option>
+                <option value="tl">Filipino</option>
+                <option value="fi">Finnish</option>
+                <option value="fr">French</option>
+                <option value="de">German</option>
+                <option value="el">Greek</option>
+                <option value="iw">Hebrew</option>
+                <option value="hi">Hindi</option>
+                <option value="id">Indonesian</option>
+                <option value="it">Italian</option>
+                <option value="ja">Japanese</option>
+                <option value="ko">Korean</option>
+                <option value="lv">Latvian</option>
+                <option value="lt">Lithuanian</option>
+                <option value="no">Norwegian</option>
+                <option value="pl">Polish</option>
+                <option value="pt">Portuguese</option>
+                <option value="ro">Romanian</option>
+                <option value="ru">Russian</option>
+                <option value="sr">Serbian</option>
+                <option value="sk">Slovak</option>
+                <option value="sl">Slovenian</option>
+                <option value="es">Spanish</option>
+                <option value="sv">Swedish</option>
+                <option value="uk">Ukrainian</option>
+                <option value="vi">Vietnamese</option>
+              </select>            </td>
+          </tr>
+          <tr>
+            <td class="buttons" colspan="2"><input type="button" class="yellow_button" style="width:78px;" value="Translate" onClick="setLanguage(document.getElementById('tl').options[document.getElementById('tl').selectedIndex].value)" />
+              <input type="button" class="yellow_button" style="width:56px;" value="Cancel" onClick="hideTranslate()" /></td>
+          </tr>
+          <tr>
+            <td colspan="2"><br>
+              <a class="popup_disclaimer"  href="../about/about_translation.shtml">About Translation</a></td>
+          </tr>
+        </table></td>
+  </table>
+</div>			  </td>
+            </tr>
+			<tr>
+              <td class="Text_Black_12">&nbsp;</td>
+            </tr>
+          </table></td>
+          <td valign="top" align="center" width="99%"> 
+            <table width="98%" border="0" cellspacing="0" cellpadding="1" align="center">
+              <tr> <td>
+			   
+                  <!--BEGIN_PRINT_PAGE-->
+                  
+                  <table width="100%" border="0" cellspacing="0" cellpadding="4" align="center" bgcolor="#FFFFFF">
+                    <tr align="left" bgcolor="#da501f">
+                      <td width="27%" height="30" bgcolor="#DB521F" ><a href="index.shtml" class="Link_White_11_Bold">Applicant Portal</a></td>
+                      <td width="73%" height="30" align="right" valign="middle"  bgcolor="#DB521F" ><!--END_PRINT_PAGE--><a href="/cgi-bin/misc/pfprinter.cgi?action=print&sitename=DCP" class="ap_Link_White_11"  onClick="this.href = '/cgi-bin/misc/pfprinter.cgi?action=print&sitename=DCP&p=' + Date.parse(new Date()); return true;">Printable Version</a><!--BEGIN_PRINT_PAGE--></td>
+                    </tr>
+                    <tr align="left" bgcolor="#336699">
+                      <td valign="middle" bgcolor="#FFFFFF" class="Text_Blue_17_Bold" colspan="2"><img src="../../gif/ap/app_portal_logo.jpg" width="558" height="48"></td>
+                    </tr>
+                    <tr align="left" bgcolor="#336699">
+                      <td valign="middle" bgcolor="#FFFFFF" colspan="2"><table width="595" border="0" class="body_blueprint">
+                          <tr>
+                            <td colspan="2" valign="top"><table width="190" border="0" align="right" cellpadding="0" cellspacing="0" class="nav_bar">
+                              <tr>
+                                <td colspan="2" class="title">APPLICANT PORTAL</td>
+                                </tr>
+                              <tr>
+                                <td width="7" valign="top" class="arrow"><img src="../../gif/blueprint/arrow.gif" width="7" height="8" hspace="2" vspace="13"></td>
+                                <td width="183" valign="top" class="cnt"><a href="index.shtml">Process Overview</a></td>
+                              </tr>
+                              <tr>
+                                <td valign="top" class="arrow"><img src="../../gif/blueprint/arrow.gif" width="7" height="8" hspace="2" vspace="13"></td>
+                                <td valign="top" class="cnt"><a href="step1_whats_allowed.shtml" >Step 1: Understand what is allowed on my property</a></td>
+                              </tr>
+                              <tr>
+                                <td valign="top" class="arrow_hl"><img src="../../gif/blueprint/arrow.gif" width="7" height="8" hspace="2" vspace="13"></td>
+                                <td valign="top" class="cnt_hl"><a href="step2_pas.shtml"><strong>Step 2</strong>: Begin the Application Process</a><br>
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                    <tr>
+                                      <td width="10" align="left" valign="top"><img src="../../gif/interface/hyphen.gif" width="4" height="5" hspace="0" vspace="7"></td><td align="left" valign="top"><a href="#im">Informational Meeting</a></td>
+                                    </tr>
+                                    <tr>
+                                      <td align="left" valign="top"><img src="../../gif/interface/hyphen.gif" width="4" height="5" hspace="0" vspace="7"></td>
+                                      <td align="left" valign="top"><a href="#pas">Pre Application Statement</a></td>
+                                    </tr>
+                                    <tr>
+                                      <td align="left" valign="top"><img src="../../gif/interface/hyphen.gif" width="4" height="5" hspace="0" vspace="7"></td>
+                                      <td align="left" valign="top"><a href="#inter_m">Interdivisional Meeting</a></td>
+                                    </tr>
+                                    <tr>
+                                      <td align="left" valign="top"><img src="../../gif/interface/hyphen.gif" width="4" height="5" hspace="0" vspace="7"></td>
+                                      <td align="left" valign="top"><a href="#rwdcs">RWCDS Meeting</a></td>
+                                    </tr>
+                                     <tr>
+                                      <td align="left" valign="top"><img src="../../gif/interface/hyphen.gif" width="4" height="5" hspace="0" vspace="7"></td><td align="left" valign="top"><a href="step2_env_review.shtml">Environmental Review Process</a></td>
+                                    </tr>
+                                  </table></td>
+                              </tr>
+                              <tr>
+                                <td valign="top" class="arrow"><img src="../../gif/blueprint/arrow.gif" width="7" height="8" hspace="2" vspace="13"></td>
+                                <td valign="top" class="cnt"><a href="step3_prep.shtml">Step 3: Preparation of <br>
+                                  Land Use and   Environmental Applications</a></td>
+                              </tr>
+                              <tr>
+                                <td valign="top" class="arrow"><img src="../../gif/blueprint/arrow.gif" width="7" height="8" hspace="2" vspace="13"></td>
+                                <td valign="top" class="cnt"><a href="step4_filing.shtml">Step 4: Filing of Application &amp; Paying Fees</a></td>
+                              </tr>
+                              <tr>
+                                <td valign="top" class="arrow"><img src="../../gif/blueprint/arrow.gif" width="7" height="8" hspace="2" vspace="13"></td>
+                                <td valign="top" class="cnt"><a href="step5_ulurp.shtml">Step 5: ULURP Process</a></td>
+                              </tr>
+                            </table>
+                        
+                          <center><img src="../../gif/ap/ap_application.jpg" width="390" height="212"></center>
+                        
+                        <h1><a name="top"></a>BEGIN THE APPLICATION PROCESS</h1>
+                    
+                        <p>The goals of the beginning of the process are to gather key basic information about the site and the proposed development so that City Planning can advise the applicant on the <img src="../../gif/interface/pdf_icon.gif" alt="PDF Document" width="12" height="12" border="0" align="absmiddle">  <a href="../../pdf/ap/applications_reviewed_by_city_planning.pdf">type of land use application</a> and the level of environmental analysis that will be necessary as part of the review. To begin the review process, you should follow the below steps:</p>
+                        <a name="im"></a>
+                        <h2><strong>1.</strong> Schedule an  Informational Meeting with the relevant Borough Office</h2>
+                        <p>As a first step in the application process, prior to the submission of the PAS, you should contact the appropriate Borough or Office staff to discuss your property and proposal at a brief Informational Meeting. You will be asked to submit a few <img src="../../gif/interface/pdf_icon.gif" alt="PDF Document" width="12" height="12" hspace="0" vspace="3" border="0" align="absbottom"> <a href="../../pdf/ap/interest_checklist.pdf">basic materials</a> in advance to inform the discussion.</p>
+                        <table width="100%" border="0">
+                          <tr>
+                            <td><table width="100%" border="0" align="center" cellpadding="0" cellspacing="0">
+                                <tr>
+                                  <td height="30" align="center" class="table_title">BOROUGH OFFICES</td>
+                                </tr>
+                                <tr>
+                                  <td><table width="100%" border="0" cellspacing="0" cellpadding="0" class="table_body">
+                                      <tr>
+                                        <td width="100%" height="22" align="center" valign="middle"><table width="100%" border="0" class="Black_11">
+                                            <tr>
+                                              <td width="33%"><h2>Bronx Office</h2>
+                                                <br>
+                                                One Fordham Plaza, 
+                                                5th Fl. <br>
+                                                Bronx, NY 10458-5891<br>
+                                                <a href="http://gis.nyc.gov/doitt/nycitymap/?searchType=AddressSearch&addressNumber=1&street=Fordham%20plaza&borough=bronx&featureTypes=SUBWAY" class="Link_Blue_11">Show on map...</a><br>
+                                                <em>T</em>. 718-220-8500<br>
+                                                <em>F</em>. 718-584-8628</td>
+                                              <td width="37%" align="left"><h2>Manhattan Office</h2>
+                                                <br>
+                                                22 Reade Street, 
+                                                6th Fl. West<br>
+                                                New York, NY 10007-1216<br>
+                                                <a href="http://gis.nyc.gov/doitt/nycitymap/?searchType=AddressSearch&addressNumber=22&street=Reade%20street&borough=manhattan&featureTypes=SUBWAY" >Show on map...</a><br>
+                                                <em>T</em>. 212-720-3480<br>
+                                                <em>F</em>. 212-720-3488 </td>
+                                              <td width="30%" align="left"><h2>Brooklyn Office</h2>
+                                                <br>
+                                                16 Court Street, 
+                                                7th Fl.<br>
+                                                Brooklyn, NY 11241-0103<br>
+                                                <a href="http://gis.nyc.gov/doitt/nycitymap/?searchType=AddressSearch&addressNumber=16&street=Court%20street&borough=brooklyn&featureTypes=SUBWAY" class="Link_Blue_11">Show on map...</a><br>
+                                                <em>T</em>. 718-780-8280<br>
+                                                <em>F</em>. 718-596-2609 </td>
+                                            </tr>
+                                            <tr>
+                                              <td colspan="3"><hr></td>
+                                            </tr>
+                                            <tr>
+                                              <td colspan="3" align="center"><table width="80%" border="0" class="Black_11">
+                                                  <tr>
+                                                    <td width="52%"><h2>Queens Office</h2>
+                                                      <br>
+                                                      120-55 Queens Blvd., 
+                                                      Room 201 <br>
+                                                      Kew Gardens, NY 11424 <br>
+                                                      <a href="http://gis.nyc.gov/doitt/nycitymap/?searchType=AddressSearch&addressNumber=120-55&street=Queens%20Blvd&borough=queens&featureTypes=SUBWAY" class="Link_Blue_11">Show on map...</a><br>
+                                                      <em>T</em>. 718-286-3170<br>
+                                                      <em>F</em>. 718-286-3183<br></td>
+                                                    <td width="48%"><h2>Staten Island Office</h2>
+                                                      <br>
+                                                      130 Stuyvesant Place, 6th Fl.<br>
+                                                      Staten Island NY 10301-2511 <br>
+                                                      <a href="http://gis.nyc.gov/doitt/nycitymap/?searchType=AddressSearch&addressNumber=130&street=Stuyvesant%20Place&borough=staten island&featureTypes=SUBWAY" class="Link_Blue_11">Show on map...</a><br>
+                                                      <em>T</em>. 718-556-7240<br>
+                                                      <em>F</em>. 718-556-7305</td>
+                                                  </tr>
+                                                </table></td>
+                                            </tr>
+                                          </table></td>
+                                      </tr>
+                                    </table></td>
+                                </tr>
+                              </table></td>
+                          </tr>
+                        </table>
+                        <br>
+                        <h2> <a name="pas"></a><strong>2.</strong> Submit the Pre-Application Statement</h2>
+                        <table width="190" border="0" align="right" cellpadding="0" cellspacing="0" class="nav_bar">
+                              <tr>
+                                <td class="title">KEY TOOLS</td>
+                                </tr>
+                              <tr>
+                                <td valign="top" class="cnt"><img src="../../gif/interface/pdf_icon.gif" alt="PDF Document" width="12" height="12" border="0" align="absmiddle"> <a href="../../pdf/ap/interest_checklist.pdf">Informational Interest Meeting Checklist</a></td>
+                                </tr>
+                              <tr>
+                                <td valign="top" class="cnt"><img src="../../gif/interface/pdf_icon.gif" alt="PDF Document" width="12" height="12" border="0" align="absmiddle"> <a href="../../pdf/ap/preappstatement.pdf">Pre-Application Statement</a></td>
+                                </tr>
+                              <tr>
+                                <td valign="top" class="cnt"><img src="../../gif/interface/pdf_icon.gif" alt="PDF Document" width="12" height="12" border="0" align="absmiddle"> <a href="../../pdf/ap/rwcds.pdf">RWCDS Guidelines</a></td>
+                                </tr>
+                            </table>
+                        <p>After the  Informational Meeting, the Borough Office will notify you that a <img src="../../gif/interface/pdf_icon.gif" alt="PDF Document" width="12" height="12" border="0" align="absmiddle"> <a href="../../pdf/ap/preappstatement.pdf">PAS</a> should be  submitted and provide you with a Project ID number for the PAS (required to  file PAS). <br>
+The Pre-Application Statement (PAS) requests basic  pertinent information about a site and proposed project. By submitting the PAS,  a prospective applicant acknowledges that s/he intends to file a land use  application with the Department of City Planning (DCP). The PAS serves multiple  goals:</p>
+                        <ul>
+                          <li>The PAS helps DCP advise applicants early in the process about their  project and better serve applicants throughout the review process. The PAS is not designed to assess the merits of the proposal.</li>
+                          <li>The PAS allows DCP to assign appropriate staff at the beginning of the  review process and coordinate review across multiple divisions.</li>
+                          <li>The PAS provides a formal starting point for the application review  process and allows DCP to start tracking progress of a project.                        </li>
+                        </ul>
+                        <p><strong>What applications do not need to file the PAS?</strong></p>
+                        <ul>
+                          <li>South Richmond Subdivisions </li>
+                          <li>South Richmond School Seats </li>
+                          <li>Easements (ME)</li>
+                          <li>Landmarks (HK)</li>
+                          <li>Amended Drainage Plan (MD)</li>
+                          <li>Upper West Side retail  certifications </li>
+                      </ul>
+                        </ul>
+                        However, if  these actions are coupled with any other application type, the applicant should  submit a PAS. 
+                        <p><strong>How to submit the PAS</strong><br>
+                          The  PAS may be submitted by email <em>(preferred) </em>or hard copy by visiting the  Department of City Planning. To submit the Pre-Application Statement, please  email: <a href="mailto:centralintake@planning.nyc.gov">centralintake@planning.nyc.gov</a>                        
+                        <p>The basic information provided in the PAS will help DCP identify the  appropriate planners and specialists to assign to the project. A Lead Project Planner from the  relevant Borough or Division Office will be assigned to manage the proposed  project; this planner will be the main contact for you throughout the review  process. Planners from Technical Review, Environmental
+Assessment and Review, and other specialty divisions will also be  assigned at this time as needed. The Lead Project Planner will contact you if  the PAS needs clarification or is missing any of the required attachments or  critical information.                        </p>
+                        
+                        <h2><strong><a name="inter_m"></a>3.</strong> Interdivisional Meeting</h2>
+                        <p>Within five days of receipt of the PAS, the Lead Project Planner will contact you to schedule an Interdivisional Meeting. The Interdivisional Meeting is an opportunity for you and your representatives to present the proposal and site conditions to the assigned DCP team who will identify necessary actions, guide you in the preparation of application materials, and conduct environmental and technical analysis of the application to ensure completeness. Following the Interdivisional Meeting, you will receive a summary of the discussion, decisions, and next steps necessary to continue the application process. </p>
+                     
+                        <h2><strong><a name="rwdcs"></a>4.</strong> RWCDS Meeting </h2>
+                        <p> Some projects may require detailed environmental analysis that will  entail a Reasonable Worst Case Development Scenario (RWCDS). At or soon after  the Interdivisional Meeting, you will receive guidance on next steps for  environmental review. If a RWCDS will be required, you will receive guidance on  what <img src="../../gif/interface/pdf_icon.gif" alt="PDF Document" width="12" height="12" border="0" align="absmiddle"> <a href="../../pdf/ap/rwcds.pdf">materials</a>  to prepare for a formal RWCDS meeting  with the Lead Project Planner and the Environmental Assessment and Review  Division.</p>
+                        <div id="div5" style="display: none; margin-left: 18px" >
+                          <p>The Final EIS consists of the DEIS, a summary of public comments and lead  agency responses, and any revisions, including further studies, in response to  comments. It must also identify the specific mitigation measures to be used,  together with written agreement to their implementation from applicable  agencies.</p>
+                          <p>Once the FEIS is  complete, the lead agency issues a <strong>Notice of Completion</strong>describing  the action and the FEIS. The notice and a copy of the FEIS are sent to  all those who received the Notice of Completion for the DEIS.</p>
+                          <p> Before making a  decision on the proposed action, the lead agency must adopt a formal set of  findings, called a <strong>Statement of Findings</strong>, demonstrating that it has  taken a &ldquo;hard look&quot; at the impacts, mitigations and alternatives.  The lead agency must allow the public and agencies at least ten days to  consider the FEIS before adopting its findings. The findings conclude the  CEQR process.</p>
+                          <div align="right"><a href="#eps" class="ap_Link_Blue_11">Return to the List</a><strong></strong></div>
+                          <hr >
+                    </div>
+                        <p></p>
+                        <div>
+                          <div> </div>
+                        </div>
+                        <div align="right"> <a href="#top">Return to the top</a></div>
+                        
+                        <p></p>
+                        <p>&nbsp;</p>
+                        </ol></td>
+                        </tr>
+                      </table>
+                      
+                       <!--Don't modify any of following input tag--> 
+                        <!-- ---------------------------------------------------------------- -->
+                        
+                        <input style="display:none" id="showall" value="0" readonly>
+                        <input style="display:none" id="initial1" value="0" readonly>
+                        <input style="display:none" id="initial2" value="0" readonly>
+                        <input style="display:none" id="initial3" value="0" readonly>
+                        <input style="display:none" id="initial4" value="0" readonly>
+                        <input style="display:none" id="initial5" value="0" readonly>
+                        
+                        <!-- ---------------------------------------------------------------- --> 
+                      </td>
+                    </tr>
+                 
+                  </table>
+                  
+                  <!--END_PRINT_PAGE--> 
+                  </td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+        <tr bgcolor="#C6CFDE"> 
+          <td colspan="3" valign="top" class="Link_White_11">&nbsp;</td>
+        </tr>
+        <tr> 
+                    <td colspan="3" height="25" bgcolor="#666666" class="Link_White_11" align="center"> 
+            <p><a href="../../home.html" class="Link_White_11">DCP Home</a> | <a href="http://www.nyc.gov" class="Link_White_11">NYC.gov Home</a> | <a href="/contact" class="Link_White_11">Contact Us </a>| <a href="/faqs" class="Link_White_11">FAQ's</a> | <a href="/privacy" class="Link_White_11">Privacy Statement </a> | <a href="/sitemap" class="Link_White_11">Sitemap</a></p>
+          </td>
+        </tr>
+		
+		
+		        <tr align="center" valign="middle"> 
+          <td height="25" colspan="3" bgcolor="#666666" class="Text_gray_11"><p><a href="../about/copyright.shtml" class="Link_White_11_Copyright">COPYRIGHT</a> &copy; 2013 NYC Department of City Planning. All Rights Reserved.</p>
+          </td>
+        </tr>
+		
+		
+		
+      </table>
+    </td>
+  </tr>
+</table>
+<!--BEGIN_PRINT_PAGE--><div id="navtxt" class="navtext" style="position:absolute; top:-100px; left:0px; visibility:hidden"></div><!--END_PRINT_PAGE-->
+</body>
+</html>

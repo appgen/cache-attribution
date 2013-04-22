@@ -1,0 +1,2918 @@
+<html>
+<head>
+<link href="/portal/css/nycgov2003.css" rel="stylesheet" type="text/css">
+<title>NYC.gov - Warming Centers</title>
+</head>
+<script language="JavaScript">
+<!--
+
+function WM_netscapeCssFix() {
+  /*
+    Source: Webmonkey Code Library
+    (http://www.hotwired.com/webmonkey/javascript/code_library/)
+
+    Author: Taylor
+    Author Email: taylor@wired.com
+    Author URL: http://www.taylor.org/
+    It was added for Islide menu applet to show the applet as empty
+    */
+
+  // This part was inspired by Matthew_Baird@wayfarer.com
+  // It gets around another unfortunate bug whereby Netscape
+  // fires a resize event when the scrollbars pop up. This
+  // checks to make sure that the window's available size
+  // has actually changed.
+  if (document.WM.WM_netscapeCssFix.initWindowWidth != window.innerWidth || document.WM.WM_netscapeCssFix.initWindowHeight != window.innerHeight) {
+    document.location = document.location;
+  }
+}
+
+function WM_netscapeCssFixCheckIn() {
+  // This function checks to make sure the version of Netscape
+  // in use contains the bug; if so, it records the window's
+  // width and height and sets all resize events to be handled
+  // by the WM_netscapeCssFix() function.
+  if ((navigator.appName == 'Netscape') && (parseInt(navigator.appVersion) == 4)) {
+    if (typeof document.WM == 'undefined'){
+      document.WM = new Object;
+    }
+    if (typeof document.WM.WM_scaleFont == 'undefined') {
+      document.WM.WM_netscapeCssFix = new Object;
+      document.WM.WM_netscapeCssFix.initWindowWidth = window.innerWidth;
+      document.WM.WM_netscapeCssFix.initWindowHeight = window.innerHeight;
+    }
+    window.onresize = WM_netscapeCssFix;
+  }
+}
+
+WM_netscapeCssFixCheckIn()
+
+function changeSize(whatSize) {
+	if (whatSize == 1) {
+		document.getElementById("small_a").className = "small_font_over";
+		document.getElementById("medium_a").className = "medium_font";
+		document.getElementById("large_a").className = "large_font";
+		document.getElementById("content_table").className = "tsize_s";
+	} else if (whatSize == 2) {
+		document.getElementById("small_a").className = "small_font";
+		document.getElementById("medium_a").className = "medium_font_over";
+		document.getElementById("large_a").className = "large_font";
+		document.getElementById("content_table").className = "tsize_m";
+	} else if (whatSize == 3) {
+		document.getElementById("small_a").className = "small_font";
+		document.getElementById("medium_a").className = "medium_font";
+		document.getElementById("large_a").className = "large_font_over";
+		document.getElementById("content_table").className = "tsize_l";
+	}
+}
+
+// -->
+
+</script>
+<style type="text/css">
+<!--
+.tsize_s td {
+	font-size: 13px;
+	line-height: 15px;
+}
+.tsize_s p {
+	font-size: 13px;
+	line-height: 15px;
+}
+.tsize_s a {
+	font-size: 13px;
+	line-height: 15px;
+}
+.tsize_m td {
+	font-size: 15px;
+	line-height: 17px;
+}
+.tsize_m p {
+	font-size: 15px;
+	line-height: 17px;
+}
+.tsize_m a {
+	font-size: 15px;
+	line-height: 17px;
+}
+.tsize_l td {
+	font-size: 17px;
+	line-height: 19px;
+}
+.tsize_l p {
+	font-size: 17px;
+	line-height: 19px;
+}
+.tsize_l a {
+	font-size: 17px;
+	line-height: 19px;
+}
+.small_font {
+	font-size: 13px;
+}
+.small_font a {
+	font-size: 13px;
+}
+.small_font_over {
+	font-size: 13px;
+}
+.small_font_over a {
+	font-size: 13px;
+	color: #0099CC;
+	text-decoration: none;
+}
+.medium_font {
+	font-size: 15px;
+}
+.medium_font a {
+	font-size: 15px;
+}
+.medium_font_over {
+	font-size: 15px;
+}
+.medium_font_over a {
+	font-size: 15px;
+	color: #0099CC;
+	text-decoration: none;
+}
+.large_font {
+	font-size: 17px;
+}
+.large_font a {
+	font-size: 17px;
+}
+.large_font_over {
+	font-size: 17px;
+}
+.large_font_over a {
+	font-size: 17px;
+	color: #0099CC;
+	text-decoration: none;
+}
+-->
+</style>
+<body background="/portal/images/page_bg/home_bg.gif" bgcolor="#ffffff" text="#333333" link="#333333" vlink="#4c4c4c" alink="#660000" leftmargin="0" marginheight="0" marginwidth="0" topmargin="0">
+<map name="Map">
+  <area shape="rect" coords="16,3,83,64" href="http://www.nyc.gov/html/index.html" alt="NYC.gov Always Open">
+</map>
+<table width="770" border="0" cellspacing="0" cellpadding="0" height="68"> <tr valign="top">
+    <td height="68"><script language="JavaScript" type="text/JavaScript" src="/html/misc/scripts/portal_banner.js"></script>
+      <noscript>
+      <img src="/portal/images/headers/nycgov/banner_man_midtownnight.jpg" alt="Midtown Skyline, Manhattan. Photographer: Bart Barlow" width="770" height="68" border="0" usemap="#Map">
+      </noscript></td>
+  </tr>
+</table>
+<table border=0 cellPadding=0 cellSpacing=0 width="769"> <tr valign="top">
+    <td width="769"><table width="769" border="0" cellspacing="0" cellpadding="0" height="25">
+        <tr height="10">
+          <td  colspan="3" align="right" bgcolor="#91A6B4" height="25"><a href="/residents"><img src="/portal/images/headers/nycgov/button_residents.gif" alt="Residents" width="66" height="25" border="0"></a> <img src='http://nyc.gov/portal/images/headers/nycgov/button_divider.gif' alt='' width='10' height='25' border='0'> <a href="/business"><img src="/portal/images/headers/nycgov/button_business.gif" alt="Business" width="64" height="25" border="0"></a> <img src='http://nyc.gov/portal/images/headers/nycgov/button_divider.gif' alt='' width='10' height='25' border='0'> <a href="/visitors"><img src="/portal/images/headers/nycgov/button_visitors.gif" alt="Visitors" width="55" height="25" border="0"></a> <img src='http://nyc.gov/portal/images/headers/nycgov/button_divider.gif' alt='' width='10' height='25' border='0'> <a href="/government"><img src="/portal/images/headers/nycgov/button_government.gif" alt="Government" width="82" height="25" border="0"></a> <img src='http://nyc.gov/portal/images/headers/nycgov/button_divider.gif' alt='' width='10' height='25' border='0'> <a href="/mayor"><img src="/portal/images/headers/nycgov/button_office_of_mayor.gif" alt="Office of the Mayor" width="137" height="25" border="0"></a></td>
+        </tr>
+      </table>
+      <table width="769" border="0" cellspacing="0" cellpadding="0" bgcolor="#FFFFFF"> <tr valign="top">
+          <td width="569" bgcolor="#FFFFFF"><table width="569" border="0" cellspacing="0" cellpadding="0" bgcolor="FFFFFF"> <tr valign="top">
+                <td  width="569" align="left"><img src="/portal/images/spacers/spacer.gif" width="10" height="15" /><strong><font size="2">Warming Centers</font></strong></td>
+              </tr>
+            </table></td>
+          <td width="20"><img src="/portal/images/spacers/spacer.gif" width="20" height="33"></td>
+          <td width="180" align="center">Text Size: <span id="small_a" class="small_font_over"><a href="javascript:changeSize(1);">A</a></span> <span id="medium_a" class="medium_font"><a href="javascript:changeSize(2);">A</a></span> <span id="large_a" class="large_font"><a href="javascript:changeSize(3);">A</a></span></td>
+        </tr> <tr valign="top">
+          <td colspan="3"><img src="/portal/images/navigation/nycgov/top_horizontal_blk_line.gif" width="769" height="1"></td>
+        </tr>
+      </table></td>
+  </tr> <tr valign="top">
+    <td border='0'  cellpadding='0' cellspacing='0' width="769"><a name="mainContent"></a>
+      <table border="0" cellspacing="0" cellpadding="0" width='100%'> <tr valign="top">
+          <td width=100% align="left" valign="top" bgcolor="#FFFFFF"><table width="100%" border="0" cellspacing="0" cellpadding="0"> <tr valign="top">
+                <td width="20"><img src="/portal/images/spacers/spacer.gif" width="20" height="10"></td>
+                <td valign="top"><table width="100%" border=0 cellpadding=3 cellspacing=0 id="content_table" class="tsize_s"> <tr valign="top">
+                      <td align="left" valign="top"><p align="right"><br>
+                          <EM>Updated: 3/31/2013 at 5:00 PM</EM></p>
+                        <p><a href="http://www.nyc.gov/html/misc/pdf/warming_ctr.pdf">Download the 
+                          list in PDF </a></p>
+                        <p><strong>With the drop in temperatures, the City is providing warming centers located within Senior Centers in the five boroughs for a place to get out of the cold during the day. Please see times and locations below.</strong></p>
+                        <table border="1" cellpadding="3" cellspacing="0">
+  <tr bgcolor="#99CCFF">
+    <td>Program Name</td>
+    <td>Site Address</td>
+    <td>Borough</td>
+    <td>Zip Code</td>
+    <td height="45">4/1/2013</td>
+    <td>4/2/2013</td>
+    <td>4/3/2013</td>
+    <td>4/4/2013</td>
+    <td>4/5/2013</td>
+  </tr>
+  <tr>
+    <td>ARTURO SCHOMBERG SENIOR CENTER</td>
+    <td>1315 FRANKLIN AVENUE</td>
+    <td height="26">BRONX</td>
+    <td>10456</td>
+    <td height="26">9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+  </tr>
+  <tr>
+    <td>BRONX HOUSE SENIOR CENTER</td>
+    <td>990 PELHAM PARKWAY SOUTH</td>
+    <td height="26">BRONX</td>
+    <td>10461</td>
+    <td height="26">9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+  </tr>
+  <tr>
+    <td>BRONXWORKS E ROBERTS MOORE SENIOR CENTER</td>
+    <td>515 JACKSON AVENUE</td>
+    <td height="26">BRONX</td>
+    <td>10455</td>
+    <td height="26">9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+  </tr>
+  <tr>
+    <td>BRONXWORKS EAST CONCOURSE SENIOR CENTER</td>
+    <td>236 EAST TREMONT AVENUE</td>
+    <td height="26">BRONX</td>
+    <td>10457</td>
+    <td height="26">9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+  </tr>
+  <tr>
+    <td>BRONXWORKS HEIGHTS SENIOR CENTER</td>
+    <td>200 WEST TREMONT AVENUE</td>
+    <td height="26">BRONX</td>
+    <td>10453</td>
+    <td height="26">9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+  </tr>
+  <tr>
+    <td>BRONXWORKS MORRIS INNOVATIVE SR CENTER</td>
+    <td>80 EAST 181ST STREET</td>
+    <td height="26">BRONX</td>
+    <td>10453</td>
+    <td height="26">9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+  </tr>
+  <tr>
+    <td>CONCOURSE WELLNESS CENTER</td>
+    <td>900 GRAND CONCOURSE</td>
+    <td height="26">BRONX</td>
+    <td>10451</td>
+    <td height="26">9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+  </tr>
+  <tr>
+    <td>CO-OP CITY SENIOR CENTER</td>
+    <td>2049 BARTOW AVENUE</td>
+    <td height="26">BRONX</td>
+    <td>10475</td>
+    <td height="26">9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+  </tr>
+  <tr>
+    <td>DREISER SENIOR CENTER</td>
+    <td>177 DREISER LOOP</td>
+    <td height="26">BRONX</td>
+    <td>10475</td>
+    <td height="26">9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+  </tr>
+  <tr>
+    <td>HOPE OF ISRAEL SENIOR CENTER</td>
+    <td>1068 GERARD AVENUE</td>
+    <td height="26">BRONX</td>
+    <td>10452</td>
+    <td height="26">9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+  </tr>
+  <tr>
+    <td>IPR/HE BETANCES SENIOR CENTER</td>
+    <td>787 E. 149TH ST. (temporary)</td>
+    <td height="26">BRONX</td>
+    <td>10454</td>
+    <td height="26">9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+  </tr>
+  <tr>
+    <td>JAMES MONROE SENIOR CENTER</td>
+    <td>1776 STORY AVENUE</td>
+    <td height="26">BRONX</td>
+    <td>10473</td>
+    <td height="26">9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+  </tr>
+  <tr>
+    <td>JASA BAY-EDEN SENIOR CENTER</td>
+    <td>1220 EAST 229TH STREET</td>
+    <td height="26">BRONX</td>
+    <td>10466</td>
+    <td height="26">9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+  </tr>
+  <tr>
+    <td>JASA THROGS NECK SENIOR CENTER</td>
+    <td>2705 SCHLEY AVENUE</td>
+    <td height="26">BRONX</td>
+    <td>10465</td>
+    <td height="26">9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+  </tr>
+  <tr>
+    <td>KIPS BAY CASTLE HILL SENIOR CENTER</td>
+    <td>625 CASTLE HILL AVENUE</td>
+    <td height="26">BRONX</td>
+    <td>10473</td>
+    <td height="26">9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+  </tr>
+  <tr>
+    <td>MARBLE HILL SENIOR CENTER</td>
+    <td>5365 BROADWAY</td>
+    <td height="26">BRONX</td>
+    <td>10463</td>
+    <td height="26">9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+  </tr>
+  <tr>
+    <td>MELROSE MOTT HAVEN SENIOR CENTER</td>
+    <td>372 EAST 152ND STREET</td>
+    <td height="26">BRONX</td>
+    <td>10455</td>
+    <td height="26">9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+  </tr>
+  <tr>
+    <td>MITCHELL HOUSES</td>
+    <td>188 LINCOLN AVENUE</td>
+    <td height="26">BRONX</td>
+    <td>10454</td>
+    <td height="26">9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+  </tr>
+  <tr>
+    <td>MOSHOLU MONTEFIORE SENIOR CENTER</td>
+    <td>3450 DEKALB AVENUE</td>
+    <td height="26">BRONX</td>
+    <td>10467</td>
+    <td height="26">9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+  </tr>
+  <tr>
+    <td>MT CARMEL CENTER FOR SR CITIZENS</td>
+    <td>2405 SOUTHERN BOULEVARD</td>
+    <td height="26">BRONX</td>
+    <td>10458</td>
+    <td height="26">9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+  </tr>
+  <tr>
+    <td>NEIGHBORHOOD SHOPP CASA BORICUA SR CTR</td>
+    <td>910 EAST 172ND STREET</td>
+    <td height="26">BRONX</td>
+    <td>10460</td>
+    <td height="26">9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+  </tr>
+  <tr>
+    <td>NEIGHBORHOOD SHOPP LEON SENIOR CENTER</td>
+    <td>735 EAST 152ND STREET</td>
+    <td height="26">BRONX</td>
+    <td>10455</td>
+    <td height="26">9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+  </tr>
+  <tr>
+    <td>NORTHEAST BRONX SENIOR CITIZEN CENTER</td>
+    <td>2968 BRUCKNER BOULEVARD</td>
+    <td height="26">BRONX</td>
+    <td>10465</td>
+    <td height="26">9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+  </tr>
+  <tr>
+    <td>PARKSIDE SENIOR CENTER</td>
+    <td>644 ADEE AVENUE</td>
+    <td height="26">BRONX</td>
+    <td>10467</td>
+    <td height="26">9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+  </tr>
+  <tr>
+    <td>PSS ANDREW JACKSON SENIOR CENTER</td>
+    <td>325 EAST 156TH STREET</td>
+    <td height="26">BRONX</td>
+    <td>10451</td>
+    <td height="26">9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+  </tr>
+  <tr>
+    <td>PSS HIGHBRIDGE SENIOR CENTER</td>
+    <td>1181 NELSON AVENUE</td>
+    <td height="26">BRONX</td>
+    <td>10452</td>
+    <td height="26">9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+  </tr>
+  <tr>
+    <td>PSS-DAVIDSON SENIOR CENTER</td>
+    <td>950 UNION AVENUE</td>
+    <td height="26">BRONX</td>
+    <td>10459</td>
+    <td height="26">9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+  </tr>
+  <tr>
+    <td>RAIN BOSTON EAST SENIOR CENTER</td>
+    <td>3450 BOSTON RD</td>
+    <td height="26">BRONX</td>
+    <td>10469</td>
+    <td height="26">9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+  </tr>
+  <tr>
+    <td>RAIN BOSTON ROAD SENIOR CENTER</td>
+    <td>2424 BOSTON RD</td>
+    <td height="26">BRONX</td>
+    <td>10467</td>
+    <td height="26">9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+  </tr>
+  <tr>
+    <td>RAIN BOSTON SECOR SENIOR CENTER</td>
+    <td>3540 BIVONA ST</td>
+    <td height="26">BRONX</td>
+    <td>10475</td>
+    <td height="26">9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+  </tr>
+  <tr>
+    <td>RAIN EASTCHESTER SENIOR CENTER</td>
+    <td>1246 BURKE AVE</td>
+    <td height="26">BRONX</td>
+    <td>10469</td>
+    <td height="26">9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+  </tr>
+  <tr>
+    <td>RAIN GUNHILL SENIOR CENTER</td>
+    <td>3377 WHITE PLAINS RD</td>
+    <td height="26">BRONX</td>
+    <td>10467</td>
+    <td height="26">9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+  </tr>
+  <tr>
+    <td>RAIN MIDDLETOWN SENIOR CENTER</td>
+    <td>3035 MIDDLETOWN RD</td>
+    <td height="26">BRONX</td>
+    <td>10461</td>
+    <td height="26">9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+  </tr>
+  <tr>
+    <td>RAIN NEREID SENIOR CENTER</td>
+    <td>720 NEREID AVE</td>
+    <td height="26">BRONX</td>
+    <td>10466</td>
+    <td height="26">9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+  </tr>
+  <tr>
+    <td>RAIN PARKCHESTER SENIOR CENTER</td>
+    <td>1380 METROPOLITAN AVE</td>
+    <td height="26">BRONX</td>
+    <td>10462</td>
+    <td height="26">9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+  </tr>
+  <tr>
+    <td>RIVERDALE SENIOR CENTER</td>
+    <td>2600 NETHERLAND AVENUE</td>
+    <td height="26">BRONX</td>
+    <td>10463</td>
+    <td height="26">9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+  </tr>
+  <tr>
+    <td>RIVERDALE Y SENIOR CENTER</td>
+    <td>5625 ARLINGTON AVENUE</td>
+    <td height="26">BRONX</td>
+    <td>10471</td>
+    <td height="26">9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+  </tr>
+  <tr>
+    <td>SEBCO SENIOR PROGRAMS</td>
+    <td>887 SOUTHERN BOULEVARD</td>
+    <td height="26">BRONX</td>
+    <td>10459</td>
+    <td height="26">9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+  </tr>
+  <tr>
+    <td>SISTER ANNUNCIATA BETHEL SENIOR CENTER</td>
+    <td>243 EAST 204TH STREET</td>
+    <td height="26">BRONX</td>
+    <td>10458</td>
+    <td height="26">9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+  </tr>
+  <tr>
+    <td>THOMAS L. GUESS COMMUNITY SENIOR CENTER</td>
+    <td>2070 CLINTON AVENUE</td>
+    <td height="26">BRONX</td>
+    <td>10457</td>
+    <td height="26">9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+  </tr>
+  <tr>
+    <td>VAN CORTLANDT SENIOR CENTER</td>
+    <td>3880 SEDGWICK AVENUE</td>
+    <td height="26">BRONX</td>
+    <td>10463</td>
+    <td height="26">9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+  </tr>
+  <tr>
+    <td>WILLIAM HODSON SENIOR CENTER</td>
+    <td>1320 WEBSTER AVENUE</td>
+    <td height="26">BRONX</td>
+    <td>10456</td>
+    <td height="26">9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+  </tr>
+  <tr>
+    <td>ABE STARK SENIOR CENTER</td>
+    <td>10315 FARRAGUT ROAD</td>
+    <td height="26">BROOKLYN</td>
+    <td>11236</td>
+    <td height="26">9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+  </tr>
+  <tr>
+    <td>AMICO 59TH STREET SENIOR CENTER</td>
+    <td>5901 13TH AVENUE</td>
+    <td height="26">BROOKLYN</td>
+    <td>11219</td>
+    <td height="26">9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+  </tr>
+  <tr>
+    <td>BAY RIDGE CENTER FOR OLDER ADULTS</td>
+    <td>411 OVINGTON AVENUE</td>
+    <td height="26">BROOKLYN</td>
+    <td>11209</td>
+    <td height="26">9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+  </tr>
+  <tr>
+    <td>BCA 6TH AVENUE SENIOR CENTER</td>
+    <td>545 60TH STREET</td>
+    <td height="26">BROOKLYN</td>
+    <td>11220</td>
+    <td height="26">9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+  </tr>
+  <tr>
+    <td>BENSONHURST SENIOR CENTER</td>
+    <td>7802 BAY PARKWAY</td>
+    <td height="26">BROOKLYN</td>
+    <td>11214</td>
+    <td height="26">9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+  </tr>
+  <tr>
+    <td>BERGEN BEACH YOUTH ORGANIZATION INC.</td>
+    <td>2335 BERGEN AVENUE</td>
+    <td height="26">BROOKLYN</td>
+    <td>11234</td>
+    <td height="26">9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+  </tr>
+  <tr>
+    <td>BORINQUEN PLAZA NUTRITION CENTER</td>
+    <td>80 SEIGEL STREET</td>
+    <td height="26">BROOKLYN</td>
+    <td>11206</td>
+    <td height="26">9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+  </tr>
+  <tr>
+    <td>BORO PARK SENIOR CENTER</td>
+    <td>5602 11TH AVENUE</td>
+    <td height="26">BROOKLYN</td>
+    <td>11219</td>
+    <td height="26">9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+  </tr>
+  <tr>
+    <td>BORO PARK YM-YWHA SENIOR CENTER</td>
+    <td>4912 14TH AVENUE</td>
+    <td height="26">BROOKLYN</td>
+    <td>11219</td>
+    <td height="26">9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+  </tr>
+  <tr>
+    <td>BROOKDALE SENIOR CITIZENS CENTER</td>
+    <td>817 AVENUE H</td>
+    <td height="26">BROOKLYN</td>
+    <td>11230</td>
+    <td height="26">9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+  </tr>
+  <tr>
+    <td>CCNS GLENWOOD SENIOR CENTER</td>
+    <td>5701 AVENUE H</td>
+    <td height="26">BROOKLYN</td>
+    <td>11234</td>
+    <td height="26">9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+  </tr>
+  <tr>
+    <td>CCNS MCGUINESS NORTHSIDE SENIOR CENTER</td>
+    <td>715 LEONARD STREET</td>
+    <td height="26">BROOKLYN</td>
+    <td>11222</td>
+    <td height="26">9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+  </tr>
+  <tr>
+    <td>CCNS NARROWS SENIOR CENTER</td>
+    <td>1230 63RD STREET</td>
+    <td height="26">BROOKLYN</td>
+    <td>11219</td>
+    <td height="26">9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+  </tr>
+  <tr>
+    <td>CCNS NORTHSIDE SENIOR CENTER</td>
+    <td>179 NORTH 6TH STREET</td>
+    <td height="26">BROOKLYN</td>
+    <td>11211</td>
+    <td height="26">9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+  </tr>
+  <tr>
+    <td>CCNS SAINT LOUIS SENIOR CENTER</td>
+    <td>230 KINGSTON AVENUE</td>
+    <td height="26">BROOKLYN</td>
+    <td>11213</td>
+    <td height="26">9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+  </tr>
+  <tr>
+    <td>CCNS ST CHARLES JUBILEE SENIOR CENTER</td>
+    <td>55 PIERREPONT STREET</td>
+    <td height="26">BROOKLYN</td>
+    <td>11201</td>
+    <td height="26">9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+  </tr>
+  <tr>
+    <td>CCNS THE BAY SENIOR CENTER</td>
+    <td>3643 NOSTRAND AVENUE</td>
+    <td height="26">BROOKLYN</td>
+    <td>11229</td>
+    <td height="26">9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+  </tr>
+  <tr>
+    <td>CHRISTOPHER C BLENMAN SENIOR CENTER</td>
+    <td>720 EAST NEW YORK AVENUE</td>
+    <td height="26">BROOKLYN</td>
+    <td>11203</td>
+    <td height="26">9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+  </tr>
+  <tr>
+    <td>COUNCIL CENTER FOR SENIOR CITIZENS</td>
+    <td>1001 QUENTIN ROAD</td>
+    <td height="26">BROOKLYN</td>
+    <td>11223</td>
+    <td height="26">9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+  </tr>
+  <tr>
+    <td>CYPRESS HILLS FULTON ST SR CENTER</td>
+    <td>3208 FULTON STREET</td>
+    <td height="26">BROOKLYN</td>
+    <td>11208</td>
+    <td height="26">9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+  </tr>
+  <tr>
+    <td>DIANA JONES SENIOR CENTER</td>
+    <td>9 NOLL STREET</td>
+    <td height="26">BROOKLYN</td>
+    <td>11206</td>
+    <td height="26">9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+  </tr>
+  <tr>
+    <td>DORCHESTER SENIOR CENTER</td>
+    <td>1419 DORCHESTER ROAD</td>
+    <td height="26">BROOKLYN</td>
+    <td>11226</td>
+    <td height="26">9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+  </tr>
+  <tr>
+    <td>FORT GREENE ALBANY SENIOR CENTER</td>
+    <td>196 ALBANY AVENUE</td>
+    <td height="26">BROOKLYN</td>
+    <td>11213</td>
+    <td height="26">9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+  </tr>
+  <tr>
+    <td>FGC TERESA MOORE SENIOR CENTER</td>
+    <td>2702 LINDEN BOULEVARD</td>
+    <td height="26">BROOKLYN</td>
+    <td>11208</td>
+    <td height="26">9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+  </tr>
+  <tr>
+    <td>FORT GREENE HAZEL BROOKS SENIOR CENTER</td>
+    <td>951-963 OCEAN AVENUE</td>
+    <td height="26">BROOKLYN</td>
+    <td>11226</td>
+    <td height="26">9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+  </tr>
+  <tr>
+    <td>FT GREENE GRANT SQUARE SENIOR CENTER</td>
+    <td>19 GRANT SQUARE</td>
+    <td height="26">BROOKLYN</td>
+    <td>11216</td>
+    <td height="26">9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+  </tr>
+  <tr>
+    <td>FT GREENE STUYVESANT HEIGHTS SENIOR CTR</td>
+    <td>69 MCDONOUGH STREET</td>
+    <td height="26">BROOKLYN</td>
+    <td>11216</td>
+    <td height="26">9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+  </tr>
+  <tr>
+    <td>GRACE AGARD HAREWOOD SENIOR CENTER</td>
+    <td>966 FULTON STREET</td>
+    <td height="26">BROOKLYN</td>
+    <td>11238</td>
+    <td height="26">9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+  </tr>
+  <tr>
+    <td>H GILROY SENIOR CENTER</td>
+    <td>447 KINGSBOROUGH 4th WALK</td>
+    <td height="26">BROOKLYN</td>
+    <td>11233</td>
+    <td height="26">9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+  </tr>
+  <tr>
+    <td>HOMECREST BENSONHURST SENIOR CENTER</td>
+    <td>7907 NEW UTRECHT AVE</td>
+    <td height="26">BROOKLYN</td>
+    <td>11214</td>
+    <td height="26">9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+  </tr>
+  <tr>
+    <td>HOPE GARDENS SENIOR CENTER</td>
+    <td>195 LINDEN STREET</td>
+    <td height="26">BROOKLYN</td>
+    <td>11221</td>
+    <td height="26">9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+  </tr>
+  <tr>
+    <td>HOUSE OF JACOB SENIOR CENTER</td>
+    <td>6222 23RD AVENUE</td>
+    <td height="26">BROOKLYN</td>
+    <td>11204</td>
+    <td height="26">9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+  </tr>
+  <tr>
+    <td>INDEPENDENCE TOWERS ACTIVE ADULTS</td>
+    <td>114 TAYLOR STREET</td>
+    <td height="26">BROOKLYN</td>
+    <td>11211</td>
+    <td height="26">9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+  </tr>
+  <tr>
+    <td>JASA HES SENIOR CENTER</td>
+    <td>9502 SEAVIEW AVENUE</td>
+    <td height="26">BROOKLYN</td>
+    <td>11236</td>
+    <td height="26">9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+  </tr>
+  <tr>
+    <td>JASA LUNA PARK SENIOR CENTER</td>
+    <td>2880 WEST 12TH STREET</td>
+    <td height="26">BROOKLYN</td>
+    <td>11224</td>
+    <td height="26">9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+  </tr>
+  <tr>
+    <td>JASA MANHATTAN BEACH SENIOR CENTER</td>
+    <td>60 WEST END AVENUE</td>
+    <td height="26">BROOKLYN</td>
+    <td>11235</td>
+    <td height="26">9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+  </tr>
+  <tr>
+    <td>JASA SCHEUER HOUSE OF CONEY ISL SR CTR</td>
+    <td>3601 SURF AVENUE</td>
+    <td height="26">BROOKLYN</td>
+    <td>11224</td>
+    <td height="26">9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+  </tr>
+  <tr>
+    <td>JASA SENIOR ALLIANCE SENIOR CENTER</td>
+    <td>161 CORBIN PLACE</td>
+    <td height="26">BROOKLYN</td>
+    <td>11235</td>
+    <td height="26">9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+  </tr>
+  <tr>
+    <td>JASA SHOREFRONT SENIOR CENTER</td>
+    <td>3300 CONEY ISLAND AVENUE</td>
+    <td height="26">BROOKLYN</td>
+    <td>11235</td>
+    <td height="26">9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+  </tr>
+  <tr>
+    <td>JASA STARRETT CITY SENIOR CENTER</td>
+    <td>1540 VAN SICLEN AVENUE</td>
+    <td height="26">BROOKLYN</td>
+    <td>11239</td>
+    <td height="26">9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+  </tr>
+  <tr>
+    <td>JASA WILLIAMSBURG SENIOR CENTER</td>
+    <td>202 GRAHAM AVENUE</td>
+    <td height="26">BROOKLYN</td>
+    <td>11206</td>
+    <td height="26">9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+  </tr>
+  <tr>
+    <td>JAY SENIOR CENTER</td>
+    <td>2600 OCEAN AVENUE</td>
+    <td height="26">BROOKLYN</td>
+    <td>11229</td>
+    <td height="26">9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+  </tr>
+  <tr>
+    <td>KRAKUS LUNCHEON CLUB SENIOR CENTER</td>
+    <td>176 JAVA STREET</td>
+    <td height="26">BROOKLYN</td>
+    <td>11222</td>
+    <td height="26">9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+  </tr>
+  <tr>
+    <td>LOS SURES SENIOR CENTER</td>
+    <td>201 SOUTH 4TH STREET</td>
+    <td height="26">BROOKLYN</td>
+    <td>11211</td>
+    <td height="26">9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+  </tr>
+  <tr>
+    <td>MARIA LAWTON SENIOR CENTER</td>
+    <td>400 HART STREET</td>
+    <td height="26">BROOKLYN</td>
+    <td>11206</td>
+    <td height="26">9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+  </tr>
+  <tr>
+    <td>MARLBORO SENIOR CENTER</td>
+    <td>2298 WEST 8TH STREET</td>
+    <td height="26">BROOKLYN</td>
+    <td>11223</td>
+    <td height="26">9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+  </tr>
+  <tr>
+    <td>MIDWOOD SENIOR CENTER</td>
+    <td>4815 AVENUE I</td>
+    <td height="26">BROOKLYN</td>
+    <td>11234</td>
+    <td height="26">9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+  </tr>
+  <tr>
+    <td>MIDWOOD SENIOR LEAGUE SATELITE</td>
+    <td>1625 OCEAN AVENUE</td>
+    <td height="26">BROOKLYN</td>
+    <td>11230</td>
+    <td height="26">9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+  </tr>
+  <tr>
+    <td>MOOSE LODGE SENIOR CENTER</td>
+    <td>77-11 18TH AVENUE</td>
+    <td height="26">BROOKLYN</td>
+    <td>11214</td>
+    <td height="26">9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+  </tr>
+  <tr>
+    <td>OCEAN PARKWAY SENIOR CITIZENS CENTER</td>
+    <td>1960 EAST 7TH STREET</td>
+    <td height="26">BROOKLYN</td>
+    <td>11223</td>
+    <td height="26">9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+  </tr>
+  <tr>
+    <td>PARK SLOPE SENIOR CITIZENS CENTER</td>
+    <td>463A 7TH STREET</td>
+    <td height="26">BROOKLYN</td>
+    <td>11215</td>
+    <td height="26">9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+  </tr>
+  <tr>
+    <td>PENN WORTMAN ACTIVE ADULTS</td>
+    <td>895 PENNSYLVANIA AVENUE</td>
+    <td height="26">BROOKLYN</td>
+    <td>11234</td>
+    <td height="26">9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+  </tr>
+  <tr>
+    <td>PROSPECT HILL SENIOR SERVICES CENTER</td>
+    <td>283 PROSPECT AVENUE</td>
+    <td height="26">BROOKLYN</td>
+    <td>11215</td>
+    <td height="26">9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+  </tr>
+  <tr>
+    <td>RED HOOK SENIOR CENTER</td>
+    <td>110 WEST 9TH STREET (temporary)</td>
+    <td height="26">BROOKLYN</td>
+    <td>11231</td>
+    <td height="26">9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+  </tr>
+  <tr>
+    <td>REMSEN-SENIOR ACTION SENIOR CENTER</td>
+    <td>3304 CLARENDON ROAD</td>
+    <td height="26">BROOKLYN</td>
+    <td>11203</td>
+    <td height="26">9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+  </tr>
+  <tr>
+    <td>RIDGEWOOD BUSHWICK SENIOR CENTER</td>
+    <td>319 STANHOPE STREET</td>
+    <td height="26">BROOKLYN</td>
+    <td>11237</td>
+    <td height="26">9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+  </tr>
+  <tr>
+    <td>ROSETTA GASTON SENIOR CENTER</td>
+    <td>460 DUMONT AVENUE</td>
+    <td height="26">BROOKLYN</td>
+    <td>11212</td>
+    <td height="26">9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+  </tr>
+  <tr>
+    <td>ROUNDTABLE SENIOR CITIZENS CENTER</td>
+    <td>1175 GATES AVENUE</td>
+    <td height="26">BROOKLYN</td>
+    <td>11221</td>
+    <td height="26">9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+  </tr>
+  <tr>
+    <td>SAINT GABRIELS SENIOR CENTER</td>
+    <td>331 HAWTHORNE STREET</td>
+    <td height="26">BROOKLYN</td>
+    <td>11225</td>
+    <td height="26">9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+  </tr>
+  <tr>
+    <td>SEPHARDIC MULTI SERVICE SENIOR CENTER</td>
+    <td>485 KINGS HIGHWAY</td>
+    <td height="26">BROOKLYN</td>
+    <td>11223</td>
+    <td height="26">9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+  </tr>
+  <tr>
+    <td>SHALOM SENIOR CENTER</td>
+    <td>483 ALBANY AVENUE</td>
+    <td height="26">BROOKLYN</td>
+    <td>11203</td>
+    <td height="26">9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+  </tr>
+  <tr>
+    <td>SHORE HILL NEIGHBORHOOD CENTER</td>
+    <td>9000 SHORE ROAD</td>
+    <td height="26">BROOKLYN</td>
+    <td>11209</td>
+    <td height="26">9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+  </tr>
+  <tr>
+    <td>SR CITIZENS LEAGUE OF FLATBUSH SR CENTER</td>
+    <td>550 OCEAN PARKWAY</td>
+    <td height="26">BROOKLYN</td>
+    <td>11218</td>
+    <td height="26">9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+  </tr>
+  <tr>
+    <td>SUNSET PARK SENIOR CENTER</td>
+    <td>4520 FOURTH AVENUE</td>
+    <td height="26">BROOKLYN</td>
+    <td>11220</td>
+    <td height="26">9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+  </tr>
+  <tr>
+    <td>SWINGING 60S SENIOR CENTER</td>
+    <td>211 AINSLIE STREET</td>
+    <td height="26">BROOKLYN</td>
+    <td>11211</td>
+    <td height="26">9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+  </tr>
+  <tr>
+    <td>TILDEN SENIOR CENTER</td>
+    <td>630 MOTHER GASTON BOULEVARD</td>
+    <td height="26">BROOKLYN</td>
+    <td>11212</td>
+    <td height="26">9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+  </tr>
+  <tr>
+    <td>TIMES PLAZA SENIOR CENTER</td>
+    <td>460 ATLANTIC AVENUE</td>
+    <td height="26">BROOKLYN</td>
+    <td>11217</td>
+    <td height="26">9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+  </tr>
+  <tr>
+    <td>UNITED SENIOR CITIZENS CENTER</td>
+    <td>475 53RD STREET</td>
+    <td height="26">BROOKLYN</td>
+    <td>11220</td>
+    <td height="26">9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+  </tr>
+  <tr>
+    <td>VAN DYKE SENIOR CENTER</td>
+    <td>430 DUMONT AVENUE</td>
+    <td height="26">BROOKLYN</td>
+    <td>11212</td>
+    <td height="26">9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+  </tr>
+  <tr>
+    <td>VANDALIA SENIOR CENTER</td>
+    <td>47 VANDALIA AVENUE</td>
+    <td height="26">BROOKLYN</td>
+    <td>11239</td>
+    <td height="26">9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+  </tr>
+  <tr>
+    <td>WAYSIDE TOMPKINS PARK SENIOR CENTER</td>
+    <td>550 GREENE AVENUE</td>
+    <td height="26">BROOKLYN</td>
+    <td>11216</td>
+    <td height="26">9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+  </tr>
+  <tr>
+    <td>WILLIAMSBURG-SATMAR SENIOR CENTER</td>
+    <td>125 HEYWARD STREET</td>
+    <td height="26">BROOKLYN</td>
+    <td>11206</td>
+    <td height="26">9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+  </tr>
+  <tr>
+    <td>WILLOUGHBY SENIOR CENTER</td>
+    <td>105 NORTH PORTLAND AVENUE</td>
+    <td height="26">BROOKLYN</td>
+    <td>11205</td>
+    <td height="26">9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+  </tr>
+  <tr>
+    <td>WYCKOFF GARDENS SENIOR CENTER</td>
+    <td>280 WYCKOFF STREET</td>
+    <td height="26">BROOKLYN</td>
+    <td>11217</td>
+    <td height="26">9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+  </tr>
+  <tr>
+    <td>YOUNG ISRAEL OF MIDWOOD SENIOR CENTER</td>
+    <td>1694 OCEAN AVENUE</td>
+    <td height="26">BROOKLYN</td>
+    <td>11230</td>
+    <td height="26">9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+  </tr>
+  <tr>
+    <td>A PHILIP RANDOLPH SENIOR CENTER</td>
+    <td>108 WEST 146TH STREET</td>
+    <td height="26">MANHATTAN</td>
+    <td>10039</td>
+    <td height="26">9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+  </tr>
+  <tr>
+    <td>ABYSSINIAN TOWERS SENIOR CENTER</td>
+    <td>50 W 131ST ST</td>
+    <td height="26">MANHATTAN</td>
+    <td>10037</td>
+    <td height="26">9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+  </tr>
+  <tr>
+    <td>ARC FT WASHINGTON SENIOR CENTER</td>
+    <td>4111 BROADWAY</td>
+    <td height="26">MANHATTAN</td>
+    <td>10033</td>
+    <td height="26">9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+  </tr>
+  <tr>
+    <td>ASSOC OF BLACK SOCIAL WORKERS SR CENTER</td>
+    <td>221 WEST 107TH STREET</td>
+    <td height="26">MANHATTAN</td>
+    <td>10025</td>
+    <td height="26">9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+  </tr>
+  <tr>
+    <td>BRC SENIOR NUTRITION PROGRAM</td>
+    <td>30 DELANCEY STREET</td>
+    <td height="26">MANHATTAN</td>
+    <td>10002</td>
+    <td height="26">9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+  </tr>
+  <tr>
+    <td>CANAAN SENIOR SERVICE CENTER</td>
+    <td>10 LENOX AVENUE</td>
+    <td height="26">MANHATTAN</td>
+    <td>10026</td>
+    <td height="26">9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+  </tr>
+  <tr>
+    <td>CARTER BURDEN LUNCHEON CLUB</td>
+    <td>351 EAST 74TH STREET</td>
+    <td height="26">MANHATTAN</td>
+    <td>10021</td>
+    <td height="26">9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+  </tr>
+  <tr>
+    <td>CARVER SENIOR CENTER</td>
+    <td>55 EAST 102ND STREET</td>
+    <td height="26">MANHATTAN</td>
+    <td>10029</td>
+    <td height="26">9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+  </tr>
+  <tr>
+    <td>CENTER ON THE SQUARE SENIOR CENTER</td>
+    <td>20 WASHINGTON SQUARE NORTH</td>
+    <td height="26">MANHATTAN</td>
+    <td>10011</td>
+    <td height="26">9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+  </tr>
+  <tr>
+    <td>CENTRAL HARLEM SENIOR CENTER</td>
+    <td>120 WEST 140TH STREET</td>
+    <td height="26">MANHATTAN</td>
+    <td>10030</td>
+    <td height="26">9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+  </tr>
+  <tr>
+    <td>CITY HALL SENIOR CENTER</td>
+    <td>100 GOLD STREET</td>
+    <td height="26">MANHATTAN</td>
+    <td>10038</td>
+    <td height="26">9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+  </tr>
+  <tr>
+    <td>COMMUNITY KITCHEN OF WEST HARLEM SC</td>
+    <td>252 W 116TH ST</td>
+    <td height="26">MANHATTAN</td>
+    <td>10026</td>
+    <td height="26">9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+  </tr>
+  <tr>
+    <td>CORSI HOUSE SENIOR CENTER</td>
+    <td>307 EAST 116TH STREET</td>
+    <td height="26">MANHATTAN</td>
+    <td>10029</td>
+    <td height="26">9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+  </tr>
+  <tr>
+    <td>COTHOA LUNCHEON CLUB SENIOR CENTER</td>
+    <td>2005 AMSTERDAM AVENUE</td>
+    <td height="26">MANHATTAN</td>
+    <td>10032</td>
+    <td height="26">9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+  </tr>
+  <tr>
+    <td>CPC PROJECT OPEN DOOR</td>
+    <td>168 GRAND STREET</td>
+    <td height="26">MANHATTAN</td>
+    <td>10013</td>
+    <td height="26">9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+  </tr>
+  <tr>
+    <td>DYCKMAN SENIOR CENTER</td>
+    <td>3754 10TH AVENUE</td>
+    <td height="26">MANHATTAN</td>
+    <td>10034</td>
+    <td height="26">9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+  </tr>
+  <tr>
+    <td>E. HARLEM CNCL NUTRITION PROGRAM</td>
+    <td>150 EAST 121ST STREET</td>
+    <td height="26">MANHATTAN</td>
+    <td>10035</td>
+    <td height="26">9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+  </tr>
+  <tr>
+    <td>EDUCATIONAL ALLIANCE/ Whittaker Center</td>
+    <td>197 EAST BROADWAY</td>
+    <td height="26">MANHATTAN</td>
+    <td>10002</td>
+    <td height="26">9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+  </tr>
+  <tr>
+    <td>ENCORE LUNCHEON CLUB</td>
+    <td>239 WEST 49TH STREET</td>
+    <td height="26">MANHATTAN</td>
+    <td>10019</td>
+    <td height="26">9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+  </tr>
+  <tr>
+    <td>GAYLORD WHITE SENIOR CENTER</td>
+    <td>2029 SECOND AVENUE</td>
+    <td height="26">MANHATTAN</td>
+    <td>10029</td>
+    <td height="26">9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+  </tr>
+  <tr>
+    <td>GODDARD-RIVERSIDE SENIOR CENTER</td>
+    <td>593 COLUMBUS AVENUE</td>
+    <td height="26">MANHATTAN</td>
+    <td>10024</td>
+    <td height="26">9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+  </tr>
+  <tr>
+    <td>GOOD COMPANIONS NUTRITION</td>
+    <td>334 MADISON STREET</td>
+    <td height="26">MANHATTAN</td>
+    <td>10002</td>
+    <td height="26">9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+  </tr>
+  <tr>
+    <td>GRAND COALITION OF SENIORS SENIOR CENTER</td>
+    <td>80 PITT STREET</td>
+    <td height="26">MANHATTAN</td>
+    <td>10002</td>
+    <td height="26">9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+  </tr>
+  <tr>
+    <td>HAMILTON GRANGE SENIOR CENTER</td>
+    <td>420 WEST 145TH STREET</td>
+    <td height="26">MANHATTAN</td>
+    <td>10031</td>
+    <td height="26">9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+  </tr>
+  <tr>
+    <td>HUDSON GUILD SENIOR SERVICES</td>
+    <td>119 9TH AVENUE</td>
+    <td height="26">MANHATTAN</td>
+    <td>10011</td>
+    <td height="26">9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+  </tr>
+  <tr>
+    <td>INDEPENDENCE PLAZA</td>
+    <td>310 GREENWICH STREET</td>
+    <td height="26">MANHATTAN</td>
+    <td>10013</td>
+    <td height="26">9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+  </tr>
+  <tr>
+    <td>JACKIE ROBINSON SR CTR AT GRANT HOUSES</td>
+    <td>1301 AMSTERDAM AVENUE</td>
+    <td height="26">MANHATTAN</td>
+    <td>10027</td>
+    <td height="26">9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+  </tr>
+  <tr>
+    <td>JASA CLUB 76</td>
+    <td>120 WEST 76TH STREET</td>
+    <td height="26">MANHATTAN</td>
+    <td>10023</td>
+    <td height="26">9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+  </tr>
+  <tr>
+    <td>JEFFERSON HOUSES SENIOR CENTER</td>
+    <td>2205 FIRST AVENUE</td>
+    <td height="26">MANHATTAN</td>
+    <td>10029</td>
+    <td height="26">9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+  </tr>
+  <tr>
+    <td>JOHN PAUL II FRIENDSHIP CENTER</td>
+    <td>103 EAST 7TH STREET</td>
+    <td height="26">MANHATTAN</td>
+    <td>10009</td>
+    <td height="26">9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+  </tr>
+  <tr>
+    <td>JUDITH WHITE SENIOR CENTER</td>
+    <td>27 BARROW STREET</td>
+    <td height="26">MANHATTAN</td>
+    <td>10014</td>
+    <td height="26">9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+  </tr>
+  <tr>
+    <td>KENNEDY SENIOR CENTER</td>
+    <td>34 WEST 134TH STREET</td>
+    <td height="26">MANHATTAN</td>
+    <td>10037</td>
+    <td height="26">9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+  </tr>
+  <tr>
+    <td>LA GUARDIA SENIOR CENTER</td>
+    <td>280 CHERRY STREET</td>
+    <td height="26">MANHATTAN</td>
+    <td>10002</td>
+    <td height="26">9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+  </tr>
+  <tr>
+    <td>LENOX HILL INNOVATIVE SENIOR CENTER</td>
+    <td>343 EAST 70TH STREET</td>
+    <td height="26">MANHATTAN</td>
+    <td>10021</td>
+    <td height="26">9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+  </tr>
+  <tr>
+    <td>LENOX HILL SENIOR CENTER II ST. PETER'S</td>
+    <td>619 LEXINGTON AVENUE</td>
+    <td height="26">MANHATTAN</td>
+    <td>10022</td>
+    <td height="26">9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+  </tr>
+  <tr>
+    <td>LEONARD COVELLO SENIOR CENTER</td>
+    <td>312 EAST 109TH STREET</td>
+    <td height="26">MANHATTAN</td>
+    <td>10029</td>
+    <td height="26">9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+  </tr>
+  <tr>
+    <td>M MCLEOD BETHUNE SENIOR CENTER</td>
+    <td>1970 AMSTERDAM AVENUE</td>
+    <td height="26">MANHATTAN</td>
+    <td>10032</td>
+    <td height="26">9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+  </tr>
+  <tr>
+    <td>MANHATTANVILLE-RIVERSIDE SENIOR CENTER</td>
+    <td>3333 BROADWAY</td>
+    <td height="26">MANHATTAN</td>
+    <td>10031</td>
+    <td height="26">9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+  </tr>
+  <tr>
+    <td>MORIAH OLDER ADULT LUNCHEON CLUB</td>
+    <td>90 BENNETT AVENUE</td>
+    <td height="26">MANHATTAN</td>
+    <td>10033</td>
+    <td height="26">9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+  </tr>
+  <tr>
+    <td>MOTT STREET SENIOR CENTER</td>
+    <td>180 MOTT STREET</td>
+    <td height="26">MANHATTAN</td>
+    <td>10012</td>
+    <td height="26">9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+  </tr>
+  <tr>
+    <td>NY CHINATOWN SENIOR CENTER</td>
+    <td>70 MULBERRY STREET</td>
+    <td height="26">MANHATTAN</td>
+    <td>10013</td>
+    <td height="26">9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+  </tr>
+  <tr>
+    <td>OUR LADY OF POMPEII SENIOR CENTER</td>
+    <td>25 CARMINE STREET</td>
+    <td height="26">MANHATTAN</td>
+    <td>10014</td>
+    <td height="26">9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+  </tr>
+  <tr>
+    <td>PROJECT FIND CLINTON SENIOR CENTER</td>
+    <td>530 WEST 55TH STREET</td>
+    <td height="26">MANHATTAN</td>
+    <td>10019</td>
+    <td height="26">9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+  </tr>
+  <tr>
+    <td>PROJECT FIND COFFEEHOUSE SENIOR CENTER</td>
+    <td>551 NINTH AVENUE</td>
+    <td height="26">MANHATTAN</td>
+    <td>10018</td>
+    <td height="26">9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+  </tr>
+  <tr>
+    <td>PROJECT FIND HAMILTON HOUSE</td>
+    <td>141 WEST 73RD STREET</td>
+    <td height="26">MANHATTAN</td>
+    <td>10023</td>
+    <td height="26">9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+  </tr>
+  <tr>
+    <td>PROJECT FIND WOODSTOCK SENIOR CENTER</td>
+    <td>127 WEST 43RD STREET</td>
+    <td height="26">MANHATTAN</td>
+    <td>10036</td>
+    <td height="26">9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+  </tr>
+  <tr>
+    <td>RAIN INWOOD SENIOR CENTER</td>
+    <td>84 VERMILYEA AVE</td>
+    <td height="26">MANHATTAN</td>
+    <td>10034</td>
+    <td height="26">9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+  </tr>
+  <tr>
+    <td>RIVERSTONE SENIOR LIFE SERVICES SR CTR</td>
+    <td>99 FORT WASHINGTON AVENUE</td>
+    <td height="26">MANHATTAN</td>
+    <td>10032</td>
+    <td height="26">9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+  </tr>
+  <tr>
+    <td>ROOSEVELT ISLAND SENIOR CENTER</td>
+    <td>546 MAIN STREET</td>
+    <td height="26">MANHATTAN</td>
+    <td>10044</td>
+    <td height="26">9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+  </tr>
+  <tr>
+    <td>SAGE INNOVATIVE SENIOR CENTER</td>
+    <td>305 SEVENTH AVENUE</td>
+    <td height="26">MANHATTAN</td>
+    <td>10001</td>
+    <td height="26">9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+  </tr>
+  <tr>
+    <td>SIROVICH SENIOR CENTER</td>
+    <td>331 EAST 12TH STREET</td>
+    <td height="26">MANHATTAN</td>
+    <td>10003</td>
+    <td height="26">9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+  </tr>
+  <tr>
+    <td>STANLEY ISAACS SENIOR CENTER</td>
+    <td>415 EAST 93RD STREET</td>
+    <td height="26">MANHATTAN</td>
+    <td>10128</td>
+    <td height="26">9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+  </tr>
+  <tr>
+    <td>STEIN SENIOR CENTER</td>
+    <td>245 EAST 17TH STREET (temporary)</td>
+    <td height="26">MANHATTAN</td>
+    <td>10010</td>
+    <td height="26">9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+  </tr>
+  <tr>
+    <td>UBA BEATRICE LEWIS SENIOR CENTER</td>
+    <td>2322 THIRD AVENUE</td>
+    <td height="26">MANHATTAN</td>
+    <td>10035</td>
+    <td height="26">9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+  </tr>
+  <tr>
+    <td>UJC ADULT LUNCHEON CLUB</td>
+    <td>15 BIALYSTOKER PLACE</td>
+    <td height="26">MANHATTAN</td>
+    <td>10002</td>
+    <td height="26">9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+  </tr>
+  <tr>
+    <td>UNIVERSITY SETTLEMENT NUTRITION</td>
+    <td>189 ALLEN STREET</td>
+    <td height="26">MANHATTAN</td>
+    <td>10002</td>
+    <td height="26">9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+  </tr>
+  <tr>
+    <td>VISIONS INNOVATIVE SENIOR CENTER</td>
+    <td>135 WEST 23RD STREET</td>
+    <td height="26">MANHATTAN</td>
+    <td>10011</td>
+    <td height="26">9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+  </tr>
+  <tr>
+    <td>WASH HGTS COMMUNITY SVC SENIOR CENTER</td>
+    <td>650 WEST 187TH STREET</td>
+    <td height="26">MANHATTAN</td>
+    <td>10033</td>
+    <td height="26">9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+  </tr>
+  <tr>
+    <td>WEST 65TH STREET SENIOR CENTER</td>
+    <td>250 W 65TH ST</td>
+    <td height="26">MANHATTAN</td>
+    <td>10023</td>
+    <td height="26">9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+  </tr>
+  <tr>
+    <td>WEST SIDE FEDERATION SENIOR CENTER</td>
+    <td>135 WEST 106TH STREET</td>
+    <td height="26">MANHATTAN</td>
+    <td>10025</td>
+    <td height="26">9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+  </tr>
+  <tr>
+    <td>YM YWHA INNOVATIVE SENIOR CENTER</td>
+    <td>54 NAGLE AVENUE</td>
+    <td height="26">MANHATTAN</td>
+    <td>10040</td>
+    <td height="26">9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+  </tr>
+  <tr>
+    <td>ALLEN COMMUNITY SENIOR CITIZENS CENTER</td>
+    <td>166-01 LINDEN BOULEVARD</td>
+    <td height="26">QUEENS</td>
+    <td>11434</td>
+    <td height="26">9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+  </tr>
+  <tr>
+    <td>ALPHA PHI ALPHA SENIOR CENTER</td>
+    <td>220-01 LINDEN BOULVARD</td>
+    <td height="26">QUEENS</td>
+    <td>11411</td>
+    <td height="26">9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+  </tr>
+  <tr>
+    <td>BROOKS SENIOR CENTER</td>
+    <td>143-22 109TH AVENUE</td>
+    <td height="26">QUEENS</td>
+    <td>11435</td>
+    <td height="26">9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+  </tr>
+  <tr>
+    <td>CCNS BAYSIDE SENIOR CENTER</td>
+    <td>221-15 HORACE HARDING EXPWY</td>
+    <td height="26">QUEENS</td>
+    <td>11364</td>
+    <td height="26">9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+  </tr>
+  <tr>
+    <td>CCNS CATHERINE SHERIDAN SENIOR CENTER</td>
+    <td>35-24 83RD STREET</td>
+    <td height="26">QUEENS</td>
+    <td>11372</td>
+    <td height="26">9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+  </tr>
+  <tr>
+    <td>CCNS DELLAMONICA SENIOR CENTER</td>
+    <td>23-56 BROADWAY</td>
+    <td height="26">QUEENS</td>
+    <td>11106</td>
+    <td height="26">9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+  </tr>
+  <tr>
+    <td>CCNS HILLCREST SENIOR CENTER</td>
+    <td>168-01B HILLSIDE AVENUE</td>
+    <td height="26">QUEENS</td>
+    <td>11432</td>
+    <td height="26">9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+  </tr>
+  <tr>
+    <td>CCNS OZONE PARK SENIOR CENTER</td>
+    <td>103-02 101ST AVENUE</td>
+    <td height="26">QUEENS</td>
+    <td>11416</td>
+    <td height="26">9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+  </tr>
+  <tr>
+    <td>CCNS WOODHAVEN RICHMOND HILL SR. CTR.</td>
+    <td>78-15 JAMAICA AVENUE</td>
+    <td height="26">QUEENS</td>
+    <td>11421</td>
+    <td height="26">9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+  </tr>
+  <tr>
+    <td>CPC QUEENS NAN SHAN SENIOR CITIZEN CTR</td>
+    <td>136-18 39TH AVENUE</td>
+    <td height="26">QUEENS</td>
+    <td>11354</td>
+    <td height="26">9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+  </tr>
+  <tr>
+    <td>ELMCOR SENIOR CENTER</td>
+    <td>98-19 ASTORIA BOULVARD</td>
+    <td height="26">QUEENS</td>
+    <td>11369</td>
+    <td height="26">9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+  </tr>
+  <tr>
+    <td>ELMHURST JACKSON HEIGHTS SENIOR CENTER</td>
+    <td>75-01 BROADWAY</td>
+    <td height="26">QUEENS</td>
+    <td>11373</td>
+    <td height="26">9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+  </tr>
+  <tr>
+    <td>FLORENCE SMITH SENIOR SERVICE</td>
+    <td>102-19 34TH AVENUE</td>
+    <td height="26">QUEENS</td>
+    <td>11368</td>
+    <td height="26">9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+  </tr>
+  <tr>
+    <td>FOREST HILLS COMMUNITY HOUSE SENIOR CTR</td>
+    <td>108-25 62ND DRIVE</td>
+    <td height="26">QUEENS</td>
+    <td>11375</td>
+    <td height="26">9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+  </tr>
+  <tr>
+    <td>HANAC ANGELO PETROMELIS SENIOR CENTER</td>
+    <td>13-28 123RD STREET</td>
+    <td height="26">QUEENS</td>
+    <td>11356</td>
+    <td height="26">9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+  </tr>
+  <tr>
+    <td>HANAC LINDSAY SENIOR CENTER</td>
+    <td>27-40 HOYT AVENUE SOUTH</td>
+    <td height="26">QUEENS</td>
+    <td>11102</td>
+    <td height="26">9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+  </tr>
+  <tr>
+    <td>CCNS HOWARD BEACH SENIOR CENTER</td>
+    <td>157-10 83RD STREET (temporary)</td>
+    <td height="26">QUEENS</td>
+    <td>11414</td>
+    <td height="26">9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+  </tr>
+  <tr>
+    <td>IPR HE CORONA SENIOR CENTER</td>
+    <td>108-74 ROOSEVELT AVENUE</td>
+    <td height="26">QUEENS</td>
+    <td>11368</td>
+    <td height="26">9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+  </tr>
+  <tr>
+    <td>JASA BROOKDALE SENIOR CENTER</td>
+    <td>131 BEACH 19TH STREET</td>
+    <td height="26">QUEENS</td>
+    <td>11691</td>
+    <td height="26">9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+  </tr>
+  <tr>
+    <td>JASA HOLLISWOOD SENIOR CENTER</td>
+    <td>86-25 FRANCIS LEWIS BLVD</td>
+    <td height="26">QUEENS</td>
+    <td>11427</td>
+    <td height="26">9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+  </tr>
+  <tr>
+    <td>JASA ROCKAWAY PARK SENIOR CENTER</td>
+    <td>106-20 SHORE FRONT PKWY.</td>
+    <td height="26">QUEENS</td>
+    <td>11694</td>
+    <td height="26">9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+  </tr>
+  <tr>
+    <td>JASA ROY REUTHER SENIOR CENTER</td>
+    <td>7-11C SEAGIRT AVENUE</td>
+    <td height="26">QUEENS</td>
+    <td>11691</td>
+    <td height="26">9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+  </tr>
+  <tr>
+    <td>JSPOA FRIENDSHIP NUTRITION CENTER</td>
+    <td>92-33 170TH STREET</td>
+    <td height="26">QUEENS</td>
+    <td>11433</td>
+    <td height="26">9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+  </tr>
+  <tr>
+    <td>JSPOA ROCKAWAY BLVD SENIOR CENTER</td>
+    <td>123-10 143RD STREET</td>
+    <td height="26">QUEENS</td>
+    <td>11436</td>
+    <td height="26">9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+  </tr>
+  <tr>
+    <td>JSPOA THEODORA JACKSON SENIOR CENTER</td>
+    <td>92-47 165TH STREET</td>
+    <td height="26">QUEENS</td>
+    <td>11433</td>
+    <td height="26">9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+  </tr>
+  <tr>
+    <td>KOREAN AMERICAN SENIOR CENTER</td>
+    <td>37-06 111TH STREET</td>
+    <td height="26">QUEENS</td>
+    <td>11368</td>
+    <td height="26">9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+  </tr>
+  <tr>
+    <td>KOREAN AMERICAN SENIOR CENTER - FLUSHING</td>
+    <td>42-15 166TH STREET</td>
+    <td height="26">QUEENS</td>
+    <td>11358</td>
+    <td height="26">9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+  </tr>
+  <tr>
+    <td>LEFRAK SENIOR CITIZENS CENTER</td>
+    <td>98-16 55TH AVENUE</td>
+    <td height="26">QUEENS</td>
+    <td>11368</td>
+    <td height="26">9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+  </tr>
+  <tr>
+    <td>MIDDLE VILLAGE OLDER ADULT CENTER</td>
+    <td>69-10 75TH STREET</td>
+    <td height="26">QUEENS</td>
+    <td>11379</td>
+    <td height="26">9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+  </tr>
+  <tr>
+    <td>NEWTOWN ITALIAN SENIOR CENTER</td>
+    <td>83-20 QUEENS BOULEVARD</td>
+    <td height="26">QUEENS</td>
+    <td>11373</td>
+    <td height="26">9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+  </tr>
+  <tr>
+    <td>PETER CARDELLA SENIOR CITIZEN CENTER</td>
+    <td>68-52 FRESH POND ROAD</td>
+    <td height="26">QUEENS</td>
+    <td>11385</td>
+    <td height="26">9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+  </tr>
+  <tr>
+    <td>POMONOK SENIOR CENTER</td>
+    <td>67-09 KISSENA BOULEVARD</td>
+    <td height="26">QUEENS</td>
+    <td>11367</td>
+    <td height="26">9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+  </tr>
+  <tr>
+    <td>QUEENSBRIDGE-RIIS SENIOR CENTER</td>
+    <td>10-25 41ST AVENUE</td>
+    <td height="26">QUEENS</td>
+    <td>11101</td>
+    <td height="26">9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+  </tr>
+  <tr>
+    <td>RAICES ASTORIA SENIOR CENTER</td>
+    <td>21-21 30TH DRIVE</td>
+    <td height="26">QUEENS</td>
+    <td>11102</td>
+    <td height="26">9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+  </tr>
+  <tr>
+    <td>RAICES CORONA SENIOR CENTER</td>
+    <td>107-24 CORONA AVENUE</td>
+    <td height="26">QUEENS</td>
+    <td>11368</td>
+    <td height="26">9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+  </tr>
+  <tr>
+    <td>RAVENSWOOD SENIOR CENTER</td>
+    <td>34-35A 12TH STREET</td>
+    <td height="26">QUEENS</td>
+    <td>11106</td>
+    <td height="26">9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+  </tr>
+  <tr>
+    <td>REGO PARK SENIOR CENTER</td>
+    <td>93-29 QUEENS BOULEVARD</td>
+    <td height="26">QUEENS</td>
+    <td>11374</td>
+    <td height="26">9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+  </tr>
+  <tr>
+    <td>RIDGEWOOD OLDER ADULT CENTER</td>
+    <td>59-14 70TH AVENUE</td>
+    <td height="26">QUEENS</td>
+    <td>11385</td>
+    <td height="26">9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+  </tr>
+  <tr>
+    <td>ROBERT COUCHE SENIOR CITIZEN CENTER</td>
+    <td>137-57 FARMERS BOULEVARD</td>
+    <td height="26">QUEENS</td>
+    <td>11434</td>
+    <td height="26">9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+  </tr>
+  <tr>
+    <td>ROCHDALE SENIOR CENTER</td>
+    <td>169-65 137TH AVENUE</td>
+    <td height="26">QUEENS</td>
+    <td>11434</td>
+    <td height="26">9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+  </tr>
+  <tr>
+    <td>SAMUEL FIELD NEIGHBORHOOD SENIOR CENTER</td>
+    <td>58-20 LITTLE NECK PARKWAY</td>
+    <td height="26">QUEENS</td>
+    <td>11362</td>
+    <td height="26">9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+  </tr>
+  <tr>
+    <td>SELFHELP AUSTIN ST SENIOR CENTER</td>
+    <td>106-06 QUEENS BOULEVARD</td>
+    <td height="26">QUEENS</td>
+    <td>11375</td>
+    <td height="26">9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+  </tr>
+  <tr>
+    <td>SELFHELP CLEARVIEW SENIOR CENTER</td>
+    <td>208-11 26TH AVENUE</td>
+    <td height="26">QUEENS</td>
+    <td>11360</td>
+    <td height="26">9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+  </tr>
+  <tr>
+    <td>SELFHELP INNOVATIVE SENIOR CENTER</td>
+    <td>45-25 KISSENA BOULEVARD</td>
+    <td height="26">QUEENS</td>
+    <td>11355</td>
+    <td height="26">9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+  </tr>
+  <tr>
+    <td>SELFHELP LATIMER GARDENS SENIOR CENTER</td>
+    <td>34-30 137 STREET</td>
+    <td height="26">QUEENS</td>
+    <td>11355</td>
+    <td height="26">9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+  </tr>
+  <tr>
+    <td>SELFHELP MASPETH SENIOR CENTER</td>
+    <td>69-61 GRAND AVENUE</td>
+    <td height="26">QUEENS</td>
+    <td>11378</td>
+    <td height="26">9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+  </tr>
+  <tr>
+    <td>SNAP BROOKVILLE SENIOR CENTER</td>
+    <td>133-33 BROOKVILLE BOULEVARD</td>
+    <td height="26">QUEENS</td>
+    <td>11422</td>
+    <td height="26">9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+  </tr>
+  <tr>
+    <td>SNAP INNOVATIVE SENIOR CENTER</td>
+    <td>80-45 WINCHESTER BOULEVARD</td>
+    <td height="26">QUEENS</td>
+    <td>11427</td>
+    <td height="26">9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+  </tr>
+  <tr>
+    <td>SUNNYSIDE COMMUNITY SENIOR CENTER</td>
+    <td>43-31 39TH STREET</td>
+    <td height="26">QUEENS</td>
+    <td>11104</td>
+    <td height="26">9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+  </tr>
+  <tr>
+    <td>WOODSIDE SENIOR CENTER</td>
+    <td>50-37 NEWTOWN ROAD</td>
+    <td height="26">QUEENS</td>
+    <td>11377</td>
+    <td height="26">9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+  </tr>
+  <tr>
+    <td>YNG ISRAEL WAVECREST BAYSWATER SR LEAGUE</td>
+    <td>2716 HEALY AVENUE</td>
+    <td height="26">QUEENS</td>
+    <td>11691</td>
+    <td height="26">9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+  </tr>
+  <tr>
+    <td>YOUNG ISRAEL FOREST HILLS SENIOR LEAGUE</td>
+    <td>68-07 BURNS STREET</td>
+    <td height="26">QUEENS</td>
+    <td>11375</td>
+    <td height="26">9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+  </tr>
+  <tr>
+    <td>YOUNG ISRAEL QUEENS VALLEY</td>
+    <td>141-55 77TH AVENUE</td>
+    <td height="26">QUEENS</td>
+    <td>11367</td>
+    <td height="26">9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+  </tr>
+  <tr>
+    <td>ANDERSON NEIGHBORHOOD SENIOR CENTER</td>
+    <td>120 ANDERSON AVENUE</td>
+    <td height="26">STATEN ISLAND</td>
+    <td>10302</td>
+    <td height="26">9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+  </tr>
+  <tr>
+    <td>ARROCHAR FRIENDSHIP CLUB SENIOR CENTER</td>
+    <td>85 JEROME AVENUE</td>
+    <td height="26">STATEN ISLAND</td>
+    <td>10305</td>
+    <td height="26">9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+  </tr>
+  <tr>
+    <td>CASSIDY COLES SENIOR CENTER</td>
+    <td>125 CASSIDY PLACE</td>
+    <td height="26">STATEN ISLAND</td>
+    <td>10301</td>
+    <td height="26">9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+  </tr>
+  <tr>
+    <td>JCC OF STATEN ISLAND INNOVATIVE SR CTR</td>
+    <td>1466 MANOR ROAD</td>
+    <td height="26">STATEN ISLAND</td>
+    <td>10314</td>
+    <td height="26">9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+  </tr>
+  <tr>
+    <td>JCC SOUTH SHORE SR CTR</td>
+    <td>1297 ARTHUR KILL ROAD</td>
+    <td height="26">STATEN ISLAND</td>
+    <td>10312</td>
+    <td height="26">9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+  </tr>
+  <tr>
+    <td>MOUNT LORETTO FRIENDSHIP CLUB SENIOR CTR</td>
+    <td>6581 HYLAN BOULEVARD</td>
+    <td height="26">STATEN ISLAND</td>
+    <td>10309</td>
+    <td height="26">9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+  </tr>
+  <tr>
+    <td>NEW LANE SENIOR CENTER</td>
+    <td>70 NEW LANE</td>
+    <td height="26">STATEN ISLAND</td>
+    <td>10305</td>
+    <td height="26">9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+  </tr>
+  <tr>
+    <td>STAPLETON SENIOR CENTER</td>
+    <td>189 GORDON STREET</td>
+    <td height="26">STATEN ISLAND</td>
+    <td>10304</td>
+    <td height="26">9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+  </tr>
+  <tr>
+    <td>STATEN ISLAND FRIENDSHIP CLUB</td>
+    <td>11 SAMPSON AVENUE</td>
+    <td height="26">STATEN ISLAND</td>
+    <td>10308</td>
+    <td height="26">9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+  </tr>
+  <tr>
+    <td>TODT HILL FRIENDSHIP CLUB SENIOR CENTER</td>
+    <td>184 SCHMIDTS LANE</td>
+    <td height="26">STATEN ISLAND</td>
+    <td>10314</td>
+    <td height="26">9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+  </tr>
+  <tr>
+    <td>WEST BRIGHTON SENIOR CENTER</td>
+    <td>230 BROADWAY</td>
+    <td height="26">STATEN ISLAND</td>
+    <td>10310</td>
+    <td height="26">9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+    <td>9 to 4</td>
+  </tr>
+</table>
+                      <p>&nbsp;</p></td>
+                    </tr>
+                  </table>
+                  <img src="/portal/images/spacers/spacer.gif" alt="" height="15" border="0" /><br />
+                </td>
+                <td width="20"><img src="/portal/images/spacers/spacer.gif" width="20" height="10"></td>
+              </tr>
+            </table></td>
+        </tr>
+      </table></td>
+  </tr>
+</table>
+<table width="769" border="0" cellspacing="0" cellpadding="0" bgcolor="#494B4C"> <tr valign="top">
+    <td width="13"><img src="/portal/images/spacers/spacer.gif" width="13" height="24"></td>
+    <td width="287"><span class="footer_copyright">Copyright 2013 The City of
+      New York</span></td>
+    <td width="444" align="right" class="footer_links"><span class="footer_links"></span></td>
+    <td width="25" align="right"><img src="/portal/images/spacers/spacer.gif" width="25" height="24"></td>
+  </tr>
+</table>
+<!--  nycgov Webtrends code, added on 02/16/2011 -->
+<script src="/html/misc/scripts/nycwebtrends.js" type="text/javascript"></script>
+<script type="text/javascript">
+//<![CDATA[
+var _nyctag=new WebTrends();
+_nyctag.dcsInit();
+_nyctag.dcsGetId();
+//]]>>
+</script>
+<script type="text/javascript">
+//<![CDATA[
+_nyctag.dcsCollect();
+//]]>>
+</script>
+<!-- PROD noscript section -->
+<noscript>
+<div><img alt="DCSIMG" id="DCSIMG" width="1" height="1" src="http://a858-sdc.nyc.gov/dcslfpea2000008i7geu3pdky_5v8x/njs.gif?dcsuri=/nojavascript&WT.js=No&WT.tv=8.6.2"/></div>
+</noscript>
+<!--  END OF nycgov Webtrends code, added on 02/16/2011 -->
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-9518673-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+<!-- END of nycgov_footer.inc-->
+</body>
+</html>

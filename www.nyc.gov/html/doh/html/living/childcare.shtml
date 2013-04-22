@@ -1,0 +1,603 @@
+
+
+
+		
+	
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+	<head>
+		<meta http-equiv="content-type" content="text/html;charset=UTF-8">
+		<meta name="tp-name" content="homepage_2col">
+
+		
+		<meta name="keywords" content="child care, day care">
+		
+		
+
+		
+				<title>Child Care/Day Care</title>
+			
+		
+				
+			
+		<link href="../../includes/css/rollout.css" rel="stylesheet">
+	</head>
+
+<body  background="../../includes/site_images/misc/bg.gif"
+  bgcolor="#ffffff" leftmargin="0" marginheight="0" marginwidth="0" topmargin="0">
+
+	<!-- BEGIN_PRINT_PAGE -->
+		<table width="999" border="0" cellspacing="0" cellpadding="0" height="100%">
+	<!-- END_PRINT_PAGE -->	
+			<tr><td colspan="2" align="left" valign="top" width="999">
+					<!-- START of nycgov_header.inc -->
+<table width="999" border="0" cellspacing="0" cellpadding="0" height="51">
+	<tr>
+		<td><img src="../../includes/site_images/nyc_gov/nycgov_banner_wide.gif" alt="" width="999" height="51" border="0" usemap="#TopNav"></td>
+	</tr>
+</table>
+<map name="TopNav">
+  <area shape="rect" coords="787,6,825,19" href="/search" alt="Search">
+  <area shape="rect" coords="840,6,915,19" href="/portal/register.jsp" alt="Email Updates">
+  <area shape="rect" coords="929,6,988,19" href="/contact" alt="Contact Us">
+  <area shape="rect" coords="563,31,625,46" href="/residents" alt="Residents">
+  <area shape="rect" coords="641,31,698,46" href="/business" alt="Business">
+  <area shape="rect" coords="711,31,761,46" href="/visitors" alt="Visitors">
+  <area shape="rect" coords="776,31,855,46" href="/government" alt="Government">
+  <area shape="rect" coords="868,31,988,46" href="/mayor" alt="Office of the Mayor">
+  <area shape="rect" coords="3,3,48,46" href="/home.html" alt="NYC.gov always open">
+</map>
+<!-- END of nycgov_header.inc -->
+					
+							<link href='http://fonts.googleapis.com/css?family=PT+Sans&subset=latin' rel='stylesheet' type='text/css'>
+<link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
+<script type="text/javascript" src="../../includes/scripts/misc.js"></script>
+<script type="text/javascript" src="../../includes/scripts/change_text.js"></script>
+<script type="text/javascript" src="../../includes/scripts/translate.js"></script>
+<script type="text/javascript">
+//<![CDATA[
+	var PageConfig = {};
+	PageConfig.dcsid = "dcscpjy2g7etzurhzu3m9mquj_4k3p";
+	PageConfig.onsitere = /^(www\.)?(nyc\.gov|(ci\.)?nyc\.ny\.us){1}(\/)(html)?(\/)?doh.*/i;
+
+	var PageArray = {};
+	PageArray.PageLoad = [];
+	PageArray.PageLoad[0] = 'DCSext.o_agcy';
+	PageArray.PageLoad[1] = 'DOH';
+	//]]>>
+</script>
+
+<table cellspacing="0" cellpadding="0" border="0" width="999">
+  <tr>
+    <td class="banner_bg"><table cellspacing="0" cellpadding="0" border="0" width="100%">
+        <tr>
+          <td class="logo"><a href="../../html/home/home.shtml"><img src="../../includes/site_images/branding/logo.png" border="0" alt="NYC Health | The New York City Department of Health and Mental Hygiene" width="459" height="109"></a></td>
+          <td class="banner_image"><script type="text/javascript" src="../../includes/scripts/slideshow_fade.js"></script></td>
+          <td class="banner_social"><table cellspacing="0" cellpadding="0" border="0">
+              <tr>
+                <td class="banner_text">Information and Resources<br>
+                  <b>For Your Health</b></td>
+              </tr>
+              <tr>
+                <td class="social_media"><table cellspacing="0" cellpadding="0" border="0">
+                    <tr>
+                      <td class="social_text">Follow us on:</td>
+                      <td class="social_icon"><a href="http://www.nyc.gov/cgi-bin/exit.pl?url=http://www.twitter.com/nycHealthy"><img src="../../includes/site_images/branding/twitter.png" width="26" height="22" border="0" alt="Twitter"></a></td>
+                      <td class="social_icon"><a href="#"><img src="../../includes/site_images/branding/facebook.png" width="26" height="22" border="0" alt="Facebook"></a></td>
+                      <td class="social_icon"><a href="#"><img src="../../includes/site_images/branding/youtube.png" width="26" height="22" border="0" alt="YouTube"></a></td>
+                      <td class="social_icon"><a href="#"><img src="../../includes/site_images/branding/tumblr.png" width="26" height="22" border="0" alt="Tumblr"></a></td>
+                      <td class="social_icon"><a href="http://www.nyc.gov/html/doh/rss/pr_rss.xml"><img src="../../includes/site_images/branding/rss.png" width="26" height="22" border="0" alt="RSS"></a></td>
+                    </tr>
+                  </table></td>
+              </tr>
+            </table></td>
+        </tr>
+      </table></td>
+  </tr>
+  <tr>
+    <td class="searchtools"><table cellspacing="0" cellpadding="0" border="0" width="100%">
+        <tr>
+          <td class="search"><form action="http://search1.nyc.gov/search?" method="GET" name="gs" style="margin: 0px;">
+              <input value="xml_no_dtd" name="output" type="hidden">
+              <input value="default_collection" name="site" type="hidden">
+              <input value="agency_frontend" name="proxystylesheet" type="hidden">
+              <input value="agency_frontend" name="client" type="hidden">
+              <input value="www.nyc.gov/html/doh" name="sitesearch" type="hidden">
+              <Table cellspacing="0" cellpadding="0" border="0">
+                <tr>
+                  <Td class="search_field"><input name="q" id="search_nycgov" type="text" class="searchfield" style="width:157px;" value="Search" onFocus="if(this.value.toLowerCase()=='search'){this.value='';}" onBlur="if(this.value==''){this.value='Search';}"></Td>
+                  <td class="search_button"><input name="go" type="image" id="go" src="../../includes/site_images/branding/go_0.png" width="23" height="19" border="0" alt="Go" onMouseOver="swapImage('go','go_1.png');" onMouseOut="restoreImage('go');"></td>
+                </tr>
+              </Table>
+            </form></td>
+          <td class="tools"><table cellspacing="0" cellpadding="0" border="0">
+              <tr>
+                <td class="tool" id="translate_button" onMouseOver="this.id='translate_button_over';" onMouseOut="this.id='translate_button';" onClick="showTranslate();"><a href="javascript:showTranslate();" onClick="return(false);" class="notranslate">Translate This Page</a></td>
+                <td class="tool" id="printer" onMouseOver="this.id='printer_over';" onMouseOut="this.id='printer';" onClick="document.location.href='/cgi-bin/misc/pfprinter.cgi?action=print&amp;sitename=DOH&amp;printstyle=other&p='+ Date.parse(new Date());"><a href="/cgi-bin/misc/pfprinter.cgi?action=print&amp;sitename=DOH&amp;printstyle=other" onClick="return(false);" class="notranslate">Print This Page</a></td>
+                <td class="tool" id="email" onMouseOver="this.id='email_over';" onMouseOut="this.id='email';" onClick="window.open('/j2ee/emailafriend/EAFEntry?' + Date.parse(new Date()),'_blank');"><a target="_blank" onClick="return(false);" href="/j2ee/emailafriend/EAFEntry?" class="notranslate">Email a Friend</a></td>
+                <td class="tool" id="newsletter" onMouseOver="this.id='newsletter_over';" onMouseOut="this.id='newsletter';" onClick="document.location.href='http://www.nyc.gov/health/email';"><a href="http://www.nyc.gov/health/email" onClick="return(false);" class="notranslate">Newsletter Sign-Up</a></td>
+                <td class="text_resizer"><table cellpadding="0" cellspacing="0" border="0">
+                    <tr>
+                      <td class="text_size">Text Size :</td>
+                      <td class="text_size_item"><a onMouseOver="swapImage('small','small_1.png')" onMouseOut="restoreImage('small')" href="javascript:switchStyle('1');"><img src="../../includes/site_images/branding/small_0.png" border=0 alt="Sm" name="small" id="small" width="17" height="16"></a></td>
+                      <td class="text_size_item"><a onMouseOver="swapImage('medium','med_1.png')" onMouseOut="restoreImage('medium')" href="javascript:switchStyle('2');"><img src="../../includes/site_images/branding/med_0.png" border=0 alt="Med" name="medium" id="medium" width="18" height="16"></a></td>
+                      <td class="text_size_item"><a onMouseOver="swapImage('large','large_1.png')" onMouseOut="restoreImage('large')" href="javascript:switchStyle('3');"><img src="../../includes/site_images/branding/large_0.png" border=0 alt="Lg" name="large" id="large" width="20" height="16"></a></td>
+                    </tr>
+                  </table></td>
+              </tr>
+            </table></td>
+        </tr>
+      </table></td>
+  </tr>
+</table>
+<script language="Javascript">
+<!--
+if(GetCookie(fontSizeCookie) == "2"){	
+	document.medium.src='../../includes/site_images/branding/med_1.png';
+}else if(GetCookie(fontSizeCookie) == "3"){
+	document.large.src='../../includes/site_images/branding/large_1.png';
+}else{
+	document.small.src='../../includes/site_images/branding/small_1.png';
+}
+preloadImages(["../../includes/site_images/branding/small_1.png","../../includes/site_images/branding/med_1.png","../../includes/site_images/branding/large_1.png","../../includes/site_images/branding/translate_1.png","../../includes/site_images/branding/print_1.png","../../includes/site_images/branding/email_1.png","../../includes/site_images/branding/newsletter_1.png","../../includes/site_images/branding/go_1.png"]);
+//--></script>
+<iframe scrolling='no' frameborder='0' class='shim' name='shim' id='shim'></iframe>
+<div id="translate_popup" class="popup">
+  <table cellspacing="0" cellpadding="0" border="0" width="323">
+    <tr>
+      <td class="popup_table"><table cellspacing="0" cellpadding="0" border="0" width="284">
+          <tr>
+            <Td colspan="2"><img src="../../includes/site_images/misc/translate_popup.gif" width="284" height="39" alt="Translate this Page" border="0"></Td>
+          </tr>
+          <tr>
+            <td class="popup_label" width="123">Select a Language</td>
+            <td class="popup_field" width="147"><select name="tl" id="tl" style="width:147px">
+                <option value="">- Select -</option>
+                <option value="af">Afrikaans</option>
+                <option value="sq">Albanian</option>
+                <option value="ar">Arabic</option>
+                <option value="be">Belarusian</option>
+                <option value="bg">Bulgarian</option>
+                <option value="ca">Catalan</option>
+                <option value="zh">Chinese</option>
+                <option value="zh-CN">Chinese (Simplified)</option>
+                <option value="zh-TW">Chinese (Traditional)</option>
+                <option value="hr">Croatian</option>
+                <option value="cs">Czech</option>
+                <option value="da">Danish</option>
+                <option value="nl">Dutch</option>
+                <option value="en">English</option>
+                <option value="et">Estonian</option>
+                <option value="tl">Filipino</option>
+                <option value="fi">Finnish</option>
+                <option value="fr">French</option>
+                <option value="gl">Galician</option>
+                <option value="de">German</option>
+                <option value="el">Greek</option>
+                <option value="ht">Haitian Creole</option>
+                <option value="iw">Hebrew</option>
+                <option value="hi">Hindi</option>
+                <option value="hu">Hungarian</option>
+                <option value="is">Icelandic</option>
+                <option value="id">Indonesian</option>
+                <option value="ga">Irish</option>
+                <option value="it">Italian</option>
+                <option value="pa">Japanese</option>
+                <option value="ko">Korean</option>
+                <option value="lv">Latvian</option>
+                <option value="lt">Lithuanian</option>
+                <option value="mk">Macedonian</option>
+                <option value="ms">Malay</option>
+                <option value="mt">Maltese</option>
+                <option value="no">Norwegian</option>
+                <option value="fa">Persian</option>
+                <option value="pl">Polish</option>
+                <option value="pt">Portuguese</option>
+                <option value="pt-PT">Portuguese (Portugal)</option>
+                <option value="ro">Romanian</option>
+                <option value="ru">Russian</option>
+                <option value="sr">Serbian</option>
+                <option value="sk">Slovak</option>
+                <option value="sl">Slovenian</option>
+                <option value="es">Spanish</option>
+                <option value="sw">Swahili</option>
+                <option value="sv">Swedish</option>
+                <option value="tl">Tagalog</option>
+                <option value="th">Thai</option>
+                <option value="tr">Turkish</option>
+                <option value="uk">Ukrainian</option>
+                <option value="vi">Vietnamese</option>
+                <option value="cy">Welsh</option>
+                <option value="yi">Yiddish</option>
+              </select>
+            </td>
+          </tr>
+          <tr>
+            <td class="buttons" colspan="2"><input type="button" class="yellow_button" style="width:78px;" value="Translate" onClick="setLanguage(document.getElementById('tl').options[document.getElementById('tl').selectedIndex].value)" />
+              <input type="button" class="yellow_button" style="width:56px;" value="Cancel" onClick="hideTranslate()" /></td>
+          </tr>
+        </table></td>
+  </table>
+</div>
+<div style="display:none; position:absolute; top:0px; left:0px;">
+  <div id="google_translate_element"></div>
+  <script>
+function googleTranslateElementInit() {
+  new google.translate.TranslateElement({
+    pageLanguage: 'en',
+    layout: google.translate.TranslateElement.InlineLayout.SIMPLE
+  }, 'google_translate_element');
+}
+</script>
+  <script src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+</div>
+
+						
+			</td></tr>
+
+		
+		<!-- BEGIN_PRINT_PAGE -->
+		<tr>
+		<!-- END_PRINT_PAGE -->
+		<td align="left" valign="top" width="220" height="100%">
+					
+							
+							 
+								  <table cellspacing="0" cellpadding="0" border="0" width="220">
+  <tr>
+    <td class="leftnav"><script language="Javascript" src="../../includes/scripts/nav_nodes.js"></script>
+      <script language="Javascript" src="../../includes/scripts/flyaway_nodes.js"></script>
+      <script language="Javascript" src="../../includes/scripts/nav_code.js"></script>
+    </td>
+  </tr>
+  <tr>
+    <td class="nav_shadow">&nbsp;</td>
+  </tr>
+  <tr>
+    <td class="subnav_title" id="information">Information for:</td>
+  </tr>
+  <tr>
+    <td class="nav_sublist"><ul class="nav_list">
+        <li id="top"><a href="../../html/hcp/providers.shtml">Health Care Providers</a></li>
+   
+        
+             <li><a href="../../html/licenses/licenses-home.shtml">Licenses and Permits </a></li>
+
+        <li><a href="../../html/pr/press-home.shtml">Press</a></li>
+         <li><a href="../../html/about/testi.shtml">Public Testimony</a></li>
+        <li><a href="../../html/vendors/vendors-home.shtml">Vendors and Contractors</a></li>
+        <li><a href="http://www.nyc.gov/html/doh/em/html/home/home.shtml">Hurricane Sandy Health</a></li>
+        <li id="bottom"><a href="http://www.nyc.gov/html/doh/wtc/html/home/home.shtml">9/11 Health</a></li>
+      </ul></td>
+  </tr>
+  <tr>
+    <td class="subnav_title" id="department">Health Department:</td>
+  </tr>
+  <tr>
+    <td class="nav_sublist"><ul class="nav_list">
+        <li id="top"><a href="../../html/about/about-us.shtml">About Us</a></li>
+         <li><a href="../../html/about/tcny.shtml">Take Care New York</a></li>
+         <li><a href="../../html/about/boh.shtml">Board of Health/Health Code</a></li>
+          <li><a href="../../html/about/notice.shtml">Official Notices</a></li>
+        <li><a href="../../html/pub/pub.shtml">Publications</a></li>
+        <li><a href="../../html/career/career-home.shtml">Career Opportunities</a></li>
+         
+        <li><a href="../../html/contact/contact-us.shtml">Contact Us</a></li>
+       
+      </ul></td>
+  </tr>
+
+</table>
+<!--<div style="position: relative; top: -20px; left: 158px;">
+<a href="../../html/about/tcny.shtml"><img src="../../images/features/tcny_logo.gif" border="0" ></a>-->
+								 
+						
+				</td>
+				<!-- START of CENTER column -->
+				<!-- BEGIN_PRINT_PAGE -->
+				<td id="main_content" align="left" valign="top" width="779">
+				<!-- START of PRIMARY FEATURE SECTION -->
+				<table width="779" border="0" cellspacing="0" cellpadding="0">
+				  
+					  
+						<tr><td colspan="3" align="left" valign="top" bgcolor="" width="779">
+							
+							</td></tr>
+						
+					
+						<tr><td align="left" bgcolor="" valign="top" width="25"><img src="../../includes/site_images/misc/spacer.gif" alt="" width="25" height="30" border="0">
+						</td><td align="left" bgcolor="" valign="top" width="649"><img src="../../includes/site_images/misc/spacer.gif" alt="" width="649" height="15" border="0"><br>
+					  
+							
+						
+					  
+							
+							
+									
+											<span class="bodytext"><div class="subpage_top"><table cellspacing="0" cellpadding="0" border="0" width="779">
+  <tr>
+    <Td><img src="../../images/features/header_child_wellness.jpg"  border="0" width="779" height="139"></Td>
+  </tr>
+  <tr>
+    <td id="breadcrumbs"></td>
+  </tr>
+</table>
+</div>
+<img src="../../includes/site_images/misc/spacer.gif" width="509" height="172" alt="" border="0"></span>
+											
+										
+									
+								
+						
+
+					
+
+					 
+					   
+						
+					 
+					 
+					
+					</td><td align="left" bgcolor="" valign="top" width="105"><img src="../../includes/site_images/misc/spacer.gif" alt="" width="105" height="30" border="0"></td></tr>
+
+					
+
+					  
+				   
+					  
+						<tr><td colspan="3" align="left" valign="top" bgcolor="" width="779">
+							
+								<img src="../../includes/site_images/misc/spacer.gif" alt="" width="25" height="30" border="0"/><span class="area_header">Child Care/Day Care<br/></span>
+								
+							</td></tr>
+						
+					
+						<tr><td align="left" bgcolor="" valign="top" width="25"><img src="../../includes/site_images/misc/spacer.gif" alt="" width="25" height="30" border="0">
+						</td><td align="left" bgcolor="" valign="top" width="649"><img src="../../includes/site_images/misc/spacer.gif" alt="" width="649" height="15" border="0"><br>
+					  
+							
+						
+					  
+							
+							
+									
+											<span class="bodytext">
+<p class="feature_box" align="center"><strong>A N N O U N C E M E N T S</strong><br><br><a href="../../downloads/pdf/cd/h1n1-childcare-op.pdf">Guidance for Preventing the Transmission of Influenza in Child Care Centers</a>  (PDF)<br /><br>
+<a href="../../html/living/healthcare-access.shtml">Information about Child Health Plus and other Low-cost Health Insurance Options</a></p>
+
+<p><img alt="daycare center" src="../../images/dc/daycare.jpg" align="left">
+<img alt="mother and child" src="../../images/dc/mother-child.jpg" >
+<img alt="toddler at computer" src="../../images/dc/tot-pc.jpg" ></p>
+
+<h5>&#160;&#160;<a href="../../html/living/childcare-providers.shtml">Provider Information</a>&#160;&#160; &#160;&#160; &#160;&#160;<a href="../../html/living/childcare-parents.shtml">Parents Information</a>
+&#160;&#160;&#160;&#160;&#160; &#160;&#160;&#160;<a href="../../html/living/childcare-find.shtml"><strong>Find Child Care</strong></a></p>
+<p class="index-item"></h5>
+<h5>Child Care Regulations</h5>
+<ul>
+<li><a href="../../downloads/pdf/about/healthcode/health-code-article47.pdf">Child Care Centers</a> (PDF)</li>
+<li><a href="http://www.nyc.gov/cgi-bin/exit.pl?url=http://www.ocfs.state.ny.us/main/childcare/regs/417_FDC_regs.asp">Family Day Care Homes</a></li>
+<li><a href="http://www.nyc.gov/cgi-bin/exit.pl?url=http://www.ocfs.state.ny.us/main/childcare/regs/416_GFDC_regs.asp">Group Family Day Care Homes</a></li>
+<li><a href="http://www.nyc.gov/cgi-bin/exit.pl?url=http://www.ocfs.state.ny.us/main/childcare/regs/414_SACC_regs.asp">School-age Child Care</a></li>
+<li><a href="../../downloads/pdf/about/healthcode/health-code-article43.pdf">School-based Child Care</a> (PDF)</li>
+<li><a href="../../downloads/pdf/dc/dc-cap-guidelines-child-care-programs.pdf">Guidelines for Completing Correction Action Plans</a> (PDF)</li>
+
+
+</ul><p class="index-item"></p>
+<h5>Contact Information – Borough Offices</h5>
+Walk-in hours at all offices are Tuesday through Thursday, <br>from 9 a.m. to 4 p.m., or by appointment.<br><br>
+Language interpretation services are available free of charge.<br><br>
+
+
+<h5>Bronx</h5>
+1309 Fulton Avenue, 4th Floor<br>
+Bronx, NY 10456<br>
+(on the corner of E. 169th St. & Fulton Ave.)<br>
+<ul>
+<li>For Group Child Care: (718) 579-7775 </li>
+<li>For Home-based & School-age Child Care: (718) 410-3903</li>
+</ul>
+<p class="index-item"></p>
+
+<h5>Brooklyn and Staten Island</h5> 
+195 Montague Street, 4th Floor<br>
+Brooklyn, NY 11201<br>
+(between Court St. & Clinton St.)
+<ul>
+<li>For Group Child Care:  (718) 222-6323</li>
+<li>For Home-based & School-age Child Care: (718) 222-6390</li>
+</ul> 
+<p class="index-item"></p>
+
+<h5>Manhattan</h5>
+22 Cortlandt Street, 34th Floor, Box 40
+<br>
+New York, NY 10007
+<br>
+Tel: (212) 313-5294
+<br>
+<br>
+<p class="index-item"></p>
+<h5>Queens – Home-based and School-age Child Care</h5>
+59-17 Junction Blvd., 14th Fl., rm. 1400<br>
+Corona, NY 11368<br>
+(between 60th Ave. & Horace Harding Expressway)<br>
+Tel: (718) 393-6257 <br><br>
+<h5>Queens – Group Child Care Centers</h5>
+120-34 Queens Boulevard, 4th Fl.<br>
+Kew Gardens, NY 11415<br>
+(between Union Turnpike & 82nd Ave.)<br>
+Tel: (718) 520-4926 or (718) 520-4927<br><br>
+<p class="index-item"></p>
+<ul><p class="feature_box">If you think a child may be at risk of <a href="http://www.nyc.gov/html/acs/html/child_safety/prevent_abuse.shtml">child abuse or neglect</a>, contact the New York State Child Abuse Hotline (State Central Register) at <strong>1-800-342-3720</strong>. If you believe that a child may be in <u>immediate danger</u>, <strong>call 911</strong>.</p></ul>
+<p class="index-item"></p>
+
+<h5>Annual Reports</h5>
+<ul>			
+<li><a href="../../downloads/pdf/dc/dc-report-2007.pdf">Day Care Annual Report (2007)</a></li>   
+<li><a href="../../downloads/pdf/dc/dc-report-2006.pdf">Day Care Annual Report (2006)</a></li>   
+<li><a href="../../downloads/pdf/dc/daycare-report20041007.pdf">Day Care Annual Report (2004)</a> </li>  
+</ul>
+<p class="index-item"></p>
+
+<h5>Child Care Subsidy Fraud Update</h5>
+<ul>
+<li><a href="../../downloads/pdf/dc/dc-subsidy-fraud-public-update.pdf">Update on Fraud Investigation</a></li>
+</ul>
+
+	 	 
+
+
+<!-- end center subpage content -->
+
+<p class="index-item"></p>
+
+	 	 
+
+
+<!-- end center subpage content --></span>
+											
+										
+									
+								
+						
+
+					
+
+					 
+					   
+						
+					 
+					 
+					
+					</td><td align="left" bgcolor="" valign="top" width="105"><img src="../../includes/site_images/misc/spacer.gif" alt="" width="105" height="30" border="0"></td></tr>
+
+					
+
+					  
+				   
+				</table>
+				<!-- END of PRIMARY FEATURE SECTION -->
+
+				<!-- START of SECONDARY FEATURE SECTION -->
+
+				<table width="779" border="0" cellspacing="0" cellpadding="0">
+				  
+					  
+						<tr><td colspan="4" align="left" valign="top" bgcolor="" width="779">
+							
+							</td></tr>
+						
+					
+
+					  </table>
+
+				<!-- END of SECONDARY FEATURE SECTION -->
+
+				<!-- START of TERTIARY FEATURE SECTION -->
+				<table width="779" border="0" cellspacing="0" cellpadding="0">
+				  
+					  
+						<tr><td colspan="3" align="left" valign="top" bgcolor="" width="779">
+							
+							</td></tr>
+						
+					
+					  
+				   
+				</table>
+				<!-- END of TERTIARY FEATURE SECTION -->
+				<!-- END_PRINT_PAGE -->
+				
+
+			
+
+					
+	<!-- BEGIN_PRINT_PAGE -->				
+					<span class="footer_text"><br></span></td>
+				<!-- END of CENTER column -->
+			</tr>
+	<!-- END_PRINT_PAGE -->
+			<tr height="25">
+				<td colspan="2" align="left" valign="top" width="999" height="25"> 
+
+					<table width="999" border="0" cellspacing="0" cellpadding="0">
+	<tr><td><img src="../../includes/site_images/misc/bottom_branding.gif" border="0"></td></tr>
+</table>
+
+
+
+
+<!-- START of nycgov_footer.inc-->
+<style type="text/css">
+<!--
+.footer_links {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	color: #F9D053;
+	text-align:right;
+}
+.footer_copyright {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	color: #C4C4B2;
+}
+.footer_bg {
+	background-color:#494B4C;
+	padding:6px 25px 6px 13px;
+}
+-->
+</style>
+<TABLE cellSpacing="0" cellPadding="0" width="999" border="0">
+  <TR>
+    <td class="footer_bg"><Table cellspacing="0" cellpadding="0" border="0" width="961">
+        <tr>
+          <td width="50%" class="footer_copyright">Copyright 2013 The City of New York</td>
+          <td width="50%" class="footer_links"><A class=footer_links href="/contact">Contact Us</A> | <A class=footer_links href="/faqs">FAQs</A> | <A class=footer_links href="/privacy">Privacy Statement</A> | <A class=footer_links href="http://www.nyc.gov/html/misc/html/tou.html">Terms of Use</A> | <A class=footer_links href="/sitemap">Site Map</A></td>
+        </tr>
+      </Table></td>
+  </TR>
+</TABLE>
+<!-- Privacy Policy updated on 03/08/2011 -->
+<!--  nycgov Webtrends code, added on 02/16/2011 -->
+<script src="/html/misc/scripts/nycwebtrends.js" type="text/javascript"></script>
+<script type="text/javascript">
+//<![CDATA[
+var _nyctag=new WebTrends();
+_nyctag.dcsInit();
+_nyctag.dcsGetId();
+//]]>>
+</script>
+<script type="text/javascript">
+//<![CDATA[
+_nyctag.dcsCollect();
+//]]>>
+</script>
+
+<!-- PROD noscript section -->
+<noscript>
+<div><img alt="DCSIMG" id="DCSIMG" width="1" height="1" src="http://a858-sdc.nyc.gov/dcscpjy2g7etzurhzu3m9mquj_4k3p/njs.gif?dcsuri=/nojavascript&WT.js=No&WT.tv=8.6.2"/></div>
+</noscript>
+<!--  END OF nycgov Webtrends code, added on 02/16/2011 -->
+
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-9518673-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+<!-- END of nycgov_footer.inc-->
+
+				</td>
+			</tr>
+<!-- BEGIN_PRINT_PAGE -->			
+		</table>
+	<!-- END_PRINT_PAGE -->
+	</body>
+</html>
+

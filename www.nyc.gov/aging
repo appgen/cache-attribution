@@ -1,0 +1,9 @@
+<html>
+<head>
+<title>Department for the Aging</title>
+<script language="JavaScript" type="text/javascript">
+	document.location.replace("http://www.nyc.gov/html/dfta/html/home/home.shtml") 
+</script>
+<meta http-equiv="refresh" content="0;URL=http://www.nyc.gov/html/dfta/html/home/home.shtml">
+</head>
+</html>

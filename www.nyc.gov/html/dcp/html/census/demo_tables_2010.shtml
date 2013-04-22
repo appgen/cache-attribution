@@ -1,0 +1,937 @@
+<html>
+<head>
+<title>Population - New York City Department of City Planning</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<link rel="stylesheet" href="../../extern/interface.css" type="text/css">
+<link rel="alternate" type="application/rss+xml" title="DCP - Population [RSS]" href="http://www.nyc.gov/html/dcp/rss/population_rss.xml">
+<meta name="description" content="Population: Demographic Tables">
+</head>
+<body background="../../gif/interface/dcp_bg.jpg" text="#000000" topmargin="0" marginheight="0" leftmargin="0" marginwidth="0" link="#999999" vlink="#999999" alink="#CCCCCC">
+<script language="javascript" src="../../extern/listforall.js"></script>
+
+<!--***************************************************************************************
+This window.onload function define what function need to be called when page onload-->
+
+<script language="javascript">
+
+window.onload=function(){
+	translateOnload1();
+	translateOnload2();
+	fillCd_all();
+}
+
+</script>
+
+<!--***************************************************************************************-->
+
+
+<a name="top"></a>
+<table width="769"  class="Table-Border-Gray" align="center" border="0" cellspacing="0" cellpadding="0">
+  <tr> 
+    <td> <table width="100%" border="0" cellpadding="0" cellspacing="0">
+      <tr>
+        <td colspan="2"><table width="100%" border="0" cellpadding="0" cellspacing="0" background="../../gif/interface/banner_r1_rep.gif">
+            <tr>
+              <td align="left"><img src="../../gif/interface/banner_r1_1.gif" alt="" width=3 height=18 border="0"></td><td><img src="../../gif/interface/banner_r1_2.gif" alt="" width="89" height="18"></td><td><a href="/residents"><img src="../../gif/interface/banner_r1_3.gif" alt="Residents" width="62" height="18" border="0"></a></td><td><a href="/business"><img src="../../gif/interface/banner_r1_4.gif" alt="Business" width="62" height="18" border="0"></a></td><td><a href="/visitors"><img src="../../gif/interface/banner_r1_5.gif" alt="Visitors" width="58" height="18" border="0"></a></td><td><a href="/government"><img src="../../gif/interface/banner_r1_6.gif" alt="Government" width="83" height="18" border="0"></a></td><td><a href="/mayor"><img src="../../gif/interface/banner_r1_7.gif" alt="Office of the Mayor" width="120" height="18" border="0"></a></td><td><a href="/search"><img src="../../gif/interface/banner_r1_8.gif" alt="Search NYC.gov" width="51" height="18" border="0"></a></td><td><a href="/register"><img src="../../gif/interface/banner_r1_9.gif" alt="Email Updates" width="91" height="18" border="0"></a></td><td><a href="/contact"><img src="../../gif/interface/banner_r1_10.gif" alt="Contact Us" width="66" height="18" border="0"></a></td>
+              <td align="right"><img src="../../gif/interface/banner_r1_right.gif" width=83 height=18 alt=""></td>
+            </tr>
+        </table></td>
+      </tr>
+      <tr>
+        <td colspan="2"><table width="100%" border="0" cellpadding="0" cellspacing="0" background="../../gif/interface/banner_r2_rep.gif">
+            <tr>
+              <td height="56"><a href="http://www.nyc.gov"><img src="../../gif/interface/banner_r2_1.gif" alt="NYC.gov - Always Open" width=92 height=56 border="0"></a><a href="../../home.html"><img src="../../gif/interface/banner_r2_2.gif" alt="NYC Department of City Planning" width="426" height="56" border="0"></a></td>
+              <td align="right"><a href="../../home.html"><img src="../../gif/interface/banner_r2_right.gif" alt="DCP Logo" width=83 height=56 border="0"></a></td>
+            </tr>
+        </table></td>
+      </tr>
+      <tr>
+        <td align="left" valign="top" background="../../gif/interface/banner_r3_rep.gif" bgcolor="#C6CFDE"><img src="../../gif/interface/banner_r3_1.gif" alt="" width="92" height="19"><a href="../../home.html"><img src="../../gif/interface/banner_r3_2.gif" alt="NYC.gov/planning" width="128" height="19" border="0"></a></td>
+        <td align="right" valign="middle" background="../../gif/interface/banner_r3_rep.gif">
+		<form action="http://search1.nyc.gov/search?" method="GET" name="gs">
+            <table border="0" align="right" cellpadding="0" cellspacing="0">
+              <tr>
+                <td align="right" class="Text_Black_10"><img src="../../gif/interface/banner_r3_3.gif" alt="Search DCP" width="68" height="19"></td>
+                <td align="right" class="Text_Black_10">&nbsp;&nbsp;&nbsp;</td>
+                <td align="right" valign="middle" class="Text_Black_10"><input name="bookmark" type="hidden" id="bookmark" value="no">
+				<input value="xml_no_dtd" name="output" type="hidden">
+				<input value="default_collection" name="site" type="hidden">
+				<input value="agency_frontend" name="proxystylesheet" type="hidden">
+				<input value="agency_frontend" name="client" type="hidden">
+				<input value="http://www.nyc.gov/html/dcp" name="sitesearch" type="hidden">
+				<input type="text" name="q" id="search_nycgov" class="search-box2"><br>
+                </td>
+                <td align="right" background="../../gif/interface/banner_r3_rep.gif" class="Text_Black_10">
+				<input type="image" src="../../gif/interface/banner_r3_go.gif" alt="Go" align="middle" width="29" height="19" border="0">
+                </td>
+                <td align="right" background="../../gif/interface/banner_r3_right.gif" class="Text_Black_10"><img src="../../gif/interface/banner_r3_right.gif" width="83" height="19"></td>
+              </tr>
+            </table>
+        </form></td>
+      </tr>
+      <tr align="right" valign="middle">
+        <td height="15" colspan="2" bgcolor="#C6CFDE"><span class="Text_Black_10">Department of City Planning - <i>&quot;Shaping the City's Future&quot;</i></span></td>
+      </tr>
+    </table></td>
+  </tr>
+  <tr> 
+    <td> 
+      <table width="100%" border="0" cellspacing="0" cellpadding="0" bgcolor="#C6CFDE">
+        <tr> 
+          <td width="1%" valign="top" align="left"><table border="0" cellspacing="0" cellpadding="0" width="150">
+            <tr>
+              <td valign="top" align="center" bgcolor="#003366"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <tr>
+                    <td width="11%" background="../../gif/interface/bg_header.gif" class="Text_White_12_Bold"><img src="../../gif/interface/motif.gif" border="0" alt=""></td>
+                    <td width="89%" height="30" background="../../gif/interface/bg_header.gif" class="Text_White_12_Bold">City Planning:</td>
+                  </tr>
+              </table></td>
+            </tr>
+            <tr>
+              <td bgcolor="#000000" valign="middle" align="center"><div id='MenuPos' style='position:relative; width:150; height:169;'>
+                <table width="100%" border="0" cellspacing="1" cellpadding="2">
+                  <tr>
+                    <td height="20" valign="top" bgcolor="#336699" ><a href="http://www.nyc.gov/html/dcp/home.html" class="Link_White_11_Bold_Menu">Home</a></td>
+                  </tr>
+                  <tr>
+                    <td height="20" valign="top" bgcolor="#336699"><a href="http://www.nyc.gov/html/dcp/html/subcats/about.shtml" class="Link_White_11_Bold_Menu">About Us</a></td>
+                  </tr>
+                  <tr>
+                    <td height="20" valign="top" bgcolor="#336699"><a href="http://www.nyc.gov/html/dcp/html/subcats/zoning.shtml" class="Link_White_11_Bold_Menu">Zoning</a></td>
+                  </tr>
+                  <tr>
+                    <td height="20" valign="top" bgcolor="#336699"><a href="http://www.nyc.gov/html/dcp/html/subcats/landuse.shtml" class="Link_White_11_Bold_Menu">Land Use Process</a></td>
+                  </tr>
+                  <tr>
+                    <td height="20" valign="top" bgcolor="#336699"><a href="http://www.nyc.gov/html/dcp/html/subcats/studies.shtml" class="Link_White_11_Bold_Menu">Projects/Proposals</a></td>
+                  </tr>
+                  <tr>
+                    <td height="20" valign="top" bgcolor="#336699"><a href="http://www.nyc.gov/html/dcp/html/subcats/resources.shtml" class="Link_White_11_Bold_Menu">Reference</a></td>
+                  </tr>
+                  <tr>
+                    <td height="20" valign="top" bgcolor="#336699"><a href="http://www.nyc.gov/html/dcp/html/subcats/products.shtml" class="Link_White_11_Bold_Menu">Products</a></td>
+                  </tr>
+                <tr>
+                    <td height="20" valign="top" bgcolor="#336699"><a href="http://www.nyc.gov/html/dcp/html/about/prarch.shtml" class="Link_White_11_Bold_Menu">News</a></td>
+                  </tr></table>
+              </div></td>
+            </tr>
+          
+                                  <tr>
+              <td class="Text_Black_12"><p>&nbsp;</p></td>
+            </tr>
+            <tr>
+              <td valign="top" align="center" bgcolor="#003366"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+                <tr>
+                  <td width="11%" background="../../gif/interface/bg_header.gif" class="Text_White_12_Bold"><img src="../../gif/interface/motif.gif"  border="0" alt=""></td>
+                  <td width="89%" height="30" background="../../gif/interface/bg_header.gif" class="Text_White_12_Bold">Stay Connected:</td>
+                </tr>
+              </table></td>
+            </tr>
+            <tr>
+              <td bgcolor="#000000" class="Text_Black_12" ><table width="100%" cellspacing="1" cellpadding="2" >
+                <tr bgcolor="#336699">
+                  <td><table width="140" border="0" cellspacing="0"  cellpadding="2" >
+                    <tr>
+                        <td width="18"><img src="../../gif/interface/twitter_icon.png" alt="Follow @NYCPlanning on Twitter" width="18" height="18" border="0"></td>
+                        <td width="130"> <a href="http://twitter.com/nycplanning" class="Link_White_11">Twitter</a></td>
+                      </tr>
+                  </table></td>
+                </tr>
+                <tr bgcolor="#336699">
+                      <td><table width="140" border="0" cellspacing="0" cellpadding="2" >
+                          <tr>
+                            <td width="18"><img src="../../gif/interface/rss_icon.png" alt="RSS" width="18" height="18" border="0"></td>
+                            <td width="130"><a href="../about/rss.shtml" class="Link_White_11">RSS Feed</a></td>
+                          </tr>
+                      </table></td>
+                    </tr>
+                
+                </table></td>
+            </tr><tr>
+              <td class="Text_Black_12"><p>&nbsp;</p></td>
+            </tr>
+            <tr>
+              <td bgcolor="#000000"><table width="100%" border="0" cellspacing="0" cellpadding="0" align="center">
+                  <tr>
+                    <td bgcolor="#003366"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+                        <tr>
+                          <td width="11%" background="../../gif/interface/bg_header.gif" class="Text_White_12_Bold"><img src="../../gif/interface/motif.gif" border="0" alt=""></td>
+                          <td width="89%" height="30" background="../../gif/interface/bg_header.gif" class="Text_White_12_Bold">Take me to...</td>
+                        </tr>
+                    </table></td>
+                  </tr>
+                  <tr>
+                    <td><table width="100%" border="0" cellspacing="1" cellpadding="4" align="center">
+  <tr>
+    <td bgcolor="#336699"><a href="../luproc/calbeg.shtml" class="Link_White_11">Commission
+        Meetings</a></td>
+  </tr>
+  <tr>
+    <td bgcolor="#336699"><a href="http://a030-cpc.nyc.gov/html/cpc/index.aspx" class="Link_White_11">Commission
+      Reports</a></td>
+  </tr>
+  <tr>
+    <td bgcolor="#336699"><a href="http://maps.nyc.gov/census" class="Link_White_11">Census FactFinder</a></td>
+  </tr>
+  <tr>
+    <td bgcolor="#336699"><a href="http://a030-lucats.nyc.gov/lucats/welcome.aspx " class="Link_White_11">LUCATS - Land Use<br>
+      Application Tracking</a></td>
+  </tr>
+  <tr>
+    <td bgcolor="#336699"><a href="http://gis.nyc.gov/doitt/nycitymap/template?applicationName=ZOLA" class="Link_White_11">ZoLa - Zoning and  Land Use Application</a></td>
+  </tr>
+  <tr>
+    <td bgcolor="#336699"><a href="../neigh_info/nhmap.shtml" class="Link_White_11">Community Data Portal </a></td>
+  </tr>
+  <tr>
+    <td bgcolor="#336699"><a href="../rezonings/rezonings.shtml" class="Link_White_11">DCP Rezonings</a></td>
+  </tr>
+  <tr>
+    <td bgcolor="#336699"><a href="../cwp/cw.shtml" class="Link_White_11">Waterfront Access Map</a></td>
+  </tr>
+  <tr>
+    <td bgcolor="#336699"><a href="../zone/zmf.shtml" class="Link_White_11">Zoning Map Finder</a></td>
+  </tr>
+  <tr>
+    <td bgcolor="#336699"><a href="../pub/publist.shtml" class="Link_White_11">Map &amp; Bookstore</a></td>
+  </tr>
+  <tr>
+    <td bgcolor="#336699"><a href="../about/joblist.shtml" class="Link_White_11">Job
+      Opportunities </a></td>
+  </tr>
+  <tr>
+    <td bgcolor="#336699"><a href="../about/prarch.shtml" class="Link_White_11">Press
+      Releases</a></td>
+  </tr>
+  <tr>
+    <td bgcolor="#336699" class="Text_Black_12"><a href="../../hometext.html#dcpsite" class="Link_White_11">DCP
+      Site Map</a></td>
+  </tr>
+  <tr>
+    <td bgcolor="#336699"><a href="../about/location.shtml" class="Link_White_11_Bold_Menu">Contact
+      DCP</a></td>
+  </tr>
+</table></td>
+                  </tr>
+              </table></td>
+            </tr>
+            <tr>
+              <td class="Text_Black_12"><p>&nbsp;</p></td>
+            </tr>
+            <tr>
+              <td> </td>
+            </tr>
+            <tr>
+              <td><table width="100%" border="0" cellpadding="0" cellspacing="0" class="Table-Border-Black">
+                <tr>
+                  <td align="center" height="30" class="Link_White_11_Bold_Menu" valign="middle" background="../../gif/interface/portal_title.jpg" ></td>
+                </tr>
+
+				<tr><td>
+              <table width="100%" border="0" cellpadding="0" cellspacing="0" >
+                
+                
+                 <tr>
+                   <td  class="Text_White_10_Bold"><table border="0" cellspacing="0" cellpadding="0" width="100%" align="left">
+                     <form name="drop_list_all" method="POST" >
+                       <tr align="left">
+                         <td height="100" align="center" valign="middle" bgcolor="#336699"><a name="back" id="back"></a>
+                             <table width="100%" border="0">
+                               <tr>
+                                 <td><div align="center">
+                                     <select class="search-box2"   name="Cd" id="Cd" onChange="SelectNeighbourhood_all();" style="font-size:xx-small; width: 110px" >
+                                                              <option value="N" selected="selected" >Borough</option></select>
+                                 </div></td>
+                               </tr>
+                             </table>
+                             <table width="100%" border="0">
+                               <tr>
+                                 <td height="21"> <div align="center">
+                                     <select name="Neighbourhood" class="search-box2"  id="Neighbourhood" style="width: 138px; "                          >
+                                       <option  value="N" style="height:auto">Your Neighborhood</option>
+                                     </select>  </div>                              </td>
+                               </tr>
+                               <tr></tr>
+                               <tr id="subfolder_go_standard">
+                                 <td height="21" align="center" class="Text_White_11"><a href="javascript:frompage('standard');"><img src='../../gif/interface/go.gif' alt='Click Once to Submit Query' border='0'></a></td>
+                               </tr>
+							    <tr style="display:none"  id="subfolder_go_translate">
+                                 <td  height="21" align="center" class="Text_White_11"><a href="javascript:frompage('translate');"><img src='../../gif/interface/go.gif' alt='Click Once to Submit Query' border='0'></a></td>
+                               </tr>
+                             </table>                             </td>
+                       </tr>
+                     </form>
+                   </table></td>
+                 </tr></table>
+              </td>
+				</tr>
+			<tr align="left"></tr>
+              </table></td>
+            </tr>
+            <tr>
+              <td class="Text_Black_12"><p>&nbsp;</p></td>
+            </tr>
+            
+            <tr>
+              <td class="Text_Black_12"><script type="text/javascript" src="../../extern/cookies.js" ></script>
+			  <script type="text/javascript" src="../../extern/translate.js"></script>
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+                <tr style="display:none" id="english_button">
+                <td><a onMouseOver="MM_swapImage('english','','../../gif/interface/english_over.gif',0)" onMouseOut="MM_swapImgRestore()" href="javascript:resetLang();"><img src="../../gif/interface/english.gif" border=0 alt="Back to English" name="english" width="150" height="25" id="eng"></a></td>
+              </tr>
+              <tr id="translate_button">
+                <td><a onMouseOver="MM_swapImage('translate','','../../gif/interface/translate_button_over.gif',0)" onMouseOut="MM_swapImgRestore()" href="javascript:showTranslate();"><img src="../../gif/interface/translate_button.gif" border=0 alt="Translate this page" name="translate" width="150" height="25"></a></td>
+              </tr>
+              </table></td>
+            </tr>
+            
+			  
+<tr>
+              <td class="Text_Black_12">
+			  <script language="Javascript">
+<!--
+if(this.location.href.indexOf("tl=")!=-1) {
+	document.getElementById("english_button").style.display='';
+	document.getElementById("translate_button").style.display = 'none';
+	document.getElementById("subfolder_go_translate").style.display='';
+	document.getElementById("subfolder_go_standard").style.display = 'none';
+}
+//-->
+</script>
+<iframe scrolling='no' frameborder='0' class='shim' name='shim' id='shim'></iframe>
+<div id="translate_popup" class="popup">
+  <table cellspacing="0" cellpadding="0" border="0" width="323">
+    <tr>
+      <td class="popup_table"><table cellspacing="0" cellpadding="0" border="0" width="284">
+          <tr>
+            <Td colspan="2"><img src="../../gif/interface/translate_popup.gif" width="284" height="39" alt="Translate this Page" border="0"></Td>
+          </tr>
+          <tr>
+            <td class="popup_label" width="123">Select a Language</td>
+            <td class="popup_field" width="147"><select name="tl" id="tl" style="width:147px">
+                <option value="">- Select -</option>
+                <option value="ar">Arabic</option>
+                <option value="bg">Bulgarian</option>
+                <option value="ca">Catalan</option>
+                <option value="zh-CN">Chinese (Simplified)</option>
+                <option value="zh-TW">Chinese (Traditional)</option>
+                <option value="hr">Croatian</option>
+                <option value="cs">Czech</option>
+                <option value="da">Danish</option>
+                <option value="nl">Dutch</option>
+                <option value="tl">Filipino</option>
+                <option value="fi">Finnish</option>
+                <option value="fr">French</option>
+                <option value="de">German</option>
+                <option value="el">Greek</option>
+                <option value="iw">Hebrew</option>
+                <option value="hi">Hindi</option>
+                <option value="id">Indonesian</option>
+                <option value="it">Italian</option>
+                <option value="ja">Japanese</option>
+                <option value="ko">Korean</option>
+                <option value="lv">Latvian</option>
+                <option value="lt">Lithuanian</option>
+                <option value="no">Norwegian</option>
+                <option value="pl">Polish</option>
+                <option value="pt">Portuguese</option>
+                <option value="ro">Romanian</option>
+                <option value="ru">Russian</option>
+                <option value="sr">Serbian</option>
+                <option value="sk">Slovak</option>
+                <option value="sl">Slovenian</option>
+                <option value="es">Spanish</option>
+                <option value="sv">Swedish</option>
+                <option value="uk">Ukrainian</option>
+                <option value="vi">Vietnamese</option>
+              </select>            </td>
+          </tr>
+          <tr>
+            <td class="buttons" colspan="2"><input type="button" class="yellow_button" style="width:78px;" value="Translate" onClick="setLanguage(document.getElementById('tl').options[document.getElementById('tl').selectedIndex].value)" />
+              <input type="button" class="yellow_button" style="width:56px;" value="Cancel" onClick="hideTranslate()" /></td>
+          </tr>
+          <tr>
+            <td colspan="2"><br>
+              <a class="popup_disclaimer"  href="../about/about_translation.shtml">About Translation</a></td>
+          </tr>
+        </table></td>
+  </table>
+</div>			  </td>
+            </tr>
+			<tr>
+              <td class="Text_Black_12">&nbsp;</td>
+            </tr>
+          </table></td>
+          <td valign="top" align="center" width="99%"> 
+            <table width="98%" border="0" cellspacing="0" cellpadding="1" align="center">
+              <tr> <td>
+			   
+                  <!--BEGIN_PRINT_PAGE-->
+                  
+                  <table width="100%" border="0" cellspacing="0" cellpadding="4" align="center" bgcolor="#FFFFFF">
+                    <tr align="left">
+    <td width="71%" valign="middle" background="../../gif/interface/bg_header.gif" bgcolor="#336699" class="Header_Main"><a href="../subcats/resources.shtml" class="Link_White_11_Bold">Reference</a> &gt; <a href="popdiv.shtml" class="Link_White_11_Bold">Population</a> &gt; <a href="census_2010.shtml" class="Link_White_11_Bold">2010 Census</a></td>
+    <td width="55%" align="right" valign="middle" background="../../gif/interface/bg_header.gif" bgcolor="#336699" class="Header_Main"><!--END_PRINT_PAGE-->
+        <a href="/cgi-bin/misc/pfprinter.cgi?action=print&sitename=DCP" onClick="this.href = '/cgi-bin/misc/pfprinter.cgi?action=print&sitename=DCP&p=' + Date.parse(new Date()); return true;"><img src="../../gif/interface/printer_new.gif" alt="Printer Friendly Version" border="0"></a>
+        <!--BEGIN_PRINT_PAGE-->    </td>
+  </tr>
+                    <tr align="left">
+                      <td valign="middle" bgcolor="#FFFFFF" class="Text_Blue_24_Bold" colspan="2"><span class="Text_Blue_17_Bold">POPULATION</span><span class="Text_Blue_24_Bold"><br>
+                        </span><span class="Text_Blue_13_Bold">2010 Demographic Tables</span>
+                        <hr noshade color="#336699"></td>
+                    </tr>
+                    <tr align="left">
+                      <td height="40" colspan="2" align="center" class="plain_text"><a href="demo_tables_2010.shtml" class="Link_Blue_11"><strong>Demographic Tables</strong></a> | <a href="demo_maps_2010.shtml" class="Link_Blue_11">Demographic Maps</a><a href="socio_profile.shtml" class="Link_Blue_11"></a> | <a href="census_briefs_2010.shtml" class="Link_Blue_11">Census Briefs</a> | <a href="census_challenge_2010.shtml" class="Link_Blue_11">Census Challenge</a></td>
+                    </tr>
+                    <tr align="left" bgcolor="#FFFFFF">
+                      <td colspan="2" valign="top" class="Text_Black_10"><p><strong>*NTAs, or Neighborhood Tabulation Areas</strong>, are aggregations of census  tracts that are subsets of New York City's 55 Public Use Microdata Areas  (PUMAs). Primarily due to these constraints, NTA boundaries and their  associated names may not definitively represent neighborhoods. <IMG border="0" alt="PDF Document" src="../../gif/interface/pdf_icon.gif" width="12" height="12"> <A href="../../pdf/census/census2010/ntas.pdf" class="Link-Blue-10-ul">View NTA maps</A>. <IMG alt="Excel File" align="absMiddle" src="../../gif/interface/excel_icon.gif" width="12" height="12"> <A href="../../download/census/nyc2010census_tabulation_equiv.xlsx" class="Link-Blue-10-ul">Download NTA,  census tract and PUMA equivalency</A>.</p>
+                        <table width="100%" border="0" cellpadding="6" cellspacing="0" bordercolor="#D4D0C8" class="Table-Border-Black" id="Table_Image">
+                          <tr align="center" class="Text_Blue_11_Bold">
+                            <td colspan="6" bgcolor="#5B7DA8" class="Text_White_11_Bold"><b>Demographic 
+                              Tables</b></td>
+                          </tr>
+                          <tr valign="middle" bgcolor="#F2F2F2" class="Text_Black_11_Bold">
+                            <td colspan="2"></td>
+                            <td width="19%" class="Text_Blue_10"><b>NYC 
+                              &amp; Boroughs</b></td>
+                            <td width="19%" class="Text_Blue_10"><b>Census 
+                              Tracts</b></td>
+                            <td width="19%"><span class="Text_Blue_10"><b>Community Districts</b></span></td>
+                            <td width="22%" class="Text_Blue_10"><b>NTAs*/
+                              Other Geographies</b></td>
+                          </tr>
+                          <tr bgcolor="#C6CFDE">
+                            <td colspan="2" valign="top" class="Text_Black_10_Bold">Total Population, 2000-2010</td>
+                            <td valign="top"><img src="../../gif/interface/pdf_icon.gif" alt="PDF Document" width="12" height="12" border="0"> <a href="../../pdf/census/census2010/t_pl_p1_nyc.pdf">PL-P1 NYC</a><br>
+                              <img src="../../gif/interface/excel_icon.gif" alt="Excel File" width="12" height="12" align="absmiddle"> <a href="../../download/census/census2010/t_pl_p1_nyc.xlsx">PL-P1 NYC</a></td>
+                            <td valign="top"><img src="../../gif/interface/pdf_icon.gif" alt="PDF Document" width="12" height="12" border="0"> <a href="../../pdf/census/census2010/t_pl_p1_ct.pdf">PL-P1 CT</a><br>
+                              <img src="../../gif/interface/excel_icon.gif" alt="Excel File" width="12" height="12" align="absmiddle"> <a href="../../download/census/census2010/t_pl_p1_ct.xlsx">PL-P1 CT</a></td>
+                            <td valign="top"></td>
+                            <td valign="top"><img src="../../gif/interface/pdf_icon.gif" alt="PDF Document" width="12" height="12" border="0"> <a href="../../pdf/census/census2010/t_pl_p1_nta.pdf">PL-P1 NTA</a><br>
+                              <img src="../../gif/interface/excel_icon.gif" alt="Excel File" width="12" height="12" align="absmiddle"> <a href="../../download/census/census2010/t_pl_p1_nta.xlsx">PL-P1 NTA</a></td>
+                          </tr>
+                          <tr bgcolor="#C6CFDE">
+                            <td colspan="2" valign="top" class="Text_Black_10_Bold">Total Population, 1970-2010</td>
+                            <td valign="top"><a href="../../download/census/census2010/t_pl_p1_nyc.xlsx"></a></td>
+                            <td valign="top"><a href="../../download/census/census2010/t_pl_p1_ct.xlsx"></a></td>
+                            <td valign="top"><img src="../../gif/interface/pdf_icon.gif" alt="PDF Document" width="12" height="12" border="0"> <a href="../../pdf/census/census2010/t_pl_p1_cd.pdf">PL-P1 CD</a><br>
+                              <img src="../../gif/interface/excel_icon.gif" alt="Excel File" width="12" height="12" align="absmiddle"> <a href="../../download/census/census2010/t_pl_p1_cd.xlsx">PL-P1 CD</a></td>
+                            <td valign="top"><a href="../../download/census/census2010/t_pl_p1_nta.xlsx"></a></td>
+                          </tr>
+                          <tr bgcolor="#F2F2F2">
+                            <td colspan="2" valign="top" class="Text_Black_10_Bold">Total Population by Mutually Exclusive Race and Hispanic Origin, 1990-2010</td>
+                            <td valign="top" bgcolor="#F2F2F2"><img src="../../gif/interface/pdf_icon.gif" alt="PDF Document" width="12" height="12" border="0"> <a href="../../pdf/census/census2010/t_pl_p2a_nyc.pdf">PL-P2A NYC</a><br>
+                              <img src="../../gif/interface/excel_icon.gif" alt="Excel File" width="12" height="12" align="absmiddle"> <a href="../../download/census/census2010/t_pl_p2a_nyc.xlsx">PL-P2A NYC</a></td>
+                            <td rowspan="3" valign="top" bgcolor="#F2F2F2"></td>
+                            <td rowspan="3" valign="top" bgcolor="#F2F2F2"></td>
+                            <td rowspan="3" valign="top" bgcolor="#F2F2F2"></td>
+                          </tr>
+                          <tr bgcolor="#F2F2F2">
+                            <td width="5%" valign="top" class="Text_Black_10_Bold">&nbsp;</td>
+                            <td width="16%" valign="top" class="Text_Black_10_Bold">Population        Under 18</td>
+                            <td valign="top" bgcolor="#F2F2F2"><img src="../../gif/interface/pdf_icon.gif" alt="PDF Document" width="12" height="12" border="0"> <a href="../../pdf/census/census2010/t_pl_p2b_nyc.pdf">PL-P2B NYC</a><br>
+                              <img src="../../gif/interface/excel_icon.gif" alt="Excel File" width="12" height="12" align="absmiddle"> <a href="../../download/census/census2010/t_pl_p2b_nyc.xlsx">PL-P2B NYC</a></td>
+                          </tr>
+                          <tr bgcolor="#F2F2F2">
+                            <td valign="top" class="Text_Black_10_Bold">&nbsp;</td>
+                            <td valign="top" class="Text_Black_10_Bold">Population 18 Years and Over</td>
+                            <td valign="top" bgcolor="#F2F2F2"><img src="../../gif/interface/pdf_icon.gif" alt="PDF Document" width="12" height="12" border="0"> <a href="../../pdf/census/census2010/t_pl_p2c_nyc.pdf">PL-P2C NYC</a><br>
+                              <img src="../../gif/interface/excel_icon.gif" alt="Excel File" width="12" height="12" align="absmiddle"> <a href="../../download/census/census2010/t_pl_p2c_nyc.xlsx">PL-P2C NYC</a></td>
+                          </tr>
+                          <tr bgcolor="#C6CFDE">
+                            <td colspan="2" valign="top" class="Text_Black_10_Bold"><p><strong>Total Population, Under 18 and 18 Years and Over &nbsp;by  Mutually Exclusive Race and Hispanic Origin and Total Housing Units, 1990-2010</strong></p></td>
+                            <td valign="top"><a href="../../download/census/census2010/t_pl_p3_nyc.xlsx"></a></td>
+                            <td valign="top"></td>
+                            <td valign="top"><img src="../../gif/interface/pdf_icon.gif" alt="PDF Document" width="12" height="12" border="0"> <a href="../../pdf/census/census2010/t_pl_p2_cd.pdf">PL-P2 CD</a><br>
+                              <img src="../../gif/interface/excel_icon.gif" alt="Excel File" width="12" height="12" align="absmiddle"> <a href="../../download/census/census2010/t_pl_p2_cd.xlsx">PL-P2 CD</a></td>
+                            <td valign="top"></td>
+                          </tr>
+                          <tr bgcolor="#FFFFFF">
+                            <td colspan="2" valign="top" class="Text_Black_10_Bold"><p><strong>Total Population, Under 18 and 18 Years and Over &nbsp;by  Mutually Exclusive Race and Hispanic Origin and Total Housing Units, 2000-2010</strong></p></td>
+                            <td valign="top"><a href="../../download/census/census2010/t_pl_p3_nyc.xlsx"></a></td>
+                            <td valign="top"></td>
+                            <td valign="top">&nbsp;</td>
+                            <td valign="top"><img src="../../gif/interface/pdf_icon.gif" alt="PDF Document" width="12" height="12" border="0"> <a href="../../pdf/census/census2010/t_pl2_cncld.pdf">PL-P2 CNCLD</a><br>
+                              <img src="../../gif/interface/excel_icon.gif" alt="Excel File" width="12" height="12" align="absmiddle"> <a href="../../download/census/census2010/t_pl_2_cncld.xlsx">PL-P2 CNCLD </a><br>
+                              <img src="../../gif/interface/pdf_icon.gif" alt="PDF Document" width="12" height="12" border="0"> <a href="../../pdf/census/census2010/chart_2010_council_dist.pdf">CNCLD Chart</a></td>
+                          </tr>
+                          <tr bgcolor="#C6CFDE">
+                            <td colspan="2" valign="top" class="Text_Black_10_Bold">Total Population, Under 18 and 18 Years and Over by Mutually Exclusive Race and Hispanic Origin, 2010</td>
+                            <td valign="top"><img src="../../gif/interface/pdf_icon.gif" alt="PDF Document" width="12" height="12" border="0"> <a href="../../pdf/census/census2010/t_pl_p3_nyc.pdf">PL-P3 NYC</a><br>
+                              <img src="../../gif/interface/excel_icon.gif" alt="Excel File" width="12" height="12" align="absmiddle"> <a href="../../download/census/census2010/t_pl_p3_nyc.xlsx">PL-P3 NYC</a></td>
+                            <td valign="top"></td>
+                            <td valign="top"></td>
+                            <td valign="top"></td>
+                          </tr>
+                         <tr bgcolor="#FFFFFF">
+                            <td colspan="2" valign="top" class="Text_Black_10_Bold"><p><strong>Total Population by Mutually Exclusive Race and  Hispanic Origin and Total Housing Units by Occupancy Status</strong>, 2010</p></td>
+                            <td valign="top"><img src="../../gif/interface/pdf_icon.gif" alt="PDF Document" width="12" height="12" border="0"> <a href="../../pdf/census/census2010/t_pl_p3a_nyc.pdf">PL-P3A NYC</a><br>
+                            <img src="../../gif/interface/excel_icon.gif" alt="Excel File" width="12" height="12" align="absmiddle"> <a href="../../download/census/census2010/t_pl_p3a_nyc.xlsx">PL-P3A NYC</a></td>
+                            <td valign="top">&nbsp;</td>
+                            <td valign="top">&nbsp;</td>
+                            <td valign="top"><p><img src="../../gif/interface/pdf_icon.gif" alt="PDF Document" width="12" height="12" border="0"> <a href="../../pdf/census/census2010/t_pl_p3a_cb.pdf">PL-P3A CB</a><br>
+                              <img src="../../gif/interface/excel_icon.gif" alt="Excel File" width="12" height="12" align="absmiddle"> <a href="../../download/census/census2010/t_pl_p3a_cb.xlsx">PL-P3A CB<br>
+                              </a><span class="Text_Black_10_Italic">Census Blocks</span></p></td>
+                          </tr> <tr bgcolor="#FFFFFF">
+                            <td colspan="2" valign="top" class="Text_Black_10_Bold">Total Population by Mutually Exclusive Race and Hispanic Origin, 2010</td>
+                            <td valign="top">&nbsp;</td>
+                            <td valign="top"><img src="../../gif/interface/pdf_icon.gif" alt="PDF Document" width="12" height="12" border="0"> <a href="../../pdf/census/census2010/t_pl_p3a_ct.pdf">PL-P3A  CT</a><br>
+                              <img src="../../gif/interface/excel_icon.gif" alt="Excel File" width="12" height="12" align="absmiddle"> <a href="../../download/census/census2010/t_pl_p3a_ct.xlsx">PL-P3A  CT</a></td>
+                            <td valign="top"><img src="../../gif/interface/pdf_icon.gif" alt="PDF Document" width="12" height="12" border="0"> <a href="../../pdf/census/census2010/t_pl_p3a_cd.pdf">PL-P3A  CD</a><br>
+                              <img src="../../gif/interface/excel_icon.gif" alt="Excel File" width="12" height="12" align="absmiddle"> <a href="../../download/census/census2010/t_pl_p3a_cd.xlsx">PL-P3A  CD</a></td>
+                            <td valign="top"><p><img src="../../gif/interface/pdf_icon.gif" alt="PDF Document" width="12" height="12" border="0"> <a href="../../pdf/census/census2010/t_pl_p3a_nta.pdf">PL-P3A NTA</a><br>
+                              <img src="../../gif/interface/excel_icon.gif" alt="Excel File" width="12" height="12" align="absmiddle"> <a href="../../download/census/census2010/t_pl_p3a_nta.xlsx">PL-P3A NTA</a><br>
+                              <br>
+                              <img src="../../gif/interface/pdf_icon.gif" alt="PDF Document" width="12" height="12" border="0"> <a href="../../pdf/census/census2010/t_pl_3a_cncld.pdf">PL-P3A CNCLD</a><br>
+                              <img src="../../gif/interface/excel_icon.gif" alt="Excel File" width="12" height="12" align="absmiddle"> <a href="../../download/census/census2010/t_pl_p3a_cncld.xlsx">PL-P3A CNCLD</a></p>
+                             </td>
+                          </tr>
+                          <tr bgcolor="#FFFFFF">
+                            <td valign="top" class="Text_DarkGray_10">&nbsp;</td>
+                            <td valign="top" class="Text_Black_10_Bold">Population Under 18</td>
+                             <td valign="top"> <a href="../../download/census/census2010/t_pl_p3b_ct.xlsx"></a></td><td valign="top"><img src="../../gif/interface/pdf_icon.gif" alt="PDF Document" width="12" height="12" border="0"> <a href="../../pdf/census/census2010/t_pl_p3b_ct.pdf">PL-P3B  CT</a><br>
+                              <img src="../../gif/interface/excel_icon.gif" alt="Excel File" width="12" height="12" align="absmiddle"> <a href="../../download/census/census2010/t_pl_p3b_ct.xlsx">PL-P3B  CT</a></td>
+                            <td valign="top"><img src="../../gif/interface/pdf_icon.gif" alt="PDF Document" width="12" height="12" border="0"> <a href="../../pdf/census/census2010/t_pl_p3b_cd.pdf">PL-P3B  CD</a><br>
+                              <img src="../../gif/interface/excel_icon.gif" alt="Excel File" width="12" height="12" align="absmiddle"> <a href="../../download/census/census2010/t_pl_p3b_cd.xlsx">PL-P3B  CD</a></td>
+                            <td valign="top"><img src="../../gif/interface/pdf_icon.gif" alt="PDF Document" width="12" height="12" border="0"> <a href="../../pdf/census/census2010/t_pl_p3b_nta.pdf">PL-P3B NTA</a><br>
+                              <img src="../../gif/interface/excel_icon.gif" alt="Excel File" width="12" height="12" align="absmiddle"> <a href="../../download/census/census2010/t_pl_p3b_nta.xlsx">PL-P3B NTA</a><br>
+                              <br>
+                              <img src="../../gif/interface/pdf_icon.gif" alt="PDF Document" width="12" height="12" border="0"> <a href="../../pdf/census/census2010/t_pl_3b_cncld.pdf">PL-P3B CNCLD</a><br>
+                              <img src="../../gif/interface/excel_icon.gif" alt="Excel File" width="12" height="12" align="absmiddle"> <a href="../../download/census/census2010/t_pl_p3b_cncld.xlsx">PL-P3B CNCLD</a></td>
+                          </tr>
+                          <tr bgcolor="#FFFFFF">
+                            <td valign="top" class="Text_DarkGray_10">&nbsp;</td>
+                            <td valign="top" class="Text_Black_10_Bold">Population 18 Years and Over</td>
+                            <td valign="top"> <a href="../../download/census/census2010/t_pl_p3b_ct.xlsx"></a></td> <td valign="top"><img src="../../gif/interface/pdf_icon.gif" alt="PDF Document" width="12" height="12" border="0"> <a href="../../pdf/census/census2010/t_pl_p3c_ct.pdf">PL-P3C  CT</a><br>
+                              <img src="../../gif/interface/excel_icon.gif" alt="Excel File" width="12" height="12" align="absmiddle"> <a href="../../download/census/census2010/t_pl_p3c_ct.xlsx">PL-P3C  CT</a></td>
+                            <td valign="top"><img src="../../gif/interface/pdf_icon.gif" alt="PDF Document" width="12" height="12" border="0"> <a href="../../pdf/census/census2010/t_pl_p3c_cd.pdf">PL-P3C  CD</a><br>
+                              <img src="../../gif/interface/excel_icon.gif" alt="Excel File" width="12" height="12" align="absmiddle"> <a href="../../download/census/census2010/t_pl_p3c_cd.xlsx">PL-P3C  CD</a></td>
+                            <td valign="top"><img src="../../gif/interface/pdf_icon.gif" alt="PDF Document" width="12" height="12" border="0"> <a href="../../pdf/census/census2010/t_pl_p3c_nta.pdf">PL-P3C NTA</a><br>
+                              <img src="../../gif/interface/excel_icon.gif" alt="Excel File" width="12" height="12" align="absmiddle"> <a href="../../download/census/census2010/t_pl_p3c_nta.xlsx">PL-P3C NTA</a><br>
+                              <br>
+                              <img src="../../gif/interface/pdf_icon.gif" alt="PDF Document" width="12" height="12" border="0"> <a href="../../pdf/census/census2010/t_pl_3c_cncld.pdf">PL-P3C CNCLD</a><br>
+                              <img src="../../gif/interface/excel_icon.gif" alt="Excel File" width="12" height="12" align="absmiddle"> <a href="../../download/census/census2010/t_pl_p3c_cncld.xlsx">PL-P3C CNCLD</a></td>
+                          </tr>
+                          <tr bgcolor="#C6CFDE">
+                            <td colspan="2" valign="top" class="Text_Black_10_Bold">Total Nonhispanic Persons of Two or More Races, 2010 </td>
+                            <td valign="top"><img src="../../gif/interface/pdf_icon.gif" alt="PDF Document" width="12" height="12" border="0"> <a href="../../pdf/census/census2010/t_pl_p4_nyc.pdf">PL-P4 NYC</a><br>
+                              <img src="../../gif/interface/excel_icon.gif" alt="Excel File" width="12" height="12" align="absmiddle"> <a href="../../download/census/census2010/t_pl_p4_nyc.xlsx">PL-P4 NYC</a></td>
+                            <td valign="top"><img src="../../gif/interface/pdf_icon.gif" alt="PDF Document" width="12" height="12" border="0"> <a href="../../pdf/census/census2010/t_pl_p4_ct.pdf">PL-P4 CT</a><br>
+                              <img src="../../gif/interface/excel_icon.gif" alt="Excel File" width="12" height="12" align="absmiddle"> <a href="../../download/census/census2010/t_pl_p4_ct.xlsx">PL-P4 CT</a></td>
+                            <td valign="top"></td>
+                            <td valign="top"><img src="../../gif/interface/pdf_icon.gif" alt="PDF Document" width="12" height="12" border="0"> <a href="../../pdf/census/census2010/t_pl_p4_nta.pdf">PL-P4 NTA</a><br>
+                              <img src="../../gif/interface/excel_icon.gif" alt="Excel File" width="12" height="12" align="absmiddle"> <a href="../../download/census/census2010/t_pl_p4_nta.xlsx">PL-P4 NTA</a></td>
+                          </tr>
+                          <tr bgcolor="#FFFFFF">
+                            <td colspan="2" valign="top" class="Text_Black_10_Bold">Total Population and Persons Per Acre, 2000-2010</strong></td>
+                            <td valign="top"><a href="../../download/census/census2010/t_pl_p5_nyc.xlsx"></a><img src="../../gif/interface/pdf_icon.gif" alt="PDF Document" width="12" height="12" border="0"> <a href="../../pdf/census/census2010/t_pl_p5_nyc.pdf">PL-P5 NYC</a><br>
+                              <img src="../../gif/interface/excel_icon.gif" alt="Excel File" width="12" height="12" align="absmiddle"> <a href="../../download/census/census2010/t_pl_p5_nyc.xlsx">PL-P5 NYC</a></td>
+                            <td valign="top"><img src="../../gif/interface/pdf_icon.gif" alt="PDF Document" width="12" height="12" border="0"> <a href="../../pdf/census/census2010/t_pl_p5_ct.pdf">PL-P5 CT</a><br>
+                              <img src="../../gif/interface/excel_icon.gif" alt="Excel File" width="12" height="12" align="absmiddle"> <a href="../../download/census/census2010/t_pl_p5_ct.xlsx">PL-P5 CT</a></td>
+                            <td valign="top"></td>
+                            <td valign="top"><img src="../../gif/interface/pdf_icon.gif" alt="PDF Document" width="12" height="12" border="0"> <a href="../../pdf/census/census2010/t_pl_p5_nta.pdf">PL-P5 NTA</a><br>
+                              <img src="../../gif/interface/excel_icon.gif" alt="Excel File" width="12" height="12" align="absmiddle"> <a href="../../download/census/census2010/t_pl_p5_nta.xlsx">PL-P5 NTA</a></td>
+                          </tr>
+                          <tr bgcolor="#C6CFDE">
+                            <td colspan="2" valign="top" class="Text_Black_10_Bold">Total Population in the New York Metropolitan Region, 1990-2010</td>
+                            <td valign="top"></td>
+                            <td valign="top"></td>
+                            <td valign="top"></td>
+                            <td valign="top"><img src="../../gif/interface/pdf_icon.gif" alt="PDF Document" width="12" height="12" border="0"> <a href="../../pdf/census/census2010/t_pl_p6_rgn.pdf">PL-P6 RGN</a><br>
+                              <img src="../../gif/interface/excel_icon.gif" alt="Excel File" width="12" height="12" align="absmiddle"> <a href="../../download/census/census2010/t_pl_p6_rgn.xlsx">PL-P6 RGN</a></td>
+                          </tr>
+                          <tr bgcolor="#FFFFFF">
+                            <td colspan="2" valign="top" class="Text_DarkGray_10"><strong class="Text_Black_10_Bold">Total Population, Persons Under 18 and 18 Years and Over, 2000-2010</strong></td>
+                            <td valign="top"><img src="../../gif/interface/pdf_icon.gif" alt="PDF Document" width="12" height="12" border="0"> <a href="../../pdf/census/census2010/t_pl_p7_nyc.pdf">PL-P7 NYC</a><br>
+                              <img src="../../gif/interface/excel_icon.gif" alt="Excel File" width="12" height="12" align="absmiddle"> <a href="../../download/census/census2010/t_pl_p7_nyc.xlsx">PL-P7 NYC</a></td>
+                            <td valign="top"><img src="../../gif/interface/pdf_icon.gif" alt="PDF Document" width="12" height="12" border="0"> <a href="../../pdf/census/census2010/t_pl_p7_ct.pdf">PL-P7 CT</a><br>
+                              <img src="../../gif/interface/excel_icon.gif" alt="Excel File" width="12" height="12" align="absmiddle"> <a href="../../download/census/census2010/t_pl_p7_ct.xlsx">PL-P7 CT</a></td>
+                            <td valign="top"></td>
+                            <td valign="top"><img src="../../gif/interface/pdf_icon.gif" alt="PDF Document" width="12" height="12" border="0"> <a href="../../pdf/census/census2010/t_pl_p7_nta.pdf">PL-P7 NTA</a><br>
+                              <img src="../../gif/interface/excel_icon.gif" alt="Excel File" width="12" height="12" align="absmiddle"> <a href="../../download/census/census2010/t_pl_p7_nta.xlsx">PL-P7 NTA</a></td>
+                          </tr>
+                          <tr bgcolor="#C6CFDE">
+                            <td colspan="2" valign="top" class="Text_Black_10_Bold">Total Housing Units and Vacancy Status, 2010</td>
+                            <td valign="top"><img src="../../gif/interface/pdf_icon.gif" alt="PDF Document" width="12" height="12" border="0"> <a href="../../pdf/census/census2010/t_pl_h1_nyc.pdf">PL-H1 NYC</a><br>
+                              <img src="../../gif/interface/excel_icon.gif" alt="Excel File" width="12" height="12" align="absmiddle"> <a href="../../download/census/census2010/t_pl_h1_nyc.xlsx">PL-H1 NYC</a></td>
+                            <td valign="top"><img src="../../gif/interface/pdf_icon.gif" alt="PDF Document" width="12" height="12" border="0"> <a href="../../pdf/census/census2010/t_pl_h1_ct.pdf">PL-H1 CT</a><br>
+                              <img src="../../gif/interface/excel_icon.gif" alt="Excel File" width="12" height="12" align="absmiddle"> <a href="../../download/census/census2010/t_pl_h1_ct.xlsx">PL-H1 CT</a></td>
+                            <td valign="top"></td>
+                            <td valign="top"></td>
+                          </tr>
+                          <tr bgcolor="#FFFFFF">
+                            <td colspan="2" valign="top" class="Text_Black_10_Bold">Total Housing Units and Vacancy Status, 2000-2010</td>
+                            <td valign="top"><img src="../../gif/interface/pdf_icon.gif" alt="PDF Document" width="12" height="12" border="0"> <a href="../../pdf/census/census2010/t_pl_h2_nyc.pdf">PL-H2 NYC</a><br>
+                              <img src="../../gif/interface/excel_icon.gif" alt="Excel File" width="12" height="12" align="absmiddle"> <a href="../../download/census/census2010/t_pl_h2_nyc.xlsx">PL-H2 NYC</a></td>
+                            <td valign="top"><img src="../../gif/interface/pdf_icon.gif" alt="PDF Document" width="12" height="12" border="0"> <a href="../../pdf/census/census2010/t_pl_h2_ct.pdf">PL-H2 CT</a><br>
+                              <img src="../../gif/interface/excel_icon.gif" alt="Excel File" width="12" height="12" align="absmiddle"> <a href="../../download/census/census2010/t_pl_h2_ct.xlsx">PL-H2 CT</a></td>
+                            <td valign="top"></td>
+                            <td valign="top"><img src="../../gif/interface/pdf_icon.gif" alt="PDF Document" width="12" height="12" border="0"> <a href="../../pdf/census/census2010/t_pl_h2_nta.pdf">PL-H2 NTA</a><br>
+                              <img src="../../gif/interface/excel_icon.gif" alt="Excel File" width="12" height="12" align="absmiddle"> <a href="../../download/census/census2010/t_pl_h2_nta.xlsx">PL-H2 NTA</a></td>
+                          </tr>
+                          <tr bgcolor="#C6CFDE">
+                            <td colspan="2" valign="top" class="Text_Black_10_Bold">Group Quarters Population by Group Quarters</td>
+                            <td valign="top"><img src="../../gif/interface/pdf_icon.gif" alt="PDF Document" width="12" height="12" border="0"> <a href="../../pdf/census/census2010/t_gq_p1_nyc.pdf">GQ-P1 NYC</a><br>
+                              <img src="../../gif/interface/excel_icon.gif" alt="Excel File" width="12" height="12" align="absmiddle"> <a href="../../download/census/census2010/t_gq_p1_nyc.xlsx">GQ-P1 NYC </a></td>
+                            <td valign="top"><img src="../../gif/interface/pdf_icon.gif" alt="PDF Document" width="12" height="12" border="0"> <a href="../../pdf/census/census2010/t_gq_p1_ct.pdf">GQ-P1 CT</a><br>
+                              <img src="../../gif/interface/excel_icon.gif" alt="Excel File" width="12" height="12" align="absmiddle"> <a href="../../download/census/census2010/t_gq_p1_ct.xlsx">GQ-P1 CT</a></td>
+                            <td valign="top"></td>
+                            <td valign="top">&nbsp;</td>
+                          </tr>
+                          <tr bgcolor="#FFFFFF">
+                            <td colspan="2" valign="top" class="Text_Black_10_Bold">Demographic Profile, 2010</td>
+                            <td valign="top"><img src="../../gif/interface/pdf_icon.gif" alt="PDF Document" width="12" height="12" border="0"> <a href="../../pdf/census/census2010/t_sf1_dp_nyc.pdf"> SF1-DP NYC</a><br>
+                              <img src="../../gif/interface/excel_icon.gif" alt="Excel File" width="12" height="12" align="absmiddle"> <a href="../../download/census/census2010/t_sf1_dp_nyc.xlsx"> SF1-DP NYC</a></td>
+                            <td valign="top">&nbsp;</td>
+                            <td valign="top"></td>
+                            <td valign="top">&nbsp;</td>
+                          </tr>
+                          <tr bgcolor="#C6CFDE">
+                            <td colspan="2" valign="top" class="Text_Black_10_Bold"><strong>Demographic Profile, 2000-2010</strong></td>
+                            <td valign="top"><img src="../../gif/interface/pdf_icon.gif" alt="PDF Document" width="12" height="12" border="0"> <a href="../../pdf/census/census2010/t_sf1_dp_nyc_demo.pdf"> SF1-DP NYC</a><br>
+                              <img src="../../gif/interface/excel_icon.gif" alt="Excel File" width="12" height="12" align="absmiddle"> <a href="../../download/census/census2010/t_sf1_dp_nyc_demo.xlsx"> SF1-DP NYC</a></td>
+                            <td valign="top">&nbsp;</td>
+                            <td valign="top"><img src="../../gif/interface/pdf_icon.gif" alt="PDF Document" width="12" height="12" border="0"> <a href="../../pdf/census/census2010/t_sf1_dp_cd.pdf">SF1-DP CD</a><br>
+                              <img src="../../gif/interface/excel_icon.gif" alt="Excel File" width="12" height="12" align="absmiddle"> <a href="../../download/census/census2010/t_sf1_dp_cd.xlsx">SF1-DP CD</a></td>
+                            <td valign="top"><img src="../../gif/interface/pdf_icon.gif" alt="PDF Document" width="12" height="12" border="0"> <a href="../../pdf/census/census2010/t_sf1_dp_cncld.pdf">SF1-DP CNCLD</a><br>
+                              <img src="../../gif/interface/excel_icon.gif" alt="Excel File" width="12" height="12" align="absmiddle"> <a href="../../download/census/census2010/t_sf1_dp_cncld.xlsx">SF1-DP CNCLD</a></td>
+                          </tr>
+                          <tr bgcolor="#F2F2F2">
+                            <td colspan="2" valign="top" class="Text_Black_10_Bold"></td>
+                            <td valign="top" nowrap class="Text_Black_10"></td>
+                            <td valign="top" nowrap class="Text_Black_10"></td>
+                            <td valign="top" nowrap class="Text_Black_10"></td>
+                            <td valign="top" class="Text_Black_10"></td>
+                          </tr>
+                          <tr>
+                            <td colspan="6" bgcolor="#5B7DA8">&nbsp;</td>
+                          </tr>
+                          <tr valign="middle" bgcolor="#F2F2F2" class="Text_Black_11_Bold">
+                            <td colspan="2"></td>
+                            <td class="Text_Blue_10"><b>NYC 
+                              &amp; Boroughs</b></td>
+                            <td class="Text_Blue_10"><b>Census 
+                              Tracts</b></td>
+                            <td><span class="Text_Blue_10"><b>Community Districts</b></span></td>
+                            <td class="Text_Blue_10"><b>NTAs*/
+                              Other Geographies</b></td>
+                          </tr>
+                          <tr>
+                            <td colspan="2" bgcolor="#C6CFDE"><strong>Total Population by 5 Year Age Groups, 2010</strong></td>
+                            <td width="19%" bgcolor="#C6CFDE"><img src="../../gif/interface/pdf_icon.gif" alt="PDF Document" width="12" height="12" border="0"> <a href="../../pdf/census/census2010/t_sf1_p1_nyc.pdf">SF1 P1 NYC</a><br>
+                              <img src="../../gif/interface/excel_icon.gif" alt="Excel File" width="12" height="12" align="absmiddle"> <a href="../../download/census/census2010/t_sf1_p1_nyc.xlsx">SF1 P1 NYC</a></td>
+                            <td width="19%" bgcolor="#C6CFDE"><img src="../../gif/interface/pdf_icon.gif" alt="PDF Document" width="12" height="12" border="0"> <a href="../../pdf/census/census2010/t_sf1_p1_ct.pdf">SF1 P1 CT</a><br>
+                              <img src="../../gif/interface/excel_icon.gif" alt="Excel File" width="12" height="12" align="absmiddle"> <a href="../../download/census/census2010/t_sf1_p1_ct.xlsx">SF1 P1 CT</a></td>
+                            <td width="19%" bgcolor="#C6CFDE">&nbsp;</td>
+                            <td width="22%" bgcolor="#C6CFDE"><img src="../../gif/interface/pdf_icon.gif" alt="PDF Document" width="12" height="12" border="0"> <a href="../../pdf/census/census2010/t_sf1_p1_nta.pdf">SF1 P1 NTA</a><br>
+                              <img src="../../gif/interface/excel_icon.gif" alt="Excel File" width="12" height="12" align="absmiddle"> <a href="../../download/census/census2010/t_sf1_p1_nta.xlsx">SF1 P1 NTA</a></td>
+                          </tr>
+                          <tr>
+                            <td colspan="2" bgcolor="#F2F2F2"><strong>Total Females by 5 Year Age Groups, 2010</strong></td>
+                            <td width="19%" bgcolor="#F2F2F2"><img src="../../gif/interface/pdf_icon.gif" alt="PDF Document" width="12" height="12" border="0"> <a href="../../pdf/census/census2010/t_sf1_p1a_nyc.pdf">SF1 P1a NYC</a><br>
+                              <img src="../../gif/interface/excel_icon.gif" alt="Excel File" width="12" height="12" align="absmiddle"> <a href="../../download/census/census2010/t_sf1_p1a_nyc.xlsx">SF1 P1a NYC</a></td>
+                            <td width="19%" bgcolor="#F2F2F2"><img src="../../gif/interface/pdf_icon.gif" alt="PDF Document" width="12" height="12" border="0"> <a href="../../pdf/census/census2010/t_sf1_p1a_ct.pdf">SF1 P1a CT</a><br>
+                              <img src="../../gif/interface/excel_icon.gif" alt="Excel File" width="12" height="12" align="absmiddle"> <a href="../../download/census/census2010/t_sf1_p1a_ct.xlsx">SF1 P1a CT</a></td>
+                            <td width="19%" bgcolor="#F2F2F2"></td>
+                            <td width="22%" bgcolor="#F2F2F2"><img src="../../gif/interface/pdf_icon.gif" alt="PDF Document" width="12" height="12" border="0"> <a href="../../pdf/census/census2010/t_sf1_p1a_nta.pdf">SF1 P1a NTA</a><br>
+                              <img src="../../gif/interface/excel_icon.gif" alt="Excel File" width="12" height="12" align="absmiddle"> <a href="../../download/census/census2010/t_sf1_p1a_nta.xlsx">SF1 P1a NTA</a></td>
+                          </tr>
+                          <tr>
+                            <td colspan="2" bgcolor="#C6CFDE"><strong>Total Males by 5 Year Age Groups, 2010</strong></td>
+                            <td width="19%" bgcolor="#C6CFDE"><img src="../../gif/interface/pdf_icon.gif" alt="PDF Document" width="12" height="12" border="0"> <a href="../../pdf/census/census2010/t_sf1_p1b_nyc.pdf">SF1 P1b NYC</a><br>
+                              <img src="../../gif/interface/excel_icon.gif" alt="Excel File" width="12" height="12" align="absmiddle"> <a href="../../download/census/census2010/t_sf1_p1b_nyc.xlsx">SF1 P1b NYC</a></td>
+                            <td width="19%" bgcolor="#C6CFDE"><img src="../../gif/interface/pdf_icon.gif" alt="PDF Document" width="12" height="12" border="0"> <a href="../../pdf/census/census2010/t_sf1_p1b_ct.pdf">SF1 P1b CT</a><br>
+                              <img src="../../gif/interface/excel_icon.gif" alt="Excel File" width="12" height="12" align="absmiddle"> <a href="../../download/census/census2010/t_sf1_p1b_ct.xlsx">SF1 P1b CT</a></td>
+                            <td width="19%" bgcolor="#C6CFDE">&nbsp;</td>
+                            <td width="22%" bgcolor="#C6CFDE"><img src="../../gif/interface/pdf_icon.gif" alt="PDF Document" width="12" height="12" border="0"> <a href="../../pdf/census/census2010/t_sf1_p1b_nta.pdf">SF1 P1b NTA</a><br>
+                              <img src="../../gif/interface/excel_icon.gif" alt="Excel File" width="12" height="12" align="absmiddle"> <a href="../../download/census/census2010/t_sf1_p1b_nta.xlsx">SF1 P1b NTA</a></td>
+                          </tr>
+                          <tr>
+                            <td colspan="2" bgcolor="#F2F2F2"><strong>Total Population 21 Years and Under by Selected Age Groups, 2010</strong></td>
+                            <td width="19%" bgcolor="#F2F2F2"><img src="../../gif/interface/pdf_icon.gif" alt="PDF Document" width="12" height="12" border="0"> <a href="../../pdf/census/census2010/t_sf1_p2_nyc.pdf">SF1 P2 NYC</a><br>
+                              <img src="../../gif/interface/excel_icon.gif" alt="Excel File" width="12" height="12" align="absmiddle"> <a href="../../download/census/census2010/t_sf1_p2_nyc.xlsx">SF1 P2 NYC</a></td>
+                            <td width="19%" bgcolor="#F2F2F2"><img src="../../gif/interface/pdf_icon.gif" alt="PDF Document" width="12" height="12" border="0"> <a href="../../pdf/census/census2010/t_sf1_p2_ct.pdf">SF1 P2 CT</a><br>
+                              <img src="../../gif/interface/excel_icon.gif" alt="Excel File" width="12" height="12" align="absmiddle"> <a href="../../download/census/census2010/t_sf1_p2_ct.xlsx">SF1 P2 CT</a></td>
+                            <td width="19%" bgcolor="#F2F2F2"></td>
+                            <td width="22%" bgcolor="#F2F2F2"><img src="../../gif/interface/pdf_icon.gif" alt="PDF Document" width="12" height="12" border="0"> <a href="../../pdf/census/census2010/t_sf1_p2_nta.pdf">SF1 P2 NTA</a><br>
+                              <img src="../../gif/interface/excel_icon.gif" alt="Excel File" width="12" height="12" align="absmiddle"> <a href="../../download/census/census2010/t_sf1_p2_nta.xlsx">SF1 P2 NTA</a></td>
+                          </tr>
+                          <tr>
+                            <td colspan="2" bgcolor="#C6CFDE"><strong>Total Females 21 Years and Under by Selected Age Groups, 2010</strong></td>
+                            <td width="19%" bgcolor="#C6CFDE"><img src="../../gif/interface/pdf_icon.gif" alt="PDF Document" width="12" height="12" border="0"> <a href="../../pdf/census/census2010/t_sf1_p2a_nyc.pdf">SF1 P2a NYC</a><br>
+                              <img src="../../gif/interface/excel_icon.gif" alt="Excel File" width="12" height="12" align="absmiddle"> <a href="../../download/census/census2010/t_sf1_p2a_nyc.xlsx">SF1 P2a NYC</a></td>
+                            <td width="19%" bgcolor="#C6CFDE"><img src="../../gif/interface/pdf_icon.gif" alt="PDF Document" width="12" height="12" border="0"> <a href="../../pdf/census/census2010/t_sf1_p2a_ct.pdf">SF1 P2a CT</a><br>
+                              <img src="../../gif/interface/excel_icon.gif" alt="Excel File" width="12" height="12" align="absmiddle"> <a href="../../download/census/census2010/t_sf1_p2a_ct.xlsx">SF1 P2a CT</a></td>
+                            <td width="19%" bgcolor="#C6CFDE">&nbsp;</td>
+                            <td width="22%" bgcolor="#C6CFDE"><img src="../../gif/interface/pdf_icon.gif" alt="PDF Document" width="12" height="12" border="0"> <a href="../../pdf/census/census2010/t_sf1_p2a_nta.pdf">SF1 P2a NTA</a><br>
+                              <img src="../../gif/interface/excel_icon.gif" alt="Excel File" width="12" height="12" align="absmiddle"> <a href="../../download/census/census2010/t_sf1_p2a_nta.xlsx">SF1 P2a NTA</a></td>
+                          </tr>
+                          <tr>
+                            <td colspan="2" bgcolor="#F2F2F2"><strong>Total Males 21 Years and Under by Selected Age Groups, 2010</strong></td>
+                            <td width="19%" bgcolor="#F2F2F2"><img src="../../gif/interface/pdf_icon.gif" alt="PDF Document" width="12" height="12" border="0"> <a href="../../pdf/census/census2010/t_sf1_p2b_nyc.pdf">SF1 P2b NYC</a><br>
+                              <img src="../../gif/interface/excel_icon.gif" alt="Excel File" width="12" height="12" align="absmiddle"> <a href="../../download/census/census2010/t_sf1_p2b_nyc.xlsx">SF1 P2b NYC</a></td>
+                            <td width="19%" bgcolor="#F2F2F2"><img src="../../gif/interface/pdf_icon.gif" alt="PDF Document" width="12" height="12" border="0"> <a href="../../pdf/census/census2010/t_sf1_p2b_ct.pdf">SF1 P2b CT</a><br>
+                              <img src="../../gif/interface/excel_icon.gif" alt="Excel File" width="12" height="12" align="absmiddle"> <a href="../../download/census/census2010/t_sf1_p2b_ct.xlsx">SF1 P2b CT</a></td>
+                            <td width="19%" bgcolor="#F2F2F2"></td>
+                            <td width="22%" bgcolor="#F2F2F2"><img src="../../gif/interface/pdf_icon.gif" alt="PDF Document" width="12" height="12" border="0"> <a href="../../pdf/census/census2010/t_sf1_p2b_nta.pdf">SF1 P2b NTA</a><br>
+                              <img src="../../gif/interface/excel_icon.gif" alt="Excel File" width="12" height="12" align="absmiddle"> <a href="../../download/census/census2010/t_sf1_p2b_nta.xlsx">SF1 P2b NTA</a></td>
+                          </tr>
+                          <tr>
+                            <td colspan="2" bgcolor="#C6CFDE"><strong>Total Population 60 Years of Age and Over by Selected Age Groups, 2010</strong></td>
+                            <td width="19%" bgcolor="#C6CFDE"><img src="../../gif/interface/pdf_icon.gif" alt="PDF Document" width="12" height="12" border="0"> <a href="../../pdf/census/census2010/t_sf1_p3_nyc.pdf">SF1 P3 NYC</a><br>
+                              <img src="../../gif/interface/excel_icon.gif" alt="Excel File" width="12" height="12" align="absmiddle"> <a href="../../download/census/census2010/t_sf1_p3_nyc.xlsx">SF1 P3 NYC</a></td>
+                            <td width="19%" bgcolor="#C6CFDE"><img src="../../gif/interface/pdf_icon.gif" alt="PDF Document" width="12" height="12" border="0"> <a href="../../pdf/census/census2010/t_sf1_p3_ct.pdf">SF1 P3 CT</a><br>
+                              <img src="../../gif/interface/excel_icon.gif" alt="Excel File" width="12" height="12" align="absmiddle"> <a href="../../download/census/census2010/t_sf1_p3_ct.xlsx">SF1 P3 CT</a></td>
+                            <td width="19%" bgcolor="#C6CFDE">&nbsp;</td>
+                            <td width="22%" bgcolor="#C6CFDE"><img src="../../gif/interface/pdf_icon.gif" alt="PDF Document" width="12" height="12" border="0"> <a href="../../pdf/census/census2010/t_sf1_p3_nta.pdf">SF1 P3 NTA</a><br>
+                              <img src="../../gif/interface/excel_icon.gif" alt="Excel File" width="12" height="12" align="absmiddle"> <a href="../../download/census/census2010/t_sf1_p3_nta.xlsx">SF1 P3 NTA</a></td>
+                          </tr>
+                          <tr>
+                            <td colspan="2" bgcolor="#F2F2F2"><strong>Total Females 60 Years of Age and Over by Selected Age Groups, 2010</strong></td>
+                            <td width="19%" bgcolor="#F2F2F2"><img src="../../gif/interface/pdf_icon.gif" alt="PDF Document" width="12" height="12" border="0"> <a href="../../pdf/census/census2010/t_sf1_p3a_nyc.pdf">SF1 P3a NYC</a><br>
+                              <img src="../../gif/interface/excel_icon.gif" alt="Excel File" width="12" height="12" align="absmiddle"> <a href="../../download/census/census2010/t_sf1_p3a_nyc.xlsx">SF1 P3a NYC</a></td>
+                            <td width="19%" bgcolor="#F2F2F2"><img src="../../gif/interface/pdf_icon.gif" alt="PDF Document" width="12" height="12" border="0"> <a href="../../pdf/census/census2010/t_sf1_p3a_ct.pdf">SF1 P3a CT</a><br>
+                              <img src="../../gif/interface/excel_icon.gif" alt="Excel File" width="12" height="12" align="absmiddle"> <a href="../../download/census/census2010/t_sf1_p3a_ct.xlsx">SF1 P3a CT</a></td>
+                            <td width="19%" bgcolor="#F2F2F2"></td>
+                            <td width="22%" bgcolor="#F2F2F2"><img src="../../gif/interface/pdf_icon.gif" alt="PDF Document" width="12" height="12" border="0"> <a href="../../pdf/census/census2010/t_sf1_p3a_nta.pdf">SF1 P3a NTA</a><br>
+                              <img src="../../gif/interface/excel_icon.gif" alt="Excel File" width="12" height="12" align="absmiddle"> <a href="../../download/census/census2010/t_sf1_p3a_nta.xlsx">SF1 P3a NTA</a></td>
+                          </tr>
+                          <tr>
+                            <td colspan="2" bgcolor="#C6CFDE"><strong>Total Males 60 Years of Age and Over by Selected Age Groups, 2010</strong></td>
+                            <td width="19%" bgcolor="#C6CFDE"><img src="../../gif/interface/pdf_icon.gif" alt="PDF Document" width="12" height="12" border="0"> <a href="../../pdf/census/census2010/t_sf1_p3b_nyc.pdf">SF1 P3b NYC</a><br>
+                              <img src="../../gif/interface/excel_icon.gif" alt="Excel File" width="12" height="12" align="absmiddle"> <a href="../../download/census/census2010/t_sf1_p3b_nyc.xlsx">SF1 P3b NYC</a></td>
+                            <td width="19%" bgcolor="#C6CFDE"><img src="../../gif/interface/pdf_icon.gif" alt="PDF Document" width="12" height="12" border="0"> <a href="../../pdf/census/census2010/t_sf1_p3b_ct.pdf">SF1 P3b CT</a><br>
+                              <img src="../../gif/interface/excel_icon.gif" alt="Excel File" width="12" height="12" align="absmiddle"> <a href="../../download/census/census2010/t_sf1_p3b_ct.xlsx">SF1 P3b CT</a></td>
+                            <td width="19%" bgcolor="#C6CFDE">&nbsp;</td>
+                            <td width="22%" bgcolor="#C6CFDE"><img src="../../gif/interface/pdf_icon.gif" alt="PDF Document" width="12" height="12" border="0"> <a href="../../pdf/census/census2010/t_sf1_p3b_nta.pdf">SF1 P3b NTA</a><br>
+                              <img src="../../gif/interface/excel_icon.gif" alt="Excel File" width="12" height="12" align="absmiddle"> <a href="../../download/census/census2010/t_sf1_p3b_nta.xlsx">SF1 P3b NTA</a></td>
+                          </tr>
+                          <tr>
+                            <td colspan="2" bgcolor="#F2F2F2"><strong>Total Population by Household Relationship and Group Quarters, 2010</strong></td>
+                            <td width="19%" bgcolor="#F2F2F2"><img src="../../gif/interface/pdf_icon.gif" alt="PDF Document" width="12" height="12" border="0"> <a href="../../pdf/census/census2010/t_sf1_p4_nyc.pdf">SF1 P4 NYC</a><br>
+                              <img src="../../gif/interface/excel_icon.gif" alt="Excel File" width="12" height="12" align="absmiddle"> <a href="../../download/census/census2010/t_sf1_p4_nyc.xlsx">SF1 P4 NYC</a></td>
+                            <td width="19%" bgcolor="#F2F2F2"><img src="../../gif/interface/pdf_icon.gif" alt="PDF Document" width="12" height="12" border="0"> <a href="../../pdf/census/census2010/t_sf1_p4_ct.pdf">SF1 P4 CT</a><br>
+                              <img src="../../gif/interface/excel_icon.gif" alt="Excel File" width="12" height="12" align="absmiddle"> <a href="../../download/census/census2010/t_sf1_p4_ct.xlsx">SF1 P4 CT</a></td>
+                            <td width="19%" bgcolor="#F2F2F2"></td>
+                            <td width="22%" bgcolor="#F2F2F2"><img src="../../gif/interface/pdf_icon.gif" alt="PDF Document" width="12" height="12" border="0"> <a href="../../pdf/census/census2010/t_sf1_p4_nta.pdf">SF1 P4 NTA</a><br>
+                              <img src="../../gif/interface/excel_icon.gif" alt="Excel File" width="12" height="12" align="absmiddle"> <a href="../../download/census/census2010/t_sf1_p4_nta.xlsx">SF1 P4 NTA</a></td>
+                          </tr>
+                          <tr>
+                            <td colspan="2" bgcolor="#C6CFDE"><strong>Total Households by Household and Family Type, 2010</strong></td>
+                            <td width="19%" bgcolor="#C6CFDE"><img src="../../gif/interface/pdf_icon.gif" alt="PDF Document" width="12" height="12" border="0"> <a href="../../pdf/census/census2010/t_sf1_p5_nyc.pdf">SF1 P5 NYC</a><br>
+                              <img src="../../gif/interface/excel_icon.gif" alt="Excel File" width="12" height="12" align="absmiddle"> <a href="../../download/census/census2010/t_sf1_p5_nyc.xlsx">SF1 P5 NYC</a></td>
+                            <td width="19%" bgcolor="#C6CFDE"><img src="../../gif/interface/pdf_icon.gif" alt="PDF Document" width="12" height="12" border="0"> <a href="../../pdf/census/census2010/t_sf1_p5_ct.pdf">SF1 P5 CT</a><br>
+                              <img src="../../gif/interface/excel_icon.gif" alt="Excel File" width="12" height="12" align="absmiddle"> <a href="../../download/census/census2010/t_sf1_p5_ct.xlsx">SF1 P5 CT</a></td>
+                            <td width="19%" bgcolor="#C6CFDE">&nbsp;</td>
+                            <td width="22%" bgcolor="#C6CFDE"><img src="../../gif/interface/pdf_icon.gif" alt="PDF Document" width="12" height="12" border="0"> <a href="../../pdf/census/census2010/t_sf1_p5_nta.pdf">SF1 P5 NTA</a><br>
+                              <img src="../../gif/interface/excel_icon.gif" alt="Excel File" width="12" height="12" align="absmiddle"> <a href="../../download/census/census2010/t_sf1_p5_nta.xlsx">SF1 P5 NTA</a></td>
+                          </tr>
+                          <tr>
+                            <td colspan="6" bgcolor="#5B7DA8">&nbsp;</td>
+                          </tr>
+                          <tr>
+                            <td colspan="6" bgcolor="#FFFFEC">NOTE: Tables SF1 P-6A through P-6H are provided for the user to create unique age groupings by race for New York City and its boroughs. Each race group is a separate worksheet in one Excel file. Tables for total population and eight mutually exclusive race and Hispanic groups are available in the eight worksheets listed below.<br>
+                              <br>
+                              &nbsp;&nbsp;&nbsp; SF1 P-6A: White (Alone) Nonhispanic Population<br>
+                              &nbsp;&nbsp;&nbsp; SF1 P-6B: Black (Alone) Nonhispanic Population<br>
+                              &nbsp;&nbsp;&nbsp; SF1 P-6C: Asian (Alone) Nonhispanic Population<br>
+                              &nbsp;&nbsp;&nbsp; SF1 P-6D: Hispanic Population<br>
+                              &nbsp;&nbsp;&nbsp; SF1 P-6E: American Indian and Alaska Native (Alone) Nonhispanic Population<br>
+                              &nbsp;&nbsp;&nbsp; SF1 P-6F: Native Hawaiian and Other Pacific Islander (Alone) Nonhispanic Population<br>
+                              &nbsp;&nbsp;&nbsp; SF1 P-6G: Some Other Race (Alone) Nonhispanic Population<br>
+                              &nbsp;&nbsp;&nbsp; SF1 P-6H: Two or More Races Nonhispanic Population&nbsp;</td>
+                          </tr>
+                          <tr valign="middle" bgcolor="#F2F2F2" class="Text_Black_11_Bold">
+                            <td colspan="2"></td>
+                            <td class="Text_Blue_10"><b>NYC 
+                              &amp; Boroughs</b></td>
+                            <td class="Text_Blue_10"><b>Census 
+                              Tracts</b></td>
+                            <td><span class="Text_Blue_10"><b>Community Districts</b></span></td>
+                            <td class="Text_Blue_10"><b>NTAs*/
+                              Other Geographies</b></td>
+                          </tr>
+                          <tr>
+                            <td colspan="2" bgcolor="#C6CFDE"><strong>Total Population by Single Years of Age and Sex, 2010</strong></td>
+                            <td width="19%" bgcolor="#C6CFDE"><img src="../../gif/interface/pdf_icon.gif" alt="PDF Document" width="12" height="12" border="0"> <a href="../../pdf/census/census2010/t_sf1_p6_p6h_nyc.pdf">SF1 P6a through P6h NYC</a><br>
+                              <img src="../../gif/interface/excel_icon.gif" alt="Excel File" width="12" height="12" align="absmiddle"> <a href="../../download/census/census2010/t_sf1_p6_p6h_nyc.xlsx">SF1 P6a through P6h NYC</a></td>
+                            <td width="19%" bgcolor="#C6CFDE"></td>
+                            <td width="19%" bgcolor="#C6CFDE"><img src="../../gif/interface/excel_icon.gif" alt="Excel File" width="12" height="12" align="absmiddle"> <a href="../../download/census/census2010/t_sf1_p6a_d_cd.xlsx">SF1-P6a through P6d  CD<br>
+                            </a><img src="../../gif/interface/excel_icon.gif" alt="Excel File" width="12" height="12" align="absmiddle"> <a href="../../download/census/census2010/t_sf1_p6e_h_cd.xlsx">SF1-P6e through P6h  CD<br>
+                            </a></td>
+                            <td width="22%" bgcolor="#C6CFDE"><img src="../../gif/interface/excel_icon.gif" alt="Excel File" width="12" height="12" align="absmiddle"> <a href="../../download/census/census2010/t_sf1_p6_zip.xlsx">SF1-P6_ZIP</a></td>
+                          </tr>
+                          <tr bgcolor="#F2F2F2">
+                            <td colspan="2"><strong>Total Population by Age, Sex and Mutually Exclusive Race, 2010</strong></td>
+                            <td width="19%"><img src="../../gif/interface/pdf_icon.gif" alt="PDF Document" width="12" height="12" border="0"> <a href="../../pdf/census/census2010/t_sf1_p10_nyc.pdf">SF1 P10a through P10h NYC</a><br>
+                            <img src="../../gif/interface/excel_icon.gif" alt="Excel File" width="12" height="12" align="absmiddle"> <a href="../../download/census/census2010/t_sf1_p10_nyc.xlsx">SF1 P10a through P10h NYC</a></a></td>
+                            <td width="19%"></td>
+                            <td width="19%"> <a href="../../download/census/census2010/t_sf1_p7c_cd.xlsx"></a></td>
+                            <td width="22%"><a href="../../download/census/census2010/t_sf1_p6_zip.xlsx"></a></td>
+                          </tr>
+                          <tr bgcolor="#C6CFDE">
+                            <td colspan="2"><strong>Total Population by Age Groups and Sex, 2010</strong></td>
+                            <td width="19%"><a href="../../download/census/census2010/t_sf1_p9_nyc.xlsx"></a></td>
+                            <td width="19%"><a href="../../download/census/census2010/t_sf1_p9_ct.xlsx"></a></td>
+                            <td width="19%"><img src="../../gif/interface/pdf_icon.gif" alt="PDF Document" width="12" height="12" border="0"> <a href="../../pdf/census/census2010/t_sf1_p7_cd.pdf">SF1-P7 CD</a><br>
+                              <img src="../../gif/interface/excel_icon.gif" alt="Excel File" width="12" height="12" align="absmiddle"> <a href="../../download/census/census2010/t_sf1_p7_cd.xlsx">SF1-P7 CD</a></td>
+                            <td width="22%">&nbsp;</td>
+                          </tr>
+                          <tr bgcolor="#F2F2F2">
+                            <td colspan="2"><strong>Total White Alone Nonhispanic Population by Age Groups and Sex, 2010</strong></td>
+                            <td width="19%"><a href="../../download/census/census2010/t_sf1_p6_p6h_nyc.xlsx"></a></td>
+                            <td width="19%"></td>
+                            <td width="19%"><img src="../../gif/interface/pdf_icon.gif" alt="PDF Document" width="12" height="12" border="0"> <a href="../../pdf/census/census2010/t_sf1_p7a_cd.pdf">SF1-P7a CD</a><br>
+                              <img src="../../gif/interface/excel_icon.gif" alt="Excel File" width="12" height="12" align="absmiddle"> <a href="../../download/census/census2010/t_sf1_p7a_cd.xlsx">SF1-P7a CD</a></td>
+                            <td width="22%"><a href="../../download/census/census2010/t_sf1_p6_zip.xlsx"></a></td>
+                          </tr>
+                          <tr bgcolor="#C6CFDE">
+                            <td colspan="2"><strong>Total Black Alone Nonhispanic Population by Age Groups and Sex, 2010</strong></td>
+                            <td width="19%"><a href="../../download/census/census2010/t_sf1_p9_nyc.xlsx"></a></td>
+                            <td width="19%"><a href="../../download/census/census2010/t_sf1_p9_ct.xlsx"></a></td>
+                            <td width="19%"><img src="../../gif/interface/pdf_icon.gif" alt="PDF Document" width="12" height="12" border="0"> <a href="../../pdf/census/census2010/t_sf1_p7b_cd.pdf">SF1-P7b CD</a><br>
+                              <img src="../../gif/interface/excel_icon.gif" alt="Excel File" width="12" height="12" align="absmiddle"> <a href="../../download/census/census2010/t_sf1_p7b_cd.xlsx">SF1-P7b CD</a></td>
+                            <td width="22%">&nbsp;</td>
+                          </tr>
+                          <tr bgcolor="#F2F2F2">
+                            <td colspan="2"><strong>Total Asian Alone Nonhispanic Population by Age Groups and Sex, 2010</strong></td>
+                            <td width="19%"><a href="../../download/census/census2010/t_sf1_p6_p6h_nyc.xlsx"></a></td>
+                            <td width="19%"></td>
+                            <td width="19%"><img src="../../gif/interface/pdf_icon.gif" alt="PDF Document" width="12" height="12" border="0"> <a href="../../pdf/census/census2010/t_sf1_p7c_cd.pdf">SF1-P7c CD</a><br>
+                              <img src="../../gif/interface/excel_icon.gif" alt="Excel File" width="12" height="12" align="absmiddle"> <a href="../../download/census/census2010/t_sf1_p7c_cd.xlsx">SF1-P7c CD</a></td>
+                            <td width="22%"><a href="../../download/census/census2010/t_sf1_p6_zip.xlsx"></a></td>
+                          </tr>
+                          <tr bgcolor="#C6CFDE">
+                            <td colspan="2"><strong>Total Hispanic Population by Age Groups and Sex, 2010</strong></td>
+                            <td width="19%"><a href="../../download/census/census2010/t_sf1_p9_nyc.xlsx"></a></td>
+                            <td width="19%"><a href="../../download/census/census2010/t_sf1_p9_ct.xlsx"></a></td>
+                            <td width="19%"><img src="../../gif/interface/pdf_icon.gif" alt="PDF Document" width="12" height="12" border="0"> <a href="../../pdf/census/census2010/t_sf1_p7d_cd.pdf">SF1-P7d CD</a><br>
+                              <img src="../../gif/interface/excel_icon.gif" alt="Excel File" width="12" height="12" align="absmiddle"> <a href="../../download/census/census2010/t_sf1_p7d_cd.xlsx">SF1-P7d CD</a></td>
+                            <td width="22%">&nbsp;</td>
+                          </tr>
+                          
+                          <tr>
+                            <td colspan="6" bgcolor="#5B7DA8">&nbsp;</td>
+                          </tr>
+                          <tr valign="middle" bgcolor="#F2F2F2" class="Text_Black_11_Bold">
+                            <td colspan="2"></td>
+                            <td class="Text_Blue_10"><b>NYC 
+                              &amp; Boroughs</b></td>
+                            <td class="Text_Blue_10"><b>Census 
+                              Tracts</b></td>
+                            <td><span class="Text_Blue_10"><b>Community Districts</b></span></td>
+                            <td class="Text_Blue_10"><b>NTAs*/
+                              Other Geographies</b></td>
+                          </tr>
+                          <tr>
+                            <td colspan="2" bgcolor="#C6CFDE"><strong>Total Hispanic Population by Selected Subgroups, 2010</strong></td>
+                            <td width="19%" bgcolor="#C6CFDE"><img src="../../gif/interface/pdf_icon.gif" alt="PDF Document" width="12" height="12" border="0"> <a href="../../pdf/census/census2010/t_sf1_p8_nyc.pdf">SF1 P8 NYC</a><br>
+                              <img src="../../gif/interface/excel_icon.gif" alt="Excel File" width="12" height="12" align="absmiddle"> <a href="../../download/census/census2010/t_sf1_p8_nyc.xlsx">SF1 P8 NYC</a></td>
+                            <td width="19%" bgcolor="#C6CFDE"><img src="../../gif/interface/pdf_icon.gif" alt="PDF Document" width="12" height="12" border="0"> <a href="../../pdf/census/census2010/t_sf1_p8_ct.pdf">SF1 P8 CT</a><br>
+                              <img src="../../gif/interface/excel_icon.gif" alt="Excel File" width="12" height="12" align="absmiddle"> <a href="../../download/census/census2010/t_sf1_p8_ct.xlsx">SF1 P8 CT</a></td>
+                            <td width="19%" bgcolor="#C6CFDE"><img src="../../gif/interface/pdf_icon.gif" alt="PDF Document" width="12" height="12" border="0"> <a href="../../pdf/census/census2010/t_sf1_p8_cd.pdf">SF1 P8 CD</a><br>
+                            <img src="../../gif/interface/excel_icon.gif" alt="Excel File" width="12" height="12" align="absmiddle"> <a href="../../download/census/census2010/t_sf1_p8_cd.xlsx">SF1 P8 CD</a></td>
+                            <td width="22%" bgcolor="#C6CFDE"><img src="../../gif/interface/pdf_icon.gif" alt="PDF Document" width="12" height="12" border="0"> <a href="../../pdf/census/census2010/t_sf1_p8_nta.pdf">SF1 P8 NTA</a><br>
+                              <img src="../../gif/interface/excel_icon.gif" alt="Excel File" width="12" height="12" align="absmiddle"> <a href="../../download/census/census2010/t_sf1_p8_nta.xlsx">SF1 P8 NTA</a></td>
+                          </tr>
+                          <tr>
+                            <td colspan="2" bgcolor="#F2F2F2"><strong>Total Asian Population by Selected Subgroups, 2010</strong></td>
+                            <td width="19%" bgcolor="#F2F2F2"><img src="../../gif/interface/pdf_icon.gif" alt="PDF Document" width="12" height="12" border="0"> <a href="../../pdf/census/census2010/t_sf1_p9_nyc.pdf">SF1 P9 NYC</a><br>
+                              <img src="../../gif/interface/excel_icon.gif" alt="Excel File" width="12" height="12" align="absmiddle"> <a href="../../download/census/census2010/t_sf1_p9_nyc.xlsx">SF1 P9 NYC</a></td>
+                            <td width="19%" bgcolor="#F2F2F2"><img src="../../gif/interface/pdf_icon.gif" alt="PDF Document" width="12" height="12" border="0"> <a href="../../pdf/census/census2010/t_sf1_p9_ct.pdf">SF1 P9 CT</a><br>
+                              <img src="../../gif/interface/excel_icon.gif" alt="Excel File" width="12" height="12" align="absmiddle"> <a href="../../download/census/census2010/t_sf1_p9_ct.xlsx">SF1 P9 CT</a></td>
+                            <td width="19%" bgcolor="#F2F2F2"><img src="../../gif/interface/pdf_icon.gif" alt="PDF Document" width="12" height="12" border="0"> <a href="../../pdf/census/census2010/t_sf1_p9_cd.pdf">SF1 P9 CD</a><br>
+                            <img src="../../gif/interface/excel_icon.gif" alt="Excel File" width="12" height="12" align="absmiddle"> <a href="../../download/census/census2010/t_sf1_p9_cd.xlsx">SF1 P9 CD</a></td>
+                            <td width="22%" bgcolor="#F2F2F2"><img src="../../gif/interface/pdf_icon.gif" alt="PDF Document" width="12" height="12" border="0"> <a href="../../pdf/census/census2010/t_sf1_p9_nta.pdf">SF1 P9 NTA</a><br>
+                              <img src="../../gif/interface/excel_icon.gif" alt="Excel File" width="12" height="12" align="absmiddle"> <a href="../../download/census/census2010/t_sf1_p9_nta.xlsx">SF1 P9 NTA</a></td>
+                          </tr>
+                          <tr>
+                            <td colspan="6" bgcolor="#5B7DA8">&nbsp;</td>
+                          </tr>
+                          <tr valign="middle" bgcolor="#F2F2F2" class="Text_Black_11_Bold">
+                            <td colspan="2"></td>
+                            <td class="Text_Blue_10"><b>NYC 
+                              &amp; Boroughs</b></td>
+                            <td class="Text_Blue_10"><b>Census 
+                              Tracts</b></td>
+                            <td><span class="Text_Blue_10"><b>Community Districts</b></span></td>
+                            <td class="Text_Blue_10"><b>NTAs*/
+                              Other Geographies</b></td>
+                          </tr>
+                          <tr>
+                            <td colspan="2" bgcolor="#C6CFDE"><strong>Total Housing Units by Occupancy Status and Tenure</strong></td>
+                            <td width="19%" bgcolor="#C6CFDE"><img src="../../gif/interface/pdf_icon.gif" alt="PDF Document" width="12" height="12" border="0"> <a href="../../pdf/census/census2010/t_sf1_h1_nyc.pdf">SF1-H1 NYC</a><br>
+                              <img src="../../gif/interface/excel_icon.gif" alt="Excel File" width="12" height="12" align="absmiddle"> <a href="../../download/census/census2010/t_sf1_h1_nyc.xlsx">SF1-H1 NYC</a></td>
+                            <td width="19%" bgcolor="#C6CFDE"><img src="../../gif/interface/pdf_icon.gif" alt="PDF Document" width="12" height="12" border="0"> <a href="../../pdf/census/census2010/t_sf1_h1_ct.pdf">SF1-H1 CT</a><br>
+                              <img src="../../gif/interface/excel_icon.gif" alt="Excel File" width="12" height="12" align="absmiddle"> <a href="../../download/census/census2010/t_sf1_h1_ct.xlsx">SF1-H1 CT</a></td>
+                            <td width="19%" bgcolor="#C6CFDE">&nbsp;</td>
+                            <td width="22%" bgcolor="#C6CFDE"><img src="../../gif/interface/pdf_icon.gif" alt="PDF Document" width="12" height="12" border="0"> <a href="../../pdf/census/census2010/t_sf1_h1_nta.pdf">SF1-H1 NTA</a><br>
+                              <img src="../../gif/interface/excel_icon.gif" alt="Excel File" width="12" height="12" align="absmiddle"> <a href="../../download/census/census2010/t_sf1_h1_nta.xlsx">SF1-H1 NTA</a></td>
+                          </tr>
+                          <tr>
+                            <td colspan="2" bgcolor="#F2F2F2"><strong>Total Occupied Housing Units by Household Size</strong></td>
+                            <td width="19%" bgcolor="#F2F2F2"><img src="../../gif/interface/pdf_icon.gif" alt="PDF Document" width="12" height="12" border="0"> <a href="../../pdf/census/census2010/t_sf1_h2_nyc.pdf">SF1-H2 NYC</a><br>
+                              <img src="../../gif/interface/excel_icon.gif" alt="Excel File" width="12" height="12" align="absmiddle"> <a href="../../download/census/census2010/t_sf1_h2_nyc.xlsx">SF1-H2 NYC</a></td>
+                            <td width="19%" bgcolor="#F2F2F2"><img src="../../gif/interface/pdf_icon.gif" alt="PDF Document" width="12" height="12" border="0"> <a href="../../pdf/census/census2010/t_sf1_h2_ct.pdf">SF1-H2 CT</a><br>
+                              <img src="../../gif/interface/excel_icon.gif" alt="Excel File" width="12" height="12" align="absmiddle"> <a href="../../download/census/census2010/t_sf1_h2_ct.xlsx">SF1-H2 CT</a></td>
+                            <td width="19%" bgcolor="#F2F2F2"></td>
+                            <td width="22%" bgcolor="#F2F2F2"><img src="../../gif/interface/pdf_icon.gif" alt="PDF Document" width="12" height="12" border="0"> <a href="../../pdf/census/census2010/t_sf1_h2_nta.pdf">SF1-H2 NTA</a><br>
+                              <img src="../../gif/interface/excel_icon.gif" alt="Excel File" width="12" height="12" align="absmiddle"> <a href="../../download/census/census2010/t_sf1_h2_nta.xlsx">SF1-H2 NTA</a></td>
+                          </tr>
+                          <tr>
+                            <td colspan="2" bgcolor="#C6CFDE"><strong>Total Occupied Housing Units by Tenure and Age of Householder</strong></td>
+                            <td width="19%" bgcolor="#C6CFDE"><img src="../../gif/interface/pdf_icon.gif" alt="PDF Document" width="12" height="12" border="0"> <a href="../../pdf/census/census2010/t_sf1_h3_nyc.pdf">SF1-H3 NYC</a><br>
+                              <img src="../../gif/interface/excel_icon.gif" alt="Excel File" width="12" height="12" align="absmiddle"> <a href="../../download/census/census2010/t_sf1_h3_nyc.xlsx">SF1-H3 NYC</a></td>
+                            <td width="19%" bgcolor="#C6CFDE"><img src="../../gif/interface/pdf_icon.gif" alt="PDF Document" width="12" height="12" border="0"> <a href="../../pdf/census/census2010/t_sf1_h3_ct.pdf">SF1-H3 CT</a><br>
+                              <img src="../../gif/interface/excel_icon.gif" alt="Excel File" width="12" height="12" align="absmiddle"> <a href="../../download/census/census2010/t_sf1_h3_ct.xlsx">SF1-H3 CT</a></td>
+                            <td width="19%" bgcolor="#C6CFDE">&nbsp;</td>
+                            <td width="22%" bgcolor="#C6CFDE"><img src="../../gif/interface/pdf_icon.gif" alt="PDF Document" width="12" height="12" border="0"> <a href="../../pdf/census/census2010/t_sf1_h3_nta.pdf">SF1-H3 NTA</a><br>
+                              <img src="../../gif/interface/excel_icon.gif" alt="Excel File" width="12" height="12" align="absmiddle"> <a href="../../download/census/census2010/t_sf1_h3_nta.xlsx">SF1-H3 NTA</a></td>
+                          </tr>
+                        </table>
+                        <p><br>
+                          <br>
+                          <br>
+                        </p>
+                    
+                    <tr>
+                      <td colspan=2 class="plain_text"><!-- #BeginLibraryItem "/Library/PDF Footer.lbi" -->
+                        <hr size="1">
+                        <p><img src="../../gif/interface/pdf_icon.gif" alt="PDF Document" width="12" height="12" border="0"> Items
+                          accompanied by this symbol require the <a href="/html/misc/html/pdfhowto.html" class="Link_Blue_11">free
+                          Adobe Acrobat Reader</a>.</p>
+                        <!-- #EndLibraryItem --><img src="../../gif/interface/excel_icon.gif" alt="Excel File" width="12" height="12" align="absmiddle"> Downloadable Excel file. </td>
+                    </tr>
+                  </table>
+                  
+                  <!--END_PRINT_PAGE--> 
+                  </td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+        <tr bgcolor="#C6CFDE"> 
+          <td colspan="3" valign="top" class="Link_White_11">&nbsp;</td>
+        </tr>
+        <tr> 
+                    <td colspan="3" height="25" bgcolor="#666666" class="Link_White_11" align="center"> 
+            <p><a href="../../home.html" class="Link_White_11">DCP Home</a> | <a href="http://www.nyc.gov" class="Link_White_11">NYC.gov Home</a> | <a href="/contact" class="Link_White_11">Contact Us </a>| <a href="/faqs" class="Link_White_11">FAQ's</a> | <a href="/privacy" class="Link_White_11">Privacy Statement </a> | <a href="/sitemap" class="Link_White_11">Sitemap</a></p>
+          </td>
+        </tr>
+		
+		
+		        <tr align="center" valign="middle"> 
+          <td height="25" colspan="3" bgcolor="#666666" class="Text_gray_11"><p><a href="../about/copyright.shtml" class="Link_White_11_Copyright">COPYRIGHT</a> &copy; 2013 NYC Department of City Planning. All Rights Reserved.</p>
+          </td>
+        </tr>
+		
+		
+		
+      </table>
+    </td>
+  </tr>
+</table>
+<!--BEGIN_PRINT_PAGE--><div id="navtxt" class="navtext" style="position:absolute; top:-100px; left:0px; visibility:hidden"></div><!--END_PRINT_PAGE-->
+</body>
+</html>

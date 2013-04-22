@@ -1,0 +1,659 @@
+
+
+
+		
+	
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+	<head>
+		<meta http-equiv="content-type" content="text/html;charset=UTF-8">
+		<meta name="tp-name" content="homepage_2col">
+
+		
+		
+
+		
+				<title>Resources for the Uninsured | Other Public Benefits | Tax Credits</title>
+			
+		
+				
+			
+		<link href="../../includes/css/rollout.css" rel="stylesheet">
+	</head>
+
+<body  background="../../includes/site_images/misc/bg_2col.gif"
+  bgcolor="#ffffff" leftmargin="0" marginheight="0" marginwidth="0" topmargin="0">
+
+	<!-- BEGIN_PRINT_PAGE -->
+		<table width="769" border="0" cellspacing="0" cellpadding="0" height="100%">
+	<!-- END_PRINT_PAGE -->	
+			<tr><td colspan="2" align="left" valign="top" width="769">
+					<!-- START of nycgov_header.inc -->
+<table width="769" border="0" cellspacing="0" cellpadding="0" height="51">
+	<tr>
+		<td><img src="../../includes/site_images/nyc_gov/nycgov_banner.gif" alt="" width="769" height="51" border="0" usemap="#TopNav"></td>
+	</tr>
+</table>
+<map name="TopNav">
+  <area shape="rect" coords="554,1,599,25" href="/search" alt="Search">
+  <area shape="rect" coords="607,1,688,25" href="/portal/register.jsp" alt="Email Updates">
+  <area shape="rect" coords="698,1,762,25" href="/contact" alt="Contact Us">
+  <area shape="rect" coords="328,27,399,50" href="/residents" alt="Residents">
+  <area shape="rect" coords="408,27,471,50" href="/business" alt="Business">
+  <area shape="rect" coords="478,27,535,50" href="/visitors" alt="Visitors">
+  <area shape="rect" coords="544,27,628,50" href="/government" alt="Government">
+  <area shape="rect" coords="635,27,764,50" href="/mayor" alt="Office of the Mayor">
+  <area shape="rect" coords="3,3,49,48" href="/home.html" alt="NYC.gov always open">
+</map>
+<!-- END of nycgov_header.inc -->
+					
+							<table width="769" border="0" cellspacing="0" cellpadding="0">
+  <tr> 
+    <td align="left" valign="top" width="769"><img src="../../includes/site_images/branding/agency_topbanner.jpg" alt="Office of Citywide Health Insurance Access" width="769" height="95" border="0" usemap="#LogoNav"></td>
+  </tr>
+</table>
+<map name="LogoNav">
+  <area shape="poly" coords="12,12,165,12,182,45,187,45,187,31,555,31,555,45,12,45" href="../../html/home/home.shtml" alt="">
+</map>
+						
+			</td></tr>
+
+		
+		<!-- BEGIN_PRINT_PAGE -->
+		<tr>
+		<!-- END_PRINT_PAGE -->
+		<td align="left" valign="top" width="180" height="100%">
+					
+							
+							 
+								 <script language="Javascript" src="../../includes/scripts/rollover.js"></script>
+<table width='180' border='0' cellspacing='0' cellpadding='0'>
+<tr>
+    <td colspan="2"><img src="../../includes/site_images/spacers/spacer.gif" alt="" width="180" height="2"></td>
+  </tr>
+  <tr height="53" bgcolor="FF6600"> 
+  <td align="left" valign="bottom"><img src="../../includes/site_images/spacers/spacer.gif" alt="" width="15" height="53">
+  </td>
+    <td valign="top"><table width="165"  border='0' cellspacing='0' cellpadding='0' height="53">
+        <form action="http://search1.nyc.gov/search?" method="GET" name="gs">
+          <tr height="32" valign="bottom"> 
+                     <input value="xml_no_dtd" name="output" type="hidden">
+                     <input value="default_collection" name="site" type="hidden">
+                     <input value="agency_frontend" name="proxystylesheet" type="hidden">
+                     <input value="agency_frontend" name="client" type="hidden">
+                     <input value="www.nyc.gov/html/hia" name="sitesearch" type="hidden">
+            <td align="left"> 
+              <input name="q" type="text" class="search-box" id="search_nycgov">
+            </td>
+          </tr>
+          <tr height="21" valign="top"> 
+            <td align="left" valign="middle"> 
+              <input name="go" type="image" id="go" src="../../includes/site_images/nav/nav_search_button_0.gif" alt="Search OCHIA" width="86" height="11" border="0" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('go','','../../includes/site_images/nav/nav_search_button_1.gif',1)"> 
+            </td>
+          </tr>
+        </form>
+      </table></td>
+  </tr>
+</table>
+<table width="180" border="0" cellspacing="0" cellpadding="0">
+<tr>
+  <td align="left" bgcolor="" valign="top">
+    <a href="../../html/home/home.shtml" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('home','','../../includes/site_images/nav/home_1.gif',1)"><img src="../../includes/site_images/nav/home_0.gif" alt="OCHIA Home" name="home" width="180" height="31" border="0"></a><br>
+	<a href="../../html/about/about.shtml" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('about','','../../includes/site_images/nav/about_1.gif',1)"><img src="../../includes/site_images/nav/about_0.gif" alt="About OCHIA" name="about" width="180" height="30" border="0"></a><br>
+	<a href="../../html/public_insurance/public_insurance.shtml" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('public_insurance','','../../includes/site_images/nav/public_health_1.gif',1)"><img src="../../includes/site_images/nav/public_health_0.gif" alt="Public Health Insurance Options" name="public_insurance" width="180" height="30" border="0"></a><br>
+	<a href="../../html/private_insurance/private_insurance.shtml" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('private_insurance','','../../includes/site_images/nav/private_health_1.gif',1)"><img src="../../includes/site_images/nav/private_health_0.gif" alt="Private Health Insurance Options" name="private_insurance" width="180" height="30" border="0"></a><br>
+	<a href="../../html/resources/resources.shtml" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('resources','','../../includes/site_images/nav/resources_1.gif',1)"><img src="../../includes/site_images/nav/resources_0.gif" alt="Resources for the Uninsured" name="resources" width="180" height="44" border="0"></a><br>
+  	<a href="../../html/other/other.shtml"><img src="../../includes/site_images/nav/other_active.gif" alt="Other Benefits for Health Living" name="other" width="180" height="44" border="0"></a><br>
+	<a href="../../html/policy/policy.shtml" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('policy','','../../includes/site_images/nav/policy_1.gif',1)"><img src="../../includes/site_images/nav/policy_0.gif" alt="Health Insurance Policy & Research Links" name="policy" width="180" height="44" border="0"></a><br>
+	<a href="../../html/publications/publications.shtml" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('publications','','../../includes/site_images/nav/publications_1.gif',1)"><img src="../../includes/site_images/nav/publications_0.gif" alt="Publications" name="publications" width="180" height="30" border="0"></a><br>
+    <a href="http://www.nyc.gov/html/mail/html/mailhia.html" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('contact','','../../includes/site_images/nav/contact_1.gif',1)"><img src="../../includes/site_images/nav/contact_0.gif" alt="Contact OCHIA" name="contact" width="180" height="30" border="0"></a></td>
+</tr>
+<tr><td><img src="../../includes/site_images/nav/bottom_image.jpg" alt="Smiling Girl and Father" height="124" width="180" border="0"></td></tr>
+</table><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+								 
+						
+				</td>
+				<!-- START of CENTER column -->
+				<!-- BEGIN_PRINT_PAGE -->
+				<td id="main_content" align="left" valign="top" width="589">
+				<!-- START of PRIMARY FEATURE SECTION -->
+				<table width="589" border="0" cellspacing="0" cellpadding="0">
+				  
+					  
+						<tr><td colspan="3" align="left" valign="top" bgcolor="" width="589">
+							
+							
+								<img src="../../includes/site_images/titles/title_resources_benefits_2col.gif"
+								alt="Other Public Benefits" width="589" border="0" /></td></tr>
+						
+					
+						<tr><td align="left" bgcolor="" valign="top" width="30"><img src="../../includes/site_images/spacers/spacer_30_30.gif" alt="" width="30" height="30" border="0">
+						</td><td align="left" bgcolor="" valign="top" width="499"><img src="../../includes/site_images/spacers/spacer_499_15.gif" alt="" width="499" height="15" border="0"><br>
+					  
+							
+						
+					  
+							
+							<span class="headline">Tax Credits<br>
+								</span>
+								
+							
+									
+									
+											<span class="bodytext"><SPAN class=bodytextbold>Earned Income Tax Credit (EITC)<BR><BR>Extra $$$ is Just a Tax Form Away!</SPAN><BR><BR>The Earned Income Tax Credit (EITC) is a refundable federal, New York State, and New York City tax credit for individuals who work full or part time. Even if you worked part time, only part of the year, or are unemployed now, you may be eligible. But you must file a state and federal tax return in order to get this refund. You will receive a refund for any amount which exceeds your tax liability. Even if your income was too small to have paid income taxes, you may still qualify for EITC.&nbsp;</span>
+										
+								
+						
+
+					
+
+					 
+					   
+						
+					 
+					 
+					
+					</td><td align="left" bgcolor="" valign="top" width="60"><img src="../../includes/site_images/spacers/spacer_60_30.gif" alt="" width="60" height="30" border="0"></td></tr>
+
+					
+
+					  
+				   
+					  
+						<tr><td colspan="3" align="left" valign="top" bgcolor="" width="589">
+							
+							</td></tr>
+						
+					
+						<tr><td align="left" bgcolor="" valign="top" width="30"><img src="../../includes/site_images/spacers/spacer_30_30.gif" alt="" width="30" height="30" border="0">
+						</td><td align="left" bgcolor="" valign="top" width="499"><img src="../../includes/site_images/spacers/spacer_499_15.gif" alt="" width="499" height="15" border="0"><br>
+					  
+							
+						
+					  
+							
+							<span class="headline">Who Qualifies for the EITC?<br>
+								</span>
+								
+							
+									
+									
+											<span class="bodytext">Single or married people who worked full-time or part-time at some point in 2012 can qualify for the EITC, depending on their income: 
+<UL>
+<LI>If you were raising one child in your home and had family income of less than $36,920 (or $42,130 for married workers)</LI>
+<LI>If you were raising two children in your home and had family income of less than $41,952 (or $47,162 for married workers);</LI>
+<LI>If you were raising three or more&nbsp;children in your home and had family income of less than $45,060 (or $50,270 for married workers);</LI>
+<LI>If you were not raising children in your home, were between ages 25 and 64 on December 31, 2012, and had income below $13,980 (or $19,190 or married workers).</LI></UL>
+<TABLE border=1 cellSpacing=1 cellPadding=3>
+<TBODY>
+<TR class=blue_bg>
+<TD align=middle>
+<P align=center><STRONG><SPAN class=table_title_white>Who are &#8220;Qualifying Children&#8221;?</SPAN></STRONG></P></TD></TR>
+<TR>
+<TD>
+<UL class=noindent>
+<LI>Sons, daughters, stepchildren, grandchildren and adopted children</LI>
+<LI>Brothers, sisters, half brothers, half sisters, stepbrothers, or stepsisters - as well as descendants of such relatives such as a niece or nephew&nbsp;- if they were cared for as members of the family</LI>
+<LI>Foster children who are placed with the worker by an authorized government or private placement agency</LI></UL></TD></TR>
+<TR>
+<TD>"Qualifying children" must live with you for more than half of the year. They must be under age 19, or under age 24 if they are full-time students. Totally and permanently disabled children of any age also may be qualifying children. All qualifying children born before December 31, 2012 must have valid Social Security numbers.</TD></TR></TBODY></TABLE>&nbsp;</span>
+										
+								
+						
+
+					
+
+					 
+					   
+						
+					 
+					 
+					
+					</td><td align="left" bgcolor="" valign="top" width="60"><img src="../../includes/site_images/spacers/spacer_60_30.gif" alt="" width="60" height="30" border="0"></td></tr>
+
+					
+
+					  
+				   
+					  
+						<tr><td colspan="3" align="left" valign="top" bgcolor="" width="589">
+							
+							</td></tr>
+						
+					
+						<tr><td align="left" bgcolor="" valign="top" width="30"><img src="../../includes/site_images/spacers/spacer_30_30.gif" alt="" width="30" height="30" border="0">
+						</td><td align="left" bgcolor="" valign="top" width="499"><img src="../../includes/site_images/spacers/spacer_499_15.gif" alt="" width="499" height="15" border="0"><br>
+					  
+							
+						
+					  
+							
+							<span class="headline">EITC Benefits<br>
+								</span>
+								
+							
+									
+									
+											<span class="bodytext">&nbsp; 
+<TABLE border=1 cellSpacing=1 cellPadding=3>
+<TBODY>
+<TR class=blue_bg>
+<TD colSpan=6 align=middle>
+<DIV class=table_title_white align=center><STRONG><SPAN class=table_title_white>Earned Income Tax Credit<BR>Maximum Income Levels and Credit Amounts<BR>Tax Year 2012</SPAN></STRONG></DIV></TD></TR>
+<TR class=blue_bg>
+<TD align=middle>&nbsp;</TD>
+<TD align=middle>
+<DIV align=center><SPAN class=table_title_white><STRONG>Maximum City Credit</STRONG></SPAN></DIV></TD>
+<TD align=middle>
+<DIV class=table_text_white align=center><STRONG><SPAN class=table_text_white>Maximum State Credit</SPAN></STRONG></DIV></TD>
+<TD align=middle>
+<DIV class=table_text_white align=center><STRONG><SPAN class=table_text_white>Maximum Federal Credit</SPAN></STRONG></DIV></TD>
+<TD align=middle>
+<DIV class=table_text_white align=center><STRONG><SPAN class=table_text_white>Maximum Combined Credit</SPAN></STRONG></DIV></TD>
+<TD align=middle>
+<DIV class=table_text_white align=center><STRONG><SPAN class=table_text_white>Maximum Income</SPAN></STRONG></DIV></TD></TR>
+<TR>
+<TD align=middle>Families with three or more qualifying children</TD>
+<TD align=middle>$295</TD>
+<TD align=middle>$1,767</TD>
+<TD align=middle>$5,891</TD>
+<TD align=middle><STRONG>$7.953</STRONG></TD>
+<TD align=middle>$45,060($50,270 MFJ)*</TD></TR>
+<TR>
+<TD align=middle>Families with two qualifying children</TD>
+<TD align=middle>$262</TD>
+<TD align=middle>$1,571</TD>
+<TD align=middle>$5,236</TD>
+<TD align=middle><STRONG>$7,069</STRONG></TD>
+<TD align=middle>$41,952($47,162MFJ)*</TD></TR>
+<TR>
+<TD align=middle>Families with one qualifying child</TD>
+<TD align=middle>$158</TD>
+<TD align=middle>$951</TD>
+<TD align=middle>$3,169</TD>
+<TD align=middle><STRONG>$4,278</STRONG></TD>
+<TD align=middle>$36,920($42,130 MFJ)*</TD></TR>
+<TR>
+<TD align=middle>Individuals with no qualifying children</TD>
+<TD align=middle>$24</TD>
+<TD align=middle>$143</TD>
+<TD align=middle>$475</TD>
+<TD align=middle><STRONG>$642</STRONG></TD>
+<TD align=middle>$13,980($19,190 MFJ)*</TD></TR>
+<TR>
+<TD colSpan=6>*MFJ-Married filing jointly</TD></TR></TBODY></TABLE>&nbsp;</span>
+										
+								
+						
+
+					
+
+					 
+					   
+						
+					 
+					 
+					
+					</td><td align="left" bgcolor="" valign="top" width="60"><img src="../../includes/site_images/spacers/spacer_60_30.gif" alt="" width="60" height="30" border="0"></td></tr>
+
+					
+
+					  
+				   
+					  
+						<tr><td colspan="3" align="left" valign="top" bgcolor="" width="589">
+							
+							</td></tr>
+						
+					
+						<tr><td align="left" bgcolor="" valign="top" width="30"><img src="../../includes/site_images/spacers/spacer_30_30.gif" alt="" width="30" height="30" border="0">
+						</td><td align="left" bgcolor="" valign="top" width="499"><img src="../../includes/site_images/spacers/spacer_499_15.gif" alt="" width="499" height="15" border="0"><br>
+					  
+							
+						
+					  
+							
+							<span class="headline">How to Claim the EITC<br>
+								</span>
+								
+							
+									
+									
+											<span class="bodytext">&nbsp;&nbsp;&nbsp;</span>
+										
+								
+						
+
+					
+
+					 
+					   
+						
+					 
+					 
+					
+					</td><td align="left" bgcolor="" valign="top" width="60"><img src="../../includes/site_images/spacers/spacer_60_30.gif" alt="" width="60" height="30" border="0"></td></tr>
+
+					
+
+					  
+				   
+					  
+						<tr><td colspan="3" align="left" valign="top" bgcolor="" width="589">
+							
+							</td></tr>
+						
+					
+						<tr><td align="left" bgcolor="" valign="top" width="30"><img src="../../includes/site_images/spacers/spacer_30_30.gif" alt="" width="30" height="30" border="0">
+						</td><td align="left" bgcolor="" valign="top" width="499"><img src="../../includes/site_images/spacers/spacer_499_15.gif" alt="" width="499" height="15" border="0"><br>
+					  
+							
+						
+					  
+							
+							<span class="headline">Important Questions Regarding the EITC<br>
+								</span>
+								
+							
+									
+											<span class="bodytext">In most cases, the EITC does not count as income in determining eligibility for benefits like cash assistance ("welfare"), Medicaid, food stamps, SSI, or public housing.  Some benefit programs count the EITC against resource tests in certain circumstances.  For example, there is a resource test for Medicaid, as a result, if your EITC refund will put your resources over the allowable limit, the refund must be spent by the end of the month after the month in which it is received or the amount saved may be counted as part of your available resources. </span>
+											
+										
+									
+								
+						
+
+					
+
+					 
+					   
+						
+					 
+					 
+					
+					</td><td align="left" bgcolor="" valign="top" width="60"><img src="../../includes/site_images/spacers/spacer_60_30.gif" alt="" width="60" height="30" border="0"></td></tr>
+
+					
+
+					  
+				   
+					  
+						<tr><td colspan="3" align="left" valign="top" bgcolor="" width="589">
+							
+							</td></tr>
+						
+					
+						<tr><td align="left" bgcolor="" valign="top" width="30"><img src="../../includes/site_images/spacers/spacer_30_30.gif" alt="" width="30" height="30" border="0">
+						</td><td align="left" bgcolor="" valign="top" width="499"><img src="../../includes/site_images/spacers/spacer_499_15.gif" alt="" width="499" height="15" border="0"><br>
+					  
+							
+						
+					  
+							
+							<span class="headline">Can immigrant workers get the EITC?<br>
+								</span>
+								
+							
+									
+											<span class="bodytext">Many legal immigrants can qualify for the EITC, as long as you meet the eligibility requirements and all workers and children listed on the family's Schedule EIC each have valid Social Security numbers that permit them to work legally in the United States.</span>
+											
+										
+									
+								
+						
+
+					
+
+					 
+					   
+						
+					 
+					 
+					
+					</td><td align="left" bgcolor="" valign="top" width="60"><img src="../../includes/site_images/spacers/spacer_60_30.gif" alt="" width="60" height="30" border="0"></td></tr>
+
+					
+
+					  
+				   
+					  
+						<tr><td colspan="3" align="left" valign="top" bgcolor="" width="589">
+							
+							</td></tr>
+						
+					
+						<tr><td align="left" bgcolor="" valign="top" width="30"><img src="../../includes/site_images/spacers/spacer_30_30.gif" alt="" width="30" height="30" border="0">
+						</td><td align="left" bgcolor="" valign="top" width="499"><img src="../../includes/site_images/spacers/spacer_499_15.gif" alt="" width="499" height="15" border="0"><br>
+					  
+							
+						
+					  
+							
+							<span class="headline">What if I was eligible for the EITC in past years but didn't claim it?<br>
+								</span>
+								
+							
+									
+											<span class="bodytext">You can file for the EITC for the last three years.  For tax year 2012, you can still file for 2011, 2010 and 2009.   For example, if you were eligible for the EITC in 2009 but did not claim it, you can fill out a Form 1040X,"Amended U.S. Individual Income Tax Return," and attach it to a copy of your 2009 tax return you filed that year.  If you are claiming a child, you must also fill out and attach Schedule EIC for 2009.  For copies of prior-year federal forms, call 1-800-TAX-FORM.  You may also file an amended New York State Return and get the state EITC you were entitled to for the tax years for which you filed an amended federal return.</span>
+											
+										
+									
+								
+						
+
+					
+
+					 
+					   
+						
+					 
+					 
+					
+					</td><td align="left" bgcolor="" valign="top" width="60"><img src="../../includes/site_images/spacers/spacer_60_30.gif" alt="" width="60" height="30" border="0"></td></tr>
+
+					
+
+					  
+				   
+					  
+						<tr><td colspan="3" align="left" valign="top" bgcolor="" width="589">
+							
+							</td></tr>
+						
+					
+						<tr><td align="left" bgcolor="" valign="top" width="30"><img src="../../includes/site_images/spacers/spacer_30_30.gif" alt="" width="30" height="30" border="0">
+						</td><td align="left" bgcolor="" valign="top" width="499"><img src="../../includes/site_images/spacers/spacer_499_15.gif" alt="" width="499" height="15" border="0"><br>
+					  
+							
+						
+					  
+							
+							<span class="headline">Other Helpful Resources<br>
+								</span>
+								
+							
+									
+									
+											<span class="bodytext"><P><BR><A href="http://www.nyc.gov/html/ofe/html/policy_and_programs/taxprep.shtml">Department of Consumer Affairs</A>&nbsp;Find Free Tax Assistance Sites, search on-line directory of financial education classes, and learn how to avoid identity theft.<BR><BR></P>&nbsp; </span>
+										
+								
+						
+
+					
+
+					 
+					   
+						
+					 
+					 
+					
+					</td><td align="left" bgcolor="" valign="top" width="60"><img src="../../includes/site_images/spacers/spacer_60_30.gif" alt="" width="60" height="30" border="0"></td></tr>
+
+					
+
+					  
+				   
+				</table>
+				<!-- END of PRIMARY FEATURE SECTION -->
+
+				<!-- START of SECONDARY FEATURE SECTION -->
+
+				<table width="589" border="0" cellspacing="0" cellpadding="0">
+				  
+					  
+						<tr><td colspan="4" align="left" valign="top" bgcolor="" width="589">
+							
+							</td></tr>
+						
+					
+
+					  </table>
+
+				<!-- END of SECONDARY FEATURE SECTION -->
+
+				<!-- START of TERTIARY FEATURE SECTION -->
+				<table width="589" border="0" cellspacing="0" cellpadding="0">
+				  
+					  
+						<tr><td colspan="3" align="left" valign="top" bgcolor="" width="589">
+							
+							</td></tr>
+						
+					
+					  
+				   
+				</table>
+				<!-- END of TERTIARY FEATURE SECTION -->
+				<!-- END_PRINT_PAGE -->
+				
+
+			<br><table width="200" border="0" cellspacing="0" cellpadding="0" class="eaf_position_2col">
+  <tr> 
+    <td align="left" valign="middle" width="30">&nbsp;</td>
+    <td align="left" valign="middle" width="16"><a target="_blank" onclick="this.href = '/j2ee/emailafriend/EAFEntry?' + Date.parse(new Date()); return true;" href="/j2ee/emailafriend/EAFEntry"><img src="../../images/buttons/eaf.gif" border="0" height="12" width="16"></a></td>
+    <td width="154">&nbsp;&nbsp;<a target="_blank" onclick="this.href = '/j2ee/emailafriend/EAFEntry?' + Date.parse(new Date()); return true;" href="/j2ee/emailafriend/EAFEntry?" class="footer_text">EMAIL 
+      A FRIEND</a></td>
+  </tr>
+</table>
+
+<br> <!-- Pay ATTENTION!!!
+        Please, delete comments before you upload to IW Server your changes to this File!
+
+        1. In the link tag below instead of sitename=HPD type your Agency Name.
+        2. If you included alternative file to use Printer Friendly link on your page, and if your
+           Agency uses Customized Style Sheets, you need to create "rollout_print.css " force the script print text without conflicts with customized Style Sheets of the NYC.gov default
+           Style Sheets "rollout.css "
+        3. If your agency uses Customized Style Sheets the linkk to Printer Friendly should be          like: <a href="/cgi-bin/misc/pfprinter.cgi?action=print&sitename=HPD&printstyle=other">
+        4. Because of use of the customized Style Sheets this file must contain the link to Pfinter  Frindly Script with variable "printstyle=other"
+         -->
+<table width="212" border="0" cellspacing="0" cellpadding="0" class="printer_position_2col">
+  <tr> 
+    <td align="left" valign="middle" width="30">&nbsp;</td>
+    <td align="left" valign="middle" width="17"><a href="/cgi-bin/misc/pfprinter.cgi?action=print&sitename=HPD"><img src="../../images/misc/printer_icon.gif" border=0 width="17" height="15" alt="Printer Version"></a></td>
+    <td width="165" valign="middle">&nbsp;&nbsp;<a href="/cgi-bin/misc/pfprinter.cgi?action=print&sitename=HPD" class="footer_text">PRINTER 
+      FRIENDLY FORMAT</a> </td>
+  </tr>
+</table>
+
+
+
+<!-- START of nycgov_footer.inc-->
+<!-- old table width=589;  499 for middle td -->
+<!-- expanded table width=769;  619 for middle td -->
+<!-- <table width="589" border="0" cellspacing="0" cellpadding="0">
+	<tr>
+		<td align="left" valign="top" width="30"><img src="../../includes/site_images/spacers/spacer_30_30.gif" alt="" width="30" height="30" border="0"></td>
+		<td align="left" valign="top" width="499"><img src="../..//includes/site_images/spacers/spacer_499_15.gif" alt="" width="499" height="15" border="0"><img src="../../includes/site_images/footer_divider.gif" alt="" width="499" height="1" border="0"><br>
+			<span class="footer_header">Footer header goes here<br>
+			</span><span class="footer_text">Footer text description goes here. It is optional and the max is about 300 characters which is approximately 3-4 lines of text. Footer text description goes here. It is optional and the max is about 300 characters which is approximately 3-4 lines of text.<br>
+			</span></td>
+		<td align="left" valign="top" width="60"><img src="../..//includes/site_images/spacers/spacer_60_30.gif" alt="" width="60" height="30" border="0"><br>
+			<br>
+		</td>
+	</tr>
+</table> -->
+<!-- END of default_footer.inc -->
+
+
+					
+	<!-- BEGIN_PRINT_PAGE -->				
+					<span class="footer_text"><br></span></td>
+				<!-- END of CENTER column -->
+			</tr>
+	<!-- END_PRINT_PAGE -->
+			<tr height="25">
+				<td colspan="2" align="left" valign="top" width="769" height="25"> 
+
+					<table width="769" border="0" cellspacing="0" cellpadding="0">
+	<tr><td><img src="../../includes/site_images/misc/bottom_branding.gif" border="0"></td></tr>
+</table>
+
+
+
+
+<!-- START of nycgov_footer.inc-->
+<style type="text/css">
+<!--
+	.footer_links {font-family: Verdana, Arial, Helvetica, sans-serif;
+		font-size: 10px;
+		color: #F9D053;
+	}
+
+	.footer_copyright {font-family: Verdana, Arial, Helvetica, sans-serif;
+		font-size: 10px;
+		color: #C4C4B2;
+	}
+-->
+</style>
+<TABLE cellSpacing=0 cellPadding=0 width=769 bgColor=#494B4C border=0>
+	<TBODY>
+	<TR><TD width=13><IMG height=24 src="../../includes/site_images/spacers/spacer.gif" width=13></TD>
+          <TD width=287><SPAN class=footer_copyright>Copyright 2013 The City of New York</SPAN></TD>
+          <TD align=right width=444><SPAN class=footer_links><A class=footer_links href="/contact">Contact Us</A> | <A class=footer_links href="/faqs">FAQs</A> | <A class=footer_links href="/privacy">Privacy Policy</A> | <A class=footer_links href="http://www.nyc.gov/html/misc/html/tou.html">Terms of Use</A> | <A class=footer_links href="/sitemap">Site Map</A></SPAN></TD>
+          <TD align=right width=25><IMG height=24 src="../../includes/site_images/spacers/spacer.gif" width=25></TD></TR>
+        </TBODY>
+</TABLE>
+<!-- Privacy Policy updated on 03/08/2011 -->
+<!--  nycgov Webtrends code, added on 02/16/2011 -->
+<script src="/html/misc/scripts/nycwebtrends.js" type="text/javascript"></script>
+<script type="text/javascript">
+//<![CDATA[
+var _nyctag=new WebTrends();
+_nyctag.dcsInit();
+_nyctag.dcsGetId();
+//]]>>
+</script>
+<script type="text/javascript">
+//<![CDATA[
+_nyctag.dcsCollect();
+//]]>>
+</script>
+
+<!-- PROD noscript section -->
+<noscript>
+<div><img alt="DCSIMG" id="DCSIMG" width="1" height="1" src="http://a858-sdc.nyc.gov/dcslfpea2000008i7geu3pdky_5v8x/njs.gif?dcsuri=/nojavascript&WT.js=No&WT.tv=8.6.2"/></div>
+</noscript>
+<!--  END OF nycgov Webtrends code, added on 02/16/2011 -->
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-9518673-1");
+pageTracker._trackPageview();
+} catch(err) {}
+</script>
+<!-- END of nycgov_footer.inc-->
+
+				</td>
+			</tr>
+<!-- BEGIN_PRINT_PAGE -->			
+		</table>
+	<!-- END_PRINT_PAGE -->
+	</body>
+</html>
+

@@ -1,0 +1,638 @@
+
+
+
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+	<head>
+		<meta http-equiv="content-type" content="text/html;charset=UTF-8">
+		<meta name="tp-name" content="homepage_2col">
+
+		
+		
+
+		
+				<title>Probation - Contact Probation</title>
+			
+		
+				
+			
+		<link href="../../includes/css/rollout.css" rel="stylesheet">
+	</head>
+
+<body  background="../../includes/site_images/misc/bg.gif"
+  bgcolor="#ffffff" leftmargin="0" marginheight="0" marginwidth="0" topmargin="0">
+
+	<!-- BEGIN_PRINT_PAGE -->
+		<table width="999" border="0" cellspacing="0" cellpadding="0" height="100%">
+	<!-- END_PRINT_PAGE -->	
+			<tr><td colspan="2" align="left" valign="top" width="999">
+					<!-- START of nycgov_header.inc -->
+<table width="999" border="0" cellspacing="0" cellpadding="0" height="51">
+	<tr>
+		<td><img src="../../includes/site_images/nyc_gov/nycgov_banner_wide.gif" alt="" width="999" height="51" border="0" usemap="#TopNav"></td>
+	</tr>
+</table>
+<map name="TopNav">
+  <area shape="rect" coords="787,6,825,19" href="/search" alt="Search">
+  <area shape="rect" coords="840,6,915,19" href="/portal/register.jsp" alt="Email Updates">
+  <area shape="rect" coords="929,6,988,19" href="/contact" alt="Contact Us">
+  <area shape="rect" coords="563,31,625,46" href="/residents" alt="Residents">
+  <area shape="rect" coords="641,31,698,46" href="/business" alt="Business">
+  <area shape="rect" coords="711,31,761,46" href="/visitors" alt="Visitors">
+  <area shape="rect" coords="776,31,855,46" href="/government" alt="Government">
+  <area shape="rect" coords="868,31,988,46" href="/mayor" alt="Office of the Mayor">
+  <area shape="rect" coords="3,3,48,46" href="/home.html" alt="NYC.gov always open">
+</map>
+<!-- END of nycgov_header.inc -->
+					
+							<script type="text/javascript" src="../../includes/scripts/misc.js"></script>
+<script language="JavaScript" src="../../includes/scripts/change_text.js"></script>
+<script language="JavaScript" src="../../includes/scripts/translate.js"></script>
+<table cellspacing="0" cellpadding="0" border="0" width="999">
+  <tr>
+    <td class="banner_bg"><table cellspacing="0" cellpadding="0" border="0" width="999">
+        <tr valign="top">
+          <td class="logo"><a href="../../html/home/home.shtml"><img src="../../includes/site_images/branding/logo.png" width="224" height="44" border="0" alt="NYC Department of Probation"></a></td>
+          <td class="slogan_td"><table cellspacing="0" cellpadding="0" border="0">
+              <tr>
+                <Td class="slogan" id="top">Strengthening Communities.</Td>
+              </tr>
+              <tr>
+                <Td class="slogan">Creating Opportunity.</Td>
+              </tr>
+              <tr>
+                <Td class="slogan" id="bottom">Changing Lives.</Td>
+              </tr>
+            </table></td>
+          <td class="search_td"><form action="http://search1.nyc.gov/search?" method="GET" name="gs" style="margin: 0px;">
+              <input value="xml_no_dtd" name="output" type="hidden">
+              <input value="default_collection" name="site" type="hidden">
+              <input value="agency_frontend" name="proxystylesheet" type="hidden">
+              <input value="agency_frontend" name="client" type="hidden">
+              <input value="www.nyc.gov/html/prob" name="sitesearch" type="hidden">
+              <table cellpadding="0" cellspacing="0" border="0">
+                <Tr>
+                  <td class="search_field"><input name="q" id="search_nycgov" class="searchfield" style="width:161px; height:21px;" type="text"></td>
+                  <td class="search_button_td"><input name="go" value="Search" class="search_button" type="submit" onMouseOver="this.id='over'" onMouseOut="this.id=''"></td>
+                </Tr>
+              </table>
+            </form></td>
+        </tr>
+      </table></td>
+  </tr>
+  <tr valign="top">
+    <td class="tools_bg"><table cellspacing="0" cellpadding="0" border="0">
+        <tr valign="top">
+          <td class="tools_item"><a href="http://www.nyc.gov/cgi-bin/misc/pfprinter.cgi?action=print&sitename=prob">Printer Friendly</a></td>
+          <Td class="tools_item"><a target="_blank" onclick="this.href = '/j2ee/emailafriend/EAFEntry?' + Date.parse(new Date()); return true;" href="/j2ee/emailafriend/EAFEntry">Email a Friend</a></Td>
+          <td class="tools_item" id="translate_button"><a href="javascript:showTranslate();">Translate Page</a></td>
+          <td class="text_size"><table cellspacing="0" cellpadding="0" border="0">
+              <tr valign="top">
+                <td class="text_size_text">Text Size:</td><td class="text_size_items"><a class="text_size_small" id="small" href="javascript:switchStyle('1');">A</a> &nbsp;<a class="text_size_med" id="med" href="javascript:switchStyle('2');">A</a> &nbsp;<a class="text_size_large" id="large" href="javascript:switchStyle('3');">A</a></td>
+              </tr>
+            </table></td>
+        </tr>
+      </table></td>
+  </tr>
+</table>
+<script language="Javascript">
+if(GetCookie(fontSizeCookie) == "2"){
+	document.getElementById('med').className="text_size_med_active";	
+}else if(GetCookie(fontSizeCookie) == "3"){
+	document.getElementById('large').className="text_size_large_active";	
+}else{
+	document.getElementById('small').className="text_size_small_active";	
+}
+</script>
+<iframe scrolling='no' frameborder='0' class='shim' name='shim' id='shim'></iframe>
+<div id="translate_popup" class="popup">
+  <table cellspacing="0" cellpadding="0" border="0" width="323">
+    <tr>
+      <td class="popup_table"><table cellspacing="0" cellpadding="0" border="0" width="284">
+          <tr>
+            <Td colspan="2"><img src="../../includes/site_images/misc/translate_popup.gif" width="284" height="39" alt="Translate this Page" border="0"></Td>
+          </tr>
+          <tr>
+            <td class="popup_label" width="123">Select a Language</td>
+            <td class="popup_field" width="147"><select name="tl" id="tl" style="width:147px">
+                <option value="">- Select -</option>
+                <option value="ar">Arabic</option>
+                <option value="bg">Bulgarian</option>
+                <option value="ca">Catalan</option>
+                <option value="zh-CN">Chinese (Simplified)</option>
+                <option value="zh-TW">Chinese (Traditional)</option>
+                <option value="hr">Croatian</option>
+                <option value="cs">Czech</option>
+                <option value="da">Danish</option>
+                <option value="nl">Dutch</option>
+                <option value="tl">Filipino</option>
+                <option value="fi">Finnish</option>
+                <option value="fr">French</option>
+                <option value="de">German</option>
+                <option value="el">Greek</option>
+                <option value="iw">Hebrew</option>
+                <option value="hi">Hindi</option>
+                <option value="id">Indonesian</option>
+                <option value="it">Italian</option>
+                <option value="ja">Japanese</option>
+                <option value="ko">Korean</option>
+                <option value="lv">Latvian</option>
+                <option value="lt">Lithuanian</option>
+                <option value="no">Norwegian</option>
+                <option value="pl">Polish</option>
+                <option value="pt">Portuguese</option>
+                <option value="ro">Romanian</option>
+                <option value="ru">Russian</option>
+                <option value="sr">Serbian</option>
+                <option value="sk">Slovak</option>
+                <option value="sl">Slovenian</option>
+                <option value="es">Spanish</option>
+                <option value="sv">Swedish</option>
+                <option value="uk">Ukrainian</option>
+                <option value="vi">Vietnamese</option>
+              </select>
+            </td>
+          </tr>
+          <tr>
+            <td class="buttons" colspan="2"><input type="button" class="yellow_button" style="width:78px;" value="Translate" onClick="setLanguage(document.getElementById('tl').options[document.getElementById('tl').selectedIndex].value)" />
+              <input type="button" class="yellow_button" style="width:56px;" value="Cancel" onClick="hideTranslate()" /></td>
+          </tr>
+        </table></td>
+  </table>
+</div>
+
+						
+			</td></tr>
+
+		
+		<!-- BEGIN_PRINT_PAGE -->
+		<tr>
+		<!-- END_PRINT_PAGE -->
+		<td align="left" valign="top" width="220" height="100%">
+					
+							
+							 
+								  <table cellspacing="0" cellpadding="0" border="0" width="220">
+  <tr>
+    <td class="leftnav"><script language="Javascript" src="../../includes/scripts/nav_nodes.js"></script>
+      <script language="Javascript" src="../../includes/scripts/nav_code.js"></script>
+      <noscript>
+      <a href="../../html/home/home.shtml" class="nav_section">Home</a><br>
+      <a href="../../html/about/about.shtml" class="nav_section">About Probation</a><br>
+      <span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/about/message.shtml" class="nav_subsection">Commissioner's Message</a><br>
+      <span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/about/history.shtml" class="nav_subsection">History of Probation</a><br>
+      <span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/about/lap.shtml" class="nav_subsection">Language Access Plan</a><br>
+      <span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/about/evidence.shtml" class="nav_subsection">Evidence-Based Practices</a><br>
+      <span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/about/plan.shtml" class="nav_subsection">Strategic Plan</a><br>
+      <span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/about/chart.shtml" class="nav_subsection">Senior Leadership Chart</a><br>
+      <a href="../../html/family/family.shtml" class="nav_section">For Family Court Clients</a><br>
+      <span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/family/process.shtml" class="nav_subsection">Family Court Process</a><br>
+      <span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/family/enhanced.shtml" class="nav_subsection">Enhanced Supervision Program</a><br>
+      <span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/family/esperanza.shtml" class="nav_subsection">Esperanza Program</a><br>
+      <span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/family/community.shtml" class="nav_subsection">Intensive Community Monitoring</a><br>
+      <span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/family/faq.shtml" class="nav_subsection">Frequently Asked Questions (FAQ)</a><br>
+      <span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/family/voting.shtml" class="nav_subsection">Voting Rights</a><br>
+      <span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/family/contact.shtml" class="nav_subsection">Family Court Contact Info</a><br>
+      <a href="../../html/adult/adult.shtml" class="nav_section">For Adult Court Clients</a><br>
+      <span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/adult/process.shtml" class="nav_subsection">Adult Court Process</a><br>
+      <span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/adult/forensic.shtml" class="nav_subsection">Forensic Mental Health Unit</a><br>
+      <span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/adult/juvenile.shtml" class="nav_subsection">Kings Juvenile Offender Program</a><br>
+      <span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/adult/pact.shtml" class="nav_subsection">Promoting Accountability and Community Ties (PACT)</a><br>
+      <span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/adult/faq.shtml" class="nav_subsection">Frequently Asked Questions (FAQ)</a><br>
+      <span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/adult/voting.shtml" class="nav_subsection">Voting Rights</a><br>
+      <span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/adult/contact.shtml" class="nav_subsection">Adult Court Contact Info</a><br>
+      <a href="../../html/programs/programs.shtml" class="nav_section">Programs & Resources</a><br>
+      <a href="../../html/young_men/young_men.shtml" class="nav_section">Young Men's Initiative</a><br>
+      <span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/young_men/programs.shtml" class="nav_subsection">Young Adult Justice Scholars/Justice Community Programs</a><br>
+      <span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/young_men/ceps.shtml" class="nav_subsection">Community Education Pathways to Success (CEPS)</a><br>
+      <span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/young_men/arches.shtml" class="nav_subsection">Arches: A Transformative Mentoring Program</a><br>
+      <span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/young_men/aim.shtml" class="nav_subsection">AIM Program: Advocate Intervene Mentor</a><br>
+      <span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/young_men/echoes.shtml" class="nav_subsection">ECHOES: Each Child Has an Opportunity to Excel and Succeed</a><br>
+      <span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/young_men/juvenile.shtml" class="nav_subsection">Juvenile Justice Realignment</a><br>
+      <a href="../../html/neon/neon.shtml" class="nav_section">Neighborhood Opportunity Network (NeON)</a><br>
+      <a href="../../html/news/news.shtml" class="nav_section">News & Media Coverage</a><br>
+      <a href="../../html/jobs/jobs.shtml" class="nav_section">Jobs & Internships</a><br>
+      <span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/jobs/internships.shtml" class="nav_subsection">Internships</a><br>
+      <a href="../../html/contracting/contracting.shtml" class="nav_section">Contracting Opportunities</a><br>
+      <span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/contracting/rfp.shtml" class="nav_subsection">Requests For Proposals</a><br>
+      <span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/contracting/concept.shtml" class="nav_subsection">Concept Papers</a><br>
+      <span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/contracting/manual.shtml" class="nav_subsection">Fiscal Manual</a><br>
+      <a href="../../html/contact/contact.shtml" class="nav_section">Contact Probation</a><br>
+      <span class="nav_subsection">&nbsp;-&nbsp;</span><a href="http://www.nyc.gov/html/mail/html/mailprob.html" class="nav_subsection">Email the Commissioner</a><br>
+      <span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/contact/locations.shtml" class="nav_subsection">Borough Office Locations</a><br>
+      </noscript></td>
+  </tr>
+  <tr id="altnav" style="display:none;">
+    <td class="leftnav"><a href="../../html/home/home.shtml" class="nav_section">Home</a><br>
+      <a href="../../html/about/about.shtml" class="nav_section">About Probation</a><br>
+      <span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/about/message.shtml" class="nav_subsection">Commissioner's Message</a><br>
+      <span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/about/history.shtml" class="nav_subsection">History of Probation</a><br>
+      <span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/about/lap.shtml" class="nav_subsection">Language Access Plan</a><br>
+      <span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/about/evidence.shtml" class="nav_subsection">Evidence-Based Practices</a><br>
+      <span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/about/plan.shtml" class="nav_subsection">Strategic Plan</a><br>
+      <span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/about/chart.shtml" class="nav_subsection">Senior Leadership Chart</a><br>
+      <a href="../../html/family/family.shtml" class="nav_section">For Family Court Clients</a><br>
+      <span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/family/process.shtml" class="nav_subsection">Family Court Process</a><br>
+      <span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/family/enhanced.shtml" class="nav_subsection">Enhanced Supervision Program</a><br>
+      <span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/family/esperanza.shtml" class="nav_subsection">Esperanza Program</a><br>
+      <span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/family/community.shtml" class="nav_subsection">Intensive Community Monitoring</a><br>
+      <span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/family/faq.shtml" class="nav_subsection">Frequently Asked Questions (FAQ)</a><br>
+      <span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/family/voting.shtml" class="nav_subsection">Voting Rights</a><br>
+      <span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/family/contact.shtml" class="nav_subsection">Family Court Contact Info</a><br>
+      <a href="../../html/adult/adult.shtml" class="nav_section">For Adult Court Clients</a><br>
+      <span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/adult/process.shtml" class="nav_subsection">Adult Court Process</a><br>
+      <span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/adult/forensic.shtml" class="nav_subsection">Forensic Mental Health Unit</a><br>
+      <span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/adult/juvenile.shtml" class="nav_subsection">Kings Juvenile Offender Program</a><br>
+      <span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/adult/pact.shtml" class="nav_subsection">Promoting Accountability and Community Ties (PACT)</a><br>
+      <span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/adult/faq.shtml" class="nav_subsection">Frequently Asked Questions (FAQ)</a><br>
+      <span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/adult/voting.shtml" class="nav_subsection">Voting Rights</a><br>
+      <span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/adult/contact.shtml" class="nav_subsection">Adult Court Contact Info</a><br>
+      <a href="../../html/programs/programs.shtml" class="nav_section">Programs & Resources</a><br>
+      <a href="../../html/young_men/young_men.shtml" class="nav_section">Young Men's Initiative</a><br>
+      <span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/young_men/programs.shtml" class="nav_subsection">Young Adult Justice Scholars/Justice Community Programs</a><br>
+      <span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/young_men/ceps.shtml" class="nav_subsection">Community Education Pathways to Success (CEPS)</a><br>
+      <span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/young_men/arches.shtml" class="nav_subsection">Arches: A Transformative Mentoring Program</a><br>
+      <span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/young_men/aim.shtml" class="nav_subsection">AIM Program: Advocate Intervene Mentor</a><br>
+      <span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/young_men/echoes.shtml" class="nav_subsection">ECHOES: Each Child Has an Opportunity to Excel and Succeed</a><br>
+      <span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/young_men/juvenile.shtml" class="nav_subsection">Juvenile Justice Realignment</a><br>
+            <a href="../../html/neon/neon.shtml" class="nav_section">Neighborhood Opportunity Network (NeON)</a><br>
+      <a href="../../html/news/news.shtml" class="nav_section">News & Media Coverage</a><br>
+      <a href="../../html/jobs/jobs.shtml" class="nav_section">Jobs & Internships</a><br>
+      <span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/jobs/internships.shtml" class="nav_subsection">Internships</a><br>
+      <a href="../../html/contracting/contracting.shtml" class="nav_section">Contracting Opportunities</a><br>
+      <span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/contracting/rfp.shtml" class="nav_subsection">Requests For Proposals</a><br>
+      <span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/contracting/concept.shtml" class="nav_subsection">Concept Papers</a><br>
+      <span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/contracting/manual.shtml" class="nav_subsection">Fiscal Manual</a><br>
+      <a href="../../html/contact/contact.shtml" class="nav_section">Contact Probation</a><br>
+      <span class="nav_subsection">&nbsp;-&nbsp;</span><a href="http://www.nyc.gov/html/mail/html/mailprob.html" class="nav_subsection">Email the Commissioner</a><br>
+      <span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/contact/locations.shtml" class="nav_subsection">Borough Office Locations</a><br>
+    </td>
+  </tr>
+  <tr>
+    <td class="nav_item"><table cellspacing="0" cellpadding="0" border="0" width="100%">
+        <tr>
+          <td class="nav_social"><table cellspacing="0" cellpadding="0" border="0" width="100%">
+              <tr>
+                <td class="nav_social_inner"><table cellspacing="0" cellpadding="0" border="0" width="100%">
+                    <tr>
+                      <td class="nav_social_title">Share on Social Networks</td>
+                    </tr>
+                    <tr>
+                      <Td class="nav_social_item"><a href="http://www.nyc.gov/cgi-bin/exit.pl?url=http://twitter.com/nycprobation"><img src="../../includes/site_images/nav/twitter.png" width="32" height="32" border="0" alt="Twitter">Twitter</a></Td>
+                    </tr>
+                    <tr>
+                      <Td class="nav_social_item"><a href="http://www.nyc.gov/cgi-bin/exit.pl?url=http://www.youtube.com/user/nycprobation/videos"><img src="../../includes/site_images/nav/youtube.png" width="32" height="32" border="0" alt="You Tube">You 
+                        Tube</a></Td>
+                    </tr>
+                    <tr>
+                      <Td class="nav_social_item"><a href="http://www.nyc.gov/cgi-bin/exit.pl?url=http://www.flickr.com/photos/nycprobation"><img src="../../includes/site_images/nav/flickr.png" width="32" height="32" border="0" alt="Flickr">Flickr</a></Td>
+                    </tr>
+                  </table></td>
+              </tr>
+            </table></td>
+        </tr>
+      </table></td>
+  </tr>
+</table>
+
+								 
+						
+				</td>
+				<!-- START of CENTER column -->
+				<!-- BEGIN_PRINT_PAGE -->
+				<td id="main_content" align="left" valign="top" width="779">
+				<!-- START of PRIMARY FEATURE SECTION -->
+				<table width="779" border="0" cellspacing="0" cellpadding="0">
+				  
+					  
+						<tr><td colspan="3" align="left" valign="top" bgcolor="" width="779">
+							
+								<img src="../../includes/site_images/misc/spacer.gif" alt="" width="25" height="30" border="0"/><span class="area_header">Contact Probation<br/></span>
+								
+							</td></tr>
+						
+					
+						<tr><td align="left" bgcolor="" valign="top" width="25"><img src="../../includes/site_images/misc/spacer.gif" alt="" width="25" height="30" border="0">
+						</td><td align="left" bgcolor="" valign="top" width="649"><img src="../../includes/site_images/misc/spacer.gif" alt="" width="649" height="15" border="0"><br>
+					  
+							
+								  
+									<img width="649" src="../../images/features/cityide_probation_small_revised_07252012.jpg" alt="" border="0"/><br><img src="../../includes/site_images/misc/spacer.gif" alt="" width="649" height="15" border="0">
+									
+									
+								
+						
+					  
+							
+							
+									
+									
+								
+						
+
+					
+
+					 
+					   
+						<a href="http://www.nyc.gov/html/mail/html/mailprob.html"  class="bodytext_underline">Email the Commissioner</a><br>
+						
+					 
+					   
+						<a href="../../html/adult/contact.shtml"  class="bodytext_underline">View a map of Adult Court locations</a><br>
+						
+					 
+					   
+						<a href="../../html/family/contact.shtml"  class="bodytext_underline">View a map of Family Court locations</a><br>
+						
+					 
+					   
+						<a href="../../html/neon/neon_sites.shtml"  class="bodytext_underline">View a map of NeON and NeON Satellite Locations</a><br>
+						
+					 
+					 
+					
+					</td><td align="left" bgcolor="" valign="top" width="105"><img src="../../includes/site_images/misc/spacer.gif" alt="" width="105" height="30" border="0"></td></tr>
+
+					
+
+					  
+				   
+					  
+						<tr><td colspan="3" align="left" valign="top" bgcolor="" width="779">
+							
+							</td></tr>
+						
+					
+						<tr><td align="left" bgcolor="" valign="top" width="25"><img src="../../includes/site_images/misc/spacer.gif" alt="" width="25" height="30" border="0">
+						</td><td align="left" bgcolor="" valign="top" width="649"><img src="../../includes/site_images/misc/spacer.gif" alt="" width="649" height="15" border="0"><br>
+					  
+							
+						
+					  
+							
+							<span class="headline">See contact information for: <br>
+								</span>
+								
+							
+									
+									
+											<span class="bodytext"><ul><li><a href="../../html/contact/contact.shtml#adult">Adult Operations</a>&#160;&#160;&#160;</li><li><a href="../../html/contact/contact.shtml#juvenile">Juvenile Operations</a>&#160;&#160;&#160;</li><li><a href="../../html/contact/contact.shtml#additional">Additional Offices and Services</a>&#160;&#160;&#160;</li></ul><p style="MARGIN-top: 0px"></p><hr /><br /></span>
+										
+								
+						
+
+					
+
+					 
+					   
+						
+					 
+					 
+					
+					</td><td align="left" bgcolor="" valign="top" width="105"><img src="../../includes/site_images/misc/spacer.gif" alt="" width="105" height="30" border="0"></td></tr>
+
+					
+
+					  
+				   
+					  
+						<tr><td colspan="3" align="left" valign="top" bgcolor="" width="779">
+							
+							</td></tr>
+						
+					
+						<tr><td align="left" bgcolor="" valign="top" width="25"><img src="../../includes/site_images/misc/spacer.gif" alt="" width="25" height="30" border="0">
+						</td><td align="left" bgcolor="" valign="top" width="649"><img src="../../includes/site_images/misc/spacer.gif" alt="" width="649" height="15" border="0"><br>
+					  
+							
+						
+					  
+							
+							<span class="headline"><a class="bookmark" id="adult" title="adult" name="adult"></a><u>ADULT OPERATIONS</u><br><br>
+								</span>
+								
+							
+									
+									
+											<span class="bodytext"><p style="MARGIN-top: 0px"><strong><u>BRONX</u></strong></p><p><strong>Phone:</strong>&#160;<br /><br />
+General Inquiries: (718) 537-5197<br />
+South Bronx NeON: (718) 537-5197</p><p><strong>Locations and Hours:</strong></p><p><u>215 East 161st Street<br /></u>Mon-Thurs: 8:00 AM - 6:30 PM<br />
+Friday: 8:00 AM - 4:45 PM</p><p><u>265 East 161st Street</u>&#160;<br />
+Mon-Fri: 8:00 AM - 5:00 PM</p><p><u>198 East 161st Street (South Bronx NeON)<br /></u>Mon-Thurs: 8:00 AM - 6:30 PM<br />
+Friday: 8:00 AM - 4:45 PM<br /></p><p></p><hr /><strong><u>BROOKLYN</u></strong><p><strong>Phone:<br /><br /></strong>General Inquiries: (718) 802-4320<br />
+Brownsville NeON: (718) 345-1351<br /><br /><strong>Locations and Hours:</strong></p><p><u>345 Adams Street</u>&#160;<br />
+Mon-Thurs: 8:00 AM - 7:00 PM<br />
+Fri: 8:30 AM - 6:00 PM</p><p><u>210 Joralemon Street<br /></u>Mon-Thurs: 8:30 AM-7:00 PM<br />
+Fri: 8:30 AM-6:00 PM</p><p><u>210 Joralemon Street - KIOSK (10th Floor):<br /></u>Mon: 8:30 AM - 6:30 PM<br />
+Tues, Weds, Thurs: 8:30 AM - 5:40 PM<br />
+Fri: 8:30 AM - 4:40 PM</p><p><u>444 Thomas Boyland Street (Brownsville NeON)<br /></u>Mon-Tues: 10:30 AM - 7:00 PM<br />
+Weds-Fri: 8:00 AM - 6:00 PM<br /></p><p></p><hr /><br /><strong><u>MANHATTAN</u></strong><p><strong>Phone:<br /><br /></strong>General Inquiries: (212) 442-9562<br />
+Harlem NeON: (212) 280-4804<br /><br /><strong>Locations and Hours:</strong></p><p><u>100 Centre Street</u>&#160;<br />
+Mon-Fri: 8:00 AM - 6:00 PM</p><p><u>346 Broadway<br /></u>Mon, Fri: 8:00 AM - 5:30 PM<br />
+Tues, Weds, Thurs: 8:00 AM - 6:00 PM</p><p><u>127 West 127th Street (Harlem NeON)<br /></u>Mon, Tues, Weds, Fri: 8:00 AM - 6:00 PM<br />
+Thurs: 8:00 AM - 7:00 PM<br /></p><p></p><hr /><br /><strong><u>QUEENS</u></strong><p><strong>Phone:</strong></p><p>General Inquiries: (718) 286-3045<br />
+Jamaica NeON: (718) 657-5137</p><p><strong>Locations and Hours:</strong></p><p><u>125-01 Queens Blvd<br /></u>Mon-Fri: 9:00 AM - 5:45 PM</p><p><u>162-24 Jamaica Avenue (Jamaica NeON)<br /></u>Mon, Fri: 8:00 AM - 5:15 PM<br />
+Tues-Thurs: 8:00 AM - 6:45 PM</p><p></p><hr /><strong><u>STATEN ISLAND</u></strong><p><strong>Phone:</strong></p><p>General Inquiries and NeON: (718) 876-8660</p><p><strong>Locations and Hours:</strong></p><p><u>340 Bay Street (Adult Office and NeON)<br /></u>Mon, Weds: 8:00 AM - 6:00 PM<br />
+Tues, Thurs: 8:00 AM - 6:30 PM<br />
+Fri: 8:00 AM - 5:00 PM</p><hr /></span>
+										
+								
+						
+
+					
+
+					 
+					   
+						
+					 
+					 
+					
+					</td><td align="left" bgcolor="" valign="top" width="105"><img src="../../includes/site_images/misc/spacer.gif" alt="" width="105" height="30" border="0"></td></tr>
+
+					
+
+					  
+				   
+					  
+						<tr><td colspan="3" align="left" valign="top" bgcolor="" width="779">
+							
+							</td></tr>
+						
+					
+						<tr><td align="left" bgcolor="" valign="top" width="25"><img src="../../includes/site_images/misc/spacer.gif" alt="" width="25" height="30" border="0">
+						</td><td align="left" bgcolor="" valign="top" width="649"><img src="../../includes/site_images/misc/spacer.gif" alt="" width="649" height="15" border="0"><br>
+					  
+							
+						
+					  
+							
+							<span class="headline"><a class="bookmark" id="adult" title="adult" name="juvenile"></a><U>JUVENILE OPERATIONS</u><br><br>
+								</span>
+								
+							
+									
+									
+											<span class="bodytext"><p style="MARGIN-top: 0px"><strong><u>BRONX</u></strong>&#160;</p><p><strong>Phone:</strong> (718) 590-3180</p><p><strong>Location and Hours:</strong></p><p><u>900 Sheridan Avenue<br /></u>Mon-Fri: 9:00 AM - 5:00 PM<br /></p><p></p><hr /><strong><u>BROOKLYN</u></strong><p><strong>Phone:</strong> (718) 802-2663</p><p><strong>Location and Hours:<br /><br /></strong><u>330 Jay Street<br /></u>Mon-Fri: 9:00 AM - 5:00 PM<br /></p><p></p><hr /><strong><u>MANHATTAN</u></strong><p><strong>Phone:</strong>&#160;</p><p>General Inquiries: (212) 676-8521<br />
+Harlem NeON: (212) 280-4804</p><p><strong>Location and Hours:</strong></p><p>60<u> Lafayette Street<br /></u>Mon-Fri: 9:00 AM - 5:00 PM</p><p><u>127 West 127th Street (Harlem NeON)<br /></u>Mon, Tues, Weds, Fri: 8:00 AM - 6:00 PM<br />
+Thurs: 8:00 AM - 7:00 PM<br /></p><p></p><hr /><strong><u>QUEENS</u></strong><p><strong>Phone:</strong> (718) 657-4385<br /><br /><strong>Location and Hours:</strong></p><p><u>151-20 Jamaica Avenue<br /></u>Mon-Fri: 9:00 AM - 5:00 PM<br /></p><p></p><hr /><strong><u>STATEN ISLAND</u></strong><p><strong>Phone:</strong> (718) 556-4000</p><p><strong>Location and Hours:</strong></p><p><u>130 Stuyvesant Place<br /></u>Mon-Fri: 9:00 AM - 5:00 PM</p><hr /></span>
+										
+								
+						
+
+					
+
+					 
+					   
+						
+					 
+					 
+					
+					</td><td align="left" bgcolor="" valign="top" width="105"><img src="../../includes/site_images/misc/spacer.gif" alt="" width="105" height="30" border="0"></td></tr>
+
+					
+
+					  
+				   
+					  
+						<tr><td colspan="3" align="left" valign="top" bgcolor="" width="779">
+							
+							</td></tr>
+						
+					
+						<tr><td align="left" bgcolor="" valign="top" width="25"><img src="../../includes/site_images/misc/spacer.gif" alt="" width="25" height="30" border="0">
+						</td><td align="left" bgcolor="" valign="top" width="649"><img src="../../includes/site_images/misc/spacer.gif" alt="" width="649" height="15" border="0"><br>
+					  
+							
+						
+					  
+							
+							<span class="headline"><a class="bookmark" id="adult" title="adult" name="additional"></a><u>ADDITIONAL OFFICES AND SERVICES</u><br><br>
+								</span>
+								
+							
+									
+									
+											<span class="bodytext"><p style="MARGIN-top: 0px"><strong>Inter/Intrastate Transfer Inquiries:</strong> (212) 442-6118</p><p><strong>Central Mailing Address:<br /></strong>NYC Department of Probation<br />
+33 Beaver Street, 23rd Floor<br />
+New York, NY 10004</p><p><strong>General Inquiries:</strong> (212) 361-8969</p><p><strong>HR Recruiter:</strong> (212) 361-8908</p><p><strong>Media Inquiries:</strong> (212) 361-8957</p></span>
+										
+								
+						
+
+					
+
+					 
+					   
+						
+					 
+					 
+					
+					</td><td align="left" bgcolor="" valign="top" width="105"><img src="../../includes/site_images/misc/spacer.gif" alt="" width="105" height="30" border="0"></td></tr>
+
+					
+
+					  
+				   
+				</table>
+				<!-- END of PRIMARY FEATURE SECTION -->
+
+				<!-- START of SECONDARY FEATURE SECTION -->
+
+				<table width="779" border="0" cellspacing="0" cellpadding="0">
+				  
+					  
+						<tr><td colspan="4" align="left" valign="top" bgcolor="" width="779">
+							
+							</td></tr>
+						
+					
+
+					  </table>
+
+				<!-- END of SECONDARY FEATURE SECTION -->
+
+				<!-- START of TERTIARY FEATURE SECTION -->
+				<table width="779" border="0" cellspacing="0" cellpadding="0">
+				  
+					  
+						<tr><td colspan="3" align="left" valign="top" bgcolor="" width="779">
+							
+							</td></tr>
+						
+					
+					  
+				   
+				</table>
+				<!-- END of TERTIARY FEATURE SECTION -->
+				<!-- END_PRINT_PAGE -->
+				
+
+			
+
+					
+	<!-- BEGIN_PRINT_PAGE -->				
+					<span class="footer_text"><br></span></td>
+				<!-- END of CENTER column -->
+			</tr>
+	<!-- END_PRINT_PAGE -->
+			<tr height="25">
+				<td colspan="2" align="left" valign="top" width="999" height="25"> 
+
+					<table width="999" border="0" cellspacing="0" cellpadding="0">
+	<tr><td><img src="../../includes/site_images/misc/bottom_branding.gif" border="0"></td></tr>
+</table>
+
+
+
+
+<!-- START of nycgov_footer.inc-->
+<style type="text/css">
+<!--
+.footer_links {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	color: #F9D053;
+	text-align:right;
+}
+.footer_copyright {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	color: #C4C4B2;
+}
+.footer_bg {
+	background-color:#494B4C;
+	padding:6px 25px 6px 13px;
+}
+-->
+</style>
+<TABLE cellSpacing="0" cellPadding="0" width="999" border="0">
+  <TR>
+    <td class="footer_bg"><Table cellspacing="0" cellpadding="0" border="0" width="961">
+        <tr>
+          <td width="50%" class="footer_copyright">Copyright 2013 The City of New York</td>
+          <td width="50%" class="footer_links"><A class=footer_links href="/contact">Contact Us</A> | <A class=footer_links href="/faqs">FAQs</A> | <A class=footer_links href="/privacy">Privacy Statement</A> | <A class=footer_links href="http://www.nyc.gov/html/misc/html/tou.html">Terms of Use</A> | <A class=footer_links href="/sitemap">Site Map</A></td>
+        </tr>
+      </Table></td>
+  </TR>
+</TABLE>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-9518673-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+<!-- END of nycgov_footer.inc-->
+
+				</td>
+			</tr>
+<!-- BEGIN_PRINT_PAGE -->			
+		</table>
+	<!-- END_PRINT_PAGE -->
+	</body>
+</html>
+

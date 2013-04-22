@@ -1,0 +1,534 @@
+
+
+
+		
+	
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+	<head>
+		<meta http-equiv="content-type" content="text/html;charset=UTF-8">
+		<meta name="tp-name" content="homepage_2col">
+
+		
+		<meta name="keywords" content="job openings, SBS job openings, SBS employment, employment, career at SBS">
+		
+		
+
+		
+				<title>SBS - Careers at SBS</title>
+			
+		
+				
+			
+		<link href="../../includes/css/rollout.css" rel="stylesheet">
+	</head>
+
+<body  background="../../includes/site_images/misc/bg.gif"
+  bgcolor="#ffffff" leftmargin="0" marginheight="0" marginwidth="0" topmargin="0">
+
+	<!-- BEGIN_PRINT_PAGE -->
+		<table width="769" border="0" cellspacing="0" cellpadding="0" height="100%">
+	<!-- END_PRINT_PAGE -->	
+			<tr><td colspan="2" align="left" valign="top" width="769">
+					<!-- START of nycgov_header.inc -->
+<table width="769" border="0" cellspacing="0" cellpadding="0" height="51">
+	<tr>
+		<td><img src="../../includes/site_images/nyc_gov/nycgov_banner.gif" alt="" width="769" height="51" border="0" usemap="#TopNav"></td>
+	</tr>
+</table>
+<map name="TopNav">
+  <area shape="rect" coords="554,1,599,25" href="/search" alt="Search">
+  <area shape="rect" coords="607,1,688,25" href="/portal/register.jsp" alt="Email Updates">
+  <area shape="rect" coords="698,1,762,25" href="/contact" alt="Contact Us">
+  <area shape="rect" coords="328,27,399,50" href="/residents" alt="Residents">
+  <area shape="rect" coords="408,27,471,50" href="/business" alt="Business">
+  <area shape="rect" coords="478,27,535,50" href="/visitors" alt="Visitors">
+  <area shape="rect" coords="544,27,628,50" href="/government" alt="Government">
+  <area shape="rect" coords="635,27,764,50" href="/mayor" alt="Office of the Mayor">
+  <area shape="rect" coords="3,3,49,48" href="/home.html" alt="NYC.gov always open">
+</map>
+<!-- END of nycgov_header.inc -->
+					
+							<!-- START of default_header.inc -->
+<script type="text/javascript">
+//fix for trailing slash issue
+var pagePath = document.location.href;
+if ((pagePath.substring(pagePath.length -6, pagePath.length)) == "shtml/" ) {
+	document.location.replace(pagePath.substring(0,pagePath.length-1));
+}
+</script>
+<script type="text/javascript" src="../../includes/scripts/cookies.js"></script>
+<script language="JavaScript" src="../../includes/scripts/change_text.js"></script>
+<table width="769" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td><img src="../../includes/site_images/branding/banner_top.gif" border="0" width="769" height="78" usemap="#bannermap"></td>
+  </tr>
+  <tr>
+  <td bgcolor="#dceacd"><table cellspacing="0" cellpadding="0" border="0" width="769">
+      <tr>
+        <td width="16"><img src="../../includes/site_images/spacers/spacer.gif" width="16" height="17" alt="" border="0"></td>
+        <Td width="124"><a onMouseOver="MM_swapImage('pff','','../../includes/site_images/branding/print_1.gif',0)" onMouseOut="MM_swapImgRestore()" href="/cgi-bin/misc/pfprinter.cgi?action=print&sitename=SBS"><img src="../../includes/site_images/branding/print_0.gif" width="124" height="17" name="pff" id="pff" alt="Printer Friendly" border="0"></a></Td>
+        <td width="11"><img src="../../includes/site_images/spacers/spacer.gif" width="11" height="17" alt="" border="0"></td>
+        <td width="1"><img src="../../includes/site_images/branding/tools_divider.gif" width="1" height="17" alt="" border="0"></td>
+        <td width="12"><img src="../../includes/site_images/spacers/spacer.gif" width="12" height="17" alt="" border="0"></td>
+        <Td width="109"><a onMouseOver="MM_swapImage('eaf','','../../includes/site_images/branding/email_1.gif',0)" onMouseOut="MM_swapImgRestore()"  target="_blank" onclick="this.href = '/j2ee/emailafriend/EAFEntry?' + Date.parse(new Date()); return true;" href="/j2ee/emailafriend/EAFEntry"><img src="../../includes/site_images/branding/email_0.gif" width="109" height="17" name="eaf" id="eaf" alt="Email a Friend" border="0"></a></Td>
+        <td width="12"><img src="../../includes/site_images/spacers/spacer.gif" width="12" height="17" alt="" border="0"></td>
+        <td width="1"><img src="../../includes/site_images/branding/tools_divider.gif" width="1" height="17" alt="" border="0"></td>
+        <td width="12"><img src="../../includes/site_images/spacers/spacer.gif" width="12" height="17" alt="" border="0"></td>
+		
+		
+        <Td width="140" id="translate_button"><a onMouseOver="MM_swapImage('ttp','','../../includes/site_images/branding/translate_1.gif',0)" onMouseOut="MM_swapImgRestore()" href="javascript:showTranslate();"><img src="../../includes/site_images/branding/translate_0.gif" width="140" height="17" name="ttp" id="ttp" alt="Translate this Page" border="0"></a></Td>
+        <Td width="140" style="display:none;" id="english_button"><a onMouseOver="MM_swapImage('english','','../../includes/site_images/branding/english_1.gif',0)" onMouseOut="MM_swapImgRestore()" href="javascript:resetLang();"><img src="../../includes/site_images/branding/english_0.gif" width="140" height="17" name="english" id="english" alt="Back to English" border="0"></a></Td>
+		
+		<td width="13"><img src="../../includes/site_images/spacers/spacer.gif" width="12" height="17" alt="" border="0"></td>
+        <td width="1"><img src="../../includes/site_images/branding/tools_divider.gif" width="1" height="17" alt="" border="0"></td>
+        <td width="12"><img src="../../includes/site_images/spacers/spacer.gif" width="12" height="17" alt="" border="0"></td>
+        <Td width="139"><a onMouseOver="MM_swapImage('nsu','','../../includes/site_images/branding/newsletter_1.gif',0)" onMouseOut="MM_swapImgRestore()" href="https://www.nyc.gov/portal/site/nycgov/menuitem.9b69d5403036a3adc8af0d4256a09da0/"><img src="../../includes/site_images/branding/newsletter_0.gif" width="139" height="17" name="nsu" id="nsu" alt="Newsletter Sign-Up" border="0"></a></Td>
+        <td width="12"><img src="../../includes/site_images/spacers/spacer.gif" width="12" height="17" alt="" border="0"></td>
+        <td width="1"><img src="../../includes/site_images/branding/tools_divider.gif" width="1" height="17" alt="" border="0"></td>
+        <td width="11"><img src="../../includes/site_images/spacers/spacer.gif" width="11" height="17" alt="" border="0"></td>
+        <td width="65"><img src="../../includes/site_images/branding/text_size.gif" width="65" height="17" alt="Text Size:" border="0"></td>
+        <td width="20"><a onMouseOver="MM_swapImage('small','','../../includes/site_images/branding/small_1.gif',0)" onMouseOut="MM_swapImgRestore()" href="javascript:SetCookie(fontSizeCookie,'1');doRefresh();"><img src="../../includes/site_images/branding/small_0.gif" border=0 alt="Sm" name="small" width="20" height="17"></a></td>
+        <td width="23"><a onMouseOver="MM_swapImage('medium','','../../includes/site_images/branding/med_1.gif',0)" onMouseOut="MM_swapImgRestore()" href="javascript:SetCookie(fontSizeCookie,'2');doRefresh();"><img src="../../includes/site_images/branding/med_0.gif" border=0 alt="Med" name="medium" width="23" height="17"></a></td>
+        <td width="22"><a onMouseOver="MM_swapImage('large','','../../includes/site_images/branding/large_1.gif',0)" onMouseOut="MM_swapImgRestore()" href="javascript:SetCookie(fontSizeCookie,'3');doRefresh();"><img src="../../includes/site_images/branding/large_0.gif" border=0 alt="Lg" name="large" width="22" height="17"></a></td>
+        <td width="12"><img src="../../includes/site_images/spacers/spacer.gif" width="12" height="17" alt="" border="0"></td>
+      </tr>
+    </table></td>
+  </tr>
+  
+  <tr>
+    <Td><img src="../../includes/site_images/branding/banner_bottom.gif" border="0" width="769" height="14"></Td>
+  </tr>
+</table>
+<map name="bannermap">
+  <area shape="poly" coords="14,14,308,14,308,38,243,38,243,62,14,62" href="../../html/home/home.shtml" alt="NYC Small Business Services">
+</map>
+<script language="Javascript">
+<!--
+if(GetCookie(fontSizeCookie) == "1"){	
+	document.small.src='../../includes/site_images/branding/small_1.gif';	
+	}else if(GetCookie(fontSizeCookie) == "2"){	
+	document.medium.src='../../includes/site_images/branding/med_1.gif';	
+	}else if(GetCookie(fontSizeCookie) == "3"){
+	document.large.src='../../includes/site_images/branding/large_1.gif';	
+	}else{	document.small.src='../../includes/site_images/branding/small_1.gif';	
+}
+
+MM_preloadImages('../../includes/site_images/branding/print_1.gif','../../includes/site_images/branding/email_1.gif','../../includes/site_images/branding/translate_1.gif','../../includes/site_images/branding/newsletter_1.gif','../../includes/site_images/branding/large_1.gif','../../includes/site_images/branding/med_1.gif','../../includes/site_images/branding/small_1.gif');
+//-->
+</script>
+<!-- Header Code -->
+
+<script type="text/javascript">
+//<![CDATA[
+
+	var PageConfig = {};
+	PageConfig.dcsid = "dcsn77wf910000w8s4czertdx_1p2i";
+	PageConfig.onsitere = /^(www\.)?(nyc\.gov|(ci\.)?nyc\.ny\.us){1}(\/)(html)?(\/)?sbs.*/i;
+	
+	var PageArray = {};
+	PageArray.PageLoad = [];
+	PageArray.PageLoad[0] = 'DCSext.o_agcy';
+	PageArray.PageLoad[1] = 'SBS';
+
+	//]]>>
+</script>
+<!-- END of default_header.inc -->
+
+						
+			</td></tr>
+
+		
+		<!-- BEGIN_PRINT_PAGE -->
+		<tr>
+		<!-- END_PRINT_PAGE -->
+		<td align="left" valign="top" width="180" height="100%">
+					
+							
+							 
+								  <!-- file tree1_nodes.js will be recreated-->
+<!-- START of leftnav_js.html -->
+<table width="180" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td align="left" bgcolor="" valign="top" width="179"><table cellspacing="0" cellpadding="0" border="0" width="179">
+        <tr>
+          <td bgcolor="#75b845"><Table cellspacing="0" cellpadding="0" border="0" width="179">
+              <form action="http://search1.nyc.gov/search?" method="GET" name="gs" style="margin-bottom: 0px;">
+                <input value="xml_no_dtd" name="output" type="hidden">
+                <input value="default_collection" name="site" type="hidden">
+                <input value="agency_frontend" name="proxystylesheet" type="hidden">
+                <input value="agency_frontend" name="client" type="hidden">
+                <input value="www.nyc.gov/html/sbs" name="sitesearch" type="hidden">
+                <tr>
+                  <td width="16"><img src="../../includes/site_images/spacers/spacer.gif" width="16" height="54"></td>
+                  <td width="148"><table cellspacing="0" cellpadding="0" border="0" width="148">
+                      <tr>
+                        <Td colspan="2" width="148"><img src="../../includes/site_images/spacers/spacer.gif" width="148" height="7"></Td>
+                      </tr>
+                      <tr>
+                        <Td width="42"><img src="../../includes/site_images/nav/search.gif" width="42" height="11" alt="Search"></Td>
+                        <td width="106"><img src="../../includes/site_images/spacers/spacer.gif" width="106" height="11"></td>
+                      </tr>
+                      <tr>
+                        <Td colspan="2" width="148"><img src="../../includes/site_images/spacers/spacer.gif" width="148" height="5"></Td>
+                      </tr>
+                      <tr>
+                        <td colspan="2"><table cellspacing="0" cellpadding="0" border="0" width="148">
+                            <tr>
+                              <td width="119"><input name="q" id="search_nycgov" type="text" style="width:119px;height:20px;"></td>
+                              <td width="5"><img src="../../includes/site_images/spacers/spacer.gif" width="5" height="22"></td>
+                              <td width="24"><input name="go" type="image" id="go" src="../../includes/site_images/nav/go_0.gif" alt="Search" width="24" height="20" border="0" onMouseOver="MM_swapImage('go','','../../includes/site_images/nav/go_1.gif',1)" onMouseOut="MM_swapImgRestore()"></td>
+                            </tr>
+                          </table></td>
+                      </tr>
+                      <tr>
+                        <Td colspan="2" width="148"><img src="../../includes/site_images/spacers/spacer.gif" width="148" height="9"></Td>
+                      </tr>
+                    </table></td>
+                  <td width="15"><img src="../../includes/site_images/spacers/spacer.gif" width="15" height="54"></td>
+                </tr>
+              </form>
+            </Table></td>
+        </tr>
+        <tr>
+          <Td bgcolor="#FFFFFF"><img src="../../includes/site_images/spacers/spacer.gif" width="179" height="1"></Td>
+        </tr>
+        <tr>
+          <td><script language="Javascript" src="../../includes/scripts/nav_nodes.js"></script>
+            <script language="Javascript" src="../../includes/scripts/nav_code.js"></script>
+            <noscript>
+<a href="../../html/home/home.shtml" class="nav_section">Home</a><br>
+<a href="../../html/about/about.shtml" class="nav_section">About SBS</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/about/message.shtml" class="nav_subsection">Commissioner’s Message</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/about/sbsleadership.shtml" class="nav_subsection">SBS Leadership</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/about/doingbusinesswithsbs.shtml" class="nav_subsection">Doing Business with SBS</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/about/lap.shtml" class="nav_subsection">Language Access Plan</a><br>
+<a href="../../html/business/business.shtml" class="nav_section">Help for Businesses</a><br>
+<a href="../../html/seekers/seekers.shtml" class="nav_section">Help for Jobseekers</a><br>
+<a href="../../html/neighborhood/neighborhood.shtml" class="nav_section">Help for Neighborhoods</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/neighborhood/avenuenyc.shtml" class="nav_subsection">Avenue NYC</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/neighborhood/bid.shtml" class="nav_subsection">Business Improvement Districts</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/neighborhood/awards.shtml" class="nav_subsection">Neighborhood Achievement Awards</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/neighborhood/clean_streets.shtml" class="nav_subsection">NYC Clean Streets</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/neighborhood/neighborhood_services.shtml" class="nav_subsection">Services for Neighborhood Organizations</a><br>
+<a href="../../html/procurement/mwbe.shtml" class="nav_section">Selling to Government</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/procurement/certify.shtml" class="nav_subsection">How to Certify with the City</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/procurement/contract.shtml" class="nav_subsection">Government Contracting</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/procurement/board.shtml" class="nav_subsection">M/WBE Advisory Board</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/procurement/leadership_assoc.shtml" class="nav_subsection">M/WBE Leadership Association</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/procurement/dls.shtml" class="nav_subsection">Division of Labor Services (DLS)</a><br>
+<a href="../../html/pr/news_pr.shtml" class="nav_section">Newsroom</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/pr/pr.shtml" class="nav_subsection">Press Releases</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/pr/pr_clips.shtml" class="nav_subsection">Press Clips</a><br>	
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/pr/news_articles.shtml" class="nav_subsection">Articles</a><br>
+<a href="../../html/employment/employment.shtml" class="nav_section">Careers at SBS</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/employment/intern.shtml" class="nav_subsection">Internships</a><br>
+<a href="../../html/contact/contact.shtml" class="nav_section">Contact SBS</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="http://www.nyc.gov/html/mail/html/mailsbs.html" class="nav_subsection">Email the Commissioner</a><br>
+</noscript></td>
+        </tr>
+		
+		
+		 <tr>
+          <td id="altnav" style="display:none;"><a href="../../html/home/home.shtml" class="nav_section">Home</a><br>
+<a href="../../html/about/about.shtml" class="nav_section">About SBS</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/about/message.shtml" class="nav_subsection">Commissioner’s Message</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/about/sbsleadership.shtml" class="nav_subsection">SBS Leadership</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/about/doingbusinesswithsbs.shtml" class="nav_subsection">Doing Business with SBS</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/about/lap.shtml" class="nav_subsection">Language Access Plan</a><br>
+<a href="../../html/business/business.shtml" class="nav_section">Help for Businesses</a><br>
+<a href="../../html/seekers/seekers.shtml" class="nav_section">Help for Jobseekers</a><br>
+<a href="../../html/neighborhood/neighborhood.shtml" class="nav_section">Help for Neighborhoods</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/neighborhood/avenuenyc.shtml" class="nav_subsection">Avenue NYC</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/neighborhood/bid.shtml" class="nav_subsection">Business Improvement Districts</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/neighborhood/awards.shtml" class="nav_subsection">Neighborhood Achievement Awards</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/neighborhood/clean_streets.shtml" class="nav_subsection">NYC Clean Streets</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/neighborhood/neighborhood_services.shtml" class="nav_subsection">Services for Neighborhood Organizations</a><br>
+<a href="../../html/procurement/mwbe.shtml" class="nav_section">Selling to Government</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/procurement/certify.shtml" class="nav_subsection">How to Certify with the City</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/procurement/contract.shtml" class="nav_subsection">Government Contracting</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/procurement/board.shtml" class="nav_subsection">M/WBE Advisory Board</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/procurement/leadership_assoc.shtml" class="nav_subsection">M/WBE Leadership Association</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/procurement/dls.shtml" class="nav_subsection">Division of Labor Services (DLS)</a><br>
+<a href="../../html/pr/news_pr.shtml" class="nav_section">Newsroom</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/pr/pr.shtml" class="nav_subsection">Press Releases</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/pr/pr_clips.shtml" class="nav_subsection">Press Clips</a><br>	
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/pr/news_articles.shtml" class="nav_subsection">Articles</a><br>
+<a href="../../html/employment/employment.shtml" class="nav_section">Careers at SBS</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/employment/intern.shtml" class="nav_subsection">Internships</a><br>
+<a href="../../html/contact/contact.shtml" class="nav_section">Contact SBS</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="http://www.nyc.gov/html/mail/html/mailsbs.html" class="nav_subsection">Email the Commissioner</a><br></td>
+        </tr>
+      </table></td>
+    <td width="1"><img src="../../includes/site_images/spacers/spacer.gif" width="1" height="5"></td>
+  </tr>
+</table><script language="Javascript">
+<!--
+if(this.location.href.indexOf("tl=")!=-1) {
+	document.getElementById("english_button").style.display='';
+	document.getElementById("translate_button").style.display = 'none';
+}
+//-->
+</script>
+<iframe scrolling='no' frameborder='0' class='shim' name='shim' id='shim'></iframe>
+<div id="translate_popup" class="popup">
+  <table cellspacing="0" cellpadding="0" border="0" width="323">
+    <tr>
+      <td class="popup_table"><table cellspacing="0" cellpadding="0" border="0" width="284">
+          <tr>
+            <Td colspan="2"><img src="../../includes/site_images/misc/translate_popup.gif" width="284" height="39" alt="Translate this Page" border="0"></Td>
+          </tr>
+          <tr>
+            <td class="popup_label" width="123">Select a Language</td>
+            <td class="popup_field" width="147"><select name="tl" id="tl" style="width:147px">
+                <option value="">- Select -</option>
+                <option value="ar">Arabic</option>
+                <option value="bg">Bulgarian</option>
+                <option value="ca">Catalan</option>
+                <option value="zh-CN">Chinese (Simplified)</option>
+                <option value="zh-TW">Chinese (Traditional)</option>
+                <option value="hr">Croatian</option>
+                <option value="cs">Czech</option>
+                <option value="da">Danish</option>
+                <option value="nl">Dutch</option>
+                <option value="tl">Filipino</option>
+                <option value="fi">Finnish</option>
+                <option value="fr">French</option>
+                <option value="de">German</option>
+                <option value="el">Greek</option>
+                <option value="iw">Hebrew</option>
+                <option value="hi">Hindi</option>
+                <option value="id">Indonesian</option>
+                <option value="it">Italian</option>
+                <option value="ja">Japanese</option>
+                <option value="ko">Korean</option>
+                <option value="lv">Latvian</option>
+                <option value="lt">Lithuanian</option>
+                <option value="no">Norwegian</option>
+                <option value="pl">Polish</option>
+                <option value="pt">Portuguese</option>
+                <option value="ro">Romanian</option>
+                <option value="ru">Russian</option>
+                <option value="sr">Serbian</option>
+                <option value="sk">Slovak</option>
+                <option value="sl">Slovenian</option>
+                <option value="es">Spanish</option>
+                <option value="sv">Swedish</option>
+                <option value="uk">Ukrainian</option>
+                <option value="vi">Vietnamese</option>
+              </select>
+            </td>
+          </tr>
+          <tr>
+            <td class="buttons" colspan="2"><input type="button" class="yellow_button" style="width:78px;" value="Translate" onClick="setLanguage(document.getElementById('tl').options[document.getElementById('tl').selectedIndex].value)" />
+              <input type="button" class="yellow_button" style="width:56px;" value="Cancel" onClick="hideTranslate()" /></td>
+          </tr>
+        </table></td>
+  </table>
+</div>
+
+<script type="text/javascript" src="../../includes/scripts/translate.js"></script>
+<script type="text/javascript" src="../../includes/scripts/cookies_tr.js"></script>
+
+<!-- END of leftnav_js.html -->
+
+								 
+						
+				</td>
+				<!-- START of CENTER column -->
+				<!-- BEGIN_PRINT_PAGE -->
+				<td id="main_content" align="left" valign="top" width="589">
+				<!-- START of PRIMARY FEATURE SECTION -->
+				<table width="589" border="0" cellspacing="0" cellpadding="0">
+				  
+					  
+						<tr><td colspan="3" align="left" valign="top" bgcolor="" width="589">
+							
+							
+								<img src="../../includes/site_images/titles/careers.gif"
+								alt="Careers at SBS" width="589" border="0" /></td></tr>
+						
+					
+						<tr><td align="left" bgcolor="" valign="top" width="30"><img src="../../includes/site_images/spacers/spacer_30_30.gif" alt="" width="30" height="30" border="0">
+						</td><td align="left" bgcolor="" valign="top" width="499"><img src="../../includes/site_images/spacers/spacer_499_15.gif" alt="" width="499" height="15" border="0"><br>
+					  
+							
+						
+					  
+							
+							
+									
+											<span class="bodytext"></span>
+											
+										
+									
+											<span class="bodytext">                           
+
+<p style="MARGIN-top: 0in">SBS prides itself on creating a dynamic work environment where employees are given opportunities to grow professionally and advance in their fields. We are looking for highly-motivated and well-organized individuals to join us in making a difference for the City&#8217;s small businesses and workforce.</p><table style="HEIGHT: 222px" border="1" cellspacing="0" bordercolor="#666666" cellpadding="4" width="526"><tbody><tr bgcolor="#cccccc"><td>Job Title</td><td><p align="left">Salary Range</p></td><td>Full Description (will open a <a class="bodytext_underline" href="http://www.adobe.com/products/acrobat/readstep2.html">PDF</a> document)</td></tr><tr><td colspan="3"><strong>Manager / Specialist / Associate Positions</strong></td></tr><tr><td>Deputy General Counsel</td><td>$80,000-$95,000</td><td><p align="center"><a class="bodytext_underline" href="../../downloads/pdf/jobs/deputy_general_counsel.pdf" target="_blank">click to open</a></p></td></tr><tr><td>Workforce1 Center Operations Manager</td><td>$50,000-$63,000</td><td><p align="center"><a class="bodytext_underline" href="../../downloads/pdf/jobs/wF1_center_ops_mgr.pdf" target="_blank">click to open</a></p></td></tr><tr><td>Worksource1 Management &amp; Reporting Manager</td><td>Salary to commensurate with experience</td><td><p align="center"><a class="bodytext_underline" href="../../downloads/pdf/jobs/wS1_mgmt_reporting.pdf" target="_blank">click to open</a></p></td></tr><tr><td>Account Manager, Training</td><td>$55,000</td><td><p align="center"><a class="bodytext_underline" href="../../downloads/pdf/jobs/account_manager_training.pdf" target="_blank">click to open</a></p></td></tr><tr><td>Certification Analyst</td><td>$45,615-$52,000</td><td><p align="center"><a class="bodytext_underline" href="../../downloads/pdf/jobs/certification_analyst.pdf" target="_blank">click to open</a></p></td></tr><tr><td colspan="3"><strong>Temporary&#160;Positions</strong></td></tr><tr><td>Grant Monitor</td><td>$15.00/hourly</td><td colspan="3"><p align="center"><a class="bodytext_underline" href="../../downloads/pdf/jobs/grant_monitor_02_07.pdf" target="_blank">click to open</a></p></td></tr><tr><td colspan="3"><strong>Non-City Funded Positions</strong></td></tr><tr><td colspan="3">&#160;</td></tr><tr><td>Project&#160;Manager/NYACH</td><td>$55,000-$60,000</td><td colspan="3"><p align="center"><a class="bodytext_underline" href="../../downloads/pdf/jobs/nyach_project_mgr.pdf" target="_blank">click to open</a></p></td></tr><tr><td>Director, NYC Business Solutions Training</td><td>$60,000-$75,000</td><td colspan="3"><p align="center"><a class="bodytext_underline" href="../../downloads/pdf/jobs/director_training_wdd.pdf" target="_blank">click to open</a></p></td></tr></tbody></table>
+
+*Per Diem/Hourly Rate Position 
+
+<p>The above job listings are in .PDF format. To download and print these listings, you will need the latest copy of the Adobe Acrobat Reader. This program can be downloaded for free from this link "<a class="bodytext_underline" href="http://www.adobe.com/products/acrobat/readstep2.html" target="_blank">Acrobat and the Web</a>."</p>
+
+To apply for a position(s), please submit a cover letter and resume which includes the appropriate job code to: 
+
+<p align="center">New York City Department of Small Business Services<br />
+Human Resources Unit<br />
+110 William Street - 7th Floor<br />
+New York, New York 10038<br />
+Or send email to: <a href="mailto:careers@sbs.nyc.gov">careers@sbs.nyc.gov</a><br /><br /><img alt="City Seal" src="../../includes/site_images/misc/city_seal.gif" width="114" height="123" /><br /><br />
+Mayor Michael R. Bloomberg<br />
+Deputy Mayor Robert Steel<br />
+Commissioner Robert W. Walsh<br /></p></span>
+										
+								
+						
+
+					
+
+					 
+					   
+						
+					 
+					 
+					
+					</td><td align="left" bgcolor="" valign="top" width="60"><img src="../../includes/site_images/spacers/spacer_60_30.gif" alt="" width="60" height="30" border="0"></td></tr>
+
+					
+
+					  
+				   
+				</table>
+				<!-- END of PRIMARY FEATURE SECTION -->
+
+				<!-- START of SECONDARY FEATURE SECTION -->
+
+				<table width="589" border="0" cellspacing="0" cellpadding="0">
+				  
+					  
+						<tr><td colspan="4" align="left" valign="top" bgcolor="" width="589">
+							
+							</td></tr>
+						
+					
+
+					  </table>
+
+				<!-- END of SECONDARY FEATURE SECTION -->
+
+				<!-- START of TERTIARY FEATURE SECTION -->
+				<table width="589" border="0" cellspacing="0" cellpadding="0">
+				  
+					  
+						<tr><td colspan="3" align="left" valign="top" bgcolor="" width="589">
+							
+							</td></tr>
+						
+					
+					  
+				   
+				</table>
+				<!-- END of TERTIARY FEATURE SECTION -->
+				<!-- END_PRINT_PAGE -->
+				
+
+			<!-- START of nycgov_footer.inc-->
+<!-- old table width=589;  499 for middle td -->
+<!-- expanded table width=769;  619 for middle td -->
+<!-- <table width="589" border="0" cellspacing="0" cellpadding="0">
+	<tr>
+		<td align="left" valign="top" width="30"><img src="../../includes/site_images/spacers/spacer_30_30.gif" alt="" width="30" height="30" border="0"></td>
+		<td align="left" valign="top" width="499"><img src="../..//includes/site_images/spacers/spacer_499_15.gif" alt="" width="499" height="15" border="0"><img src="../../includes/site_images/footer_divider.gif" alt="" width="499" height="1" border="0"><br>
+			<span class="footer_header">Footer header goes here<br>
+			</span><span class="footer_text">Footer text description goes here. It is optional and the max is about 300 characters which is approximately 3-4 lines of text. Footer text description goes here. It is optional and the max is about 300 characters which is approximately 3-4 lines of text.<br>
+			</span></td>
+		<td align="left" valign="top" width="60"><img src="../..//includes/site_images/spacers/spacer_60_30.gif" alt="" width="60" height="30" border="0"><br>
+			<br>
+		</td>
+	</tr>
+</table> -->
+<!-- END of default_footer.inc -->
+
+
+					
+	<!-- BEGIN_PRINT_PAGE -->				
+					<span class="footer_text"><br></span></td>
+				<!-- END of CENTER column -->
+			</tr>
+	<!-- END_PRINT_PAGE -->
+			<tr height="25">
+				<td colspan="2" align="left" valign="top" width="769" height="25"> 
+
+					<table width="769" border="0" cellspacing="0" cellpadding="0">
+	<tr><td><img src="../../includes/site_images/misc/bottom_branding.gif" border="0"></td></tr>
+</table>
+
+
+
+
+<!-- START of nycgov_footer.inc-->
+<style type="text/css">
+<!--
+	.footer_links {font-family: Verdana, Arial, Helvetica, sans-serif;
+		font-size: 10px;
+		color: #F9D053;
+	}
+
+	.footer_copyright {font-family: Verdana, Arial, Helvetica, sans-serif;
+		font-size: 10px;
+		color: #C4C4B2;
+	}
+-->
+</style>
+<TABLE cellSpacing=0 cellPadding=0 width=769 bgColor=#494B4C border=0>
+	<TBODY>
+	<TR><TD width=13><IMG height=24 src="../../includes/site_images/spacers/spacer.gif" width=13></TD>
+          <TD width=287><SPAN class=footer_copyright>Copyright 2013 The City of New York</SPAN></TD>
+          <TD align=right width=444><SPAN class=footer_links><A class=footer_links href="/contact">Contact Us</A> | <A class=footer_links href="/faqs">FAQs</A> | <A class=footer_links href="/privacy">Privacy Policy</A> | <A class=footer_links href="http://www.nyc.gov/html/misc/html/tou.html">Terms of Use</A> | <A class=footer_links href="/sitemap">Site Map</A></SPAN></TD>
+          <TD align=right width=25><IMG height=24 src="../../includes/site_images/spacers/spacer.gif" width=25></TD></TR>
+        </TBODY>
+</TABLE>
+<!-- Privacy Policy updated on 03/08/2011 -->
+<!--  nycgov Webtrends code, added on 02/16/2011 -->
+<script src="/html/misc/scripts/nycwebtrends.js" type="text/javascript"></script>
+<script type="text/javascript">
+//<![CDATA[
+var _nyctag=new WebTrends();
+_nyctag.dcsInit();
+_nyctag.dcsGetId();
+//]]>>
+</script>
+<script type="text/javascript">
+//<![CDATA[
+_nyctag.dcsCollect();
+//]]>>
+</script>
+
+<!-- PROD noscript section -->
+<noscript>
+<div><img alt="DCSIMG" id="DCSIMG" width="1" height="1" src="http://a858-sdc.nyc.gov/dcslfpea2000008i7geu3pdky_5v8x/njs.gif?dcsuri=/nojavascript&WT.js=No&WT.tv=8.6.2"/></div>
+</noscript>
+<!--  END OF nycgov Webtrends code, added on 02/16/2011 -->
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-9518673-1");
+pageTracker._trackPageview();
+} catch(err) {}
+</script>
+<!-- END of nycgov_footer.inc-->
+
+				</td>
+			</tr>
+<!-- BEGIN_PRINT_PAGE -->			
+		</table>
+	<!-- END_PRINT_PAGE -->
+	</body>
+</html>
+

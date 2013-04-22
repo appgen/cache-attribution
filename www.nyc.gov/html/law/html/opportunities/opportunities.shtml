@@ -1,0 +1,740 @@
+
+
+
+		
+	
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+	<head>
+		<meta http-equiv="content-type" content="text/html;charset=UTF-8">
+		<meta name="tp-name" content="homepage_2col">
+
+		
+		
+
+		
+				<title>Law Department - MWBE Opportunities</title>
+			
+		
+				
+			
+		<link href="../../includes/css/rollout.css" rel="stylesheet">
+	</head>
+
+<body  background="../../includes/site_images/misc/bg.gif"
+  bgcolor="#ffffff" leftmargin="0" marginheight="0" marginwidth="0" topmargin="0">
+
+	<!-- BEGIN_PRINT_PAGE -->
+		<table width="769" border="0" cellspacing="0" cellpadding="0">
+	<!-- END_PRINT_PAGE -->	
+			<tr><td colspan="2" align="left" valign="top" width="769">
+					<!-- START of nycgov_header.inc -->
+<table width="769" border="0" cellspacing="0" cellpadding="0" height="51">
+	<tr>
+		<td><img src="../../includes/site_images/nyc_gov/nycgov_banner.gif" alt="" width="769" height="51" border="0" usemap="#TopNav"></td>
+	</tr>
+</table>
+<map name="TopNav">
+  <area shape="rect" coords="554,1,599,25" href="/search" alt="Search">
+  <area shape="rect" coords="607,1,688,25" href="/portal/register.jsp" alt="Email Updates">
+  <area shape="rect" coords="698,1,762,25" href="/contact" alt="Contact Us">
+  <area shape="rect" coords="328,27,399,50" href="/residents" alt="Residents">
+  <area shape="rect" coords="408,27,471,50" href="/business" alt="Business">
+  <area shape="rect" coords="478,27,535,50" href="/visitors" alt="Visitors">
+  <area shape="rect" coords="544,27,628,50" href="/government" alt="Government">
+  <area shape="rect" coords="635,27,764,50" href="/mayor" alt="Office of the Mayor">
+  <area shape="rect" coords="3,3,49,48" href="/home.html" alt="NYC.gov always open">
+</map>
+<!-- END of nycgov_header.inc -->
+					
+							<script language="JavaScript" src="../../includes/scripts/change_text.js"></script>
+<script language="Javascript">
+<!--
+var right_alt=new Array();
+right_alt[0]="Madison Square Garden (Credit: NYC & Company)";
+right_alt[1]="Central Park (Credit: Joseph Pobereskin, NYC & Company)";
+right_alt[2]="NYC Commuters (Credit: Antonio M Rosario)";
+right_alt[3]="Grand Central";
+right_alt[4]="MOMA (Credit: Katie Klith)";
+right_alt[5]="Guggenheim";
+right_alt[6]="Central Park (Credit: NYC & Company)";
+right_alt[7]="NY Botanical Gardens, Bronx";
+right_alt[8]="Sonicvision/ AMNH (Credit: D. Finnin, AMNH)";
+right_alt[9]="Brooklyn Botanical Gardens/Cherry Blossom Festival (Credit: Nina Ong)";
+right_alt[10]="Taxis by Whitney Museum (Credit: Jeff Goldberg, Whitney)";
+right_alt[11]="Lower Manhattan";
+right_alt[12]="Lower Manhattan, evening";
+right_alt[13]="Historic photo of the Law Department";
+
+function writeImage(imageNumber) {
+	document.write('<img src="../../includes/site_images/banner/left_'+imageNumber+'.jpg" width="181" height="164" border="0" alt="Law Department"><img src="../../includes/site_images/banner/right_'+imageNumber+'.jpg" width="588" height="164" border="0" alt="'+right_alt[imageNumber-1]+'">');
+}
+var itemCount = 14;
+rndImage = Math.round(((itemCount -1) * Math.random()) + 1);
+if ((rndImage == 13) || (rndImage == 10)){ //Added to prevent image 13 and 10 from rotating
+	 rndImage = 12;
+	}
+//-->
+</script>
+<script language="JavaScript" type="text/JavaScript">
+<!--
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+//-->
+</script>
+ 
+<table width="769" border="0" cellspacing="0" cellpadding="0">
+  <form action="http://search1.nyc.gov/search?" method="GET" name="gs">
+    <input value="xml_no_dtd" name="output" type="hidden">
+    <input value="default_collection" name="site" type="hidden">
+    <input value="agency_frontend" name="proxystylesheet" type="hidden">
+    <input value="agency_frontend" name="client" type="hidden">
+    <input value="www.nyc.gov/html/law" name="sitesearch" type="hidden">
+    <tr>
+      <td width="589" rowspan="3"><img src="../../includes/site_images/banner/banner_logo.gif" width="589" height="74" alt="New York City Law Department" usemap="#bannerlink" border="0"></td>
+      <td colspan="3"><img src="../../includes/site_images/spacers/spacer.gif" height="40" width="180"></td>
+    </tr>
+    <tr>
+      <td><input name="q" id="search_nycgov" type="text" class="search-box" style="width:151px;height:21px"></td>
+      <td><input name="go" type="image" id="go" src="../../includes/site_images/banner/search_0.gif" alt="Go" align="middle" width="15" height="21" border="0" onMouseOver="MM_swapImage('go','','../../includes/site_images/banner/search_1.gif',1)" onMouseOut="MM_swapImgRestore()"></td>
+      <td><img src="../../includes/site_images/spacers/spacer.gif" height="21" width="14"></td>
+    </tr>
+  </form>
+  <tr>
+    <td colspan="3"><img src="../../includes/site_images/spacers/spacer.gif" height="13" width="180"></td>
+  </tr>
+  <tr> 
+    <td align="left" valign="top" width="769" colspan="4"><script language="JavaScript">
+	<!--
+	writeImage(rndImage);
+	//-->
+	</script>
+	<noscript><img src="../../includes/site_images/banner/left_1.jpg" width="181" height="164" border="0" alt="Man at a Conference Table"><img src="../../includes/site_images/banner/right_1.jpg" width="588" height="164" border="0" alt="Madison Square Garden (Credit: NYC & Company)"></noscript></td>
+  </tr>
+  <tr>
+    <td colspan="4"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td><img width="126" height="25" alt="Select Text Size" src="../../includes/site_images/banner/text_size.gif"><a onMouseOver="MM_swapImage('small','','../../includes/site_images/banner/text_small_1.gif',0)" onMouseOut="MM_swapImgRestore()" href="javascript:SetCookie(nameOfCookie,'1');doRefresh();"><img src="../../includes/site_images/banner/text_small_0.gif" border=0 alt="Sm" name="small" width="16" height="25" align="top"></a><a onMouseOver="MM_swapImage('medium','','../../includes/site_images/banner/text_med_1.gif',0)" onMouseOut="MM_swapImgRestore()" href="javascript:SetCookie(nameOfCookie,'2');doRefresh();"><img src="../../includes/site_images/banner/text_med_0.gif" border=0 alt="Med" name="medium" align="top" width="19" height="25"></a><a 
+	onMouseOver="MM_swapImage('large','','../../includes/site_images/banner/text_large_1.gif',0)" onMouseOut="MM_swapImgRestore()" href="javascript:SetCookie(nameOfCookie,'3');doRefresh();"><img src="../../includes/site_images/banner/text_large_0.gif" border=0 alt="Lg" name="large" align="top" width="19" height="25"></a></td>
+    <td><a href="/cgi-bin/misc/pfprinter.cgi?action=print&sitename=LAW" onClick="this.href = '/cgi-bin/misc/pfprinter.cgi?action=print&sitename=LAW&p=' + Date.parse(new Date()); return true;" onMouseOver="MM_swapImage('printer','','../../includes/site_images/banner/printer_1.gif',0)" onMouseOut="MM_swapImgRestore()"><img src="../../includes/site_images/banner/printer_0.gif" width="206" height="25" border="0" name="printer" id="printer" alt="Printer Friendly Format"></a></td>
+    
+	     <Td id="translate_button"><a onMouseOver="MM_swapImage('translate','','../../includes/site_images/branding/translate_1.gif',0)" onMouseOut="MM_swapImgRestore()" href="javascript:showTranslate();"><img src="../../includes/site_images/branding/translate_0.gif" border=0 alt="Translate the page" name="translate" width="176" height="25"></a></Td>
+          <Td id="english_button" style="display:none;"><a onMouseOver="MM_swapImage('english','','../../includes/site_images/branding/english_1.gif',0)" onMouseOut="MM_swapImgRestore()" href="javascript:resetLang();"><img src="../../includes/site_images/branding/english_0.gif" border=0 alt="Back to English" name="english" width="176" height="25"></a></Td>
+	
+	
+    <td><img src="../../includes/site_images/banner/text_lines.gif" width="207" height="25"></td>
+  </tr>
+</table></td>
+    <script language="Javascript">
+<!--
+if(GetCookie(nameOfCookie) == "1"){	
+	document.small.src='../../includes/site_images/banner/text_small_1.gif';	
+	}else if(GetCookie(nameOfCookie) == "2"){	
+	document.medium.src='../../includes/site_images/banner/text_med_1.gif';	
+	}else if(GetCookie(nameOfCookie) == "3"){
+	document.large.src='../../includes/site_images/banner/text_large_1.gif';	
+	}else{	document.small.src='../../includes/site_images/banner/text_small_1.gif';	
+}
+MM_preloadImages('../../includes/site_images/nav/opportunities_3.gif','../../includes/site_images/nav/opportunities_1.gif','../../includes/site_images/nav/news_3.gif','../../includes/site_images/nav/news_1.gif','../../includes/site_images/nav/home_1.gif','../../includes/site_images/nav/diversity_3.gif','../../includes/site_images/nav/diversity_1.gif','../../includes/site_images/nav/contact_3.gif','../../includes/site_images/nav/contact_1.gif','../../includes/site_images/nav/careers_3.gif','../../includes/site_images/nav/careers_1.gif','../../includes/site_images/nav/about_3.gif','../../includes/site_images/nav/about_1.gif','../../includes/site_images/banner/printer_1.gif','../../includes/site_images/banner/search_1.gif','../../includes/site_images/banner/text_large_1.gif','../../includes/site_images/banner/text_med_1.gif','../../includes/site_images/banner/text_small_1.gif','../../includes/site_images/nav/fca_3.gif','../../includes/site_images/nav/fca_1.gif');
+//-->
+	</script></td>
+  </tr>
+</table>
+<map name="bannerlink">
+<area shape="poly" href="../../html/home/home.shtml" coords="25,24,46,24,46,34,116,34,116,24,144,24,151,29,155,35,238,35,241,30,245,29,245,17,345,17,345,30,352,30,352,61,190,61,190,70,172,70,172,61,25,61">
+<area shape="circle" href="../../html/home/home.shtml" coords="386,38,31">
+<area shape="rect" coords="544,46,583,56" alt="Search">
+</map>
+
+						
+			</td></tr>
+
+		
+		<!-- BEGIN_PRINT_PAGE -->
+		<tr>
+		<!-- END_PRINT_PAGE -->
+		<td align="left" valign="top" width="180">
+					
+							
+							 
+								  <table width="180" border="0" cellspacing="0" cellpadding="0">
+  <tr> 
+    <td><img src="../../includes/site_images/spacers/spacer.gif" height="58" width="180"></td>
+  </tr>
+  <tr> 
+    <td align="left" bgcolor="" valign="top" width="180"><script language="Javascript" src="../../includes/scripts/nav_nodes.js"></script> 
+      <script language="Javascript" src="../../includes/scripts/nav_code.js"></script> 
+      <noscript>
+<a href="../../html/home/home.shtml" class="nav_section">Home</a><br>
+<a href="../../html/about/about.shtml" class="nav_section">About the Law Dept</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/about/message.shtml" class="nav_subsection">Corporation Counsel's<br>Message</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/about/mission.shtml" class="nav_subsection">Mission Statement</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/about/history.shtml" class="nav_subsection">Law Department History</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/about/divisions.shtml" class="nav_subsection">Legal Divisions</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/about/support.shtml" class="nav_subsection">Support Divisions</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/about/high-profile.shtml" class="nav_subsection">High-Profile Matters</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/about/service.shtml" class="nav_subsection">Public Service Program</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/about/pro_bono.shtml" class="nav_subsection">Pro Bono/<br>Community Service</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/about/laws.shtml" class="nav_subsection">Laws of the City<br>of New York</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/about/language.shtml" class="nav_subsection">Language Access Plan</a><br>
+<a href="../../html/careers/careers.shtml" class="nav_section">Careers</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/careers/experienced.shtml" class="nav_subsection">Experienced Attorneys</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/careers/students.shtml" class="nav_subsection">Graduating Law Students</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/careers/honors.shtml" class="nav_subsection">Summer Honors Program</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/careers/support.shtml" class="nav_subsection">Support Professionals</a><br>
+<a href="../../html/news/news.shtml" class="nav_section">In the News</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/news/media.shtml" class="nav_subsection">Media Contact</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/news/articles.shtml" class="nav_subsection">Columns</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/news/byline.shtml" class="nav_subsection">Bylined Articles</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/news/pr.shtml" class="nav_subsection">Press Releases</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/news/speeches.shtml" class="nav_subsection">Public Addresses/Speeches</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/news/initiatives.shtml" class="nav_subsection">Initiatives in the Law</a><br>
+<a href="../../html/reports/reports.shtml" class="nav_section">Annual Reports</a><br>
+<a href="../../html/diversity/diversity.shtml" class="nav_section">Diversity</a><br>
+<a href="../../html/opportunities/opportunities.shtml" class="nav_section">MWBE Opportunities</a><br>
+<a href="../../html/fca/fca.shtml" class="nav_section">NYC False Claims Act</a><br>
+<a href="../../html/contact/contact.shtml" class="nav_section">Contact Us</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/contact/offices.shtml" class="nav_subsection">Office Locations</a><br>
+</noscript></td>
+  </tr>
+   <tr> 
+    <td align="left" bgcolor="" valign="top" width="180" id="altnav" style="display: none;"><a href="../../html/home/home.shtml" class="nav_section">Home</a><br>
+<a href="../../html/about/about.shtml" class="nav_section">About the Law Dept</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/about/message.shtml" class="nav_subsection">Corporation Counsel's<br>Message</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/about/mission.shtml" class="nav_subsection">Mission Statement</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/about/history.shtml" class="nav_subsection">Law Department History</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/about/divisions.shtml" class="nav_subsection">Legal Divisions</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/about/support.shtml" class="nav_subsection">Support Divisions</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/about/high-profile.shtml" class="nav_subsection">High-Profile Matters</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/about/service.shtml" class="nav_subsection">Public Service Program</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/about/pro_bono.shtml" class="nav_subsection">Pro Bono/<br>Community Service</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/about/laws.shtml" class="nav_subsection">Laws of the City<br>of New York</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/about/language.shtml" class="nav_subsection">Language Access Plan</a><br>
+<a href="../../html/careers/careers.shtml" class="nav_section">Careers</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/careers/experienced.shtml" class="nav_subsection">Experienced Attorneys</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/careers/students.shtml" class="nav_subsection">Graduating Law Students</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/careers/honors.shtml" class="nav_subsection">Summer Honors Program</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/careers/support.shtml" class="nav_subsection">Support Professionals</a><br>
+<a href="../../html/news/news.shtml" class="nav_section">In the News</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/news/media.shtml" class="nav_subsection">Media Contact</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/news/articles.shtml" class="nav_subsection">Columns</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/news/byline.shtml" class="nav_subsection">Bylined Articles</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/news/pr.shtml" class="nav_subsection">Press Releases</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/news/speeches.shtml" class="nav_subsection">Public Addresses/Speeches</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/news/initiatives.shtml" class="nav_subsection">Initiatives in the Law</a><br>
+<a href="../../html/reports/reports.shtml" class="nav_section">Annual Reports</a><br>
+<a href="../../html/diversity/diversity.shtml" class="nav_section">Diversity</a><br>
+<a href="../../html/opportunities/opportunities.shtml" class="nav_section">MWBE Opportunities</a><br>
+<a href="../../html/fca/fca.shtml" class="nav_section">NYC False Claims Act</a><br>
+<a href="../../html/contact/contact.shtml" class="nav_section">Contact Us</a><br>
+	<span class="nav_subsection">&nbsp;-&nbsp;</span><a href="../../html/contact/offices.shtml" class="nav_subsection">Office Locations</a><br></td>
+  </tr>
+</table><script type="text/javascript" src="../../includes/scripts/translate.js"></script>
+<script language="Javascript">
+<!--
+if(this.location.href.indexOf("tl=")!=-1) {
+	document.getElementById("english_button").style.display='';
+	document.getElementById("translate_button").style.display = 'none';
+}
+//-->
+</script>
+<iframe scrolling='no' frameborder='0' class='shim' name='shim' id='shim'></iframe>
+<div id="translate_popup" class="popup">
+  <table cellspacing="0" cellpadding="0" border="0" width="323">
+    <tr>
+      <td class="popup_table"><table cellspacing="0" cellpadding="0" border="0" width="284">
+          <tr>
+            <Td colspan="2"><img src="../../includes/site_images/misc/translate_popup.gif" width="284" height="39" alt="Translate this Page" border="0"></Td>
+          </tr>
+          <tr>
+            <td class="popup_label" width="123">Select a Language</td>
+            <td class="popup_field" width="147"><select name="tl" id="tl" style="width:147px">
+                <option value="">- Select -</option>
+                <option value="ar">Arabic</option>
+                <option value="bg">Bulgarian</option>
+                <option value="ca">Catalan</option>
+                <option value="zh-CN">Chinese (Simplified)</option>
+                <option value="zh-TW">Chinese (Traditional)</option>
+                <option value="hr">Croatian</option>
+                <option value="cs">Czech</option>
+                <option value="da">Danish</option>
+                <option value="nl">Dutch</option>
+                <option value="tl">Filipino</option>
+                <option value="fi">Finnish</option>
+                <option value="fr">French</option>
+                <option value="de">German</option>
+                <option value="el">Greek</option>
+                <option value="iw">Hebrew</option>
+                <option value="hi">Hindi</option>
+                <option value="id">Indonesian</option>
+                <option value="it">Italian</option>
+                <option value="ja">Japanese</option>
+                <option value="ko">Korean</option>
+                <option value="lv">Latvian</option>
+                <option value="lt">Lithuanian</option>
+                <option value="no">Norwegian</option>
+                <option value="pl">Polish</option>
+                <option value="pt">Portuguese</option>
+                <option value="ro">Romanian</option>
+                <option value="ru">Russian</option>
+                <option value="sr">Serbian</option>
+                <option value="sk">Slovak</option>
+                <option value="sl">Slovenian</option>
+                <option value="es">Spanish</option>
+                <option value="sv">Swedish</option>
+                <option value="uk">Ukrainian</option>
+                <option value="vi">Vietnamese</option>
+              </select>
+            </td>
+          </tr>
+          <tr>
+            <td class="buttons" colspan="2"><input type="button" class="yellow_button" style="width:78px;" value="Translate" onClick="setLanguage(document.getElementById('tl').options[document.getElementById('tl').selectedIndex].value)" />
+              <input type="button" class="yellow_button" style="width:56px;" value="Cancel" onClick="hideTranslate()" /></td>
+          </tr>
+        </table></td>
+  </table>
+</div>
+<!----><br><br><br><br><br><br><br><br><br><br><br>
+								 
+						
+				</td>
+				<!-- START of CENTER column -->
+				<!-- BEGIN_PRINT_PAGE -->
+				<td align="left" valign="top" width="589">
+				<!-- START of PRIMARY FEATURE SECTION -->
+				<table width="589" border="0" cellspacing="0" cellpadding="0">
+				  
+					  
+						<tr><td colspan="3" align="left" valign="top" bgcolor="" width="589">
+							
+							
+								<img src="../../includes/site_images/titles/opportunities.gif"
+								alt="MWBE Opportunities" width="589" border="0" /></td></tr>
+						
+					
+						<tr><td align="left" bgcolor="" valign="top" width="30"><img src="../../includes/site_images/spacers/spacer_30_30.gif" alt="" width="30" height="30" border="0">
+						</td><td align="left" bgcolor="" valign="top" width="499"><img src="../../includes/site_images/spacers/spacer_499_15.gif" alt="" width="499" height="15" border="0"><br>
+					  
+							
+						
+					  
+							
+							
+									
+											<span class="bodytext"></span>
+											
+										
+									
+											<span class="bodytext"><p style="MARGIN: 0in 0in 0pt">New York City's "MWBE" program, enacted by the City Council and signed by the Mayor as Local Law 129 of 2005, is designed to promote government contracting opportunities for businesses owned by minorities and women. Our "Emerging Business Enterprise" program, enacted by the City Council and signed by the Mayor as Local Law 12 of 2006, is designed to promote such opportunities for businesses owned by persons who are "socially and economically disadvantaged."<a class="foot_link" href="#foot-1">1</a><a name="#back-1"></a> Together, the programs establish the following Citywide goals for contracts and subcontracts in amounts under $1 million:</p>
+
+<table cellspacing="0" cellpadding="0" width="499" border="0">
+<tbody>
+<tr>
+<td class="mwbe_header_0">&#160;</td>
+<td class="mwbe_header" colspan="4">Prime Contracts</td>
+<td class="mwbe_header" colspan="2">Subcontracts</td>
+</tr>
+
+<tr>
+<td colspan="7"><img height="2" src="../../includes/site_images/spacers/spacer.gif" width="499"></td>
+</tr>
+
+<tr>
+<td class="mwbe_top">&#160;</td>
+<td class="mwbe_top">Professional Services</td>
+<td class="mwbe_top">Standard Services</td>
+<td class="mwbe_top">Goods</td>
+<td class="mwbe_top">Construction</td>
+<td class="mwbe_top">Professional Services</td>
+<td class="mwbe_top_0">Construction</td>
+</tr>
+
+<tr>
+<td class="mwbe_data_1">Black American</td>
+<td class="mwbe_data">9%</td>
+<td class="mwbe_data">9.23%</td>
+<td class="mwbe_data">7.47%</td>
+<td class="mwbe_data">12.63%</td>
+<td class="mwbe_data">9%</td>
+<td class="mwbe_data_0">9%</td>
+</tr>
+
+<tr>
+<td class="mwbe_data_1">Asian American</td>
+<td class="mwbe_data">No goal</td>
+<td class="mwbe_data">No goal</td>
+<td class="mwbe_data">5.29%</td>
+<td class="mwbe_data">No goal</td>
+<td class="mwbe_data">No goal</td>
+<td class="mwbe_data_0">9.47%</td>
+</tr>
+
+<tr>
+<td class="mwbe_data_1">Hispanic American</td>
+<td class="mwbe_data">5%</td>
+<td class="mwbe_data">5.14%</td>
+<td class="mwbe_data">4.99%</td>
+<td class="mwbe_data">9.06%</td>
+<td class="mwbe_data">5%</td>
+<td class="mwbe_data_0">9.06%</td>
+</tr>
+
+<tr>
+<td class="mwbe_data_1">Caucasian Female</td>
+<td class="mwbe_data">16.5%</td>
+<td class="mwbe_data">10.45%</td>
+<td class="mwbe_data">17.87%</td>
+<td class="mwbe_data">No goal</td>
+<td class="mwbe_data">16.5%</td>
+<td class="mwbe_data_0">No goal</td>
+</tr>
+
+<tr>
+<td class="mwbe_bottom_1">Emerging Business</td>
+<td class="mwbe_bottom">6%</td>
+<td class="mwbe_bottom">6%</td>
+<td class="mwbe_bottom">6%</td>
+<td class="mwbe_bottom">6%</td>
+<td class="mwbe_bottom">6%</td>
+<td class="mwbe_bottom_0">6%</td>
+</tr>
+</tbody>
+</table>
+
+<p>The goals are based on findings by consultants retained by the City Council who studied the capacity of firms owned by minorities and women, and the disparities between the availability of such firms and their utilization in City procurements. Goals were set for minority groups and women only where the study identified a statistically significant disparity. The study will be updated periodically, and goals will be adjusted based on the new findings. Firms owned by persons in groups for which MBE or WBE goals have not been established may be able to qualify for certification as "emerging business enterprises."</p>
+
+<p>Each City agency, including the Law Department, will be striving to meet goals for its own procurements.<a class="foot_link" href="#foot-2">2</a><a name="#back-2"></a> The Law Department itself expects to spend more than $7 million in FY 07 for professional services contracts in amounts under $1 million, including contracts for outside legal services, expert witnesses, translation services, photography and information technology services; more than $3 million for standard services contracts in amounts under $1 million, including contracts for process servers, scanning and copying; and nearly $600,000 for contracts under $1 million for goods, including contracts for food, information technology supplies, office supplies and furniture, and copy equipment.</p>
+
+<p>City agencies will be pursuing the goals by encouraging eligible firms to become "certified" as minority-owned, woman-owned, and emerging business enterprises. Certified firms will appear in an on-line directory maintained by the City's Department of Small Business Services. City agencies will be using this directory, and making other outreach efforts, to identify firms and encourage them to make bids and proposals for City business. Agencies will set participation goals for professional and construction contracts where it is expected that subcontracts for under $1 million will be awarded, and contractors will be required to make good faith efforts to meet the goals as a term of their contract.<a class="foot_link" href="#foot-3">3</a><a name="#back-3"></a> City agencies will be tracking and reporting our success in achieving goals to the Department of Small Business Services, the Mayor's Office of Contract Services, and the City Council. The reports will be available to the public.</p>
+
+<p>For more information, please contact the Law Department's MWBE Officer, Martha Mann Alfaro, at 212-788-1084, or visit these Web sites:</p>
+
+<p><a href="http://www.nyccouncil.info/pdf_files/bills/law05129.pdf">Local Law 129 of 2005</a> (in <a href="http://www.adobe.com/products/acrobat/readstep2.html">PDF</a>)<br>
+<a href="http://webdocs.nyccouncil.info/textfiles/Int%200180-2006.htm">Local Law 12 of 2006</a></p>
+
+<p>New York City Department of Small Business Services:<br>
+<a href="http://www.nyc.gov/html/sbs/html/procurement/mwbe.shtml">MWBE Page</a></p></span>
+										
+								
+						
+
+					<br>
+
+					 
+					   
+						
+					 
+					 
+					
+					</td><td align="left" bgcolor="" valign="top" width="60"><img src="../../includes/site_images/spacers/spacer_60_30.gif" alt="" width="60" height="30" border="0"></td></tr>
+
+					
+
+					  
+						<tr><td colspan="3" align="left" bgcolor="" valign="top" width="589">
+							<img src="../../includes/site_images/misc/body_divider.gif" alt="" width="589" border="0"/></td></tr>
+						
+				   
+					  
+						<tr><td colspan="3" align="left" valign="top" bgcolor="" width="589">
+							
+							</td></tr>
+						
+					
+						<tr><td align="left" bgcolor="" valign="top" width="30"><img src="../../includes/site_images/spacers/spacer_30_30.gif" alt="" width="30" height="30" border="0">
+						</td><td align="left" bgcolor="" valign="top" width="499"><img src="../../includes/site_images/spacers/spacer_499_15.gif" alt="" width="499" height="15" border="0"><br>
+					  
+							
+						
+					  
+							
+							
+									
+											<span class="bodytext"></span>
+											
+										
+									
+											<span class="bodytext"><p style="MARGIN: 0in 0in 0pt"><a name="foot-1"></a><span class="footnote"><STRONG>1.</STRONG> The law provides that a person 
+  who is "socially and economically disadvantaged" is "a person who has experienced 
+  social disadvantage in American society as a result of causes not common to 
+  persons who are not socially disadvantaged, and whose ability to compete in 
+  the free enterprise system has been impaired due to diminished capital and credit 
+  opportunities as compared to others in the same business area who are not socially 
+  disadvantaged." The Commissioner of Small Business Services will promulgate 
+  regulations addressing how social and economic disadvantage may be demonstrated 
+  by applicants for the program. In drafting such regulations, the Commissioner 
+  is to consider criteria developed for federal programs established to promote 
+  opportunities for businesses owned by persons who are socially and economically 
+  disadvantaged, including criteria for determining eligibility in relation to 
+  the net worth of persons claiming to be economically disadvantaged. The net 
+  worth of a person claiming economic disadvantage must be less than one million 
+  dollars, excluding the ownership interest in the business enterprise and the 
+  equity in the person's primary personal residence.</span></p>
+  <p align="right">[<A class=footnote href="#back-1">back to text</A>]</p></span>
+										
+								
+						
+
+					<br>
+
+					 
+					   
+						
+					 
+					 
+					
+					</td><td align="left" bgcolor="" valign="top" width="60"><img src="../../includes/site_images/spacers/spacer_60_30.gif" alt="" width="60" height="30" border="0"></td></tr>
+
+					
+
+					  
+						<tr><td colspan="3" align="left" bgcolor="" valign="top" width="589">
+							<img src="../../includes/site_images/misc/body_divider.gif" alt="" width="589" border="0"/></td></tr>
+						
+				   
+					  
+						<tr><td colspan="3" align="left" valign="top" bgcolor="" width="589">
+							
+							</td></tr>
+						
+					
+						<tr><td align="left" bgcolor="" valign="top" width="30"><img src="../../includes/site_images/spacers/spacer_30_30.gif" alt="" width="30" height="30" border="0">
+						</td><td align="left" bgcolor="" valign="top" width="499"><img src="../../includes/site_images/spacers/spacer_499_15.gif" alt="" width="499" height="15" border="0"><br>
+					  
+							
+						
+					  
+							
+							
+									
+											<span class="bodytext"></span>
+											
+										
+									
+											<span class="bodytext"><p style="MARGIN: 0in 0in 0pt"><a name="foot-2"></a><span class="footnote"><STRONG>2.</STRONG> The laws provide for each agency 
+  to adopt an annual "agency utilization plan" setting forth its own goals for 
+  the coming fiscal year. Agency goals may differ from the Citywide goals. The 
+  Law Department has adopted the Citywide goals in its FY 07 plan.</span></p>
+   <p align="right">[<A class=footnote href="#back-2">back to text</A>]</p>
+</span>
+										
+								
+						
+
+					<br>
+
+					 
+					   
+						
+					 
+					 
+					
+					</td><td align="left" bgcolor="" valign="top" width="60"><img src="../../includes/site_images/spacers/spacer_60_30.gif" alt="" width="60" height="30" border="0"></td></tr>
+
+					
+
+					  
+						<tr><td colspan="3" align="left" bgcolor="" valign="top" width="589">
+							<img src="../../includes/site_images/misc/body_divider.gif" alt="" width="589" border="0"/></td></tr>
+						
+				   
+					  
+						<tr><td colspan="3" align="left" valign="top" bgcolor="" width="589">
+							
+							</td></tr>
+						
+					
+						<tr><td align="left" bgcolor="" valign="top" width="30"><img src="../../includes/site_images/spacers/spacer_30_30.gif" alt="" width="30" height="30" border="0">
+						</td><td align="left" bgcolor="" valign="top" width="499"><img src="../../includes/site_images/spacers/spacer_499_15.gif" alt="" width="499" height="15" border="0"><br>
+					  
+							
+						
+					  
+							
+							
+									
+											<span class="bodytext"></span>
+											
+										
+									
+											<span class="bodytext"><p style="MARGIN: 0in 0in 0pt"><a name="foot-3"></a><span class="footnote"><STRONG>3.</STRONG> Bidders may seek a full or partial 
+  waiver of a goal before the contract is awarded. In determining whether to grant 
+  a waiver, the contracting agency will consider factors including: whether the 
+  bidder has the capacity and the bona fide intention to perform the contract 
+  without any subcontracting, or to perform the contract without awarding the 
+  amount of subcontracts anticipated by the contracting agency, whether the utilization 
+  plan is consistent with the bidder's past subcontracting practices, and whether 
+  the bidder has made good faith efforts to identify portions of the contract 
+  that it intends to subcontract. A contractor may seek a modification of a goal, 
+  but must establish that it has made all reasonable, good faith efforts to meet 
+  the goals set by the agency for the contract.</span></p>
+ <p align="right">[<A class=footnote href="#back-3">back to text</A>]</p></SPAN></span>
+										
+								
+						
+
+					
+
+					 
+					   
+						
+					 
+					 
+					
+					</td><td align="left" bgcolor="" valign="top" width="60"><img src="../../includes/site_images/spacers/spacer_60_30.gif" alt="" width="60" height="30" border="0"></td></tr>
+
+					
+
+					  
+				   
+				</table>
+				<!-- END of PRIMARY FEATURE SECTION -->
+
+				<!-- START of SECONDARY FEATURE SECTION -->
+
+				<table width="589" border="0" cellspacing="0" cellpadding="0">
+				  
+					  
+						<tr><td colspan="4" align="left" valign="top" bgcolor="" width="589">
+							
+							</td></tr>
+						
+					
+
+					  </table>
+
+				<!-- END of SECONDARY FEATURE SECTION -->
+
+				<!-- START of TERTIARY FEATURE SECTION -->
+				<table width="589" border="0" cellspacing="0" cellpadding="0">
+				  
+					  
+						<tr><td colspan="3" align="left" valign="top" bgcolor="" width="589">
+							
+							</td></tr>
+						
+					
+					  
+				   
+				</table>
+				<!-- END of TERTIARY FEATURE SECTION -->
+				<!-- END_PRINT_PAGE -->
+				
+
+			<!-- START of nycgov_footer.inc-->
+<!-- old table width=589;  499 for middle td -->
+<!-- expanded table width=769;  619 for middle td -->
+<!-- <table width="589" border="0" cellspacing="0" cellpadding="0">
+	<tr>
+		<td align="left" valign="top" width="30"><img src="../../includes/site_images/spacers/spacer_30_30.gif" alt="" width="30" height="30" border="0"></td>
+		<td align="left" valign="top" width="499"><img src="../..//includes/site_images/spacers/spacer_499_15.gif" alt="" width="499" height="15" border="0"><img src="../../includes/site_images/footer_divider.gif" alt="" width="499" height="1" border="0"><br>
+			<span class="footer_header">Footer header goes here<br>
+			</span><span class="footer_text">Footer text description goes here. It is optional and the max is about 300 characters which is approximately 3-4 lines of text. Footer text description goes here. It is optional and the max is about 300 characters which is approximately 3-4 lines of text.<br>
+			</span></td>
+		<td align="left" valign="top" width="60"><img src="../..//includes/site_images/spacers/spacer_60_30.gif" alt="" width="60" height="30" border="0"><br>
+			<br>
+		</td>
+	</tr>
+</table> -->
+<!-- END of default_footer.inc -->
+
+
+					
+	<!-- BEGIN_PRINT_PAGE -->				
+					<span class="footer_text"><br></span></td>
+				<!-- END of CENTER column -->
+			</tr>
+	<!-- END_PRINT_PAGE -->
+			<tr height="25">
+				<td colspan="2" align="left" valign="top" width="769" height="25"> 
+
+					
+
+
+
+<!-- START of nycgov_footer.inc-->
+<style type="text/css">
+<!--
+	.footer_links {font-family: Verdana, Arial, Helvetica, sans-serif;
+		font-size: 10px;
+		color: #F9D053;
+	}
+
+	.footer_copyright {font-family: Verdana, Arial, Helvetica, sans-serif;
+		font-size: 10px;
+		color: #C4C4B2;
+	}
+-->
+</style>
+<TABLE cellSpacing=0 cellPadding=0 width=769 bgColor=#494B4C border=0>
+	<TBODY>
+	<TR><TD width=13><IMG height=24 src="../../includes/site_images/spacers/spacer.gif" width=13></TD>
+          <TD width=287><SPAN class=footer_copyright>Copyright 2013 The City of New York</SPAN></TD>
+          <TD align=right width=444><SPAN class=footer_links><A class=footer_links href="/contact">Contact Us</A> | <A class=footer_links href="/faqs">FAQs</A> | <A class=footer_links href="/privacy">Privacy Policy</A> | <A class=footer_links href="http://www.nyc.gov/html/misc/html/tou.html">Terms of Use</A> | <A class=footer_links href="/sitemap">Site Map</A></SPAN></TD>
+          <TD align=right width=25><IMG height=24 src="../../includes/site_images/spacers/spacer.gif" width=25></TD></TR>
+        </TBODY>
+</TABLE>
+<!-- Privacy Policy updated on 03/08/2011 -->
+<!--  nycgov Webtrends code, added on 02/16/2011 -->
+<script src="/html/misc/scripts/nycwebtrends.js" type="text/javascript"></script>
+<script type="text/javascript">
+//<![CDATA[
+var _nyctag=new WebTrends();
+_nyctag.dcsInit();
+_nyctag.dcsGetId();
+//]]>>
+</script>
+<script type="text/javascript">
+//<![CDATA[
+_nyctag.dcsCollect();
+//]]>>
+</script>
+
+<!-- PROD noscript section -->
+<noscript>
+<div><img alt="DCSIMG" id="DCSIMG" width="1" height="1" src="http://a858-sdc.nyc.gov/dcslfpea2000008i7geu3pdky_5v8x/njs.gif?dcsuri=/nojavascript&WT.js=No&WT.tv=8.6.2"/></div>
+</noscript>
+<!--  END OF nycgov Webtrends code, added on 02/16/2011 -->
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-9518673-1");
+pageTracker._trackPageview();
+} catch(err) {}
+</script>
+<!-- END of nycgov_footer.inc-->
+
+				</td>
+			</tr>
+<!-- BEGIN_PRINT_PAGE -->			
+		</table>
+	<!-- END_PRINT_PAGE -->
+	</body>
+</html>
+
